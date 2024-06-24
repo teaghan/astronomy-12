@@ -87,3 +87,630 @@ Students are expected to know the following:
 - characteristics of sound
 - resonance and frequency of sound
 - graphical methods in physics
+
+## Physics 12
+
+### Big Ideas
+
+- Measurement of motion depends on our frame of reference.
+- Forces can cause linear and circular motion.
+- Forces and energy interactions occur within fields.
+- Momentum is conserved within a closed and isolated system.
+
+### Curricular Competencies
+
+Students are expected to be able to do the following:
+
+#### Questioning and predicting
+
+- Demonstrate a sustained intellectual curiosity about a scientific topic or problem of personal, local, or global interest
+- Make observations aimed at identifying their own questions, including increasingly abstract ones, about the natural world
+- Formulate multiple hypotheses and predict multiple outcomes
+
+#### Planning and conducting
+
+- Collaboratively and individually plan, select, and use appropriate investigation methods, including fieldwork and lab experiments, to collect reliable data (qualitative and quantitative)
+- Assess risks and address ethical, cultural, and/or environmental issues associated with their proposed methods
+- Use appropriate SI units and appropriate equipment, including digital technologies, to systematically and accurately collect and record data
+- Apply the concepts of accuracy and precision to experimental procedures and data:
+  - significant figures
+  - uncertainty
+  - scientific notation
+
+#### Processing and analyzing data and information
+
+- Experience and interpret the local environment
+- Apply First Peoples perspectives and knowledge, other ways of knowing, and local knowledge as sources of information
+- Seek and analyze patterns, trends, and connections in data, including describing relationships between variables, performing calculations, and identifying inconsistencies
+- Construct, analyze, and interpret graphs, models, and/or diagrams
+- Use knowledge of scientific concepts to draw conclusions that are consistent with evidence
+- Analyze cause-and-effect relationships
+
+#### Evaluating
+
+- Evaluate their methods and experimental conditions, including identifying sources of error or uncertainty, confounding variables, and possible alternative explanations and conclusions
+- Describe specific ways to improve their investigation methods and the quality of their data
+- Evaluate the validity and limitations of a model or analogy in relation to the phenomenon modeled
+- Demonstrate an awareness of assumptions, question information given, and identify bias in their own work and in primary and secondary sources
+- Consider the changes in knowledge over time as tools and technologies have developed
+- Connect scientific explorations to careers in science
+- Exercise a healthy, informed skepticism and use scientific knowledge and findings to form their own investigations to evaluate claims in primary and secondary sources
+- Consider social, ethical, and environmental implications of the findings from their own and others’ investigations
+- Critically analyze the validity of information in primary and secondary sources and evaluate the approaches used to solve problems
+- Assess risks in the context of personal safety and social responsibility
+
+#### Applying and innovating
+
+- Contribute to care for self, others, community, and world through individual or collaborative approaches
+- Co-operatively design projects with local and/or global connections and applications
+- Contribute to finding solutions to problems at a local and/or global level through inquiry
+- Implement multiple strategies to solve problems in real-life, applied, and conceptual situations
+- Consider the role of scientists in innovation
+
+#### Communicating
+
+- Formulate physical or mental theoretical models to describe a phenomenon
+- Communicate scientific ideas and information, and perhaps a suggested course of action, for a specific purpose and audience, constructing evidence-based arguments and using appropriate scientific language, conventions, and representations
+- Express and reflect on a variety of experiences, perspectives, and worldviews through place
+
+### Curriculum Content
+
+Students are expected to know the following:
+
+- frames of reference
+- relative motion within a stationary reference frame
+- postulates of special relativity
+- relativistic effects within a moving reference frame
+- static equilibrium
+- uniform circular motion:
+  - centripetal force and acceleration
+  - changes to apparent weight
+- First Peoples knowledge and applications of forces in traditional technologies
+- gravitational field and Newton’s law of universal gravitation
+- gravitational potential energy
+- gravitational dynamics and energy relationships
+- electric field and Coulomb’s law
+- electric potential energy, electric potential, and electric potential difference
+- electrostatic dynamics and energy relationships
+- magnetic field and magnetic force
+- electromagnetic induction
+- applications of electromagnetic induction
+- impulse and momentum
+- conservation of momentum and energy in collisions
+- graphical methods in physics【43†source】.
+
+## Chemistry 11
+
+### Big Ideas
+
+- Atoms and molecules are building blocks of matter.
+- Organic chemistry and its applications have significant implications for human health, society, and the environment.
+- The mole is a quantity used to make atoms and molecules measurable.
+- Matter and energy are conserved in chemical reactions.
+- Solubility within a solution is determined by the nature of the solute and the solvent.
+
+### Curricular Competencies
+
+Students are expected to be able to do the following:
+
+#### Questioning and predicting
+
+- Demonstrate a sustained intellectual curiosity about a scientific topic or problem of personal, local, or global interest
+- Make observations aimed at identifying their own questions, including increasingly abstract ones, about the natural world
+- Formulate multiple hypotheses and predict multiple outcomes
+
+#### Planning and conducting
+
+- Collaboratively and individually plan, select, and use appropriate investigation methods, including fieldwork and lab experiments, to collect reliable data (qualitative and quantitative)
+- Assess risks and address ethical, cultural, and/or environmental issues associated with their proposed methods
+- Use appropriate SI units and appropriate equipment, including digital technologies, to systematically and accurately collect and record data
+- Apply the concepts of accuracy and precision to experimental procedures and data:
+  - significant figures
+  - uncertainty
+  - scientific notation
+
+#### Processing and analyzing data and information
+
+- Experience and interpret the local environment
+- Apply First Peoples perspectives and knowledge, other ways of knowing, and local knowledge as sources of information
+- Seek and analyze patterns, trends, and connections in data, including describing relationships between variables, performing calculations, and identifying inconsistencies
+- Construct, analyze, and interpret graphs, models, and/or diagrams
+- Use knowledge of scientific concepts to draw conclusions that are consistent with evidence
+- Analyze cause-and-effect relationships
+
+#### Evaluating
+
+- Evaluate their methods and experimental conditions, including identifying sources of error or uncertainty, confounding variables, and possible alternative explanations and conclusions
+- Describe specific ways to improve their investigation methods and the quality of their data
+- Evaluate the validity and limitations of a model or analogy in relation to the phenomenon modeled
+- Demonstrate an awareness of assumptions, question information given, and identify bias in their own work and in primary and secondary sources
+- Consider the changes in knowledge over time as tools and technologies have developed
+- Connect scientific explorations to careers in science
+- Exercise a healthy, informed skepticism and use scientific knowledge and findings to form their own investigations to evaluate claims in primary and secondary sources
+- Consider social, ethical, and environmental implications of the findings from their own and others’ investigations
+- Critically analyze the validity of information in primary and secondary sources and evaluate the approaches used to solve problems
+- Assess risks in the context of personal safety and social responsibility
+
+#### Applying and innovating
+
+- Contribute to care for self, others, community, and world through individual or collaborative approaches
+- Cooperatively design projects with local and/or global connections and applications
+- Contribute to finding solutions to problems at a local and/or global level through inquiry
+- Implement multiple strategies to solve problems in real-life, applied, and conceptual situations
+- Consider the role of scientists in innovation
+
+#### Communicating
+
+- Formulate physical or mental theoretical models to describe a phenomenon
+- Communicate scientific ideas and information, and perhaps a suggested course of action, for a specific purpose and audience, constructing evidence-based arguments and using appropriate scientific language, conventions, and representations
+- Express and reflect on a variety of experiences, perspectives, and worldviews through place
+
+### Curriculum Content
+
+Students are expected to know the following:
+
+- quantum mechanical model and electron configuration
+- valence electrons and Lewis structures
+- chemical bonding based on electronegativity
+- bonds/forces
+- organic compounds
+- applications of organic chemistry
+- the mole
+- dimensional analysis
+- reactions
+- stoichiometric calculations using significant figures
+- local and other chemical processes
+- green chemistry
+- solubility of molecular and ionic compounds
+- stoichiometric calculations in aqueous solutions
+- analysis techniques
+
+## Chemistry 12
+
+### Big Ideas
+
+- Reactants must collide to react, and the reaction rate is dependent on the surrounding conditions.
+- Dynamic equilibrium can be shifted by changes to the surrounding conditions.
+- Saturated solutions are systems in equilibrium.
+- Acid or base strength depends on the degree of ion dissociation.
+- Oxidation and reduction are complementary processes that involve the gain or loss of electrons.
+
+### Curricular Competencies
+
+Students are expected to be able to do the following:
+
+#### Questioning and predicting
+
+- Demonstrate a sustained intellectual curiosity about a scientific topic or problem of personal, local, or global interest
+- Make observations aimed at identifying their own questions, including increasingly abstract ones, about the natural world
+- Formulate multiple hypotheses and predict multiple outcomes
+
+#### Planning and conducting
+
+- Collaboratively and individually plan, select, and use appropriate investigation methods, including field work and lab experiments, to collect reliable data (qualitative and quantitative)
+- Assess risks and address ethical, cultural, and/or environmental issues associated with their proposed methods
+- Use appropriate SI units and appropriate equipment, including digital technologies, to systematically and accurately collect and record data
+- Apply the concepts of accuracy and precision to experimental procedures and data:
+  - significant figures
+  - uncertainty
+  - scientific notation
+
+#### Processing and analyzing data and information
+
+- Experience and interpret the local environment
+- Apply First Peoples perspectives and knowledge, other ways of knowing, and local knowledge as sources of information
+- Seek and analyze patterns, trends, and connections in data, including describing relationships between variables, performing calculations, and identifying inconsistencies
+- Construct, analyze, and interpret graphs, models, and/or diagrams
+- Use knowledge of scientific concepts to draw conclusions that are consistent with evidence
+- Analyze cause-and-effect relationships
+
+#### Evaluating
+
+- Evaluate their methods and experimental conditions, including identifying sources of error or uncertainty, confounding variables, and possible alternative explanations and conclusions
+- Describe specific ways to improve their investigation methods and the quality of their data
+- Evaluate the validity and limitations of a model or analogy in relation to the phenomenon modeled
+- Demonstrate an awareness of assumptions, question information given, and identify bias in their own work and in primary and secondary sources
+- Consider the changes in knowledge over time as tools and technologies have developed
+- Connect scientific explorations to careers in science
+- Exercise a healthy, informed skepticism and use scientific knowledge and findings to form their own investigations to evaluate claims in primary and secondary sources
+- Consider social, ethical, and environmental implications of the findings from their own and others’ investigations
+- Critically analyze the validity of information in primary and secondary sources and evaluate the approaches used to solve problems
+- Assess risks in the context of personal safety and social responsibility
+
+#### Applying and innovating
+
+- Contribute to care for self, others, community, and world through individual or collaborative approaches
+- Cooperatively design projects with local and/or global connections and applications
+- Contribute to finding solutions to problems at a local and/or global level through inquiry
+- Implement multiple strategies to solve problems in real-life, applied, and conceptual situations
+- Consider the role of scientists in innovation
+
+#### Communicating
+
+- Formulate physical or mental theoretical models to describe a phenomenon
+- Communicate scientific ideas and information, and perhaps a suggested course of action, for a specific purpose and audience, constructing evidence-based arguments and using appropriate scientific language, conventions, and representations
+- Express and reflect on a variety of experiences, perspectives, and worldviews through place
+
+### Curriculum Content
+
+Students are expected to know the following:
+
+- reaction rate
+- collision theory
+- energy change during a chemical reaction
+- reaction mechanism
+- catalysts
+- dynamic nature of chemical equilibrium
+- Le Châtelier’s principle and equilibrium shift
+- equilibrium constant (Keq)
+- saturated solutions and solubility product (Ksp)
+- relative strength of acids and bases in solution
+- water as an equilibrium system
+- weak acids and weak bases
+- titration
+- hydrolysis of ions in salt solutions
+- applications of acid-base reactions
+- the oxidation-reduction process
+- electrochemical cells
+- electrolytic cells
+- quantitative relationships
+
+## Life Sciences 11
+
+### Big Ideas
+
+- Life is a result of interactions at the molecular and cellular levels.
+- Evolution occurs at the population level.
+- Organisms are grouped based on common characteristics.
+
+### Curricular Competencies
+
+Students are expected to be able to do the following:
+
+#### Questioning and predicting
+
+- Demonstrate a sustained intellectual curiosity about a scientific topic or problem of personal, local, or global interest
+- Make observations aimed at identifying their own questions, including increasingly abstract ones, about the natural world
+- Formulate multiple hypotheses and predict multiple outcomes
+
+#### Planning and conducting
+
+- Collaboratively and individually plan, select, and use appropriate investigation methods, including field work and lab experiments, to collect reliable data (qualitative and quantitative)
+- Assess risks and address ethical, cultural, and/or environmental issues associated with their proposed methods
+- Use appropriate SI units and appropriate equipment, including digital technologies, to systematically and accurately collect and record data
+- Apply the concepts of accuracy and precision to experimental procedures and data:
+  - significant figures
+  - uncertainty
+  - scientific notation
+
+#### Processing and analyzing data and information
+
+- Experience and interpret the local environment
+- Apply First Peoples perspectives and knowledge, other ways of knowing, and local knowledge as sources of information
+- Seek and analyze patterns, trends, and connections in data, including describing relationships between variables, performing calculations, and identifying inconsistencies
+- Construct, analyze, and interpret graphs, models, and/or diagrams
+- Use knowledge of scientific concepts to draw conclusions that are consistent with evidence
+- Analyze cause-and-effect relationships
+
+#### Evaluating
+
+- Evaluate their methods and experimental conditions, including identifying sources of error or uncertainty, confounding variables, and possible alternative explanations and conclusions
+- Describe specific ways to improve their investigation methods and the quality of their data
+- Evaluate the validity and limitations of a model or analogy in relation to the phenomenon modeled
+- Demonstrate an awareness of assumptions, question information given, and identify bias in their own work and in primary and secondary sources
+- Consider the changes in knowledge over time as tools and technologies have developed
+- Connect scientific explorations to careers in science
+- Exercise a healthy, informed skepticism and use scientific knowledge and findings to form their own investigations to evaluate claims in primary and secondary sources
+- Consider social, ethical, and environmental implications of the findings from their own and others’ investigations
+- Critically analyze the validity of information in primary and secondary sources and evaluate the approaches used to solve problems
+- Assess risks in the context of personal safety and social responsibility
+
+#### Applying and innovating
+
+- Contribute to care for self, others, community, and world through individual or collaborative approaches
+- Cooperatively design projects with local and/or global connections and applications
+- Contribute to finding solutions to problems at a local and/or global level through inquiry
+- Implement multiple strategies to solve problems in real-life, applied, and conceptual situations
+- Consider the role of scientists in innovation
+
+#### Communicating
+
+- Formulate physical or mental theoretical models to describe a phenomenon
+- Communicate scientific ideas and information, and perhaps a suggested course of action, for a specific purpose and audience, constructing evidence-based arguments and using appropriate scientific language, conventions, and representations
+- Express and reflect on a variety of experiences, perspectives, and worldviews through place
+
+### Curriculum Content
+
+Students are expected to know the following:
+
+- levels of organization
+- cell structure and function
+- sexual and asexual reproduction
+- energy transformations in cells
+- viruses
+- First Peoples understandings of interrelationships between organisms
+- microevolution:
+  - adaptation to changing environments
+  - changes in DNA
+  - natural selection
+- macroevolution:
+  - speciation
+  - processes of macroevolution
+  - evidence for macroevolution
+- artificial selection and genetic modifications
+- single-celled and multi-celled organisms
+- trends in complexity among various life forms
+- evidence for phylogenetic relationships
+- taxonomic principles for classifying organisms
+- binomial nomenclature
+- First Peoples knowledge on classification
+- similarities and differences between domains and kingdoms
+
+## Anatomy and Physiology 12
+
+### Big Ideas
+
+- Homeostasis is maintained through physiological processes.
+- Gene expression, through protein synthesis, is an interaction between genes and the environment.
+- Organ systems have complex interrelationships to maintain homeostasis.
+
+### Curricular Competencies
+
+Students are expected to be able to do the following:
+
+#### Questioning and predicting
+
+- Demonstrate a sustained intellectual curiosity about a scientific topic or problem of personal, local, or global interest
+- Make observations aimed at identifying their own questions, including increasingly abstract ones, about the natural world
+- Formulate multiple hypotheses and predict multiple outcomes
+
+#### Planning and conducting
+
+- Collaboratively and individually plan, select, and use appropriate investigation methods, including field work and lab experiments, to collect reliable data (qualitative and quantitative)
+- Assess risks and address ethical, cultural, and/or environmental issues associated with their proposed methods
+- Use appropriate SI units and appropriate equipment, including digital technologies, to systematically and accurately collect and record data
+- Apply the concepts of accuracy and precision to experimental procedures and data:
+  - significant figures
+  - uncertainty
+  - scientific notation
+
+#### Processing and analyzing data and information
+
+- Experience and interpret the local environment
+- Apply First Peoples perspectives and knowledge, other ways of knowing, and local knowledge as sources of information
+- Seek and analyze patterns, trends, and connections in data, including describing relationships between variables, performing calculations, and identifying inconsistencies
+- Construct, analyze, and interpret graphs, models, and/or diagrams
+- Use knowledge of scientific concepts to draw conclusions that are consistent with evidence
+- Analyze cause-and-effect relationships
+
+#### Evaluating
+
+- Evaluate their methods and experimental conditions, including identifying sources of error or uncertainty, confounding variables, and possible alternative explanations and conclusions
+- Describe specific ways to improve their investigation methods and the quality of their data
+- Evaluate the validity and limitations of a model or analogy in relation to the phenomenon modelled
+- Demonstrate an awareness of assumptions, question information given, and identify bias in their own work and in primary and secondary sources
+- Consider the changes in knowledge over time as tools and technologies have developed
+- Connect scientific explorations to careers in science
+- Exercise a healthy, informed skepticism and use scientific knowledge and findings to form their own investigations to evaluate claims in primary and secondary sources
+- Consider social, ethical, and environmental implications of the findings from their own and others’ investigations
+- Critically analyze the validity of information in primary and secondary sources and evaluate the approaches used to solve problems
+- Assess risks in the context of personal safety and social responsibility
+
+#### Applying and innovating
+
+- Contribute to care for self, others, community, and world through individual or collaborative approaches
+- Cooperatively design projects with local and/or global connections and applications
+- Contribute to finding solutions to problems at a local and/or global level through inquiry
+- Implement multiple strategies to solve problems in real-life, applied, and conceptual situations
+- Consider the role of scientists in innovation
+
+#### Communicating
+
+- Formulate physical or mental theoretical models to describe a phenomenon
+- Communicate scientific ideas and information, and perhaps a suggested course of action, for a specific purpose and audience, constructing evidence-based arguments and using appropriate scientific language, conventions, and representations
+- Express and reflect on a variety of experiences, perspectives, and worldviews through place
+
+### Curriculum Content
+
+Students are expected to know the following:
+
+- biological molecules
+- metabolism and enzymes
+- feedback loops and regulation of the body’s internal environment
+- transport across a cell membrane
+- DNA:
+  - the cell’s genetic information
+  - replication
+- gene expression
+- proteins and their relationship to the structure and function of all cells
+- genomics and biotechnology
+- micro to macro organization
+- organ systems:
+  - structure and function
+  - structural and functional interdependence
+  - maintenance of homeostasis
+- lifestyle differences and their effects on human health
+- holistic approach to health
+- disease as an imbalance in homeostasis
+
+## Earth Sciences 11
+
+### Big Ideas
+
+- Earth materials are changed as they cycle through the geosphere and are used as resources, with economic and environmental implications.
+- Plate tectonic theory explains the consequences of tectonic plate interactions.
+- The transfer of energy through the atmosphere creates weather, and this transfer is affected by climate change.
+- The distribution of water has a major influence on weather and climate.
+- Astronomy seeks to explain the origin and interactions of Earth and its solar system.
+
+### Curricular Competencies
+
+Students are expected to be able to do the following:
+
+#### Questioning and predicting
+
+- Demonstrate a sustained intellectual curiosity about a scientific topic or problem of personal, local, or global interest
+- Make observations aimed at identifying their own questions, including increasingly abstract ones, about the natural world
+- Formulate multiple hypotheses and predict multiple outcomes
+
+#### Planning and conducting
+
+- Collaboratively and individually plan, select, and use appropriate investigation methods, including fieldwork and lab experiments, to collect reliable data (qualitative and quantitative)
+- Assess risks and address ethical, cultural, and/or environmental issues associated with their proposed methods
+- Use appropriate SI units and appropriate equipment, including digital technologies, to systematically and accurately collect and record data
+- Apply the concepts of accuracy and precision to experimental procedures and data:
+  - significant figures
+  - uncertainty
+  - scientific notation
+
+#### Processing and analyzing data and information
+
+- Experience and interpret the local environment
+- Apply First Peoples perspectives and knowledge, other ways of knowing, and local knowledge as sources of information
+- Seek and analyze patterns, trends, and connections in data, including describing relationships between variables, performing calculations, and identifying inconsistencies
+- Construct, analyze, and interpret graphs, models, and/or diagrams
+- Use knowledge of scientific concepts to draw conclusions that are consistent with evidence
+- Analyze cause-and-effect relationships
+
+#### Evaluating
+
+- Evaluate their methods and experimental conditions, including identifying sources of error or uncertainty, confounding variables, and possible alternative explanations and conclusions
+- Describe specific ways to improve their investigation methods and the quality of their data
+- Evaluate the validity and limitations of a model or analogy in relation to the phenomenon modeled
+- Demonstrate an awareness of assumptions, question information given, and identify bias in their own work and in primary and secondary sources
+- Consider the changes in knowledge over time as tools and technologies have developed
+- Connect scientific explorations to careers in science
+- Exercise a healthy, informed skepticism and use scientific knowledge and findings to form their own investigations to evaluate claims in primary and secondary sources
+- Consider social, ethical, and environmental implications of the findings from their own and others’ investigations
+- Critically analyze the validity of information in primary and secondary sources and evaluate the approaches used to solve problems
+- Assess risks in the context of personal safety and social responsibility
+
+#### Applying and innovating
+
+- Contribute to care for self, others, community, and world through individual or collaborative approaches
+- Cooperatively design projects with local and/or global connections and applications
+- Contribute to finding solutions to problems at a local and/or global level through inquiry
+- Implement multiple strategies to solve problems in real-life, applied, and conceptual situations
+- Consider the role of scientists in innovation
+
+#### Communicating
+
+- Formulate physical or mental theoretical models to describe a phenomenon
+- Communicate scientific ideas and information, and perhaps a suggested course of action, for a specific purpose and audience, constructing evidence-based arguments and using appropriate scientific language, conventions, and representations
+- Express and reflect on a variety of experiences, perspectives, and worldviews through place
+
+### Curriculum Content
+
+Students are expected to know the following:
+
+- properties of earth materials:
+  - minerals
+  - igneous rocks
+  - sedimentary rocks
+  - metamorphic rocks
+  - geologic resources
+- surface and internal processes of the rock cycle
+- economic and environmental implications of geologic resources within B.C. and globally
+- evidence that supports plate tectonic theory
+- factors that affect plate motion
+- First Peoples knowledge of local plate tectonic settings and geologic terrains
+- the hydrologic cycle
+- changes in the composition of the atmosphere due to natural and human causes
+- weather as the interaction of water, air, and energy transfer
+- solar radiation interactions and impacts on the energy budget
+- evidence of climate change
+- First Peoples knowledge of climate change and interconnectedness as related to environmental systems
+- water as a unique resource
+- First Peoples knowledge and perspectives of water resources and processes
+- properties of the ocean and the ocean floor
+- local and global ocean currents
+- influences of large bodies of water on local and global climates
+- effects of climate change on water sources
+- the nebular hypothesis (explanation of the formation and properties of our solar system)
+- Earth as a unique planet within its solar system
+- stars as the center of a solar system
+- impacts of the Earth-moon-sun system
+- application of space technologies to the study of changes in Earth and its systems
+
+## Environmental Science 12
+
+### Big Ideas
+
+- Human actions affect the quality of water and its ability to sustain life.
+- Human activities cause changes in the global climate system.
+- Sustainable land use is essential to meet the needs of a growing population.
+- Living sustainably supports the well-being of self, community, and Earth.
+
+### Curricular Competencies
+
+Students are expected to be able to do the following:
+
+#### Questioning and predicting
+
+- Demonstrate a sustained intellectual curiosity about a scientific topic or problem of personal, local, or global interest
+- Make observations aimed at identifying their own questions, including increasingly abstract ones, about the natural world
+- Formulate multiple hypotheses and predict multiple outcomes
+
+#### Planning and conducting
+
+- Collaboratively and individually plan, select, and use appropriate investigation methods, including field work and lab experiments, to collect reliable data (qualitative and quantitative)
+- Assess risks and address ethical, cultural, and/or environmental issues associated with their proposed methods
+- Use appropriate SI units and appropriate equipment, including digital technologies, to systematically and accurately collect and record data
+- Apply the concepts of accuracy and precision to experimental procedures and data:
+  - significant figures
+  - uncertainty
+  - scientific notation
+
+#### Processing and analyzing data and information
+
+- Experience and interpret the local environment
+- Apply First Peoples perspectives and knowledge, other ways of knowing, and local knowledge as sources of information
+- Seek and analyze patterns, trends, and connections in data, including describing relationships between variables, performing calculations, and identifying inconsistencies
+- Construct, analyze, and interpret graphs, models, and diagrams
+- Use knowledge of scientific concepts to draw conclusions that are consistent with evidence
+- Analyze cause-and-effect relationships
+
+#### Evaluating
+
+- Evaluate their methods and experimental conditions, including identifying sources of error or uncertainty, confounding variables, and possible alternative explanations and conclusions
+- Describe specific ways to improve their investigation methods and the quality of their data
+- Evaluate the validity and limitations of a model or analogy in relation to the phenomenon modelled
+- Demonstrate an awareness of assumptions, question information given, and identify bias in their own work and in primary and secondary sources
+- Consider the changes in knowledge over time as tools and technologies have developed
+- Connect scientific explorations to careers in science
+- Exercise a healthy, informed skepticism and use scientific knowledge and findings to form their own investigations to evaluate claims in primary and secondary sources
+- Consider social, ethical, and environmental implications of the findings from their own and others’ investigations
+- Critically analyze the validity of information in primary and secondary sources and evaluate the approaches used to solve problems
+- Assess risks in the context of personal safety and social responsibility
+
+#### Applying and innovating
+
+- Contribute to care for self, others, community, and world through individual or collaborative approaches
+- Cooperatively design projects with local and/or global connections and applications
+- Contribute to finding solutions to problems at a local and/or global level through inquiry
+- Implement multiple strategies to solve problems in real-life, applied, and conceptual situations
+- Consider the role of scientists in innovation
+
+#### Communicating
+
+- Formulate physical or mental theoretical models to describe a phenomenon
+- Communicate scientific ideas and information, and perhaps a suggested course of action, for a specific purpose and audience, constructing evidence-based arguments and using appropriate scientific language, conventions, and representations
+- Express and reflect on a variety of experiences, perspectives, and worldviews through place
+
+### Curriculum Content
+
+Students are expected to know the following:
+
+- water quality parameters and bioindicators
+- availability and water use impacts
+- global water security:
+  - laws and regulations
+  - conservation of water
+- changes to climate systems
+- impacts of global warming
+- mitigation and adaptations
+- soil characteristics and ecosystem services
+- land use and degradation
+- land management
+- personal choices and sustainable living
+- global environmental ethics, policy, and law
