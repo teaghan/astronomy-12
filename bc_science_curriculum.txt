@@ -1,0 +1,89 @@
+# BC Science Curriculum
+
+## Physics 11
+
+### Big Ideas
+
+- An object’s motion can be predicted, analyzed, and described.
+- Forces influence the motion of an object.
+- Energy is found in different forms, is conserved, and has the ability to do work.
+- Mechanical waves transfer energy but not matter.
+
+### Curricular Competencies
+
+Students are expected to be able to do the following:
+
+#### Questioning and predicting
+
+- Demonstrate a sustained intellectual curiosity about a scientific topic or problem of personal, local, or global interest
+- Make observations aimed at identifying their own questions, including increasingly abstract ones, about the natural world
+- Formulate multiple hypotheses and predict multiple outcomes
+
+#### Planning and conducting
+
+- Collaboratively and individually plan, select, and use appropriate investigation methods, including field work and lab experiments, to collect reliable data (qualitative and quantitative)
+- Assess risks and address ethical, cultural, and/or environmental issues associated with their proposed methods
+- Use appropriate SI units and appropriate equipment, including digital technologies, to systematically and accurately collect and record data
+- Apply the concepts of accuracy and precision to experimental procedures and data:
+  - significant figures
+  - uncertainty
+  - scientific notation
+
+#### Processing and analyzing data and information
+
+- Experience and interpret the local environment
+- Apply First Peoples perspectives and knowledge, other ways of knowing, and local knowledge as sources of information
+- Seek and analyze patterns, trends, and connections in data, including describing relationships between variables, performing calculations, and identifying inconsistencies
+- Construct, analyze, and interpret graphs, models, and/or diagrams
+- Use knowledge of scientific concepts to draw conclusions that are consistent with evidence
+- Analyze cause-and-effect relationships
+
+#### Evaluating
+
+- Evaluate their methods and experimental conditions, including identifying sources of error or uncertainty, confounding variables, and possible alternative explanations and conclusions
+- Describe specific ways to improve their investigation methods and the quality of their data
+- Evaluate the validity and limitations of a model or analogy in relation to the phenomenon modeled
+- Demonstrate an awareness of assumptions, question information given, and identify bias in their own work and in primary and secondary sources
+- Consider the changes in knowledge over time as tools and technologies have developed
+- Connect scientific explorations to careers in science
+- Exercise a healthy, informed skepticism and use scientific knowledge and findings to form their own investigations to evaluate claims in primary and secondary sources
+- Consider social, ethical, and environmental implications of the findings from their own and others’ investigations
+- Critically analyze the validity of information in primary and secondary sources and evaluate the approaches used to solve problems
+- Assess risks in the context of personal safety and social responsibility
+
+#### Applying and innovating
+
+- Contribute to care for self, others, community, and world through individual or collaborative approaches
+- Co-operatively design projects with local and/or global connections and applications
+- Contribute to finding solutions to problems at a local and/or global level through inquiry
+- Implement multiple strategies to solve problems in real-life, applied, and conceptual situations
+- Consider the role of scientists in innovation
+
+#### Communicating
+
+- Formulate physical or mental theoretical models to describe a phenomenon
+- Communicate scientific ideas and information, and perhaps a suggested course of action, for a specific purpose and audience, constructing evidence-based arguments and using appropriate scientific language, conventions, and representations
+- Express and reflect on a variety of experiences, perspectives, and worldviews through place
+
+### Curriculum Content
+
+Students are expected to know the following:
+
+- vector and scalar quantities
+- horizontal uniform and accelerated motion
+- projectile motion
+- contact forces and the factors that affect magnitude and direction
+- mass, force of gravity, and apparent weight
+- Newton’s laws of motion and free-body diagrams
+- balanced and unbalanced forces in systems
+- conservation of energy; principle of work and energy
+- power and efficiency
+- simple machines and mechanical advantage
+- applications of simple machines by First Peoples
+- electric circuits (DC), Ohm’s law, and Kirchhoff’s laws
+- thermal equilibrium and specific heat capacity
+- generation and propagation of waves
+- properties and behaviors of waves
+- characteristics of sound
+- resonance and frequency of sound
+- graphical methods in physics
