@@ -1,5 +1,7 @@
 ## Unit 1: Introduction to Astronomy and the Scientific Method
 
+![Banner Image](./unit1_banner.png)
+
 This unit introduces students to the fundamental concepts of astronomy, the history of the universe, and the tools used to study celestial objects. It sets the stage for understanding the vastness and complexity of the cosmos.
 
 ### 1.1 History and Development of Astronomy
