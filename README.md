@@ -1,4 +1,6 @@
-# Astronomy 12 (Specialized Science 12)
+# Astronomy (Specialized Science 12)
+
+![Banner Image](./course_banner.png)
 
 This course integrates concepts from chemistry, physics, biology, and earth sciences to explore the vast and intriguing field of astronomy. Students will engage in hands-on activities, projects, and discussions to understand celestial phenomena and their underlying scientific principles. This interdisciplinary approach will enhance their appreciation of the universe and the interconnectedness of different scientific disciplines.
 
