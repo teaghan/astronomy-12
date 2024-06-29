@@ -89,11 +89,11 @@ Use block text to highlight important statements and laws. This formatting helps
 
 ### Links to Resources
 
-Use green boxes to highlight links to external resources.
+Use green boxes to highlight links to external resources, ensuring that the links open in a new tab.
 
 <div class="alert alert-block alert-success">
   <h4>Video</h4>
-  <p>Watch <a href="https://youtu.be/0rHUDWjR5gg?si=NJL_XCQq9rRs723c">this video</a> for an excellent introduction to the study of Astronomy. Importantly, the video includes a discussion on the various careers related to astronomy.</p>
+  <p>Watch <a href="https://youtu.be/0rHUDWjR5gg?si=NJL_XCQq9rRs723c" target="_blank">this video</a> for an excellent introduction to the study of Astronomy. Importantly, the video includes a discussion on the various careers related to astronomy.</p>
 </div>
 
 ### Warnings and Cautions
@@ -133,3 +133,9 @@ Use nested block text for interesting side notes or historical anecdotes. These 
 Use horizontal lines to separate sections and make the content more readable
 
 ---
+
+### Inlcuding Images
+
+When including images, link to the raw files on the github page, fix the width to be 1000, and center the image in the page.
+
+<img src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit1/figures/Aristotle.png" alt="Aristotle Image" width="1000" style="display: block; margin-left: auto; margin-right: auto;">

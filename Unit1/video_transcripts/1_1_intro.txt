@@ -1,0 +1,329 @@
+Introduction
+0:03
+Hello, and welcome to Crash Course Astronomy! I’m your host, Phil Plait, and I’ll be
+0:06
+taking you on a guided tour of the entire Universe. You might want to pack a lunch.
+0:21
+Over the course of this series we’ll explore planets, stars, black holes, galaxies, subatomic
+0:27
+particles, and even the eventual fate of the Universe itself.
+0:31
+But before we step into space, let’s take a step back. I wanna talk to you about science.
+0:36
+There are lots of definitions of science, but I’ll say that it’s a body of knowledge,
+0:40
+and a method of how we learned that knowledge.
+0:42
+Science tells us that stuff we know may not be perfectly known; it may be partly or entirely
+0:47
+wrong. We need to watch the Universe, see how it behaves, make guesses about why it’s
+0:53
+doing what it’s doing, and then try to think of ways to support or disprove those ideas.
+0:57
+That last part is important. Science must be, above all else, honest if we really want
+1:03
+to get to the bottom of things.
+1:05
+Understanding that our understanding might be wrong is essential, and trying to figure
+1:09
+out the ways we may be mistaken is the only way that science can help us find our way
+1:14
+to the truth, or at least the nearest approximation to it.
+1:17
+Science learns. We meander a bit as we use it, but in the long run we get ever closer
+1:23
+to understanding reality, and that is the strength of science. And it’s all around us!
+1:28
+Whether you know it or not, you’re soaking in science.
+1:31
+You’re a primate. You have mass. Mitochondria
+1:34
+in your cells are generating energy. Presumably, you’re breathing oxygen.
+1:38
+But astronomy is different. It’s still science, of course, but astronomy puts you in your place.
+1:43
+Because of astronomy, I know we’re standing on a sphere of mostly molten rock and metal
+1:48
+13,000 kilometers across, with a fuzzy atmosphere about 100 km high, surrounded by a magnetic
+1:54
+field that protects us from the onslaught of subatomic particles from the Sun 150 million
+2:00
+km away, which is also flooding space with light that reaches across space, to illuminate
+2:05
+the planets, asteroids, dust, and comets, racing out past the Kuiper Belt, through the
+2:10
+Oort Cloud, into interstellar space, past the nearest stars, which orbit along with
+2:14
+gas clouds and dust lanes in a gigantic spiral galaxy we call the Milky Way that has a supermassive
+2:20
+black hole in its center, and is surrounded by 150 globular clusters and a halo of dark
+2:25
+matter and dwarf galaxies, some of which it’s eating, all of which can be seen by other
+2:29
+galaxies in our Local Group like Andromeda and Triangulum, and our group is on the outskirts
+2:34
+of the Virgo galaxy cluster, which is part of the Virgo supercluster, which is just one
+2:38
+of many other gigantic structures that stretch most of the way across the visible Universe,
+2:43
+which is 90-billion light years across and expanding every day, even faster today than
+2:48
+yesterday due to mysterious dark energy, and even all that might be part of an infinitely
+2:53
+larger multiverse that extends forever both in time and space.
+2:57
+See? Astronomy puts you in your place.
+What is Astronomy?
+3:00
+But what exactly is astronomy? This isn’t necessarily an obvious thing to ask. When
+3:04
+I was a kid, it was easy: Astronomy is the study of things in the sky. The sun, moon,
+3:10
+stars, galaxies, and stuff like that. But it’s not so easy to pigeonhole these days.
+3:15
+Take, for example, Mars. When I haul my ‘scope out to the end of my driveway and look at
+3:20
+Mars, that’s astronomy, right? Of course! But what about the rovers there? Those machines
+3:25
+aren’t doing astronomy, surely. They’re doing chemistry, geology, hydrology, petrology…
+3:30
+everything but astronomy!
+3:32
+So nowadays, what’s astronomy? I’d say it’s still studying stuff in the sky, but
+3:36
+it’s branched out quite a bit from there. Borders between it and other fields of science
+3:41
+are fuzzy… a theme I’ll be hitting on several times over this series. Humans might
+3:45
+like firm, delineated boundaries between things, but nature isn’t so picky.
+3:49
+And that brings us to our first edition of “Focus On…”
+Who Studies Astronomy?
+3:52
+This week’s topic: Astronomers! Who are we? What do we do?
+3:55
+I used to look through telescopes for a living, or at least study the data that came from
+3:59
+detectors strapped onto them. But now I talk and write (and make videos) about astronomy,
+4:05
+and relegate my viewing to my personal backyard telescope. But I still consider myself an
+4:10
+astronomer, so that should give you an idea that there’s a lot of wiggle room in the profession.
+4:14
+In fact, when I worked on Hubble Space Telescope, I was actually hired as... a programmer!
+4:19
+I coded in the language used by the folks helping to build and calibrate a camera that
+4:24
+was due to launch into space and be installed onto Hubble by an astronaut.
+4:27
+Once the data from that camera are taken and analyzed, you have to know what to do with
+4:31
+them. Do the observations fit the physical model of how stars blow up, or how galaxies
+4:36
+form, or the way gas flows through space? Well, you better know your math and physics,
+4:40
+because that’s how we test our hypotheses. And someone who does that is generally called
+4:45
+an astrophysicist.
+4:46
+Of course, those telescopes and detectors don’t create themselves. We need engineers
+4:50
+to design and build them and technicians to use them.
+4:53
+Most astronomers don’t actually use the telescopes themselves anymore; someone who’s
+4:57
+trained in their specific use does that for them.
+5:00
+Some of those instruments go into space, and some go to other worlds, like the moon and Mars.
+5:05
+We need astronomers and engineers and software programmers who can build those, too.
+5:09
+And then, at the end of all this, we need people to tell you all about it. Teachers,
+5:14
+professors, writers, video makers, even artists.
+5:16
+So I’ll tell you what: If you have an interest in the Universe, if you love to look up at
+5:21
+the stars, if you crave to understand what’s going on literally over your head, then who
+5:26
+am I to say you’re not an astronomer?
+Origins of Astronomy
+5:27
+However you define astronomy, humans have been looking up at the sky for as long as
+5:31
+we’ve been humans. Certainly ancient people noticed the big glowy
+5:35
+ball in the sky, and how it lit everything up while it was up, and how it got dark when
+5:39
+it was gone. The other, fainter glowy thing tried, but wasn’t quite as good as lighting
+5:44
+up the night. They probably took that sort of thing pretty seriously. They probably also
+5:48
+noticed that when certain stars appeared in the sky, the weather started getting warmer
+5:52
+and the days longer, and when other stars were seen, the weather would get colder and
+5:57
+daytime shorten.
+5:58
+And when humans settled down, discovered agriculture, and started farming, noticing those patterns
+6:03
+in the sky would have had an even greater impact. It told them when to plant seeds,
+6:07
+and when to harvest.
+6:08
+The cycles in the sky became pretty important. So important that it wasn’t hard to imagine
+6:13
+gods up there, looking down on us weak and ridiculous humans, interfering with our lives.
+6:18
+Surely if the stars tell us when to plant, and control the weather, seasons, and the
+Astrology vs Astronomy
+6:22
+length of the day, they control our lives too… and astrology was born.
+6:27
+Astrology literally means “study of the stars”; as a word it’s been used before
+6:32
+science became a formal method of studying nature. It irks me a bit, since it got the
+6:37
+good name, and now we’re stuck with “astronomy,” which means “law or culture of the stars."
+6:42
+That’s not really what we do! But what the heck. Words change meaning over time, and
+6:47
+now it’s pretty well understood that astronomy is science, and astrology… isn’t.
+6:53
+Millennia ago, astrology was as close to science as you got. It had some of the flavors of
+6:58
+science: astrologers observed the skies, made predictions about how it would affect people,
+7:03
+and then those people would provide evidence for it by swearing up and down it worked.
+7:07
+The thing is, it really didn’t; the fault of astrology lies in ourselves and not our
+7:13
+stars. People tend to remember the hits and forget the misses when predictions are made,
+7:17
+which is why they sometimes sit in casinos pumping nickels into machines that are in
+7:22
+proven to be nothing more than a method for reducing the number of nickels you have.
+7:26
+But astrology led to people to really study the sky, and find the patterns there, which
+7:31
+led to a more rigorous understanding of how things worked in the heavenly vault.
+7:35
+It wasn’t overnight, of course. This took centuries. Before the invention of the telescope,
+7:40
+keen observers built all sorts of odd and wonderful devices to measure the heavens,
+7:45
+and in fact it was before the telescope was first turned to the sky that a huge revolution
+7:50
+in astronomy took place.
+Geocentrism
+7:51
+It is patently obvious that the ground you stand on is fixed, rooted if you will, and
+7:57
+the skies turn above us. The sun rises, the sun sets. The moon rises and sets, the stars
+8:03
+themselves wheel around the sky at night. Clearly, the Earth is motionless, and the
+8:08
+sky is what is actually moving. In fact, if you think about it, geocentrism
+8:12
+makes perfect sense that all the objects in the sky revolve about the Earth, and are fixed
+8:17
+to a series of nested spheres, some of which are transparent, maybe made of crystal, which
+8:22
+spin once per day. The stars may just be holes in the otherwise opaque sphere, letting sunlight though.
+8:28
+Sounds silly to you, doesn’t it?
+8:30
+Well, here’s the thing: If you don’t have today’s modern understanding of how the
+8:34
+cosmos works, this whole multiple-shells-of-things-in- the-sky thing actually does make sense. It explains
+8:41
+a lot of what’s going on over your head, and if it was good enough for Plato, Aristotle,
+8:45
+and Ptolemy, then by god it was good enough for you. And speaking of which, it was endorsed
+8:50
+by the major religions of the time, so maybe it’s better if you just nod and agree and
+8:55
+don’t think about it too hard.
+8:56
+But a few centuries ago things changed. Although he wasn’t the first, the Polish mathematician
+Revolutions in Astronomy
+9:01
+and astronomer Copernicus came up with the idea that the sun was the center of the solar
+9:06
+system, not the Earth. His ideas had problems, which we’ll get to in a later episode, but
+9:11
+it did an incrementally better job than geocentrism.
+9:14
+And then along came Tycho Brahe and Johannes Kepler, who modified that system, making it
+9:19
+even better. Then Isaac Newton - oh, Newton - he invented calculus partly to help him
+9:26
+understand the way objects moved in space. Over time, our math got better, our physics
+9:31
+got better, and our understanding grew. Applied math was a revolution in astronomy, and then
+9:37
+the use of telescopes was another. Galileo didn’t invent the telescope, by
+9:40
+the way, but made them better; Newton invented a new kind that was even better than that,
+9:46
+and we’ve run with the idea from there.
+9:47
+Then, about a century or so ago, came another revolution: photography. We could capture
+9:53
+much fainter objects on glass plates sprayed with light-sensitive chemicals, which revealed
+9:58
+stars otherwise invisible to us, details in galaxies, beautiful clouds of gas and dust in space.
+10:04
+And then in the latter half of the last century, digital detectors were invented, which were
+10:09
+even more sensitive than film. We could use computers to directly analyze observations,
+10:14
+and our knowledge leaped again. When these were coupled with telescopes sent in orbit
+10:19
+around the Earth - where our roiling and boiling atmosphere doesn’t blur out observations
+10:23
+- we began yet another revolution.
+Astronomy Today
+10:26
+And where are we now?
+10:27
+We’ve come such a long way! What questions can we routinely ask that our ancestors would
+10:32
+not have dared, what statements made with a pretty good degree of certainty?
+10:36
+Think on this: The lights in the sky are stars! There are other worlds. We take the idea of
+10:43
+looking for life on alien planets seriously, and spend billions of dollars doing it. Our
+10:48
+galaxy is one of a hundred billion others. We can only directly see 4% of the Universe.
+10:55
+Stars explode, and when they do they create the stuff of life: the iron in our blood,
+11:00
+the calcium in our bones, the phosphorus that is the backbone of our DNA. The most common
+11:06
+kind of star in the Universe is so faint you can’t see it without a telescope. Our solar
+11:10
+system is filled to overflowing with worlds more bizarre than we could have dreamed.
+11:16
+Nature has more imagination than we do. It comes up with some nutty stuff. We’re clever
+11:21
+too, we big-brained apes. We’ve learned a lot… but there’s still a long way to go.
+11:26
+So, with that, I think we’re ready. Let’s explore the universe.
+Review
+11:29
+Today you learned what astronomy is, and that astronomers aren’t just people who operate
+11:33
+telescopes, but include mathematicians, engineers, technicians, programmers, and even artists.
+11:39
+We also wrapped up with a quick history of the origins and development of astronomy,
+11:43
+from ancient observers to the Hubble Space Telescope.
+11:46
+Crash Course is produced in association with PBS Digital Studios.
+11:50
+This episode was written by me, Phil Plait. The script was edited by Blake de Pastino,
+11:54
+and our consultant is Dr. Michelle Thaller. It was co-directed by Nicholas Jenkins and
+11:58
+Michael Aranda, and the graphics team is Thought Café.
