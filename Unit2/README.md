@@ -1,5 +1,7 @@
 ## Unit 2: Observing the Sky and Celestial Mechanics
 
+![Banner Image](./figures/unit2_banner.png)
+
 This unit delves into the laws governing the motion of celestial bodies, including planets, moons, and artificial satellites. It covers gravitational forces and orbital mechanics.
 
 ### 2.1 Newton's Laws of Motion
