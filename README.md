@@ -9,8 +9,8 @@ This course integrates concepts from chemistry, physics, biology, and earth scie
 [**Unit 1:** Introduction to Astronomy and the Scientific Method](https://github.com/teaghan/astronomy-12/tree/main/Unit1)
    - [1.1 A Brief History of Astronomy](https://github.com/teaghan/astronomy-12/tree/main/Unit1/1_1_history.ipynb)
    - [1.2 The Scale of the Universe](https://github.com/teaghan/astronomy-12/tree/main/Unit1/1_2_scale.ipynb)
-   - [1.3 The Celestial Sphere](https://github.com/teaghan/astronomy-12/tree/main/Unit1/1_3_brightness.ipynb)
-   - [1.4 The Brightness of Stars](https://github.com/teaghan/astronomy-12/tree/main/Unit1/1_4_numbers.ipynb)
+   - [1.3 The Celestial Sphere](https://github.com/teaghan/astronomy-12/tree/main/Unit1/1_3_the_sky.ipynb)
+   - [1.4 The Brightness of Stars](https://github.com/teaghan/astronomy-12/tree/main/Unit1/1_4_brightness.ipynb)
    - [1.5 Consequences of Light Travel Time](https://github.com/teaghan/astronomy-12/tree/main/Unit1/1_5_light_travel.ipynb)
 
 [**Unit 2:** Observing the Sky and Celestial Mechanics](https://github.com/teaghan/astronomy-12/tree/main/Unit2)
