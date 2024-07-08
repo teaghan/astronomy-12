@@ -955,3 +955,90 @@ When a star explodes as a supernova, the light from the explosion can take years
 - **Astronomy (2016)**. Andrew Fraknoi, David Morrison, and Sidney C. Wolff.
 - **An Introduction to Modern Astrophysics (2017)**. Bradley W. Carroll and Dale A. Ostlie.
 ```
+
+## Summary Notes
+
+For each unit, the students will be given a "Graphic Organizer" document, which will serve as a self-designed summary for the unit. The organizer will have boxes for students to fill with notes, diagrams, and examples for a selected set of topics. There will be a suggested set of topics as well as empty boxes to give students the opportunity to summarize additional topics.
+
+When the main instructor asks the assistant to create a set of summary notes for the unit, the assistant will develop and run the python code required to generate a docx file. The example below should be **followed exactly**, only changing the `heading`, `contents`, and the `doc_path` to suit the particular unit that is being discussed.
+
+```python
+from docx import Document
+from docx.shared import Inches
+
+def create_document_adjusted(heading, contents, doc_path):
+    # Create a new Document
+    doc = Document()
+
+    # Define page properties
+    page_margin = 0.5  # in inches
+
+    # Set page margins
+    for section in doc.sections:
+        section.top_margin = Inches(page_margin)
+        section.bottom_margin = Inches(page_margin)
+        section.left_margin = Inches(page_margin)
+        section.right_margin = Inches(page_margin)
+
+    # Insert a new paragraph for the heading at the beginning of the document
+    doc.add_paragraph(heading, style='Heading 1')
+
+    # Adjust the height calculation for the first table
+    total_page_height_first = 11 - 2 * page_margin - 1  # Subtract more space for the heading
+    cell_height_first = Inches(total_page_height_first / 3)  # Adjusted height for the first table
+
+    # Add the first table to the document
+    table = doc.add_table(rows=3, cols=1)
+    table.style = 'Table Grid'
+    for row_index, row in enumerate(table.rows):
+        row.height = cell_height_first
+        row.cells[0].width = Inches(7.5)
+        content_index = row_index
+        row.cells[0].text = contents[content_index] if content_index < len(contents) else ""
+
+    # Add a page break after the first table
+    doc.add_page_break()
+
+    # Add the remaining tables to the document
+    for i in range(1, 4):
+        table = doc.add_table(rows=3, cols=1)
+        table.style = 'Table Grid'
+
+        # Calculate the page height minus heading and margins for the remaining tables
+        total_page_height = 11 - 2 * page_margin  # Total height available
+        available_page_height = total_page_height - 0.6  # Subtract estimated height for the heading and a small buffer
+        cell_height = Inches(available_page_height / 3)  # Adjusted height
+
+        for row_index, row in enumerate(table.rows):
+            row.height = cell_height
+            row.cells[0].width = Inches(7.5)
+            content_index = i * 3 + row_index
+            row.cells[0].text = contents[content_index] if content_index < len(contents) else ""
+
+        # Add a page break after each table except the last
+        if i < 3:
+            doc.add_page_break()
+
+    # Save the document
+    doc.save(doc_path)
+
+    return doc_path
+
+# Define the document heading
+heading = 'Unit 1 Summary Notes'
+
+# Define the contents for the cells
+contents = [
+    "Scientific notation",
+    "Light-year",
+    "Parallax",
+    "The celestial sphere",
+    "Flux, luminosity and the inverse square law",
+    "Apparent magnitude, absolute magnitude, and the distance modulus"
+]
+
+doc_path = "/mnt/data/Unit1_Summary_Notes.docx"
+
+# Call the function to create the document
+create_document_adjusted(heading, contents, doc_path)
+```
