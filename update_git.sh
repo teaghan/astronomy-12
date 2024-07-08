@@ -11,6 +11,7 @@ for unit in "${units[@]}"; do
 done
 
 git add "images/*"
+git add "html_lessons/*"
 git add "Assistant_Instructions.txt"
 git add "bc_science_curriculum.txt"
 git add "README.md"

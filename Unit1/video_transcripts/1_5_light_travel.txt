@@ -1,0 +1,186 @@
+Intro
+0:00
+In life, we're used to looking at everything around us unfolding in real time.
+0:04
+But looking up at the night sky is different.
+0:07
+When we look at the stars we're actually looking at the past, we aren't seeing the stars, or
+0:12
+really anything in the universe as they currently are.
+0:15
+We're seeing them as they were.
+0:17
+This all comes down to the way that light travels through space.
+0:21
+Understanding space-time and why light moves the way it does means that one day we could
+0:26
+look so far into the cosmos, we could be able to see the very first light at the birth of
+0:31
+the universe, nearly 13.8 billion years ago.
+0:35
+And, in fact, there are astronomers and cosmologists working on this right now.
+Speed of Light
+0:41
+The most important point you need to remember is that light travels at a constant speed,
+0:46
+which means that it takes time to get anywhere.
+0:49
+So if you look up the Big Dipper.
+0:50
+The stars are anywhere from 79 to 125 light years away.
+0:55
+That means that what you're seeing is really the light that left the star 79 or more years
+0:59
+ago, when you look up and see the moon, that's what it looked like 1.3 seconds ago.
+1:04
+Same idea with planets, and it works in reverse too, if you looked at Earth through a super
+1:10
+powerful telescope, from a galaxy 65 million light years away, you would see the earth
+1:15
+as it was 65 million years ago, or around the time that T rex went extinct.
+Ancient Calculations
+1:21
+Thinking about the speed of light isn't a new concept, there's some evidence that scholars in 14th
+1:27
+century India were exploring the speed of sunlight.
+1:30
+They thought of light as a sort of wind, and though they couldn't prove anything concretely,
+1:34
+when converted into modern units, ancient calculations came surprisingly close to the
+1:39
+actual speed of light.
+1:41
+Today, we've calculated that speed down to the nanosecond. Light speed applies here on
+1:46
+earth too just in much smaller distances.
+1:50
+If you look at an object one meter away from you, you're not seeing it as it was
+1:55
+three billionths of a second ago.
+1:57
+This might seem too small to even matter.
+2:00
+After all, it's impossible for us to discern three billionths of a second.
+2:04
+But when we talk about space, those distances are so immense that the speed of light creates
+2:09
+huge gaps in observational time.
+2:12
+So what does this mean for astronomers making observations of the stars?
+2:16
+Well, it makes things a lot more complicated, especially since the universe is expanding
+2:22
+the stretching of the fabric of the universe ever outward affects the light traveling through
+2:26
+it.
+2:27
+Another way I like to say this is that the light sticks to the fabric of space-time as
+2:31
+the fabric of the universe expands, so to the waves of light.
+The Doppler Effect
+2:35
+This is what's known as the Doppler effect.
+2:38
+It's the same reason why ambulance sirens seem to get higher and pitch, as it passes
+2:42
+you. The waves are getting shortened, and then stretched out again.
+2:46
+With light, it's the color of each wavelength changes as the object gets farther away, and the light waves
+2:52
+are more stretched out.
+2:53
+This is what's known as redshift. Red because the longer the wavelength, the more red the
+2:58
+light appears.
+2:59
+At some point the waves get so long, they no longer appear as visible light, and slip
+3:04
+into infrared. Redshift isn't something you can see with the naked eye, as it only applies
+3:08
+for objects that are really far away, and the change in hue is very slight.
+Redshift
+3:12
+So, if you want to look at anything, really, really far away into the universe, you would
+3:16
+need to account for the redshift.
+3:18
+This is why the Hubble Space Telescope, was built to see a small portion of the infrared
+3:23
+spectrum.
+3:24
+In 2016, Hubble observed a galaxy 32 billion light years away, but since this galaxy is
+3:30
+so far away and the universe has been stretching since the light first left it,
+3:35
+we're really looking at the galaxy as it was 13.4 billion years ago, I know.
+3:39
+Leave it to the universe to make things more complicated.
+3:43
+This is the closest we've come to observing the birth of the universe, this galaxy GNZ-11
+Telescopes
+3:48
+is located near Ursa Major, but even if you squint as hard as you can, you still won't
+3:54
+be able to see it, unless of course you have some seriously impressive infrared super vision.
+3:59
+Oh, and you'd have to be floating above Earth, because our atmosphere blocks some of the
+4:03
+infrared.
+4:04
+Now, telescopes are getting even better, so much so that they may one day, even be able
+4:09
+to see the beginning of the universe.
+4:11
+Thinking about the beginning of the universe as we know it.
+4:15
+We're thinking of stars and galaxies, and that's a little bit later in the universe.
+4:19
+Not very much though.
+4:21
+And so, to see that, we actually might have a chance with these future telescopes
+4:26
+and we might be able to see the supernovae of the first stars, we might be
+4:30
+able to find the first galaxies ever.
+4:32
+Astrophysicist Taylor Hutchison studies distant galaxies, close to the time of the Big Bang.
+4:39
+The galaxies I look at are some of the most distant galaxies we've ever
+4:42
+found so far, and the galaxies we're seeing existed about a billion years after
+4:46
+the Big Bang.
+4:48
+So to kind of translate that that's about 13 billion years ago from our present day.
+4:54
+And in order to observe these galaxies, accounting for redshift is super important.
+4:59
+Light is all getting stretched and shifted to longer and longer wavelengths.
+5:02
+So, because that's such a vast distance the light we see from these galaxies from the ultraviolet
+5:08
+is actually in the near infrared, which is hard to see, That means that you need telescopes,
+5:14
+and instruments that are sensitive to that and working from the ground is really hard
+5:18
+in the near-infrared, then you need a space telescope.
+5:21
+So we're really always pushing the limitations of what the current technology can give us.
+5:25
+The James Webb Space Telescope is going to be a serious game changer for these kinds
+5:30
+of observations, because it will observe from outside Earth's atmosphere and specialize
+5:35
+partly in the infrared.
+5:37
+While we wait for these findings about the early universe, remember that every time you
+5:40
+look at the stars, you're seeing back in time, and looking up at Ursa Major you can imagine
+5:46
+how the Earth would look in reverse.. Pretty incredible right?
+5:49
+Thank you so much for watching this video.
+5:51
+I know that the more I learned about astronomy, the more questions I have, so please let us
+5:56
+know what else you'd like us to cover down in the comments.

@@ -1,0 +1,211 @@
+0:00
+Welcome to Learn the Sky, your online resource  for learning about the stars and constellations.  
+0:07
+At some point in your life as you have  been stargazing, you've probably noticed  
+0:11
+that some stars are brighter than others. Even other objects like planets stand out more  
+0:17
+than some of the bright stars in the sky. When  astronomers talk about star brightness they use  
+0:24
+something called magnitude. When I say magnitude  I'm talking about the brightness of a star. 
+0:31
+Take this constellation for example. This  is the constellation known as Ursa Major. 
+0:36
+As you're looking at this group of stars  you might notice this pattern, these seven stars,  
+0:43
+are an asterism called the Big Dipper. It has  many other names in many other cultures. I can't  
+0:49
+even pretend that I know all the names of this  particular asterism or star pattern but these  
+0:56
+seven stars are of relatively the same brightness  and that's what makes it easy to find in the sky.  
+1:03
+That's how you can tell its difference from  Ursa Minor which is the Little Dipper. Here is the  
+1:09
+actual full constellation of Ursa Major. As you  can see, these stars are of different brightnesses.
+1:16
+In this video, we are going to explore  what the magnitude of a star really means  
+1:23
+and how it's changed over the years. We're going  to review a really quick history of star magnitude  
+Brief History of Star Magnitude
+1:30
+and how it came to be. From what we know, at this  time, Hipparchus was the Greek astronomer who lived  
+1:36
+in the 2nd century. He was the first to start  this star brightness classification. He classified  
+1:44
+850 stars ranging from 1 to 6 in terms  of brightness. So what did this look like  
+1:50
+for Hipparchus? If you look at this picture, here you can see that there are a range of star  
+1:56
+brightnesses. He said the brightest stars like Rigel, right here, in the constellation of Orion  
+2:04
+would be a first magnitude star because  it's very bright. Then the fainter stars, 
+2:10
+ones that are up here that are very tiny  little pinpoints and don't really stand out, 
+2:15
+those faint stars would be of sixth magnitude.  This was really used by astronomers for the past  
+2:22
+2,000 plus years. As you look at this photo,  can see there are different brightnesses and how  
+2:30
+do you define them? There's a lot of questions here  that I had, but what I did learn is that over time  
+2:38
+this system became a little bit more refined. Also with the help of technology of course.
+2:45
+The next character we have in our story of  star magnitude is Ptolemy and he was a Roman  
+2:50
+mathematician and astronomer that expanded on  the work of Hipparchus. He still retained that six  
+2:56
+range brightness classification with 1 being the  brightest and 6 being the faintest. Now we're  
+3:02
+gonna fast forward towards Galileo's time. When  he looked at the night sky through his telescope  
+3:09
+he was able to see these invisible stars  stars that you wouldn't normally see  
+3:14
+with the naked eye because they're just too faint. He started labeling these invisible stars as  
+3:20
+seventh magnitude. He continued Hipparchus  magnitude scale but also expanded on it.
+3:29
+Then we're gonna skip on over to 1856. An  english astronomer known as Norman Robert Pogson  
+3:37
+standardized this magnitude system because that's  what scientists do; they standardize. We have to  
+3:42
+standardize our measurements so we know what it  is that we're measuring. He concluded that a first  
+3:48
+magnitude star is 100 times brighter than a 6  magnitude star. This established a logarithmic  
+3:55
+scale. Astronomers also look at magnitude from  two different lenses and I want to explore that  
+4:04
+in the next part of this video. Another lens  that astronomers use in magnitude is the  
+Apparent versus Absolute Magnitude
+4:10
+concept of apparent magnitude versus absolute  magnitude. Apparent magnitude is probably what  
+4:16
+you're most familiar with. That's the  brightness of a star as it appears to us. 
+4:20
+With absolute magnitude, it's a little bit  different. Astronomers will look at the brightness  
+4:25
+of an object if it were at a particular  distance. So, apparent magnitude, as you're looking  
+4:31
+at this picture is the brightness as it appears to  us the observer. For example, this is the Pleiades
+4:38
+star cluster that has a relatively lower magnitude  which means it's brighter. We're going to  
+4:45
+explore this scale in a little bit, so stick with  me. But, absolute magnitude is when scientists will  
+4:52
+measure the brightness of a celestial object if  it was at a particular distance from earth. That  
+4:58
+distance being 10 parsecs. So, if we're here on  Earth and a star was placed at 10 parsecs away,  
+5:06
+32.6 light years, how bright would it be? So we  can have two different values for magnitude based  
+5:15
+upon the lens at which you're looking at. Let's  get an example of this. So this star, right here.
+5:21
+This is Aldebaran in the constellation of  Taurus. It has an apparent magnitude of 0.87, 
+5:29
+so very close to 1 which tells us it's a bright  object, but its absolute magnitude is -0.63.
+5:38
+This seems confusing because it's like, "Oh does  that mean it's brighter or dimmer?" I do want to  
+5:43
+go ahead and explore the difference between the  negative which are usually brighter numbers.  
+5:49
+Then, the positive. The bigger the number the dimmer  it is. I wanted to just go over this concept of  
+5:56
+Aldebaran having two different types of magnitude. One being what we see from our perspective  
+6:02
+and one being if it this star was placed at a  particular distance what would the brightness be.
+6:10
+So let's take a look at some of the examples of  different stars we see in the sky versus what  
+Examples Star Magnitude
+6:15
+their magnitude would be. I'm purely speaking  of apparent magnitude. Remember the scale works  
+6:21
+in reverse. So the lower the magnitude  the brighter the star. Let's take this  
+6:26
+timeline, or number line, I should say. We're  going to place some different stars on here and  
+6:31
+show you where they lie. So first, we'll start  with Vega. Vega is in the constellation Lyra. I  
+6:37
+have a video about that. Go check it out. It has a magnitude of 0 which tells us  
+6:42
+it's a pretty bright object in the sky. But, if we  look at a star like Polaris, the North Star, the  
+6:50
+star that doesn't appear to move. I've got a video  on that one. That has a magnitude of two. So vega  
+6:56
+is brighter than Polaris even though the number is  bigger with Polaris. Remember inverse relationship.
+7:02
+Our limit that we can see with the naked eye is  6.So anything at a magnitude 6 is the limit that  
+7:10
+we can see. If you start going to 7; 8; 9. you need  magnification to see anything that is above a 6.  
+7:21
+If we keep going here. Sirius, the brightest  star in the night sky in the constellation
+7:25
+Canis Major. I've got a video on it. Go see it if  you want to learn more. That star is negative 1.5, 
+7:33
+so it's really bright when you compare it to say- Well I don't want to say really, really bright but  
+7:41
+and I'm not going to get into the mathematics  of this. If we bounce back to Polaris  
+7:46
+Sirius would definitely be brighter than  Polaris. If we keep going Venus, a planet now,
+7:54
+that we're speaking of, has a magnitude of  -4. So that tells us Venus is  
+7:58
+really bright in the sky. I can always tell  where Venus is because it is the brightest  
+8:04
+object in the sky next to the Sun.  The Sun has a magnitude of -27.  
+8:11
+That seems counter-intuitive, right? That  negative means it would wouldn't be as bright,  
+8:16
+but remember it's that inverse scale. So if we take  a look at a star map here. We're going back to Vega. 
+8:22
+Vega is the brightest star in the constellation of  Lyra and you can see the magnitude scale down here. 
+8:30
+We defined that Vega was 0  magnitude and you can see its size  
+8:35
+matches that magnitude. That's how it works. Okay, we know there are some limitations of this. 
+Limitations of the Magnitude System
+8:42
+Some of the limitations include human eyes. They  are more sensitive to red and yellow light than  
+8:48
+blue light. As you can see I did color this blue  but it doesn't stand out as much as red and yellow.
+8:55
+Also, photographic film is tends to be  more sensitive to blue light. As you can see  
+9:01
+in this example. Another limitation is that  visual magnitude versus photographic magnitude  
+9:09
+will definitely be different. We are limited  by our human eyes and we can capture things  
+9:14
+on photographs that we wouldn't be able to see  otherwise. Apparent magnitude can also be  
+9:20
+influenced by atmospheric disturbances. So you can  see this if you look at stars that are right up  
+9:25
+along the horizon. What you see is this kind of  twinkling going on and that's really the gas is  
+9:32
+moving in the air that causes that twinkling and  it's usually more pronounced along the horizon.  
+9:37
+Also, the scale is in reverse so that can  make it confusing as well. If we wanted to  
+9:43
+see what's what is like the absolute greatest or- I shouldn't say absolute that might be the wrong  
+9:50
+choice of words- but how far can we see out  there with the instruments we do have today. 
+How far the Hubble SpaceTelescope see?
+9:55
+So I found this picture and I find it interesting  because it shows you the naked eye limit which  
+10:00
+is magnitude of 6. Notice we're talking of  apparent magnitude. The Hubble Space Telescope  
+10:06
+sees a little more than 25, in between  25 and 30 apparent magnitude. So what's  
+10:12
+going to be exciting is once the James  Webb Space Telescope launches that will  
+10:20
+definitely be a more powerful instrument than the  Hubble Space Telescope. We are probably going to  
+10:25
+see things of even fainter magnitude. What's  interesting is that that the James Webb also has  
+10:33
+an infrared camera, so we're  gonna be looking at this through a different lens.
+10:38
+So that's my video explanation of magnitude.  I do hope this is helpful for you as you're  
+10:46
+looking at different star maps. Now you  also know the difference between apparent  
+10:51
+versus absolute magnitude. Thank you so  much for watching! Remember it takes time,  
+10:56
+patience and practice to really identify the  stars. I wish you clear skies and keep looking up!
