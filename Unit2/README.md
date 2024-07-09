@@ -15,10 +15,9 @@ This unit delves into the laws governing the motion of celestial bodies, includi
    - Inverse square law
 
 ### 2.3 Circular Motion
-   - Definition and formula for centripetal force
+   - Centripetal force
    - Examples of centripetal forces in daily life
-   - Angular velocity and angular acceleration
-   - Relationship between linear and angular quantities
+   - Orbital speed
 
 ### 2.4 The Structure and Components of Our Solar System
    - Formation of the Solar System

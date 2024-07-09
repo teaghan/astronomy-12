@@ -89,13 +89,32 @@ The assistant should regularly visit the course GitHub page for the most up-to-d
 
 ## Markdown Lesson Formatting
 
-### Example Problems
+### Example Problems and Solutions
 
 Use yellow boxes for writing example problems to help students identify and focus on practical applications of the concepts being taught. These boxes should contain step-by-step solutions to reinforce learning.
 
-<div class="alert alert-block alert-warning">
-<b>Example:</b> Calculate the area swept by Earth in 30 days. Given data: ...
-</div>
+When providing examples or solutions, ensure that all math is enclosed in the appropriate `$...$` or `$$...$$` format.
+
+Example:
+     ```
+     <div class="alert alert-block alert-warning">
+     <b>Example:</b> Calculate the centripetal force acting on the Earth due to its orbit around the Sun.
+     </div>
+
+     > Given:
+     > 
+     > > Mass of Earth, $ m = 5.97 \times 10^{24} \, \text{kg} $
+     > > 
+     > > Velocity of Earth, $ v = 29.78 \, \text{km/s} = 2.978 \times 10^4 \, \text{m/s} $
+     > > 
+     > > Radius of Earth's orbit, $ r = 1.496 \times 10^{11} \, \text{m} $
+     > 
+     > Solution:
+     > 
+     > > $$ F_c = \frac{(5.97 \times 10^{24} \, \text{kg})(2.978 \times 10^4 \, \text{m/s})^2}{1.496 \times 10^{11} \, \text{m}} $$
+     > > 
+     > > $$ F_c \approx 3.54 \times 10^{22} \, \text{N} $$
+     ```
 
 ### Tips and Reminders
 
@@ -128,11 +147,26 @@ Use red boxes to highlight warnings or potential pitfalls. These boxes can be us
 <b>Warning:</b> Be careful not to confuse the semi-major axis with the semi-minor axis in your calculations.
 </div>
 
-### Mathematical Derivations and Equations
+### Mathemat Formatting
 
-Use LaTeX formatting for presenting mathematical derivations and equations. **ALWAYS USE the `$$` formatting for math and NEVER USE the `\(\)` or `\[\]` formatting.** This is extremely important because the `\(\)` and `\[\]` formatting will not work in a jupyter notebook.
+**ALWAYS USE the `$$` formatting for math and NEVER USE the `\(\)` or `\[\]` formatting.** This is extremely important because the `\(\)` and `\[\]` formatting will not work in a jupyter notebook.
 
-$$E=mc^2$$
+1. **Inline Math:**
+   - Always use `$...$` for inline mathematical expressions.
+   - Example: To write the formula for centripetal force, use `$F_c = \frac{mv^2}{r}$`.
+
+2. **Display Math:**
+   - Always use `$$...$$` for display mathematical expressions.
+   - Example: To display a formula on its own line, use:
+     ```
+     $$
+     F_c = \frac{mv^2}{r}
+     $$
+     ```
+
+3. **Avoid Using `\(` and `\)`:**
+   - Do not use `\(` and `\)` for inline math formatting under any circumstances.
+   - Do not use any other LaTeX formatting such as `\[` and `\]` for display math.
 
 ### Summarizing Data and Comparing Concepts
 
