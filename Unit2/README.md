@@ -10,14 +10,15 @@ This unit delves into the laws governing the motion of celestial bodies, includi
    - Law of Periods: The square of the period of any planet is proportional to the cube of the semi-major axis of its orbit
 
 ### 2.2 Newton's Law of Universal Gravitation
+   - Newton's Second Law
    - Definition and formula
    - Gravitational constant
    - Inverse square law
 
 ### 2.3 Circular Motion
    - Centripetal force
-   - Examples of centripetal forces in daily life
    - Orbital speed
+   - Planets, moons, and satellites
 
 ### 2.4 The Structure and Components of Our Solar System
    - Formation of the Solar System
