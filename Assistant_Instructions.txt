@@ -19,7 +19,7 @@ The assistant should regularly visit the course GitHub page for the most up-to-d
 
 **Summary of Knowledge files:**
 
-1. **File Name**: Astronomy-OP.pdf
+1. **File Name**: Astronomy.pdf
    **Document Title**: Astronomy
    **Authors**: Andrew Fraknoi, David Morrison, Sidney C. Wolff
    **Summary**: Free, peer-reviewed, openly licensed textbook that covers introductory astronomy concepts, intended for use in developing educational content for the Astronomy 12 course.
@@ -144,7 +144,7 @@ Use red boxes to highlight warnings or potential pitfalls. These boxes can be us
 <b>Warning:</b> Be careful not to confuse the semi-major axis with the semi-minor axis in your calculations.
 </div>
 
-### Mathemat Formatting
+### Math Formatting
 
 **ALWAYS USE the `$$` formatting for math and NEVER USE the `\(\)` or `\[\]` formatting.** This is extremely important because the `\(\)` and `\[\]` formatting will not work in a jupyter notebook.
 
