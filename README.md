@@ -20,12 +20,12 @@ This course integrates concepts from chemistry, physics, biology, and earth scie
    - [2.4 The Structure and Components of Our Solar System I](https://github.com/teaghan/astronomy-12/tree/main/Unit2/2_4_solar_system_1.ipynb)
    - [2.5 The Structure and Components of Our Solar System II](https://github.com/teaghan/astronomy-12/tree/main/Unit2/2_5_solar_system_2.ipynb)
 
-[**Unit 3:** Light and Spectroscopy](https://github.com/teaghan/astronomy-12/tree/main/Unit3)
-   - [3.1 Nature of Light](https://github.com/teaghan/astronomy-12/tree/main/Unit3/3_1_nature_of_light.ipynb)
-   - [3.2 Spectroscopy in Astronomy](https://github.com/teaghan/astronomy-12/tree/main/Unit3/3_2_spectroscopy.ipynb)
-   - [3.3 Applications of Spectroscopy](https://github.com/teaghan/astronomy-12/tree/main/Unit3/3_3_applications.ipynb)
-   - [3.4 The Electromagnetic Spectrum](https://github.com/teaghan/astronomy-12/tree/main/Unit3/3_4_electromagnetic_spectrum.ipynb)
-   - [3.5 Formation of Spectral Lines](https://github.com/teaghan/astronomy-12/tree/main/Unit3/3_5_spectral_lines.ipynb)
+[**Unit 3:** Stars](https://github.com/teaghan/astronomy-12/tree/main/Unit3)
+   - [3.1 Star Formation](https://github.com/teaghan/astronomy-12/tree/main/Unit3/3_1_star_formation.ipynb)
+   - [3.2 Nuclear Fusion](https://github.com/teaghan/astronomy-12/tree/main/Unit3/3_2_spectroscopy.ipynb)
+   - [3.3 Chemical Composition of Stars](https://github.com/teaghan/astronomy-12/tree/main/Unit3/3_3_applications.ipynb)
+   - [3.4 Blackbody Radiation](https://github.com/teaghan/astronomy-12/tree/main/Unit3/3_4_electromagnetic_spectrum.ipynb)
+   - [3.5 Life Cycle of Stars](https://github.com/teaghan/astronomy-12/tree/main/Unit3/3_5_spectral_lines.ipynb)
 
 [**Unit 4:** The Solar System](https://github.com/teaghan/astronomy-12/tree/main/Unit4)
    - [4.1 Formation of the Solar System](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_1_solar_system_formation.ipynb)
