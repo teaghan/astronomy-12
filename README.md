@@ -14,11 +14,11 @@ This course integrates concepts from chemistry, physics, biology, and earth scie
    - [1.5 Consequences of Light Travel Time](https://github.com/teaghan/astronomy-12/tree/main/Unit1/1_5_light_travel.ipynb)
 
 [**Unit 2:** Observing the Sky and Celestial Mechanics](https://github.com/teaghan/astronomy-12/tree/main/Unit2)
-   - [2.1 Newton's Laws of Motion](https://github.com/teaghan/astronomy-12/tree/main/Unit2/2_1_newtons_laws.ipynb)
-   - [2.2 Kepler's Laws](https://github.com/teaghan/astronomy-12/tree/main/Unit2/2_2_keplers_laws.ipynb)
-   - [2.3 Gravitational Forces](https://github.com/teaghan/astronomy-12/tree/main/Unit2/2_3_gravitational_forces.ipynb)
-   - [2.4 Ancient Astronomy](https://github.com/teaghan/astronomy-12/tree/main/Unit2/2_4_ancient_astronomy.ipynb)
-   - [2.5 Astrology vs. Astronomy](https://github.com/teaghan/astronomy-12/tree/main/Unit2/2_5_astrology_vs_astronomy.ipynb)
+   - [2.1 Kepler’s Laws of Planetary Motion](https://github.com/teaghan/astronomy-12/tree/main/Unit2/2_1_keplers_laws.ipynb)
+   - [2.2 Newton's Law of Universal Gravitation](https://github.com/teaghan/astronomy-12/tree/main/Unit2/2_2_gravity.ipynb)
+   - [2.3 Circular Motion](https://github.com/teaghan/astronomy-12/tree/main/Unit2/2_3_circular_motion.ipynb)
+   - [2.4 The Structure and Components of Our Solar System I](https://github.com/teaghan/astronomy-12/tree/main/Unit2/2_4_solar_system_1.ipynb)
+   - [2.5 The Structure and Components of Our Solar System II](https://github.com/teaghan/astronomy-12/tree/main/Unit2/2_5_solar_system_2.ipynb)
 
 [**Unit 3:** Light and Spectroscopy](https://github.com/teaghan/astronomy-12/tree/main/Unit3)
    - [3.1 Nature of Light](https://github.com/teaghan/astronomy-12/tree/main/Unit3/3_1_nature_of_light.ipynb)
