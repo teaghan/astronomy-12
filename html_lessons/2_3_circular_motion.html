@@ -3,7 +3,7 @@
 <html lang="en">
 <head><meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>1_3_the_sky</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>2_3_circular_motion</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <style type="text/css">
     pre { line-height: 125%; }
 td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }
@@ -7297,7 +7297,6 @@ a.anchor-link {
 
 
 
-
 <!-- Load mathjax -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS_CHTML-full,Safe"> </script>
 <!-- MathJax configuration -->
@@ -7325,7 +7324,6 @@ a.anchor-link {
     MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
 </script>
 <!-- End of mathjax configuration --><script type="module">
-
 
 
 
@@ -7517,82 +7515,230 @@ a.anchor-link {
 <!-- End of mermaid configuration --></head>
 <body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
 <main>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=a95961c6-be67-4def-89c5-522ac20f5e3d">
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=47832148-bf5c-4c0f-974a-172348d3ffc0">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h1 id="1.3-The-Celestial-Sphere">1.3 The Celestial Sphere<a class="anchor-link" href="#1.3-The-Celestial-Sphere">¶</a></h1><h3 id="Introduction">Introduction<a class="anchor-link" href="#Introduction">¶</a></h3><p>Have you ever wondered why the stars seem to move across the sky each night, or why certain constellations are only visible during specific times of the year? To ancient astronomers, the heavens appeared as a vast, rotating dome with the Earth at its center. This imaginary dome, or <em>celestial sphere</em>, is a concept that has helped astronomers understand and describe the positions and movements of celestial objects for centuries. Today, we'll explore the celestial sphere and discover its significance in modern astronomy.</p>
+<h1 id="2.3-Circular-Motion">2.3 Circular Motion<a class="anchor-link" href="#2.3-Circular-Motion">¶</a></h1><h2 id="Introduction">Introduction<a class="anchor-link" href="#Introduction">¶</a></h2><p>Circular motion is a fundamental concept in astronomy, playing a crucial role in understanding the behavior of celestial bodies. When studying the orbits of planets around the Sun, moons around their planets, and artificial satellites around Earth, we observe that these objects follow curved paths. This motion is not only key to the structure of our solar system but also to the mechanics of many astronomical phenomena. In this lesson, we will delve into the principles of circular motion, examining its effects on the orbits of various celestial objects and the forces that maintain these orbits.</p>
 <div class="alert alert-block alert-success">
 <h4>Video</h4>
-<p>Watch <a href="https://www.youtube.com/watch?v=1Toya19H12w" target="_blank">this video</a> for a quick run-down of the celestial sphere and the motion of the stars.</p>
+<p>Watch <a href="https://www.youtube.com/watch?v=5vtH1uBaoBY" target="_blank">this video</a> to get a visual introduction to the concepts of circular motion. The first half is particularly useful for our discussion; you can ignore the discussion on centrifugal force.</p>
 </div>
 <hr/>
-<h3 id="The-Celestial-Sphere">The Celestial Sphere<a class="anchor-link" href="#The-Celestial-Sphere">¶</a></h3><p>Imagine lying back on a clear night, gazing up at the stars. It feels as if you are inside a gigantic, hollow dome with the stars stuck onto its inner surface. This is the celestial sphere, an imaginary sphere of arbitrarily large radius, centered on the Earth, on which all celestial objects can be considered to lie. Although the celestial sphere is a simplification, it remains incredibly useful for locating stars, planets, and other celestial bodies in the sky.</p>
-<div class="alert alert-block alert-info">
-<b>Tip:</b> Think of the celestial sphere as a giant globe surrounding the Earth, with stars projected onto its inner surface.
-</div>
-<p>Key features of the celestial sphere include:</p>
+<h2 id="Uniform-Circular-Motion">Uniform Circular Motion<a class="anchor-link" href="#Uniform-Circular-Motion">¶</a></h2><p>Uniform circular motion occurs when an object moves along a circular path at a constant speed. Despite the constant speed, the object's velocity is continuously changing because its direction is always changing. This constant change in direction results in an acceleration towards the center of the circular path, known as centripetal acceleration.</p>
+<p><strong>Characteristics:</strong></p>
 <ul>
-<li><strong>Zenith</strong>: The point directly overhead.</li>
-<li><strong>Horizon</strong>: The line where the sky appears to meet the Earth.</li>
-<li><strong>Celestial Poles</strong>: Extensions of Earth's North and South Poles onto the celestial sphere.</li>
-<li><strong>Celestial Equator</strong>: The projection of Earth's equator onto the celestial sphere.</li>
+<li><strong>Constant Speed:</strong> The magnitude of the velocity remains unchanged.</li>
+<li><strong>Changing Direction:</strong> The direction of the velocity vector changes continuously.</li>
+<li><strong>Centripetal Acceleration:</strong> The acceleration is directed towards the center of the circular path.</li>
 </ul>
-<img alt="The Sky around Us" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit1/figures/Figure2_2.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
+<p>For simple calculations regarding the orbits of planets, moons, satellites, and other celestial bodies, we can approximate these orbits by assuming they are in circular motion. This simplification allows us to use the principles of uniform circular motion to understand and predict their behavior.</p>
+<p><strong>Examples in Astronomy:</strong></p>
+<ul>
+<li><strong>Planets orbiting the Sun:</strong> The gravitational pull of the Sun provides the necessary centripetal force.</li>
+<li><strong>Moons orbiting planets:</strong> Moons remain in orbit due to the gravitational pull of their parent planets.</li>
+<li><strong>Satellites orbiting Earth:</strong> Artificial satellites stay in orbit due to the Earth's gravitational force.</li>
+</ul>
 <hr/>
-<h3 id="Celestial-Poles-and-Celestial-Equator">Celestial Poles and Celestial Equator<a class="anchor-link" href="#Celestial-Poles-and-Celestial-Equator">¶</a></h3><p>To understand the celestial sphere, imagine extending Earth's axis points into the sky. The points where this line intersects the celestial sphere are the north celestial pole and the south celestial pole. As Earth rotates about its axis, the sky appears to turn in the opposite direction around these celestial poles.</p>
+<h2 id="Centripetal-Force">Centripetal Force<a class="anchor-link" href="#Centripetal-Force">¶</a></h2><p>Centripetal force is the force required to keep an object moving in a circular path, directed towards the center of the circle. This force is essential because it counters the object's inertia, which would otherwise cause it to move in a straight line. The word "centripetal" comes from Latin, meaning "center-seeking," highlighting the force's direction toward the center of the circular path.</p>
 <blockquote>
-<p>The celestial equator divides the sky into the northern and southern celestial hemispheres, similar to how Earth's equator divides our planet.</p>
+<p>Centripetal force keeps an object moving in a circular path by constantly pulling it towards the center.</p>
 </blockquote>
-<p>For example, if you stood at the North Pole, you would see the north celestial pole overhead at your zenith. The celestial equator would lie along your horizon. As you watch the stars during the course of the night, they would all circle around the celestial pole, with none rising or setting. Conversely, at the equator, you would see the celestial equator pass overhead through your zenith, and the celestial poles at the north and south points on your horizon.</p>
-<img alt="Circles on the Celestial Sphere" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit1/figures/Figure2_3.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
-<img alt="Circling the South Celestial Pole" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit1/figures/Figure2_4.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
-<hr/>
-<h3 id="Rising-and-Setting-of-the-Sun">Rising and Setting of the Sun<a class="anchor-link" href="#Rising-and-Setting-of-the-Sun">¶</a></h3><p>The Sun, Moon, and stars appear to rise in the east and set in the west due to Earth's rotation. This daily movement, known as diurnal motion, is one of the most familiar astronomical phenomena. The path the Sun appears to take across the celestial sphere over the course of a year is called the ecliptic. This path is inclined to the celestial equator due to the tilt of Earth's axis, leading to seasonal changes.</p>
+<p>In the context of circular motion, any force that keeps an object on its curved path acts as a centripetal force. This could be tension in a string for a ball being swung around, friction between tires and the road for a car turning a corner, or gravity for celestial bodies in orbit.</p>
+<p><strong>Mathematical Expression:</strong>
+\[
+F_c = \frac{mv^2}{r}
+\]
+where:</p>
+<ul>
+<li>\( F_c \) is the centripetal force</li>
+<li>\( m \) is the mass of the object</li>
+<li>\( v \) is the velocity of the object</li>
+<li>\( r \) is the radius of the circular path</li>
+</ul>
+<figure style="display: block; margin-left: auto; margin-right: auto; width: 600px;">
+<img alt="Circular Motion" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit2/figures/circular_motion.png" width="600"/>
+<figcaption style="text-align: center;">Figure 1: Circular motion in orbit. The centripetal force here is caused by gravity which causes the satellite to continually be "pulled" into the center, creating circular motion.</figcaption>
+</figure>
+<h3 id="Relation-to-Gravitational-Force">Relation to Gravitational Force<a class="anchor-link" href="#Relation-to-Gravitational-Force">¶</a></h3><p>In astronomy, the most common centripetal force is gravity. For planetary motion, gravity provides the necessary centripetal force to keep a planet in orbit around the Sun. Similarly, gravity keeps moons orbiting their planets and artificial satellites orbiting the Earth.</p>
 <blockquote>
-<p>Imagine standing in San Francisco, where the latitude is 38° N. The north celestial pole would be 38° above the northern horizon. As Earth turns, the whole sky seems to pivot about the north celestial pole. Stars within 38° of the North Pole never set, while stars within 38° of the south celestial pole never rise.</p>
+<p>In orbital motion, the centripetal force is the force of gravity.</p>
 </blockquote>
-<img alt="The Celestial Tilt" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit1/figures/Figure2_7.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
-<hr/>
-<h3 id="Fixed-and-Wandering-Stars">Fixed and Wandering Stars<a class="anchor-link" href="#Fixed-and-Wandering-Stars">¶</a></h3><p>Ancient astronomers categorized celestial objects into "fixed stars" and "wandering stars." Fixed stars maintain fixed patterns relative to each other and form constellations. Wandering stars, known today as planets, move relative to the fixed stars.</p>
-<p>The fixed stars include most of the stars we see in the night sky. They form patterns that have been recognized and named as constellations. These patterns appear to move across the sky in a predictable way each night and throughout the year, making them useful for navigation and timekeeping.</p>
+<p>When we look at the gravitational force acting as the centripetal force, the expressions can be equated:
+\[
+F_g = F_c
+\]
+This leads to the equation:
+\[
+\frac{GMm}{r^2} = \frac{mv^2}{r}
+\]
+Here, \( G \) is the gravitational constant and \( M \) is the mass of the central body (such as the Sun or Earth). Simplifying this equation allows us to understand the relationships between the various forces and motions involved in orbital mechanics.</p>
+<div class="alert alert-block alert-warning">
+<b>Example:</b> Calculate the centripetal force acting on the Earth due to its orbit around the Sun.
+</div>
 <blockquote>
-<p>The ancient Greeks called the planets "asteres planetai," which means "wandering stars." Unlike the fixed stars, the planets change their positions relative to the background stars over days, weeks, and months.</p>
-</blockquote>
-<hr/>
-<h3 id="Constellations">Constellations<a class="anchor-link" href="#Constellations">¶</a></h3><p>Constellations are patterns of stars that have been identified and named by various cultures throughout history. Today, astronomers recognize 88 constellations that divide the sky into sectors, making it easier to locate celestial objects.</p>
-<p>The modern constellations are used not only to identify patterns of stars but also to define specific areas of the sky. Each constellation covers a region of the celestial sphere, so every point in the sky belongs to one of the 88 constellations. This system helps astronomers communicate about locations in the sky with precision.</p>
+<p>Given:</p>
 <blockquote>
-<p><strong>Did You Know?</strong> The modern meaning of a constellation includes not just the pattern of stars but also the region of the sky around it. For example, the constellation Orion is not just the familiar hunter figure but also the area of the sky where this pattern is found.</p>
+<p>Mass of Earth, \( m = 5.97 \times 10^{24} \, \text{kg} \)</p>
+<p>Velocity of Earth, \( v = 29.78 \, \text{km/s} = 2.978 \times 10^4 \, \text{m/s} \)</p>
+<p>Radius of Earth's orbit, \( r = 1.496 \times 10^{11} \, \text{m} \)</p>
 </blockquote>
-<img alt="Constellations on the Ecliptic" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit1/figures/Figure2_6.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
+<p>Solution:</p>
+<blockquote>
+<p>\[ F_c = \frac{(5.97 \times 10^{24} \, \text{kg})(2.978 \times 10^4 \, \text{m/s})^2}{1.496 \times 10^{11} \, \text{m}} \]</p>
+<p>\[ F_c \approx 3.54 \times 10^{22} \, \text{N} \]</p>
+</blockquote>
+</blockquote>
+<p>In this example, the immense centripetal force required to keep Earth in its orbit is provided by the gravitational pull of the Sun. This force constantly pulls Earth towards the Sun, balancing the inertia of Earth's motion, which attempts to move it in a straight line. This delicate balance is what maintains the stable orbit of our planet.</p>
 <hr/>
-<h3 id="Check-Your-Understanding">Check Your Understanding<a class="anchor-link" href="#Check-Your-Understanding">¶</a></h3><ol>
-<li><p>How many degrees does the Sun move per day relative to the fixed stars? How many days does it take for the Sun to return to its original location relative to the fixed stars?
-<br/><br/></p>
+<h2 id="Centripetal-Acceleration">Centripetal Acceleration<a class="anchor-link" href="#Centripetal-Acceleration">¶</a></h2><p>Centripetal acceleration is the acceleration experienced by an object moving in a circle at a constant speed, directed towards the center of the circle. This acceleration is what causes the object to change direction continuously.</p>
+<p><strong>Formula:</strong>
+\[
+a_c = \frac{v^2}{r}
+\]</p>
+<h3 id="Application-to-Circular-Orbits">Application to Circular Orbits<a class="anchor-link" href="#Application-to-Circular-Orbits">¶</a></h3><p>In circular orbits, the centripetal acceleration is provided by the gravitational force acting on the orbiting body.</p>
+<div class="alert alert-block alert-warning">
+<b>Example:</b> Calculate the centripetal acceleration of the Earth due to its orbit around the Sun.
+</div>
+<blockquote>
+<p>Given:</p>
+<blockquote>
+<p>Velocity of Earth, \( v = 29.78 \, \text{km/s} = 2.978 \times 10^4 \, \text{m/s} \)</p>
+<p>Radius of Earth's orbit, \( r = 1.496 \times 10^{11} \, \text{m} \)</p>
+</blockquote>
+<p>Solution:</p>
+<blockquote>
+<p>\[ a_c = \frac{(2.978 \times 10^4 \, \text{m/s})^2}{1.496 \times 10^{11} \, \text{m}} \]</p>
+<p>\[ a_c \approx 5.93 \times 10^{-3} \, \text{m/s}^2 \]</p>
+</blockquote>
+</blockquote>
+<hr/>
+<h2 id="Orbital-Speed">Orbital Speed<a class="anchor-link" href="#Orbital-Speed">¶</a></h2><p>Understanding the speed at which an object orbits a celestial body is crucial in astronomy. The orbital speed determines how long it takes for an object, such as a planet, moon, or satellite, to complete one full orbit around its primary body.</p>
+<p>By combining Newton's law of universal gravitation with the concept of centripetal force, we can derive the formula for orbital speed. This derivation provides insight into how gravitational forces and the mass of celestial bodies influence the motion of orbiting objects.</p>
+<h3 id="Derivation-of-Orbital-Speed">Derivation of Orbital Speed<a class="anchor-link" href="#Derivation-of-Orbital-Speed">¶</a></h3><p>To derive the orbital speed, we start with the fact that the gravitational force (\(F_g\)) acting on an object in orbit provides the necessary centripetal force (\(F_c\)) to keep it in circular motion.</p>
+<p><strong>Step-by-Step Derivation:</strong></p>
+<ol>
+<li><p><strong>Equate Gravitational Force to Centripetal Force:</strong>
+\[ 
+F_g = F_c 
+\]</p>
 </li>
-<li><p>The Moon's orbital period around Earth is approximately 27.3 days. How many degrees does the Moon move per day relative to the fixed stars?
-<br/><br/></p>
+<li><p><strong>Express Gravitational Force:</strong>
+\[
+F_g = \frac{GMm}{r^2}
+\]</p>
+<ul>
+<li>Where \(G\) is the gravitational constant, \(M\) is the mass of the central body, \(m\) is the mass of the orbiting object, and \(r\) is the radius of the orbit.</li>
+</ul>
 </li>
-<li><p>Is the ecliptic the same thing as the celestial equator? Explain.
-<br/><br/></p>
+<li><p><strong>Express Centripetal Force:</strong>
+\[
+F_c = \frac{mv^2}{r}
+\]</p>
+<ul>
+<li>Where \(v\) is the orbital speed.</li>
+</ul>
 </li>
-<li><p>Explain why more stars are circumpolar for observers at higher latitudes.
-<br/><br/></p>
+<li><p><strong>Set the Expressions Equal to Each Other:</strong>
+\[
+\frac{GMm}{r^2} = \frac{mv^2}{r}
+\]</p>
 </li>
-<li><p>What is the altitude of the north celestial pole in the sky from your latitude? (The latitude of Salt Spring Island, BC is approximately 49 degrees N.)
-<br/><br/></p>
+<li><p><strong>Simplify the Equation:</strong></p>
+<ul>
+<li>Cancel \(m\) from both sides:
+\[
+\frac{GM}{r^2} = \frac{v^2}{r}
+\]</li>
+<li>Multiply both sides by \(r\):
+\[
+\frac{GM}{r} = v^2
+\]</li>
+</ul>
 </li>
-<li><p>Suppose you are on a strange planet and observe, at night, that the stars do not rise and set, but circle parallel to the horizon. Next, you walk in a constant direction for 8000 miles, and at your new location on the planet, you find that all stars rise straight up in the east and set straight down in the west, perpendicular to the horizon. How could you determine the circumference of the planet without any further observations? What is the circumference, in miles, of the planet?
-<br/><br/></p>
+<li><p><strong>Solve for Orbital Speed (\(v\)):</strong>
+\[
+v = \sqrt{\frac{GM}{r}}
+\]</p>
 </li>
 </ol>
-<hr/>
-<h3 id="Resources">Resources<a class="anchor-link" href="#Resources">¶</a></h3><ul>
-<li>Astronomy (2016). Andrew Fraknoi, David Morrison, and Sidney C. Wolff.</li>
+<p>This formula shows that the orbital speed of an object depends on the gravitational constant (\(G\)), the mass of the central body (\(M\)), and the radius of the orbit (\(r\)).</p>
+<figure style="display: block; margin-left: auto; margin-right: auto; width: 600px;">
+<img alt="Orbital Speed" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit2/figures/orbital_speed.png" width="600"/>
+<figcaption style="text-align: center;">Figure 2: Orbital speed. The orbital speed of a satellite, planet, moon, etc. depends on the size of its orbit. The greater the radius, the slower the orbital speed.</figcaption>
+</figure>
+<h3 id="Importance-of-Orbital-Speed-in-Astronomy">Importance of Orbital Speed in Astronomy<a class="anchor-link" href="#Importance-of-Orbital-Speed-in-Astronomy">¶</a></h3><p>Understanding orbital speed is essential for:</p>
+<ul>
+<li><strong>Predicting Orbital Periods:</strong> The time it takes for an object to complete one orbit.</li>
+<li><strong>Satellite Deployment:</strong> Ensuring satellites remain in stable orbits.</li>
+<li><strong>Planetary Motion:</strong> Studying the dynamics of planets and their moons.</li>
+<li><strong>Space Missions:</strong> Planning trajectories for space probes and missions.</li>
 </ul>
+<p>Orbital speed helps astronomers and scientists comprehend the delicate balance of forces that keep celestial bodies in motion and ensures the stability of their orbits.</p>
+<p>By mastering the concept of orbital speed, we can better appreciate the intricate dance of planets, moons, and satellites in our universe.</p>
+<div class="alert alert-block alert-warning">
+<b>Example:</b> Calculate the orbital speed of a satellite orbiting the Earth at a height of 300 km above the surface.
+</div>
+<blockquote>
+<p>Given:</p>
+<blockquote>
+<p>Mass of Earth, \( M = 5.97 \times 10^{24} \, \text{kg} \)</p>
+<p>Radius of Earth, \( R = 6.371 \times 10^6 \, \text{m} \)</p>
+<p>Height above the surface, \( h = 300 \times 10^3 \, \text{m} \)</p>
+<p>Gravitational constant, \( G = 6.674 \times 10^{-11} \, \text{N m}^2/\text{kg}^2 \)</p>
+</blockquote>
+<p>Solution:</p>
+<blockquote>
+<p>\[ r = R + h = 6.371 \times 10^6 \, \text{m} + 300 \times 10^3 \, \text{m} = 6.671 \times 10^6 \, \text{m} \]</p>
+<p>\[ v = \sqrt{\frac{6.674 \times 10^{-11} \, \text{N m}^2/\text{kg}^2 \times 5.97 \times 10^{24} \, \text{kg}}{6.671 \times 10^6 \, \text{m}}} \]</p>
+<p>\[ v \approx 7.73 \times 10^3 \, \text{m/s} = 7.73 \, \text{km/s} \]</p>
+</blockquote>
+</blockquote>
+<hr/>
+<h2 id="Check-Your-Understanding">Check Your Understanding<a class="anchor-link" href="#Check-Your-Understanding">¶</a></h2><ol>
+<li>Calculate the centripetal force acting on a 1000 kg satellite orbiting the Earth at a height of 500 km above the surface.</li>
+</ol>
+<ol start="3">
+<li>Given a satellite orbiting Earth at a height where the radius of the orbit is 7,000 km, calculate the orbital speed of the satellite. Assume Earth's mass is \(5.97 \times 10^{24} \, \text{kg}\) and the gravitational constant \(G\) is \(6.674 \times 10^{-11} \, \text{N m}^2/\text{kg}^2\).
+<br/><br/></li>
+<li>Describe the relationship between the radius of an orbit and the orbital speed of a satellite. What happens to the speed if the radius increases?
+<br/><br/></li>
+<li>A moon orbits a planet at a radius of \(3.84 \times 10^8 \, \text{m}\) with an orbital speed of \(1.02 \times 10^3 \, \text{m/s}\). Calculate the mass of the planet.
+<br/><br/></li>
+<li>Calculate the centripetal acceleration of the Earth in its orbit around the Sun. Use the given values: velocity of Earth \(v = 29.78 \, \text{km/s}\) and radius of Earth's orbit \(r = 1.496 \times 10^{11} \, \text{m}\).
+<br/><br/></li>
+<li>Explain why satellites need to be launched at a specific speed to remain in stable orbit around the Earth. What would happen if the speed were too low or too high?
+<br/><br/></li>
+<li>A satellite completes one full orbit around Earth in 90 minutes. If the radius of the orbit is \(7.0 \times 10^6 \, \text{m}\), calculate the orbital speed of the satellite.</li>
+</ol>
+<blockquote>
+<p><strong>Hint:</strong> Use the formula for the circumference of a circle, \(C = 2 \pi r\), to find the distance traveled in one orbit.
+<br/><br/></p>
+</blockquote>
+<blockquote>
+<p><strong>Hint</strong>: The height above the surface is not the <em>entire</em> radius of the orbit).
+<br/><br/></p>
+</blockquote>
+<h3 id="Resources">Resources<a class="anchor-link" href="#Resources">¶</a></h3><ul>
+<li><strong>Astronomy (2016).</strong> Andrew Fraknoi, David Morrison, and Sidney C. Wolff.</li>
+<li><strong>An Introduction to Modern Astrophysics (2017).</strong> Bradley W. Carroll and Dale A. Ostlie.</li>
+</ul>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=917c1b03-db67-4b0c-9771-cea8628b1e42">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span> 
+</pre></div>
+</div>
 </div>
 </div>
 </div>

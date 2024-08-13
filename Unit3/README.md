@@ -12,7 +12,7 @@ This unit explores the fascinating life cycles of stars, from their formation in
 ### 3.2 Nuclear Fusion
    - Fusion Processes: The proton-proton chain and the CNO cycle.
    - Energy Generation: How nuclear fusion powers stars, focusing on temperature and pressure conditions in the stellar core.
-   - Helium Flash and Advanced Fusion Stages: The helium flash in low-mass stars and the fusion of heavier elements in massive stars.
+   - Creating Heavier Elements
 
 ### 3.3 Chemical Composition of Stars
    - Stellar Spectroscopy: Techniques to determine the chemical composition of stars.

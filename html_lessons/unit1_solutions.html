@@ -3,7 +3,7 @@
 <html lang="en">
 <head><meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>1_3_the_sky</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>unit1_solutions</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <style type="text/css">
     pre { line-height: 125%; }
 td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }
@@ -7517,59 +7517,185 @@ a.anchor-link {
 <!-- End of mermaid configuration --></head>
 <body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
 <main>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=a95961c6-be67-4def-89c5-522ac20f5e3d">
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=33a520b7-8dd4-4452-baad-41831658df29">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h1 id="1.3-The-Celestial-Sphere">1.3 The Celestial Sphere<a class="anchor-link" href="#1.3-The-Celestial-Sphere">¶</a></h1><h3 id="Introduction">Introduction<a class="anchor-link" href="#Introduction">¶</a></h3><p>Have you ever wondered why the stars seem to move across the sky each night, or why certain constellations are only visible during specific times of the year? To ancient astronomers, the heavens appeared as a vast, rotating dome with the Earth at its center. This imaginary dome, or <em>celestial sphere</em>, is a concept that has helped astronomers understand and describe the positions and movements of celestial objects for centuries. Today, we'll explore the celestial sphere and discover its significance in modern astronomy.</p>
-<div class="alert alert-block alert-success">
-<h4>Video</h4>
-<p>Watch <a href="https://www.youtube.com/watch?v=1Toya19H12w" target="_blank">this video</a> for a quick run-down of the celestial sphere and the motion of the stars.</p>
+<h1 id="Unit-1-Solutions">Unit 1 Solutions<a class="anchor-link" href="#Unit-1-Solutions">¶</a></h1><p>This notebook contains solutions and calculations for all relevant derivations, examples and Check Your Understanding problems for this unit.</p>
+<h1 id="1.2-The-Scale-of-the-Univers">1.2 The Scale of the Univers<a class="anchor-link" href="#1.2-The-Scale-of-the-Univers">¶</a></h1><blockquote>
+<p><strong>Derivation of a Light Year</strong>:
+Light travels at a speed of approximately 299,792 kilometers per second (km/s) in a vacuum.
+There are 60 seconds in a minute, 60 minutes in an hour, and 24 hours in a day.</p>
+<p>\[ \text{Speed of light} = 299,792 \, \text{km/s} \]</p>
+<p>\[ \text{Seconds in a minute} = 60 \]</p>
+<p>\[ \text{Minutes in an hour} = 60 \]</p>
+<p>\[ \text{Hours in a day} = 24 \]</p>
+<p>\[ \text{Days in a year} = 365.25 \]</p>
+<p>To find the distance light travels in one year:</p>
+<p>\[ \text{Distance} = \text{Speed} \times \text{Time} \]</p>
+<p>First, calculate the number of seconds in a year:</p>
+<p>\[ 60 \times 60 \times 24 \times 365.25 \approx 31,557,600 \, \text{seconds/year} \]</p>
+<p>Then, multiply the speed of light by the number of seconds in a year:</p>
+<p>\[ 299,792 \, \text{km/s} \times 31,557,600 \, \text{s/year} \approx 9.46 \times 10^{12} \, \text{kilometers/year} \]</p>
+<p>Therefore, one light-year is approximately 9.46 trillion kilometers.</p>
+</blockquote>
+<div class="alert alert-block alert-warning">
+<b>Example:</b> Calculate the distance to a star with a parallax angle of 0.1 arcseconds. 
 </div>
-<hr/>
-<h3 id="The-Celestial-Sphere">The Celestial Sphere<a class="anchor-link" href="#The-Celestial-Sphere">¶</a></h3><p>Imagine lying back on a clear night, gazing up at the stars. It feels as if you are inside a gigantic, hollow dome with the stars stuck onto its inner surface. This is the celestial sphere, an imaginary sphere of arbitrarily large radius, centered on the Earth, on which all celestial objects can be considered to lie. Although the celestial sphere is a simplification, it remains incredibly useful for locating stars, planets, and other celestial bodies in the sky.</p>
-<div class="alert alert-block alert-info">
-<b>Tip:</b> Think of the celestial sphere as a giant globe surrounding the Earth, with stars projected onto its inner surface.
-</div>
-<p>Key features of the celestial sphere include:</p>
-<ul>
-<li><strong>Zenith</strong>: The point directly overhead.</li>
-<li><strong>Horizon</strong>: The line where the sky appears to meet the Earth.</li>
-<li><strong>Celestial Poles</strong>: Extensions of Earth's North and South Poles onto the celestial sphere.</li>
-<li><strong>Celestial Equator</strong>: The projection of Earth's equator onto the celestial sphere.</li>
-</ul>
-<img alt="The Sky around Us" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit1/figures/Figure2_2.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
-<hr/>
-<h3 id="Celestial-Poles-and-Celestial-Equator">Celestial Poles and Celestial Equator<a class="anchor-link" href="#Celestial-Poles-and-Celestial-Equator">¶</a></h3><p>To understand the celestial sphere, imagine extending Earth's axis points into the sky. The points where this line intersects the celestial sphere are the north celestial pole and the south celestial pole. As Earth rotates about its axis, the sky appears to turn in the opposite direction around these celestial poles.</p>
 <blockquote>
-<p>The celestial equator divides the sky into the northern and southern celestial hemispheres, similar to how Earth's equator divides our planet.</p>
+<p>Using the formula:</p>
+<p>\[ \text{Distance (parsecs)} = \frac{1}{\text{parallax (arcseconds)}} \]
+\[ \text{Distance} = \frac{1}{0.1} = 10 \text{ parsecs} \]</p>
+<p>To convert parsecs to light-years, use the conversion factor:
+\[ 1 \text{ parsec} = 3.26 \text{ light-years} \]
+\[ 10 \text{ parsecs} = 10 \times 3.26 = 32.6 \text{ light-years} \]</p>
 </blockquote>
-<p>For example, if you stood at the North Pole, you would see the north celestial pole overhead at your zenith. The celestial equator would lie along your horizon. As you watch the stars during the course of the night, they would all circle around the celestial pole, with none rising or setting. Conversely, at the equator, you would see the celestial equator pass overhead through your zenith, and the celestial poles at the north and south points on your horizon.</p>
-<img alt="Circles on the Celestial Sphere" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit1/figures/Figure2_3.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
-<img alt="Circling the South Celestial Pole" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit1/figures/Figure2_4.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
-<hr/>
-<h3 id="Rising-and-Setting-of-the-Sun">Rising and Setting of the Sun<a class="anchor-link" href="#Rising-and-Setting-of-the-Sun">¶</a></h3><p>The Sun, Moon, and stars appear to rise in the east and set in the west due to Earth's rotation. This daily movement, known as diurnal motion, is one of the most familiar astronomical phenomena. The path the Sun appears to take across the celestial sphere over the course of a year is called the ecliptic. This path is inclined to the celestial equator due to the tilt of Earth's axis, leading to seasonal changes.</p>
-<blockquote>
-<p>Imagine standing in San Francisco, where the latitude is 38° N. The north celestial pole would be 38° above the northern horizon. As Earth turns, the whole sky seems to pivot about the north celestial pole. Stars within 38° of the North Pole never set, while stars within 38° of the south celestial pole never rise.</p>
-</blockquote>
-<img alt="The Celestial Tilt" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit1/figures/Figure2_7.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
-<hr/>
-<h3 id="Fixed-and-Wandering-Stars">Fixed and Wandering Stars<a class="anchor-link" href="#Fixed-and-Wandering-Stars">¶</a></h3><p>Ancient astronomers categorized celestial objects into "fixed stars" and "wandering stars." Fixed stars maintain fixed patterns relative to each other and form constellations. Wandering stars, known today as planets, move relative to the fixed stars.</p>
-<p>The fixed stars include most of the stars we see in the night sky. They form patterns that have been recognized and named as constellations. These patterns appear to move across the sky in a predictable way each night and throughout the year, making them useful for navigation and timekeeping.</p>
-<blockquote>
-<p>The ancient Greeks called the planets "asteres planetai," which means "wandering stars." Unlike the fixed stars, the planets change their positions relative to the background stars over days, weeks, and months.</p>
-</blockquote>
-<hr/>
-<h3 id="Constellations">Constellations<a class="anchor-link" href="#Constellations">¶</a></h3><p>Constellations are patterns of stars that have been identified and named by various cultures throughout history. Today, astronomers recognize 88 constellations that divide the sky into sectors, making it easier to locate celestial objects.</p>
-<p>The modern constellations are used not only to identify patterns of stars but also to define specific areas of the sky. Each constellation covers a region of the celestial sphere, so every point in the sky belongs to one of the 88 constellations. This system helps astronomers communicate about locations in the sky with precision.</p>
-<blockquote>
-<p><strong>Did You Know?</strong> The modern meaning of a constellation includes not just the pattern of stars but also the region of the sky around it. For example, the constellation Orion is not just the familiar hunter figure but also the area of the sky where this pattern is found.</p>
-</blockquote>
-<img alt="Constellations on the Ecliptic" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit1/figures/Figure2_6.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
-<hr/>
 <h3 id="Check-Your-Understanding">Check Your Understanding<a class="anchor-link" href="#Check-Your-Understanding">¶</a></h3><ol>
+<li><p><strong>Unit Conversion</strong>: The distance from Earth to Proxima Centauri is 4.24 light-years. Convert this distance to km, using appropriate scientific notation. How many Astonomical Units (AUs) would this be?
+<br/><br/></p>
+</li>
+<li><p><strong>Unit Conversion</strong>: Convert the distance from Earth to the Sun (150 million kilometers) into light-years (use scientific notation).
+<br/><br/></p>
+</li>
+<li><p><strong>Solar System Scale</strong>: If the Sun were the size of a basketball, how far would Neptune be in your model?
+<br/><br/></p>
+</li>
+<li><p><strong>Measuring Distances</strong>: Explain how parallax is used to measure the distance to nearby stars.
+<br/><br/></p>
+</li>
+<li><p><strong>Parallax</strong>: If a star has a parallax angle of 0.2 arcseconds, what is its distance from Earth in parsecs? Convert this distance to light-years and kilometers (using scientific notation).
+<br/><br/></p>
+</li>
+<li><p><strong>Observing the Universe</strong>: Reflect on the significance of the Hubble Deep Field images and what they reveal about the universe.
+<br/><br/></p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=37c4b9a5-1905-4fe6-aec4-7cd2faeab01f">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [13]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+
+<span class="c1"># Light year derivation</span>
+
+<span class="c1"># Speed of light in meters per second</span>
+<span class="n">c</span> <span class="o">=</span> <span class="mi">299792458</span>  <span class="c1"># m/s</span>
+
+<span class="c1"># Seconds in a year</span>
+<span class="n">t</span> <span class="o">=</span> <span class="mi">60</span> <span class="o">*</span> <span class="mi">60</span> <span class="o">*</span> <span class="mi">24</span> <span class="o">*</span> <span class="mf">365.25</span>  <span class="c1"># s/year</span>
+
+<span class="c1"># Distance of one light year in meters</span>
+<span class="n">ly</span> <span class="o">=</span> <span class="n">c</span> <span class="o">*</span> <span class="n">t</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'There are </span><span class="si">{</span><span class="n">t</span><span class="si">:</span><span class="s1">.3e</span><span class="si">}</span><span class="s1"> seconds in one year.'</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'Therefore, one light-year is approximately </span><span class="si">{</span><span class="n">ly</span><span class="si">:</span><span class="s1">.3e</span><span class="si">}</span><span class="s1"> meters.'</span><span class="p">)</span>
+
+<span class="c1"># Example calculation for parallax</span>
+
+<span class="c1"># Parallax angle in arcseconds</span>
+<span class="n">parallax_angle</span> <span class="o">=</span> <span class="mf">0.1</span>  <span class="c1"># arcseconds</span>
+
+<span class="c1"># Distance in parsecs</span>
+<span class="n">distance_parsecs</span> <span class="o">=</span> <span class="mi">1</span> <span class="o">/</span> <span class="n">parallax_angle</span>
+
+<span class="c1"># Convert parsecs to light-years</span>
+<span class="n">distance_ly</span> <span class="o">=</span> <span class="n">distance_parsecs</span> <span class="o">*</span> <span class="mf">3.26</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'The distance to the star is </span><span class="si">{</span><span class="n">distance_parsecs</span><span class="si">:</span><span class="s1">.2f</span><span class="si">}</span><span class="s1"> parsecs, which is </span><span class="si">{</span><span class="n">distance_ly</span><span class="si">:</span><span class="s1">.2f</span><span class="si">}</span><span class="s1"> light-years.'</span><span class="p">)</span>
+
+<span class="c1"># CYU 1 - Unit Conversion: Distance to Proxima Centauri</span>
+<span class="n">d_ly</span> <span class="o">=</span> <span class="mf">4.24</span>  <span class="c1"># light-years</span>
+
+<span class="c1"># Convert light-years to kilometers</span>
+<span class="n">d_km</span> <span class="o">=</span> <span class="n">d_ly</span> <span class="o">*</span> <span class="n">ly_km</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'The distance from Earth to Proxima Centauri is approximately </span><span class="si">{</span><span class="n">d_km</span><span class="si">:</span><span class="s1">.2e</span><span class="si">}</span><span class="s1"> kilometers.'</span><span class="p">)</span>
+
+<span class="c1"># Astronomical Unit (AU)</span>
+<span class="n">AU</span> <span class="o">=</span> <span class="mf">1.496e+8</span>  <span class="c1"># kilometers</span>
+
+<span class="c1"># Distance in AU</span>
+<span class="n">d_AU</span> <span class="o">=</span> <span class="n">d_km</span> <span class="o">/</span> <span class="n">AU</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'The distance from Earth to Proxima Centauri is approximately </span><span class="si">{</span><span class="n">d_AU</span><span class="si">:</span><span class="s1">.2e</span><span class="si">}</span><span class="s1"> AU.'</span><span class="p">)</span>
+
+<span class="c1"># CYU 2 - Unit Conversion: Distance to the Sun</span>
+<span class="n">d_sun_km</span> <span class="o">=</span> <span class="mf">150e+6</span>  <span class="c1"># kilometers</span>
+
+<span class="c1"># Convert distance to light-years</span>
+<span class="n">d_sun_ly</span> <span class="o">=</span> <span class="n">d_sun_km</span> <span class="o">/</span> <span class="n">ly_km</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'The distance from Earth to the Sun is approximately </span><span class="si">{</span><span class="n">d_sun_ly</span><span class="si">:</span><span class="s1">.2e</span><span class="si">}</span><span class="s1"> light-years.'</span><span class="p">)</span>
+
+<span class="c1"># CYU 3 - Solar System Scale: Neptune distance</span>
+<span class="c1"># If the Sun were the size of a basketball (24.26 cm diameter), how far would Neptune be?</span>
+<span class="c1"># Assume Sun's actual diameter is 1.3927e+6 km and Neptune's average distance from the Sun is 4.495e+9 km</span>
+<span class="n">sun_diameter_basketball_cm</span> <span class="o">=</span> <span class="mf">24.26</span>  <span class="c1"># cm</span>
+<span class="n">sun_diameter_actual_km</span> <span class="o">=</span> <span class="mf">1.3927e+6</span>  <span class="c1"># km</span>
+<span class="n">neptune_distance_actual_km</span> <span class="o">=</span> <span class="mf">4.495e+9</span>  <span class="c1"># km</span>
+
+<span class="c1"># Scale factor</span>
+<span class="n">scale_factor</span> <span class="o">=</span> <span class="n">sun_diameter_basketball_cm</span> <span class="o">/</span> <span class="n">sun_diameter_actual_km</span>
+
+<span class="c1"># Scaled distance to Neptune</span>
+<span class="n">neptune_distance_scaled_cm</span> <span class="o">=</span> <span class="n">neptune_distance_actual_km</span> <span class="o">*</span> <span class="n">scale_factor</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'If the Sun were the size of a basketball, Neptune would be approximately </span><span class="si">{</span><span class="n">neptune_distance_scaled_cm</span><span class="si">:</span><span class="s1">.2f</span><span class="si">}</span><span class="s1"> cm away.'</span><span class="p">)</span>
+
+<span class="c1"># CYU 5 - Parallax calculation</span>
+<span class="n">parallax_angle</span> <span class="o">=</span> <span class="mf">0.2</span>  <span class="c1"># arcseconds</span>
+
+<span class="c1"># Distance in parsecs</span>
+<span class="n">d_parsecs</span> <span class="o">=</span> <span class="mi">1</span> <span class="o">/</span> <span class="n">parallax_angle</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'The distance from Earth to the star is </span><span class="si">{</span><span class="n">d_parsecs</span><span class="si">:</span><span class="s1">.2f</span><span class="si">}</span><span class="s1"> parsecs.'</span><span class="p">)</span>
+
+<span class="c1"># Convert parsecs to light-years</span>
+<span class="n">d_ly</span> <span class="o">=</span> <span class="n">d_parsecs</span> <span class="o">*</span> <span class="mf">3.26</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'The distance from Earth to the star is </span><span class="si">{</span><span class="n">d_ly</span><span class="si">:</span><span class="s1">.2f</span><span class="si">}</span><span class="s1"> light-years.'</span><span class="p">)</span>
+
+<span class="c1"># Convert light-years to kilometers</span>
+<span class="n">d_km</span> <span class="o">=</span> <span class="n">d_ly</span> <span class="o">*</span> <span class="n">ly_km</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'The distance from Earth to the star is approximately </span><span class="si">{</span><span class="n">d_km</span><span class="si">:</span><span class="s1">.2e</span><span class="si">}</span><span class="s1"> kilometers.'</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>There are 3.156e+07 seconds in one year.
+Therefore, one light-year is approximately 9.461e+15 meters.
+The distance to the star is 10.00 parsecs, which is 32.60 light-years.
+The distance from Earth to Proxima Centauri is approximately 4.01e+13 kilometers.
+The distance from Earth to Proxima Centauri is approximately 2.68e+05 AU.
+The distance from Earth to the Sun is approximately 1.59e-05 light-years.
+If the Sun were the size of a basketball, Neptune would be approximately 78300.21 cm away.
+The distance from Earth to the star is 5.00 parsecs.
+The distance from Earth to the star is 16.30 light-years.
+The distance from Earth to the star is approximately 1.54e+14 kilometers.
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=40347c58-3d34-4e47-8714-cd85d42fdf01">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h2 id="1.3-The-Celestial-Sphere">1.3 The Celestial Sphere<a class="anchor-link" href="#1.3-The-Celestial-Sphere">¶</a></h2><h3 id="Check-Your-Understanding">Check Your Understanding<a class="anchor-link" href="#Check-Your-Understanding">¶</a></h3><ol>
 <li><p>How many degrees does the Sun move per day relative to the fixed stars? How many days does it take for the Sun to return to its original location relative to the fixed stars?
 <br/><br/></p>
 </li>
@@ -7589,10 +7715,398 @@ a.anchor-link {
 <br/><br/></p>
 </li>
 </ol>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=55eb2bad-0304-4178-8882-29dc308347f2">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [8]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># CYU 1 - Sun's movement</span>
+<span class="n">days_in_year</span> <span class="o">=</span> <span class="mf">365.25</span>
+<span class="n">degrees_per_day</span> <span class="o">=</span> <span class="mi">360</span> <span class="o">/</span> <span class="n">days_in_year</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'The Sun moves approximately </span><span class="si">{</span><span class="n">degrees_per_day</span><span class="si">:</span><span class="s1">.2f</span><span class="si">}</span><span class="s1"> degrees per day relative to the fixed stars.'</span><span class="p">)</span>
+<span class="c1"># CYU 2 - Moon's movement</span>
+<span class="n">moon_orbital_period_days</span> <span class="o">=</span> <span class="mf">27.3</span>
+<span class="n">degrees_per_day_moon</span> <span class="o">=</span> <span class="mi">360</span> <span class="o">/</span> <span class="n">moon_orbital_period_days</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'The Moon moves approximately </span><span class="si">{</span><span class="n">degrees_per_day_moon</span><span class="si">:</span><span class="s1">.2f</span><span class="si">}</span><span class="s1"> degrees per day relative to the fixed stars.'</span><span class="p">)</span>
+<span class="c1"># CYU 5 - Altitude of the north celestial pole</span>
+<span class="n">latitude_salt_spring_island</span> <span class="o">=</span> <span class="mi">49</span>  <span class="c1"># degrees N</span>
+<span class="n">altitude_north_celestial_pole</span> <span class="o">=</span> <span class="n">latitude_salt_spring_island</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'The altitude of the north celestial pole in the sky from Salt Spring Island, BC is </span><span class="si">{</span><span class="n">altitude_north_celestial_pole</span><span class="si">:</span><span class="s1">.2f</span><span class="si">}</span><span class="s1"> degrees.'</span><span class="p">)</span>
+<span class="c1"># CYU 6 - Circumference of the planet</span>
+<span class="n">distance_walked_miles</span> <span class="o">=</span> <span class="mi">8000</span>  <span class="c1"># miles</span>
+
+<span class="c1"># When stars rise straight up in the east and set straight down in the west, it means you have traveled from the pole to the equator, which is 1/4 of the planet's circumference</span>
+<span class="n">circumference_planet</span> <span class="o">=</span> <span class="mi">4</span> <span class="o">*</span> <span class="n">distance_walked_miles</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'The circumference of the planet is approximately </span><span class="si">{</span><span class="n">circumference_planet</span><span class="si">}</span><span class="s1"> miles.'</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>The Sun moves approximately 0.99 degrees per day relative to the fixed stars.
+The Moon moves approximately 13.19 degrees per day relative to the fixed stars.
+The altitude of the north celestial pole in the sky from Salt Spring Island, BC is 49.00 degrees.
+The circumference of the planet is approximately 32000 miles.
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=5841afec-71f4-417b-9dfb-0e9d205201d5">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h1 id="1.4-The-Brightness-of-Stars">1.4 The Brightness of Stars<a class="anchor-link" href="#1.4-The-Brightness-of-Stars">¶</a></h1><div class="alert alert-block alert-warning">
+<b>Example:</b> Calculating the Solar Flux at Different Distances
+</div>
+<blockquote>
+<p>The luminosity of the Sun is \( 3.839 \times 10^{26} \) W and is at a distance of 1 AU (astronomical unit) away from Earth, which is \( 1.496 \times 10^{11} \) meters.</p>
+<p>Earth receives a radiant flux above its absorbing atmosphere given by:</p>
+<blockquote>
+<p>\[ F = \frac{L}{4\pi r^2} \]</p>
+<p>\[ F = \frac{3.839 \times 10^{26}}{4\pi (1.496 \times 10^{11})^2} \]</p>
+<p>\[ F \approx 1365 \, \text{W/m}^2 \]</p>
+</blockquote>
+<p>This value of the solar flux is known as the <strong>solar irradiance</strong>, sometimes also called the solar constant.</p>
+</blockquote>
+<div class="alert alert-block alert-warning">
+<b>Example:</b> Suppose an astronomer has discovered something special about a dim star with a magnitude of 8.5 and wants to explain how much dimmer this star is compared to Sirius. We'll use the dim star as Star 1 and Sirius as Star 2 in our equation.
+</div>
+<blockquote>
+<p>Given:</p>
+<blockquote>
+<p>Dim star magnitude, \( m_1 = 8.5 \)</p>
+<p>Sirius magnitude, \( m_2 = -1.5 \)</p>
+</blockquote>
+<p>Solution:</p>
+<blockquote>
+<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{8.5 - (-1.5)} \]</p>
+<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{10} \]</p>
+<p>\[ \frac{F_2}{F_1} = (100)^2 = 100 \times 100 = 10,000 \]</p>
+<p>Therefore, the dim star is 10,000 times dimmer than Sirius.</p>
+</blockquote>
+</blockquote>
+<div class="alert alert-block alert-warning">
+<b>Example:</b> It is a common misconception that Polaris (magnitude 2.0) is the brightest star in the sky. However, Sirius, with a magnitude of -1.5, holds that title. Let's compare the apparent brightness of Sirius to Polaris.
+</div>
+<blockquote>
+<p>Given:</p>
+<blockquote>
+<p>Polaris magnitude, \( m_1 = 2.0 \)</p>
+<p>Sirius magnitude, \( m_2 = -1.5 \)</p>
+</blockquote>
+<p>Solution:</p>
+<blockquote>
+<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{2.0 - (-1.5)} \]</p>
+<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{3.5} \]</p>
+<p>\[ \frac{F_2}{F_1} = 100^{0.7} = 25 \]</p>
+</blockquote>
+<p>Our calculation shows that Sirius’ apparent brightness is 25 times greater than Polaris’ apparent brightness.</p>
+</blockquote>
+<div class="alert alert-block alert-warning">
+<b>Example:</b> Calculating the Absolute Magnitude of the Sun
+</div>
+<blockquote>
+<p>The apparent magnitude of the Sun, \( m_{\text{Sun}} \), is \( -26.83 \), and its distance from Earth is 1 AU, which is \( 4.848 \times 10^{-6} \) parsecs. Using the formula for absolute magnitude:</p>
+<p>\[ M_{\text{Sun}} = m_{\text{Sun}} - 5 \log_{10}(d) + 5 \]</p>
+<p>we can calculate the absolute magnitude of the Sun.</p>
+<p>\[ M_{\text{Sun}} = m_{\text{Sun}} - 5 \log_{10}(d) + 5 \]</p>
+<p>\[ M_{\text{Sun}} = -26.83 - 5 \log_{10}(4.848 \times 10^{-6}) + 5 \]</p>
+<p>Since \( \log_{10}(4.848 \times 10^{-6}) \approx -5.315 \):</p>
+<p>\[ M_{\text{Sun}} = -26.83 - 5(-5.315) + 5 \]</p>
+<p>\[ M_{\text{Sun}} = -26.83 + 26.575 + 5 \]</p>
+<p>\[ M_{\text{Sun}} = 4.74 \]</p>
+<blockquote>
+<p>Thus, the absolute magnitude of the Sun is \( +4.74 \).</p>
+</blockquote>
+</blockquote>
 <hr/>
-<h3 id="Resources">Resources<a class="anchor-link" href="#Resources">¶</a></h3><ul>
-<li>Astronomy (2016). Andrew Fraknoi, David Morrison, and Sidney C. Wolff.</li>
-</ul>
+<h2 id="Check-Your-Understanding">Check Your Understanding<a class="anchor-link" href="#Check-Your-Understanding">¶</a></h2><ol>
+<li><strong>Flux and Luminosity</strong>: Given a star with a luminosity of \( 4 \times 10^{26} \) watts and a distance of 2 parsecs, calculate the flux received on Earth.
+<br/><br/></li>
+<li><strong>Absolute Magnitude</strong>: If a star has an apparent magnitude of 7 and is located 50 parsecs away, what is its absolute magnitude?
+<br/><br/></li>
+<li><strong>Apparent Brightness</strong>: Two stars have apparent magnitudes of 3 and 5. Calculate the ratio of their fluxes.
+<br/><br/></li>
+<li><strong>Distance Modulus</strong>: Calculate the distance to a star with an apparent magnitude of 10 and an absolute magnitude of 2.
+<br/><br/></li>
+<li><strong>Flux</strong>: At what distance from a 100-W light bulb is the radiant flux equal to the solar irradiance?
+<br/><br/></li>
+<li><strong>Bonus</strong>: Derive the relation</li>
+</ol>
+<p>\[m = M_{Sun} − 2.5 \log_{10}(\frac{F}{F_{10,Sun}})\]</p>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=d1ab3458-3530-458f-aace-c3b244cae685">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [10]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Example - Solar Flux at Different Distances</span>
+
+<span class="c1"># Given values</span>
+<span class="n">L_sun</span> <span class="o">=</span> <span class="mf">3.839e26</span>  <span class="c1"># watts</span>
+<span class="n">r_earth_sun_m</span> <span class="o">=</span> <span class="mf">1.496e11</span>  <span class="c1"># meters</span>
+
+<span class="c1"># Calculate the flux</span>
+<span class="n">F_earth</span> <span class="o">=</span> <span class="n">L_sun</span> <span class="o">/</span> <span class="p">(</span><span class="mi">4</span> <span class="o">*</span> <span class="n">np</span><span class="o">.</span><span class="n">pi</span> <span class="o">*</span> <span class="n">r_earth_sun_m</span><span class="o">**</span><span class="mi">2</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'The solar flux received on Earth is approximately </span><span class="si">{</span><span class="n">F_earth</span><span class="si">:</span><span class="s1">.2f</span><span class="si">}</span><span class="s1"> W/m^2.'</span><span class="p">)</span>
+
+<span class="c1"># Example - Comparing brightness of dim star and Sirius</span>
+
+<span class="c1"># Given magnitudes</span>
+<span class="n">m1</span> <span class="o">=</span> <span class="mf">8.5</span>
+<span class="n">m2</span> <span class="o">=</span> <span class="o">-</span><span class="mf">1.5</span>
+
+<span class="c1"># Calculate the flux ratio</span>
+<span class="n">flux_ratio</span> <span class="o">=</span> <span class="p">(</span><span class="mi">100</span><span class="o">**</span><span class="mf">0.2</span><span class="p">)</span><span class="o">**</span><span class="p">(</span><span class="n">m1</span> <span class="o">-</span> <span class="n">m2</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'The dim star is </span><span class="si">{</span><span class="n">flux_ratio</span><span class="si">:</span><span class="s1">.2f</span><span class="si">}</span><span class="s1"> times dimmer than Sirius.'</span><span class="p">)</span>
+
+<span class="c1"># Example - Comparing brightness of Sirius and Polaris</span>
+
+<span class="c1"># Given magnitudes</span>
+<span class="n">m1</span> <span class="o">=</span> <span class="mf">2.0</span>
+<span class="n">m2</span> <span class="o">=</span> <span class="o">-</span><span class="mf">1.5</span>
+
+<span class="c1"># Calculate the flux ratio</span>
+<span class="n">flux_ratio</span> <span class="o">=</span> <span class="p">(</span><span class="mi">100</span><span class="o">**</span><span class="mf">0.2</span><span class="p">)</span><span class="o">**</span><span class="p">(</span><span class="n">m1</span> <span class="o">-</span> <span class="n">m2</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'Sirius is </span><span class="si">{</span><span class="n">flux_ratio</span><span class="si">:</span><span class="s1">.2f</span><span class="si">}</span><span class="s1"> times brighter than Polaris.'</span><span class="p">)</span>
+
+<span class="c1"># Example - Absolute Magnitude of the Sun</span>
+
+<span class="c1"># Given values</span>
+<span class="n">m_sun</span> <span class="o">=</span> <span class="o">-</span><span class="mf">26.83</span>
+<span class="n">d_sun_parsecs</span> <span class="o">=</span> <span class="mf">4.848e-6</span>  <span class="c1"># parsecs</span>
+
+<span class="c1"># Calculate the absolute magnitude</span>
+<span class="n">M_sun</span> <span class="o">=</span> <span class="n">m_sun</span> <span class="o">-</span> <span class="mi">5</span> <span class="o">*</span> <span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">log10</span><span class="p">(</span><span class="n">d_sun_parsecs</span><span class="p">)</span> <span class="o">-</span> <span class="mi">1</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'The absolute magnitude of the Sun is </span><span class="si">{</span><span class="n">M_sun</span><span class="si">:</span><span class="s1">.2f</span><span class="si">}</span><span class="s1">.'</span><span class="p">)</span>
+
+<span class="c1"># CYU 1 - Flux and Luminosity</span>
+
+<span class="c1"># Given luminosity of the star</span>
+<span class="n">L_star</span> <span class="o">=</span> <span class="mf">4e26</span>  <span class="c1"># watts</span>
+
+<span class="c1"># Distance to the star in parsecs</span>
+<span class="n">d_parsecs</span> <span class="o">=</span> <span class="mi">2</span>  <span class="c1"># parsecs</span>
+
+<span class="c1"># Convert distance from parsecs to meters (1 parsec ≈ 3.086e16 meters)</span>
+<span class="n">d_meters</span> <span class="o">=</span> <span class="n">d_parsecs</span> <span class="o">*</span> <span class="mf">3.086e16</span>
+
+<span class="c1"># Calculate the flux</span>
+<span class="n">F_star</span> <span class="o">=</span> <span class="n">L_star</span> <span class="o">/</span> <span class="p">(</span><span class="mi">4</span> <span class="o">*</span> <span class="n">np</span><span class="o">.</span><span class="n">pi</span> <span class="o">*</span> <span class="n">d_meters</span><span class="o">**</span><span class="mi">2</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'The flux received on Earth from the star is approximately </span><span class="si">{</span><span class="n">F_star</span><span class="si">:</span><span class="s1">.2e</span><span class="si">}</span><span class="s1"> W/m^2.'</span><span class="p">)</span>
+
+<span class="c1"># CYU 2 - Absolute Magnitude</span>
+
+<span class="c1"># Given apparent magnitude of the star</span>
+<span class="n">m_star</span> <span class="o">=</span> <span class="mi">7</span>
+
+<span class="c1"># Distance to the star in parsecs</span>
+<span class="n">d_star</span> <span class="o">=</span> <span class="mi">50</span>  <span class="c1"># parsecs</span>
+
+<span class="c1"># Calculate absolute magnitude using the distance modulus formula</span>
+<span class="n">M_star</span> <span class="o">=</span> <span class="n">m_star</span> <span class="o">-</span> <span class="mi">5</span> <span class="o">*</span> <span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">log10</span><span class="p">(</span><span class="n">d_star</span><span class="p">)</span> <span class="o">-</span> <span class="mi">1</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'The absolute magnitude of the star is </span><span class="si">{</span><span class="n">M_star</span><span class="si">:</span><span class="s1">.2f</span><span class="si">}</span><span class="s1">.'</span><span class="p">)</span>
+<span class="c1"># CYU 3 - Apparent Brightness</span>
+
+<span class="c1"># Given apparent magnitudes of two stars</span>
+<span class="n">m1</span> <span class="o">=</span> <span class="mi">3</span>
+<span class="n">m2</span> <span class="o">=</span> <span class="mi">5</span>
+
+<span class="c1"># Calculate the ratio of their fluxes</span>
+<span class="n">flux_ratio</span> <span class="o">=</span> <span class="mi">100</span><span class="o">**</span><span class="p">((</span><span class="n">m2</span> <span class="o">-</span> <span class="n">m1</span><span class="p">)</span> <span class="o">/</span> <span class="mi">5</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'The ratio of the fluxes of the two stars is </span><span class="si">{</span><span class="n">flux_ratio</span><span class="si">:</span><span class="s1">.2f</span><span class="si">}</span><span class="s1">.'</span><span class="p">)</span>
+<span class="c1"># CYU 4 - Distance Modulus</span>
+
+<span class="c1"># Given apparent magnitude and absolute magnitude of the star</span>
+<span class="n">m_star</span> <span class="o">=</span> <span class="mi">10</span>
+<span class="n">M_star</span> <span class="o">=</span> <span class="mi">2</span>
+
+<span class="c1"># Calculate the distance to the star using the distance modulus formula</span>
+<span class="n">d_star</span> <span class="o">=</span> <span class="mi">10</span><span class="o">**</span><span class="p">((</span><span class="n">m_star</span> <span class="o">-</span> <span class="n">M_star</span> <span class="o">+</span> <span class="mi">5</span><span class="p">)</span> <span class="o">/</span> <span class="mi">5</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'The distance to the star is </span><span class="si">{</span><span class="n">d_star</span><span class="si">:</span><span class="s1">.2f</span><span class="si">}</span><span class="s1"> parsecs.'</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>The solar flux received on Earth is approximately 1365.04 W/m^2.
+The dim star is 10000.00 times dimmer than Sirius.
+Sirius is 25.12 times brighter than Polaris.
+The absolute magnitude of the Sun is 4.74.
+The flux received on Earth from the star is approximately 8.36e-09 W/m^2.
+The absolute magnitude of the star is 3.51.
+The ratio of the fluxes of the two stars is 6.31.
+The distance to the star is 398.11 parsecs.
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=4098e8d5-59b1-4727-8b90-533674ee1f1f">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<h3 id="1.5-Consequences-of-Light-Travel-Time">1.5 Consequences of Light Travel Time<a class="anchor-link" href="#1.5-Consequences-of-Light-Travel-Time">¶</a></h3><div class="alert alert-block alert-warning">
+<b>Example:</b> Imagine astronomers observe a Cepheid variable star in a nearby galaxy. The observed apparent magnitude of the star is 15.2, and its absolute magnitude is known to be -3.4. Calculate the distance to the Cepheid variable star.
+</div>
+<blockquote>
+<p><strong>Solution</strong>:</p>
+<ol>
+<li><strong>Formula</strong>: The distance modulus formula relates the apparent magnitude (\(m\)) and absolute magnitude (\(M\)) of a star to its distance in parsecs (\(d\)):
+\[
+m - M = 5 \log_{10}(d) - 5
+\]</li>
+<li><strong>Rearrange the Formula to Solve for Distance</strong>:
+\[
+m - M + 5 = 5 \log_{10}(d)
+\]
+\[
+\frac{m - M + 5}{5} = \log_{10}(d)
+\]
+\[
+d = 10^{\left( \frac{m - M + 5}{5} \right)}
+\]</li>
+<li><strong>Substitute the Given Values</strong>: \(m = 15.2\), \(M = -3.4\)
+\[
+d = 10^{\left( \frac{15.2 - (-3.4) + 5}{5} \right)}
+\]
+\[
+d = 10^{\left( \frac{15.2 + 3.4 + 5}{5} \right)}
+\]
+\[
+d = 10^{\left( \frac{23.6}{5} \right)}
+\]
+\[
+d = 10^{4.72}
+\]</li>
+<li><strong>Calculate the Distance</strong>:
+\[
+d \approx 52,480 \text{ parsecs}
+\]</li>
+</ol>
+<blockquote>
+<p>Therefore, the distance to the Cepheid variable star is approximately 52,480 parsecs.</p>
+</blockquote>
+</blockquote>
+<h2 id="Check-Your-Understanding">Check Your Understanding<a class="anchor-link" href="#Check-Your-Understanding">¶</a></h2><ol>
+<li><p><strong>Reflect on Historical Contributions</strong>: How did early experiments by Ole Rømer and Albert A. Michelson contribute to our understanding of light travel time?
+<br/><br/></p>
+</li>
+<li><p><strong>Unit Conversion</strong>: The distance from Earth to Proxima Centauri is 4.24 light-years. Convert this distance to kilometers.
+<br/><br/></p>
+</li>
+<li><p><strong>Parallax Calculation</strong>: If a star has a parallax angle of 0.2 arcseconds, what is its distance from Earth in parsecs? Convert this distance to light-years.
+<br/><br/></p>
+</li>
+<li><p><strong>Observing the Past</strong>: Explain how observing distant galaxies allows astronomers to study the early universe.
+<br/><br/></p>
+</li>
+<li><p><strong>Future Telescopes</strong>: Discuss the potential impact of the James Webb Space Telescope on our understanding of the universe.
+<br/><br/></p>
+</li>
+</ol>
+<p>Imagine astronomers observe a supernova in a distant galaxy. The light from the supernova, which occurred 163 years ago, has just reached Earth. Determine the parallax angle of the supernova.</p>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell" id="cell-id=a252b2dc-2ec0-4e8d-8777-14c69f8989d7">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [11]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Example - Distance to Cepheid Variable Star</span>
+
+<span class="c1"># Given values</span>
+<span class="n">m_cepheid</span> <span class="o">=</span> <span class="mf">15.2</span>
+<span class="n">M_cepheid</span> <span class="o">=</span> <span class="o">-</span><span class="mf">3.4</span>
+
+<span class="c1"># Calculate the distance using the distance modulus formula</span>
+<span class="n">d_cepheid</span> <span class="o">=</span> <span class="mi">10</span><span class="o">**</span><span class="p">((</span><span class="n">m_cepheid</span> <span class="o">-</span> <span class="n">M_cepheid</span> <span class="o">+</span> <span class="mi">5</span><span class="p">)</span> <span class="o">/</span> <span class="mi">5</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'The distance to the Cepheid variable star is approximately </span><span class="si">{</span><span class="n">d_cepheid</span><span class="si">:</span><span class="s1">.2f</span><span class="si">}</span><span class="s1"> parsecs.'</span><span class="p">)</span>
+<span class="c1"># CYU 2 - Unit Conversion: Distance to Proxima Centauri</span>
+<span class="n">d_ly</span> <span class="o">=</span> <span class="mf">4.24</span>  <span class="c1"># light-years</span>
+
+<span class="c1"># Convert light-years to kilometers</span>
+<span class="n">d_km</span> <span class="o">=</span> <span class="n">d_ly</span> <span class="o">*</span> <span class="n">ly_km</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'The distance from Earth to Proxima Centauri is approximately </span><span class="si">{</span><span class="n">d_km</span><span class="si">:</span><span class="s1">.2e</span><span class="si">}</span><span class="s1"> kilometers.'</span><span class="p">)</span>
+
+<span class="c1"># CYU 3 - Parallax Calculation</span>
+<span class="n">parallax_angle</span> <span class="o">=</span> <span class="mf">0.2</span>  <span class="c1"># arcseconds</span>
+
+<span class="c1"># Distance in parsecs</span>
+<span class="n">d_parsecs</span> <span class="o">=</span> <span class="mi">1</span> <span class="o">/</span> <span class="n">parallax_angle</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'The distance from Earth to the star is </span><span class="si">{</span><span class="n">d_parsecs</span><span class="si">:</span><span class="s1">.2f</span><span class="si">}</span><span class="s1"> parsecs.'</span><span class="p">)</span>
+
+<span class="c1"># Convert parsecs to light-years</span>
+<span class="n">d_ly</span> <span class="o">=</span> <span class="n">d_parsecs</span> <span class="o">*</span> <span class="mf">3.26</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">'The distance from Earth to the star is </span><span class="si">{</span><span class="n">d_ly</span><span class="si">:</span><span class="s1">.2f</span><span class="si">}</span><span class="s1"> light-years.'</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+<div class="jp-OutputArea jp-Cell-outputArea">
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>The distance to the Cepheid variable star is approximately 52480.75 parsecs.
+The distance from Earth to Proxima Centauri is approximately 4.01e+13 kilometers.
+The distance from Earth to the star is 5.00 parsecs.
+The distance from Earth to the star is 16.30 light-years.
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=92b42800-4d56-4b11-aaad-ad4f9221acbf">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span> 
+</pre></div>
+</div>
 </div>
 </div>
 </div>

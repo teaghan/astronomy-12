@@ -7291,40 +7291,47 @@ a.anchor-link {
   }
 }
 </style>
+
+
+
+
+
+
+
 <!-- Load mathjax -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS_CHTML-full,Safe"> </script>
 <!-- MathJax configuration -->
 <script type="text/x-mathjax-config">
-    init_mathjax = function() {
-        if (window.MathJax) {
-        // MathJax loaded
-            MathJax.Hub.Config({
-                TeX: {
-                    equationNumbers: {
-                    autoNumber: "AMS",
-                    useLabelIds: true
-                    }
-                },
-                tex2jax: {
-                    inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-                    displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
-                    processEscapes: true,
-                    processEnvironments: true
-                },
-                displayAlign: 'center',
-                CommonHTML: {
-                    linebreaks: {
-                    automatic: true
-                    }
-                }
-            });
-
-            MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+    MathJax.Hub.Config({
+        TeX: {
+            equationNumbers: {
+                autoNumber: "AMS",
+                useLabelIds: true
+            }
+        },
+        tex2jax: {
+            inlineMath: [ ['\\(','\\)']],
+            displayMath: [ ['\\[','\\]']],
+            processEscapes: true,
+            processEnvironments: true
+        },
+        displayAlign: 'center',
+        CommonHTML: {
+            linebreaks: {
+                automatic: true
+            }
         }
-    }
-    init_mathjax();
-    </script>
+    });
+    MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+</script>
 <!-- End of mathjax configuration --><script type="module">
+
+
+
+
+
+
+
   document.addEventListener("DOMContentLoaded", async () => {
     const diagrams = document.querySelectorAll(".jp-Mermaid > pre.mermaid");
     // do not load mermaidjs if not needed
@@ -7452,7 +7459,7 @@ a.anchor-link {
       if (!rest.endsWith('/')) {
         rest = `${rest} /`;
       }
-      return `<${tag} ${rest}>`;
+      return `<\({tag} \){rest}>`;
     }
 
     void Promise.all([...diagrams].map(renderOneMarmaid));
@@ -7522,14 +7529,14 @@ a.anchor-link {
 <p>Watch <a href="https://www.youtube.com/watch?v=WYQ3O8U6SMY" target="_blank">this video</a> for a discussion on the scale of the universe. It includes the distances and sizes of celestial objects and provides a visual representation of the concepts covered in this lesson.</p>
 </div>
 <hr/>
-<h2 id="Scientific-Notation">Scientific Notation<a class="anchor-link" href="#Scientific-Notation">¶</a></h2><p>To understand the vast distances and sizes in the universe, we need to use scientific notation. This method allows us to express very large and very small numbers in a manageable way. For example, the distance from the Earth to the Sun is about 150,000,000 kilometers, which can be written as $1.5 \times 10^8$ kilometers.</p>
+<h2 id="Scientific-Notation">Scientific Notation<a class="anchor-link" href="#Scientific-Notation">¶</a></h2><p>To understand the vast distances and sizes in the universe, we need to use scientific notation. This method allows us to express very large and very small numbers in a manageable way. For example, the distance from the Earth to the Sun is about 150,000,000 kilometers, which can be written as \(1.5 \times 10^8\) kilometers.</p>
 <blockquote>
-<p>One way to think of scientific notation is to think of how many digits to you have to move the decimal place (postivie exponents to the right, negative exponents to the left). For example, $3.8 \times 10^{3}=3800$, whereas $3.8 \times 10^{-3}=0.0038$</p>
+<p>One way to think of scientific notation is to think of how many digits to you have to move the decimal place (postivie exponents to the right, negative exponents to the left). For example, \(3.8 \times 10^{3}=3800\), whereas \(3.8 \times 10^{-3}=0.0038\)</p>
 </blockquote>
 <hr/>
 <h2 id="The-Size-and-Scale-of-the-Solar-System">The Size and Scale of the Solar System<a class="anchor-link" href="#The-Size-and-Scale-of-the-Solar-System">¶</a></h2><p>The solar system is our cosmic neighborhood, and its scale is immense. The Sun, the central star, has a diameter of about 1.4 million kilometers. Earth, the third planet from the Sun, has a diameter of about 12,700 kilometers. The average distance from Earth to the Sun is approximately 150 million kilometers, also known as 1 Astronomical Unit (AU).</p>
 <blockquote>
-<p>1 Astronomical Unit (AU) is equivalent to $1.496 \times 10^{11}$ meters.</p>
+<p>1 Astronomical Unit (AU) is equivalent to \(1.496 \times 10^{11}\) meters.</p>
 </blockquote>
 <p>Imagine if the Sun were the size of a basketball. In this model, Earth would be a small apple seed 30 meters away.</p>
 <img alt="Our Solar Family" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit1/figures/Our_Solar_Family.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
@@ -7539,17 +7546,17 @@ a.anchor-link {
 <p><strong>Derivation of a Light Year</strong>:</p>
 <p>Light travels at a speed of approximately 299,792 kilometers per second (km/s) in a vacuum.
 There are 60 seconds in a minute, 60 minutes in an hour, and 24 hours in a day.</p>
-<p>$$ \text{Speed of light} = 299,792 \, \text{km/s} $$</p>
-<p>$$ \text{Seconds in a minute} = 60 $$</p>
-<p>$$ \text{Minutes in an hour} = 60 $$</p>
-<p>$$ \text{Hours in a day} = 24 $$</p>
-<p>$$ \text{Days in a year} = 365.25 $$</p>
+<p>\[ \text{Speed of light} = 299,792 \, \text{km/s} \]</p>
+<p>\[ \text{Seconds in a minute} = 60 \]</p>
+<p>\[ \text{Minutes in an hour} = 60 \]</p>
+<p>\[ \text{Hours in a day} = 24 \]</p>
+<p>\[ \text{Days in a year} = 365.25 \]</p>
 <p>To find the distance light travels in one year:</p>
-<p>$$ \text{Distance} = \text{Speed} \times \text{Time} $$</p>
+<p>\[ \text{Distance} = \text{Speed} \times \text{Time} \]</p>
 <p>First, calculate the number of seconds in a year:</p>
-<p>$$ 60 \times 60 \times 24 \times 365.25 \approx 31,557,600 \, \text{seconds/year} $$</p>
+<p>\[ 60 \times 60 \times 24 \times 365.25 \approx 31,557,600 \, \text{seconds/year} \]</p>
 <p>Then, multiply the speed of light by the number of seconds in a year:</p>
-<p>$$ 299,792 \, \text{km/s} \times 31,557,600 \, \text{s/year} \approx 9.46 \times 10^{12} \, \text{kilometers/year} $$</p>
+<p>\[ 299,792 \, \text{km/s} \times 31,557,600 \, \text{s/year} \approx 9.46 \times 10^{12} \, \text{kilometers/year} \]</p>
 <p>Therefore, one light-year is approximately 9.46 trillion kilometers.</p>
 </blockquote>
 <h3 id="Parallax:-Measuring-Stellar-Distances">Parallax: Measuring Stellar Distances<a class="anchor-link" href="#Parallax:-Measuring-Stellar-Distances">¶</a></h3><p>Parallax is a method used to measure the distances to nearby stars by observing their apparent movement against the background of more distant stars as Earth orbits the Sun. The parallax angle is half the angle that a star appears to move over six months.</p>
@@ -7563,23 +7570,23 @@ There are 60 seconds in a minute, 60 minutes in an hour, and 24 hours in a day.<
 </div>
 <h3 id="Arcseconds-and-Parsecs">Arcseconds and Parsecs<a class="anchor-link" href="#Arcseconds-and-Parsecs">¶</a></h3><p><strong>Arcseconds:</strong> When measuring parallax angles, astronomers use very small units called arcseconds. One arcsecond is (1/3600) of a degree. Because the angles involved in stellar parallax are so tiny, using arcseconds allows for more precise measurement.</p>
 <p><strong>Parsecs:</strong> The distance to a star can be determined using its parallax angle. A parsec (pc) is defined as the distance at which a star would have a parallax angle of one arcsecond. It is derived from the formula:</p>
-<p>$$
+<p>\[
 \text{Distance (parsecs)} = \frac{1}{\text{parallax (arcseconds)}}
-$$</p>
+\]</p>
 <blockquote>
 <p>One parsec is approximately equal to 3.26 light-years. This unit of measurement is especially useful in astronomy for calculating vast interstellar distances.</p>
 </blockquote>
-<p><strong>More angle units</strong>: In addition to arcseconds, astronomers also use arcminutes and hours to measure angles and time. One arcminute is $\frac{1}{60}$ of a degree, and one hour is $\frac{1}{24}$ of a day.</p>
+<p><strong>More angle units</strong>: In addition to arcseconds, astronomers also use arcminutes and hours to measure angles and time. One arcminute is \(\frac{1}{60}\) of a degree, and one hour is \(\frac{1}{24}\) of a day.</p>
 <div class="alert alert-block alert-warning">
 <b>Example:</b> Calculate the distance to a star with a parallax angle of 0.1 arcseconds. 
 </div>
 <blockquote>
 <p>Using the formula:</p>
-<p>$$ \text{Distance (parsecs)} = \frac{1}{\text{parallax (arcseconds)}} $$
-$$ \text{Distance} = \frac{1}{0.1} = 10 \text{ parsecs} $$</p>
+<p>\[ \text{Distance (parsecs)} = \frac{1}{\text{parallax (arcseconds)}} \]
+\[ \text{Distance} = \frac{1}{0.1} = 10 \text{ parsecs} \]</p>
 <p>To convert parsecs to light-years, use the conversion factor:
-$$ 1 \text{ parsec} = 3.26 \text{ light-years} $$
-$$ 10 \text{ parsecs} = 10 \times 3.26 = 32.6 \text{ light-years} $$</p>
+\[ 1 \text{ parsec} = 3.26 \text{ light-years} \]
+\[ 10 \text{ parsecs} = 10 \times 3.26 = 32.6 \text{ light-years} \]</p>
 </blockquote>
 <h3 id="Applications-and-Limitations">Applications and Limitations<a class="anchor-link" href="#Applications-and-Limitations">¶</a></h3><p>Parallax is a fundamental method for measuring distances to nearby stars <strong>within a few hundred light-years from Earth</strong>. Beyond this range, the parallax angles become too small to measure accurately with current technology. However, advancements in space telescopes, like the Gaia mission, have significantly increased the precision of parallax measurements, allowing astronomers to map stars up to tens of thousands of light-years away.</p>
 <img alt="Star Cluster" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit1/figures/Star_Cluster.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
