@@ -6,7 +6,7 @@ This unit explores the fascinating life cycles of stars, from their formation in
 
 ### 3.1 Star Formation
    - Molecular Clouds and Protostars: The initial stages of star formation from molecular clouds to protostars.
-   - Jeans Instability: Conditions for the collapse of a cloud to form stars.
+   - Angular momentum
    - Observational Evidence: Infrared images and other observational data supporting star formation.
 
 ### 3.2 Nuclear Fusion
