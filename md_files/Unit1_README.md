@@ -4,7 +4,7 @@ layout: embed_default
 
 ## Unit 1: Introduction to Astronomy and the Scientific Method
 
-![Banner Image](./figures/unit1_banner.png)
+![Banner Image](../Unit1/figures/unit1_banner.png)
 
 This unit sets the stage for understanding the vastness and complexity of the cosmos by introducing students to the historical development of astronomy, the immense scale of the universe, the night sky, and the effects of light travel time.
 

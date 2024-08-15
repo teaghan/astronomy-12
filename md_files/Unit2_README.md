@@ -6,7 +6,7 @@ layout: embed_default
 
 This unit delves into the laws governing the motion of celestial bodies, including planets, moons, and satellites. It covers gravitational forces and orbital mechanics, providing a comprehensive understanding of the principles that dictate the movement and interaction of objects in space.
 
-![Banner Image](./figures/unit2_banner.png)
+![Banner Image](../Unit2/figures/unit2_banner.png)
 
 ### [2.1 Kepler’s Laws of Planetary Motion](./md_files/2_1_keplers_laws.html)
    - Law of Orbits: All planets move in elliptical orbits, with the Sun at one focus.
