@@ -44,26 +44,12 @@ This course integrates concepts from chemistry, physics, biology, and earth scie
    - [4.4 Dating Planetary Surfaces](./md_files/4_4_dating_surfaces.html)
    - [4.5 Origin of the Solar System](./md_files/4_5_solar_system_origin.html)
 
-[**Unit 5:** Stars and Stellar Evolution](./md_files/Unit5_README.html)
-   - [5.1 Star Formation](./md_files/5_1_star_formation.html)
-   - [5.2 Stellar Classification](./md_files/5_2_stellar_classification.html)
-   - [5.3 Stellar Evolution](./md_files/5_3_stellar_evolution.html)
-   - [5.4 The Structure of the Atom](./md_files/5_4_atom_structure.html)
-   - [5.5 The Doppler Effect in Astronomy](./md_files/5_5_doppler_effect.html)
-
-[**Unit 6:** Galaxies and the Universe](./md_files/Unit6_README.html)
-   - [6.1 Types of Galaxies](./md_files/6_1_galaxy_types.html)
-   - [6.2 Cosmology](./md_files/6_2_cosmology.html)
-   - [6.3 Future of the Universe](./md_files/6_3_universe_future.html)
-   - [6.4 The Expanding Universe](./md_files/6_4_expanding_universe.html)
-   - [6.5 Dark Matter and Dark Energy](./md_files/6_5_dark_matter_energy.html)
-
-[**Unit 7:** Astrobiology and the Search for Extraterrestrial Life](./md_files/Unit7_README.html)
-   - [7.1 Conditions for Life](./md_files/7_1_conditions_for_life.html)
-   - [7.2 Search for Extraterrestrial Intelligence (SETI)](./md_files/7_2_seti.html)
-   - [7.3 Astrobiology](./md_files/7_3_astrobiology.html)
-   - [7.4 The Cosmic Context for Life](./md_files/7_4_cosmic_context.html)
-   - [7.5 SETI](./md_files/7_5_seti.html)
+[**Unit 5:** Galaxies and the Universe](./md_files/Unit6_README.html)
+   - [5.1 Types of Galaxies](./md_files/5_1_galaxy_types.html)
+   - [5.2 Cosmology](./md_files/5_2_cosmology.html)
+   - [5.3 Future of the Universe](./md_files/5_3_universe_future.html)
+   - [5.4 The Expanding Universe](./md_files/5_4_expanding_universe.html)
+   - [5.5 Dark Matter and Dark Energy](./md_files/5_5_dark_matter_energy.html)
 
 ## Evaluation
 - **Summary Notes**: 10%

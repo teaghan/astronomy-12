@@ -292,65 +292,26 @@ This unit explores the nature of light and how it interacts with matter. It cove
 layout: embed_default
 ---
 
-## Unit 5: Stars and Stellar Evolution
-
-This unit focuses on the life cycle of stars, from their formation in nebulae to their ultimate fate as white dwarfs, neutron stars, or black holes. It includes the classification of stars and the Hertzsprung-Russell diagram.
-
-### 5.1 Star Formation
-- Role of nebulae and interstellar medium.
-- Process of nuclear fusion initiation.
-
-### 5.2 Stellar Classification
-- Spectral types and luminosity classes.
-- Hertzsprung-Russell diagram.
-
-### 5.3 Stellar Evolution
-- Life cycle of low, medium, and high-mass stars.
-- Supernovae, neutron stars, and black holes.
-
-### 5.4 The Structure of the Atom
-- Basic atomic structure and its relation to nuclear fusion.
-
-### 5.5 The Doppler Effect in Astronomy
-- Practical applications in measuring stellar motions.
-
-**Science Curricular Connections:**
-- **Physics 12:** Gravitational dynamics and energy relationships
-- **Chemistry 11:** Quantum mechanical model and electron configuration
-- **Earth Science 11:** Stars as the center of a solar system
-
-**Learning Standards:**
-- Describe the process of star formation and the role of nebulae.
-- Classify stars using the Hertzsprung-Russell diagram.
-- Explain the life cycle of different types of stars.
-- Understand the basic structure of the atom and its relation to nuclear fusion.
-- Apply the Doppler effect to measure stellar motions.
-
-# Unit6_README.md
----
-layout: embed_default
----
-
-## Unit 6: Galaxies and the Universe
+## Unit 5: Galaxies and the Universe
 
 This unit examines the large-scale structure of the universe, focusing on galaxies, their types, and evolution. It also explores the concepts of dark matter, dark energy, and the fate of the universe.
 
-### 6.1 Types of Galaxies
+### 5.1 Types of Galaxies
 - Spiral, elliptical, and irregular galaxies.
 - Formation and evolution of galaxies.
 
-### 6.2 Cosmology
+### 5.2 Cosmology
 - Structure of the universe.
 - Dark matter and dark energy.
 
-### 6.3 Future of the Universe
+### 5.3 Future of the Universe
 - Models predicting the universe's fate.
 - Role of cosmological constant.
 
-### 6.4 The Expanding Universe
+### 5.4 The Expanding Universe
 - Detailed exploration of Hubble's Law and evidence.
 
-### 6.5 Dark Matter and Dark Energy
+### 5.5 Dark Matter and Dark Energy
 - Concepts and implications for the universe.
 
 **Science Curricular Connections:**
@@ -363,44 +324,6 @@ This unit examines the large-scale structure of the universe, focusing on galaxi
 - Explain the concepts of dark matter and dark energy.
 - Discuss models predicting the fate of the universe.
 - Understand the evidence for the expanding universe.
-
-# Unit7_README.md
----
-layout: embed_default
----
-
-## Unit 7: Astrobiology and the Search for Extraterrestrial Life
-
-This unit considers the possibility of life beyond Earth, the field of astrobiology, and the search for extraterrestrial intelligence. It discusses the conditions necessary for life and the methods used to detect biosignatures.
-
-### 7.1 Conditions for Life
-- Habitable Zones.
-- Extremophiles on Earth.
-
-### 7.2 Search for Extraterrestrial Intelligence (SETI)
-- Methods and Challenges.
-- Recent Discoveries and Theories.
-
-### 7.3 Astrobiology
-- Organic molecules in space.
-- Potential for life on Mars and other celestial bodies.
-
-### 7.4 The Cosmic Context for Life
-- Conditions necessary for life in different parts of the universe.
-
-### 7.5 SETI
-- Methods and challenges in the search for intelligent life.
-
-**Science Curricular Connections:**
-- **Life Sciences 11:** Adaptations of living things
-- **Earth Science 11:** Changes in the composition of the atmosphere due to natural and human causes
-- **Chemistry 11:** Organic compounds
-
-**Learning Standards:**
-- Describe the conditions necessary for life and the concept of habitable zones.
-- Explain the methods and challenges of the Search for Extraterrestrial Intelligence (SETI).
-- Discuss the potential for life on Mars and other celestial bodies.
-- Understand the cosmic context for life in different parts of the universe.
 
 # 1_1_history.md
 ---
@@ -3244,47 +3167,7 @@ layout: embed_default
 # 3.5 Formation of Spectral Lines
 
 
-# 5_1_star_formation.md
----
-layout: embed_default
----
-
-# 5.1 Star Formation
-
-
-# 5_2_stellar_classification.md
----
-layout: embed_default
----
-
-# 5.2 Stellar Classification
-
-
-# 5_3_stellar_evolution.md
----
-layout: embed_default
----
-
-# 5.3 Stellar Evolution
-
-
-# 5_4_atom_structure.md
----
-layout: embed_default
----
-
-# 5.4 The Structure of the Atom
-
-
-# 5_5_doppler_effect.md
----
-layout: embed_default
----
-
-# 5.5 The Doppler Effect in Astronomy
-
-
-# 6_1_galaxy_types.md
+# 5_1_galaxy_types.md
 ---
 layout: embed_default
 ---
@@ -3292,7 +3175,7 @@ layout: embed_default
 # 6.1 Types of Galaxies
 
 
-# 6_2_cosmology.md
+# 5_2_cosmology.md
 ---
 layout: embed_default
 ---
@@ -3300,7 +3183,7 @@ layout: embed_default
 # 6.2 Cosmology
 
 
-# 6_3_universe_future.md
+# 5_3_universe_future.md
 ---
 layout: embed_default
 ---
@@ -3308,7 +3191,7 @@ layout: embed_default
 # 6.3 Future of the Universe
 
 
-# 6_4_expanding_universe.md
+# 5_4_expanding_universe.md
 ---
 layout: embed_default
 ---
@@ -3316,52 +3199,12 @@ layout: embed_default
 # 6.4 The Expanding Universe
 
 
-# 6_5_dark_matter_energy.md
+# 5_5_dark_matter_energy.md
 ---
 layout: embed_default
 ---
 
 # 6.5 Dark Matter and Dark Energy
-
-
-# 7_1_conditions_for_life.md
----
-layout: embed_default
----
-
-# 7.1 Conditions for Life
-
-
-# 7_2_seti.md
----
-layout: embed_default
----
-
-# 7.2 Search for Extraterrestrial Intelligence (SETI)
-
-
-# 7_3_astrobiology.md
----
-layout: embed_default
----
-
-# 7.3 Astrobiology
-
-
-# 7_4_cosmic_context.md
----
-layout: embed_default
----
-
-# 7.4 The Cosmic Context for Life
-
-
-# 7_5_seti.md
----
-layout: embed_default
----
-
-# 7.5 SETI
 
 
 

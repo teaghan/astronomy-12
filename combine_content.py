@@ -51,11 +51,9 @@ def combine_markdown_and_pdf_files(md_dir, output_file):
         # Now handle the assignments (PDF files)
         for unit_number in range(1, num_units + 1):
             pdf_path = f"Unit{unit_number}/Unit{unit_number}_Assignment.pdf"
-            print(pdf_path)
             if os.path.exists(pdf_path):
                 print(f"Extracting text from {pdf_path}...")
                 pdf_text = extract_text_from_pdf(pdf_path)
-                pritn(pdf_text)
                 outfile.write(f"\n# Unit {unit_number} Assignment\n")
                 outfile.write(pdf_text)
                 outfile.write("\n\n")  # Add a newline between content sections for readability

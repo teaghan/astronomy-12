@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the units and their directories
-units=("Unit1" "Unit2" "Unit3" "Unit4" "Unit5" "Unit6" "Unit7")
+units=("Unit1" "Unit2" "Unit3" "Unit4" "Unit5")
 
 # Add all Units, ignoring checkpoint files and directories
 for unit in "${units[@]}"; do
