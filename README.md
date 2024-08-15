@@ -27,10 +27,11 @@ This course integrates concepts from chemistry, physics, biology, and earth scie
 
 [**Unit 3:** Stars](https://github.com/teaghan/astronomy-12/tree/main/Unit3)
    - [3.1 Star Formation](https://github.com/teaghan/astronomy-12/tree/main/Unit3/3_1_star_formation.ipynb)
-   - [3.2 Nuclear Fusion](https://github.com/teaghan/astronomy-12/tree/main/Unit3/3_2_spectroscopy.ipynb)
-   - [3.3 Chemical Composition of Stars](https://github.com/teaghan/astronomy-12/tree/main/Unit3/3_3_applications.ipynb)
-   - [3.4 Blackbody Radiation](https://github.com/teaghan/astronomy-12/tree/main/Unit3/3_4_electromagnetic_spectrum.ipynb)
-   - [3.5 Life Cycle of Stars](https://github.com/teaghan/astronomy-12/tree/main/Unit3/3_5_spectral_lines.ipynb)
+   - [3.2 Atoms and Elements](https://github.com/teaghan/astronomy-12/tree/main/Unit3/3_2_atoms_particles.ipynb)
+   - [3.3 Nuclear Fusion](https://github.com/teaghan/astronomy-12/tree/main/Unit3/3_3_nuclear_fusion.ipynb)
+   - [3.4 Chemical Composition of Stars](https://github.com/teaghan/astronomy-12/tree/main/Unit3/3_4_chemical_composition.ipynb)
+   - [3.5 Life Cycle of Stars](https://github.com/teaghan/astronomy-12/tree/main/Unit3/3_5_life_cycle.ipynb)
+
 
 [**Unit 4:** The Solar System](https://github.com/teaghan/astronomy-12/tree/main/Unit4)
    - [4.1 Formation of the Solar System](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_1_solar_system_formation.ipynb)

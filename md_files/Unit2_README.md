@@ -8,6 +8,20 @@ This unit delves into the laws governing the motion of celestial bodies, includi
 
 ![Banner Image](../Unit2/figures/unit2_banner.png)
 
+### Teacher Assessment
+- Summary Notes
+- Assignment/Project
+
+### Self-Assessment
+- Each section of this unit includes a set of "Check Your Understanding" questions that are designed to prepare you for the midterm exam.
+
+### [Summary Notes](https://teaghan.github.io/astronomy-12/Unit2/Unit2_Summary_Notes.pdf)
+
+- While going through the lessons, working on the Check Your Understanding problems, and completing any assignment/project, you are expected to take meaningful notes for your future self. These notes can include concepts, diagrams, examples, etc.
+- **You will be allowed to access to these notes during the test!**
+- Print out the summary notes file and fill it with useful, hand-written notes while working through this unit and submit your notes at the end of the unit to be assessed for completion.
+- There is a suggested set of topics as well as empty boxes to give you the opportunity to summarize additional topics.
+
 ### [2.1 Kepler’s Laws of Planetary Motion](../md_files/2_1_keplers_laws.html)
    - Law of Orbits: All planets move in elliptical orbits, with the Sun at one focus.
    - Law of Areas: A line that connects a planet to the Sun sweeps out equal areas during equal intervals of time.
@@ -38,14 +52,21 @@ This unit delves into the laws governing the motion of celestial bodies, includi
    - Moons of the Solar System: notable examples and formation theories
    - The Oort Cloud: hypothetical cloud of icy bodies and its role in the solar system
 
-**Science Curricular Connections:**
+### [Assignment: Investigating Galaxy Data](https://teaghan.github.io/astronomy-12/Unit2/Unit2_Assignment.pdf)
+- Print off the attached assignment.
+- Follow the steps and complete the questions.
+- Submit your document with the questions answered.
+
+### Course Resources
+- **Free Textbook**: [**Astronomy**](https://openstax.org/books/astronomy/pages/1-introduction) by OpenStax.
+- **AI Tutor**: [**Astronomy Tutor**](https://chatgpt.com/g/g-10CjMHMvk-astronomy-tutor) to support you with this class.
+
+### Science Curricular Connections
 - **Physics 12:** uniform circular motion, centripetal force and acceleration, changes to apparent weight, gravitational field and Newton’s law of universal gravitation, gravitational dynamics
-
 - **Physics 11:** mass, force of gravity, apparent weight, Newton’s laws of motion, horizontal uniform and accelerated motion
-
 - **Earth Sciences 11:** astronomy seeks to explain the origin and interactions of Earth and its solar system, impacts of the Earth-moon-sun system
 
-**Learning Standards:**
+### Learning Standards
 - I can state Kepler's First Law and explain the concept of elliptical orbits with the Sun at one focus.
 - I can describe the characteristics of an ellipse and its relevance to planetary orbits.
 - I can explain Kepler's Second Law and the concept of equal areas in equal time periods.

@@ -8,6 +8,20 @@ This unit explores the fascinating life cycles of stars, from their formation in
 
 ![Banner Image](../Unit3/figures/unit3_banner.png)
 
+### Teacher Assessment
+- Summary Notes
+- Assignment/Project
+
+### Self-Assessment
+- Each section of this unit includes a set of "Check Your Understanding" questions that are designed to prepare you for the midterm exam.
+
+### [Summary Notes](https://teaghan.github.io/astronomy-12/Unit3/Unit3_Summary_Notes.pdf)
+
+- While going through the lessons, working on the Check Your Understanding problems, and completing any assignment/project, you are expected to take meaningful notes for your future self. These notes can include concepts, diagrams, examples, etc.
+- **You will be allowed to access to these notes during the test!**
+- Print out the summary notes file and fill it with useful, hand-written notes while working through this unit and submit your notes at the end of the unit to be assessed for completion.
+- There is a suggested set of topics as well as empty boxes to give you the opportunity to summarize additional topics.
+
 ### [3.1 Star Formation](../md_files/3_1_star_formation.html)
    - Molecular Clouds and Protostars: The initial stages of star formation from molecular clouds to protostars.
    - Angular momentum
@@ -36,12 +50,19 @@ This unit explores the fascinating life cycles of stars, from their formation in
    - Stellar Remnants: Types and observational properties of stellar remnants.
    - The Hertzsprung-Russell (H-R) Diagram: Understanding the H-R diagram and its significance in studying stellar evolution.
 
-**Science Curricular Connections:**
-- **Physics 12:** 
-- **Chemistry 11:** 
-- **Earth Sciences 11:** 
+### [Assignment: ](https://teaghan.github.io/astronomy-12/Unit3/Unit3_Assignment.pdf)
+- Print off the attached assignment.
+- Follow the steps and complete the questions.
+- Submit your document with the questions answered.
 
-**Learning Standards:**
+### Course Resources
+- **Free Textbook**: [**Astronomy**](https://openstax.org/books/astronomy/pages/1-introduction) by OpenStax.
+- **AI Tutor**: [**Astronomy Tutor**](https://chatgpt.com/g/g-10CjMHMvk-astronomy-tutor) to support you with this class.
+
+### Science Curricular Connections
+- **Physics 12:**
+
+### Learning Standards
 - I can describe the process of star formation from molecular clouds to protostars.
 - I can explain the conditions necessary for Jeans instability and cloud collapse.
 - I can identify observational evidence supporting star formation.

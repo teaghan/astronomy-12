@@ -5,23 +5,18 @@
 This unit sets the stage for understanding the vastness and complexity of the cosmos by introducing students to the historical development of astronomy, the immense scale of the universe, the night sky, and the effects of light travel time.
 
 ### Teacher Assessment
-
 - Summary Notes
 - Assignment/Project
 
 ### Self-Assessment
-
-Each section of this unit includes a set of "Check Your Understanding" questions that are designed to prepare you for the midterm exam.
+- Each section of this unit includes a set of "Check Your Understanding" questions that are designed to prepare you for the midterm exam.
 
 ### [Summary Notes](https://teaghan.github.io/astronomy-12/Unit1/Unit1_Summary_Notes.pdf)
 
-While going through the lessons, working on the Check Your Understanding problems, and completing any assignment/project, you are expected to take meaningful notes for your future self. These notes can include concepts, diagrams, examples, etc.
-
-**You will be allowed to access to these notes during the test!**
-
-Print out the summary notes file and fill it with useful, hand-written notes while working through this unit and submit your notes at the end of the unit to be assessed for completion.
-
-There is a suggested set of topics as well as empty boxes to give you the opportunity to summarize additional topics.
+- While going through the lessons, working on the Check Your Understanding problems, and completing any assignment/project, you are expected to take meaningful notes for your future self. These notes can include concepts, diagrams, examples, etc.
+- **You will be allowed to access to these notes during the test!**
+- Print out the summary notes file and fill it with useful, hand-written notes while working through this unit and submit your notes at the end of the unit to be assessed for completion.
+- There is a suggested set of topics as well as empty boxes to give you the opportunity to summarize additional topics.
 
 ### [1.1 A Brief History of Astronomy](https://github.com/teaghan/astronomy-12/tree/main/Unit1/1_1_history.ipynb)
 - Explore the evolution of astronomical understanding from ancient civilizations to modern times.
@@ -44,16 +39,19 @@ There is a suggested set of topics as well as empty boxes to give you the opport
 - Effect of the finite speed of light on observations.
 - Concept of looking back in time.
 
-### [Unit 1 Assignment: Night Sky Observations](https://teaghan.github.io/astronomy-12/Unit1/Unit1_Assignment.pdf)
-
+### [Assignment: Night Sky Observations](https://teaghan.github.io/astronomy-12/Unit1/Unit1_Assignment.pdf)
 - Print off the attached assignment.
 - Follow the steps and complete the questions.
 - Submit your document with the questions answered.
 
-**Science Curricular Connections:**
+### Course Resources
+- **Free Textbook**: [**Astronomy**](https://openstax.org/books/astronomy/pages/1-introduction) by OpenStax.
+- **AI Tutor**: [**Astronomy Tutor**](https://chatgpt.com/g/g-10CjMHMvk-astronomy-tutor) to support you with this class.
+
+### Science Curricular Connections
 - **Earth Science 11:** The nebular hypothesis, Stars as the center of a solar system
 
-**Learning Standards:**
+### Learning Standards
 - I can use scientific notation to express large astronomical distances.
 - I can describe the scale of the universe and its components.
 - I can explain the concept of a light-year and its importance in measuring cosmic distances.

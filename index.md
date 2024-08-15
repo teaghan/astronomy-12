@@ -31,10 +31,11 @@ This course integrates concepts from chemistry, physics, biology, and earth scie
 
 [**Unit 3:** Stars](./md_files/Unit3_README.html)
    - [3.1 Star Formation](./md_files/3_1_star_formation.html)
-   - [3.2 Nuclear Fusion](./md_files/3_2_spectroscopy.html)
-   - [3.3 Chemical Composition of Stars](./md_files/3_3_applications.html)
-   - [3.4 Blackbody Radiation](./md_files/3_4_electromagnetic_spectrum.html)
-   - [3.5 Life Cycle of Stars](./md_files/3_5_spectral_lines.html)
+   - [3.2 Atoms and Elements](./md_files/3_2_atoms_particles.html)
+   - [3.3 Nuclear Fusion](./md_files/3_3_nuclear_fusion.html)
+   - [3.4 Chemical Composition of Stars](./md_files/3_4_chemical_composition.html)
+   - [3.5 Life Cycle of Stars](./md_files/3_5_life_cycle.html)
+
 
 [**Unit 4:** The Solar System](./md_files/Unit4_README.html)
    - [4.1 Formation of the Solar System](./md_files/4_1_solar_system_formation.html)
