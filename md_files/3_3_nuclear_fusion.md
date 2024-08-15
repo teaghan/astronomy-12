@@ -1,3 +1,6 @@
+layout: embed_default
+---
+
 # 3.3 Nuclear Fusion in Stars
 
 The Sun provides warmth and light that is essential for life on Earth. But have you ever wondered what powers this immense ball of fire? The answer lies in nuclear fusion, a process that occurs deep within the core of the Sun and other stars, where lighter atomic nuclei combine to form heavier nuclei, releasing vast amounts of energy in the process. In this lesson, we'll explore how nuclear fusion works, the different types of fusion reactions in stars, and how these reactions shape the life cycles of stars and contribute to the formation of elements in the universe.

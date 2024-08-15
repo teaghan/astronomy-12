@@ -7,7 +7,7 @@ This course integrates concepts from chemistry, physics, biology, and earth scie
 ## Course Resources
 
 - **Free Textbook**: [**Astronomy**](https://openstax.org/books/astronomy/pages/1-introduction) by OpenStax.
-- **AI Tutor**: [**Astronomy Tutor**]()
+- **AI Tutor**: [**Astronomy Tutor**](https://chatgpt.com/g/g-10CjMHMvk-astronomy-tutor) to support you with this class.
 
 ## Course Overview
 

@@ -1,3 +1,6 @@
+layout: embed_default
+---
+
 # 3.4 The Chemical Composition of Stars
 
 Elements are the fundamental building blocks of matter. Everything we see around us—from the air we breathe to the stars in the night sky—is made up of elements. But where do these elements come from? The answer lies within the stars. 

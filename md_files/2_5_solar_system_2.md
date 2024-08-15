@@ -1,3 +1,6 @@
+layout: embed_default
+---
+
 # 2.5 The Structure and Components of Our Solar System: Part 2
 
 In this lesson, we will explore the smaller celestial bodies, moons, and the outer regions of our solar system. This will include an examination of dwarf planets, asteroids, comets, meteoroids, and the vast regions beyond the major planets. This topic ties in with our previous discussions on the planets, providing a deeper understanding of the diverse and dynamic components that make up our solar system.

@@ -1,3 +1,6 @@
+layout: embed_default
+---
+
 # 2.4 The Structure and Components of Our Solar System: Part 1
 
 In this lesson, we will explore the fascinating structure and components of our solar system. This will include an examination of the formation of the solar system, the central role of the Sun, and the various planets that orbit within our celestial neighborhood. This topic ties in with our previous discussions on gravity, circular motion, Kepler's Laws, and Newton's Law of Universal Gravitation, providing a deeper understanding of how these principles govern the dynamics of our solar system.

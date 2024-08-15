@@ -1,3 +1,6 @@
+layout: embed_default
+---
+
 # 2.2 Newton's Law of Universal Gravitation
 
 Imagine a quiet afternoon in the English countryside, where a young scholar named Isaac Newton sits pondering under an apple tree. Suddenly, an apple breaks free from its branch and tumbles to the ground. This seemingly mundane event sparks a revelation in Newton's mind—a revelation that would transform our understanding of the universe. What if the same force that pulled the apple to the earth also governed the motion of the moon and the planets? This epiphany led Newton to formulate the law of universal gravitation, a groundbreaking theory that connects the motions of celestial bodies to the everyday experiences of objects falling to the ground. 

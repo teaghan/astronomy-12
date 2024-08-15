@@ -1,3 +1,6 @@
+layout: embed_default
+---
+
 # Unit 1 Solutions 
 
 This notebook contains solutions and calculations for all relevant derivations, examples and Check Your Understanding problems for this unit.

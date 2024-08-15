@@ -1,3 +1,6 @@
+layout: embed_default
+---
+
 # 1.5 Consequences of Light Travel Time
 
 ## Introduction
