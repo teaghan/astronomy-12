@@ -2,6 +2,4 @@ title: Astronomy 12
 description: Course content and resources for Astronomy (Specialized Science 12).
 baseurl: "/astronomy-12" # the subpath of your site
 url: "https://teaghan.github.io" # the base hostname & protocol for your site
-remote_theme: pages-themes/cayman@v0.2.0
-plugins: 
-- jekyll-remote-theme
+theme: jekyll-theme-leap-day
