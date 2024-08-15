@@ -1,5 +1,5 @@
 title: Astronomy 12
-description: An introduction to the cosmos.
+description: An introduction to the cosmos
 baseurl: "/astronomy-12" # the subpath of your site
 url: "https://teaghan.github.io" # the base hostname & protocol for your site
 theme: jekyll-theme-cayman
