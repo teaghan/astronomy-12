@@ -4,6 +4,11 @@
 
 This course integrates concepts from chemistry, physics, biology, and earth sciences to explore the vast and intriguing field of astronomy. Students will engage in hands-on activities, projects, and discussions to understand celestial phenomena and their underlying scientific principles. This interdisciplinary approach will enhance their appreciation of the universe and the interconnectedness of different scientific disciplines.
 
+## Course Resources
+
+- **Free Textbook**: [**Astronomy**](https://openstax.org/books/astronomy/pages/1-introduction) by OpenStax.
+- **AI Tutor**: [**Astronomy Tutor**]()
+
 ## Course Overview
 
 [**Unit 1:** Introduction to Astronomy and the Scientific Method](https://github.com/teaghan/astronomy-12/tree/main/Unit1)
@@ -60,8 +65,3 @@ This course integrates concepts from chemistry, physics, biology, and earth scie
 - **Assignments and Projects**: 40%
 - **Midterm Exam**: 25%
 - **Final Exam**: 25%
-
-## Resources
-- **Free Textbook**: [**Astronomy**](https://openstax.org/books/astronomy/pages/1-introduction) by OpenStax.
-- **Software**: Stellarium, Universe Sandbox, and other astronomy simulation tools.
-- **Websites**: NASA, ESA, and other scientific organizations for up-to-date information and resources.

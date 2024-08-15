@@ -7291,43 +7291,40 @@ a.anchor-link {
   }
 }
 </style>
-
-
-
-
-
 <!-- Load mathjax -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS_CHTML-full,Safe"> </script>
 <!-- MathJax configuration -->
 <script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        TeX: {
-            equationNumbers: {
-                autoNumber: "AMS",
-                useLabelIds: true
-            }
-        },
-        tex2jax: {
-            inlineMath: [ ['\\(','\\)']],
-            displayMath: [ ['\\[','\\]']],
-            processEscapes: true,
-            processEnvironments: true
-        },
-        displayAlign: 'center',
-        CommonHTML: {
-            linebreaks: {
-                automatic: true
-            }
+    init_mathjax = function() {
+        if (window.MathJax) {
+        // MathJax loaded
+            MathJax.Hub.Config({
+                TeX: {
+                    equationNumbers: {
+                    autoNumber: "AMS",
+                    useLabelIds: true
+                    }
+                },
+                tex2jax: {
+                    inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                    displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+                    processEscapes: true,
+                    processEnvironments: true
+                },
+                displayAlign: 'center',
+                CommonHTML: {
+                    linebreaks: {
+                    automatic: true
+                    }
+                }
+            });
+
+            MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
         }
-    });
-    MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
-</script>
+    }
+    init_mathjax();
+    </script>
 <!-- End of mathjax configuration --><script type="module">
-
-
-
-
-
   document.addEventListener("DOMContentLoaded", async () => {
     const diagrams = document.querySelectorAll(".jp-Mermaid > pre.mermaid");
     // do not load mermaidjs if not needed
@@ -7455,7 +7452,7 @@ a.anchor-link {
       if (!rest.endsWith('/')) {
         rest = `${rest} /`;
       }
-      return `<\({tag} \){rest}>`;
+      return `<${tag} ${rest}>`;
     }
 
     void Promise.all([...diagrams].map(renderOneMarmaid));
@@ -7540,19 +7537,19 @@ Watch <a href="https://www.youtube.com/watch?v=fzTRHJanq58" target="_blank">this
 <li><p><strong>Formation of Beryllium-8:</strong></p>
 <ul>
 <li>Two helium-4 nuclei (alpha particles) collide to form beryllium-8. The reaction can be represented as:
-\[
+$$
 \text{He}^4 + \text{He}^4 \rightarrow \text{Be}^8
-\]</li>
-<li>Beryllium-8 (\(\text{Be}^8\)) is highly unstable and typically decays back into two helium nuclei within a fraction of a second. However, under the extreme conditions in the core of a star, if another helium-4 nucleus collides with the beryllium-8 before it decays, the next step occurs.</li>
+$$</li>
+<li>Beryllium-8 ($\text{Be}^8$) is highly unstable and typically decays back into two helium nuclei within a fraction of a second. However, under the extreme conditions in the core of a star, if another helium-4 nucleus collides with the beryllium-8 before it decays, the next step occurs.</li>
 </ul>
 </li>
 <li><p><strong>Formation of Carbon-12:</strong></p>
 <ul>
 <li>The unstable beryllium-8 nucleus captures another helium-4 nucleus to form carbon-12. The reaction is:
-\[
+$$
 \text{Be}^8 + \text{He}^4 \rightarrow \text{C}^{12} + \gamma
-\]</li>
-<li>This reaction releases a gamma-ray photon (\(\gamma\)), which carries away the excess energy from the fusion process.</li>
+$$</li>
+<li>This reaction releases a gamma-ray photon ($\gamma$), which carries away the excess energy from the fusion process.</li>
 </ul>
 </li>
 </ol>
@@ -7577,24 +7574,24 @@ Watch <a href="https://www.youtube.com/watch?v=fzTRHJanq58" target="_blank">this
 <blockquote>
 <p>Given:</p>
 <blockquote>
-<p>Mass of a Carbon-12 nucleus: \( m_{\text{C}} = 12.000 \, \text{u} \)</p>
-<p>Mass of a Magnesium-24 nucleus: \( m_{\text{Mg}} = 23.985 \, \text{u} \)</p>
+<p>Mass of a Carbon-12 nucleus: $ m_{\text{C}} = 12.000 \, \text{u} $</p>
+<p>Mass of a Magnesium-24 nucleus: $ m_{\text{Mg}} = 23.985 \, \text{u} $</p>
 </blockquote>
 <p>Solution:</p>
 <blockquote>
 <p>The fusion of two Carbon-12 nuclei forms one Magnesium-24 nucleus:</p>
-<p>\[ \text{C}^{12} + \text{C}^{12} \rightarrow \text{Mg}^{24} \]</p>
+<p>$$ \text{C}^{12} + \text{C}^{12} \rightarrow \text{Mg}^{24} $$</p>
 <p>Calculate the mass difference between the initial and final nuclei:</p>
-<p>\[ \Delta m = (2 \times 12.000 \, \text{u}) - 23.985 \, \text{u} \]</p>
-<p>\[ \Delta m = 24.000 \, \text{u} - 23.985 \, \text{u} = 0.015 \, \text{u} \]</p>
-<p>Convert this mass difference to kilograms using \(1 \, \text{u} = 1.66054 \times 10^{-27} \, \text{kg}\):</p>
-<p>\[ \Delta m = 0.015 \, \text{u} \times 1.66054 \times 10^{-27} \, \text{kg/u} \]</p>
-<p>\[ \Delta m \approx 2.49 \times 10^{-29} \, \text{kg} \]</p>
-<p>Now, apply Einstein’s mass-energy equivalence formula: \(E = \Delta mc^2\)</p>
-<p>\[ E = (2.49 \times 10^{-29} \, \text{kg}) \times (3 \times 10^8 \, \text{m/s})^2 \]</p>
-<p>\[ E \approx 2.24 \times 10^{-12} \, \text{J} \]</p>
+<p>$$ \Delta m = (2 \times 12.000 \, \text{u}) - 23.985 \, \text{u} $$</p>
+<p>$$ \Delta m = 24.000 \, \text{u} - 23.985 \, \text{u} = 0.015 \, \text{u} $$</p>
+<p>Convert this mass difference to kilograms using $1 \, \text{u} = 1.66054 \times 10^{-27} \, \text{kg}$:</p>
+<p>$$ \Delta m = 0.015 \, \text{u} \times 1.66054 \times 10^{-27} \, \text{kg/u} $$</p>
+<p>$$ \Delta m \approx 2.49 \times 10^{-29} \, \text{kg} $$</p>
+<p>Now, apply Einstein’s mass-energy equivalence formula: $E = \Delta mc^2$</p>
+<p>$$ E = (2.49 \times 10^{-29} \, \text{kg}) \times (3 \times 10^8 \, \text{m/s})^2 $$</p>
+<p>$$ E \approx 2.24 \times 10^{-12} \, \text{J} $$</p>
 </blockquote>
-<p>Therefore, the energy released during the fusion of two Carbon-12 nuclei to form Magnesium-24 is approximately \(2.24 \times 10^{-12}\) Joules.</p>
+<p>Therefore, the energy released during the fusion of two Carbon-12 nuclei to form Magnesium-24 is approximately $2.24 \times 10^{-12}$ Joules.</p>
 </blockquote>
 <h3 id="Supernovae-and-the-Creation-of-Heavy-Elements">Supernovae and the Creation of Heavy Elements<a class="anchor-link" href="#Supernovae-and-the-Creation-of-Heavy-Elements">¶</a></h3><p>Imagine a colossal star, thousands of times more massive than our Sun, reaching the end of its life. After millions of years of burning through its nuclear fuel, the star’s core has fused lighter elements into progressively heavier ones, culminating in iron. At this point, the star faces a fundamental problem: iron is the dead end of nuclear fusion, which means the star can no longer generate the pressure needed to counteract the relentless pull of gravity.</p>
 <p>As gravity takes over, the core of the star collapses in a matter of seconds. This rapid implosion is so violent that it triggers a catastrophic explosion known as a supernova. In this single, fleeting moment, the star unleashes more energy than our Sun will produce over its entire 10-billion-year lifespan. The explosion is so bright that it can outshine entire galaxies and is visible across vast distances in the universe.</p>
@@ -7630,44 +7627,44 @@ Watch <a href="https://www.youtube.com/watch?v=fzTRHJanq58" target="_blank">this
 <tbody>
 <tr>
 <td>Hydrogen fusion</td>
-<td>\(40 \times 10^6\)</td>
+<td>$40 \times 10^6$</td>
 <td>5</td>
-<td>\(8 \times 10^6\) years</td>
+<td>$8 \times 10^6$ years</td>
 </tr>
 <tr>
 <td>Helium fusion</td>
-<td>\(190 \times 10^6\)</td>
+<td>$190 \times 10^6$</td>
 <td>970</td>
-<td>\(10^6\) years</td>
+<td>$10^6$ years</td>
 </tr>
 <tr>
 <td>Carbon fusion</td>
-<td>\(870 \times 10^6\)</td>
-<td>\(170,000\)</td>
+<td>$870 \times 10^6$</td>
+<td>$170,000$</td>
 <td>2000 years</td>
 </tr>
 <tr>
 <td>Neon fusion</td>
-<td>\(1.6 \times 10^9\)</td>
-<td>\(3.0 \times 10^6\)</td>
+<td>$1.6 \times 10^9$</td>
+<td>$3.0 \times 10^6$</td>
 <td>6 months</td>
 </tr>
 <tr>
 <td>Oxygen fusion</td>
-<td>\(2.0 \times 10^9\)</td>
-<td>\(5.6 \times 10^6\)</td>
+<td>$2.0 \times 10^9$</td>
+<td>$5.6 \times 10^6$</td>
 <td>1 year</td>
 </tr>
 <tr>
 <td>Silicon fusion</td>
-<td>\(3.3 \times 10^9\)</td>
-<td>\(4.3 \times 10^7\)</td>
+<td>$3.3 \times 10^9$</td>
+<td>$4.3 \times 10^7$</td>
 <td>Days</td>
 </tr>
 <tr>
 <td>Core collapse</td>
-<td>\(200 \times 10^9\)</td>
-<td>\(2 \times 10^{14}\)</td>
+<td>$200 \times 10^9$</td>
+<td>$2 \times 10^{14}$</td>
 <td>Tenths of a second</td>
 </tr>
 </tbody>
@@ -7699,7 +7696,7 @@ Watch <a href="https://www.youtube.com/watch?v=fzTRHJanq58" target="_blank">this
 <li><p>Differentiate between Population I, II, and III stars in terms of their metallicity and significance in the history of the universe.
 <br/><br/></p>
 </li>
-<li><p>Calculate the energy released when four protons (hydrogen nuclei) fuse to form a helium-4 nucleus in the proton-proton chain. The mass of a proton is \(1.00728 \, \text{u}\), and the mass of a helium-4 nucleus is \(4.00260 \, \text{u}\). Use \(1 \, \text{u} = 1.66054 \times 10^{-27} \, \text{kg}\) and \(c = 3 \times 10^8 \, \text{m/s}\).
+<li><p>Calculate the energy released when four protons (hydrogen nuclei) fuse to form a helium-4 nucleus in the proton-proton chain. The mass of a proton is $1.00728 \, \text{u}$, and the mass of a helium-4 nucleus is $4.00260 \, \text{u}$. Use $1 \, \text{u} = 1.66054 \times 10^{-27} \, \text{kg}$ and $c = 3 \times 10^8 \, \text{m/s}$.
 <br/><br/></p>
 </li>
 <li><p>Consider a massive star at the end of its life cycle, primarily composed of iron in its core. Discuss what will happen to this star and why iron represents the end of fusion processes in stars.
@@ -7715,7 +7712,7 @@ Watch <a href="https://www.youtube.com/watch?v=fzTRHJanq58" target="_blank">this
 <br/><br/></li>
 </ul>
 </li>
-<li><p>Using the triple-alpha process, calculate the energy released when three helium-4 nuclei fuse to form one carbon-12 nucleus. The mass of a helium-4 nucleus is \(4.00260 \, \text{u}\), and the mass of a carbon-12 nucleus is \(12.000 \, \text{u}\).
+<li><p>Using the triple-alpha process, calculate the energy released when three helium-4 nuclei fuse to form one carbon-12 nucleus. The mass of a helium-4 nucleus is $4.00260 \, \text{u}$, and the mass of a carbon-12 nucleus is $12.000 \, \text{u}$.
 <br/><br/></p>
 </li>
 <li><p>The ring around SN 1987A (Figure 23.12) initially became illuminated when energetic photons from the supernova interacted with the material in the ring. The radius of the ring is approximately 0.75 light-year from the supernova location. How long after the supernova did the ring become illuminated?
