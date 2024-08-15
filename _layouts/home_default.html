@@ -5,7 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}" type="image/x-icon">
 
-    {% seo %}
+    <!-- Explicitly set the title to only include the page title -->
+    <title>{{ page.title | default: site.title | default: site.github.repository_name }}</title>
+
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -32,7 +34,7 @@
       .alert-info {
         color: #31708f;
         background-color: #d9edf7;
-        border-color: #bce8f1;
+        border-color: #bce5f1;
       }
       .alert-warning {
         color: #8a6d3b;
