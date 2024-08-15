@@ -1,6 +1,9 @@
 layout: embed_default
 ---
 
+layout: embed_default
+---
+
 # 2.1 Kepler's Laws: The Story of Planetary Motion
 
 ---

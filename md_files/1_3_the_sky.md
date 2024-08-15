@@ -1,6 +1,12 @@
 layout: embed_default
 ---
 
+layout: embed_default
+---
+
+layout: embed_default
+---
+
 # 1.3 The Celestial Sphere
 
 ### Introduction

@@ -1,6 +1,9 @@
 layout: embed_default
 ---
 
+layout: embed_default
+---
+
 # 1.1 A Brief History of Astronomy
 
 ### Introduction

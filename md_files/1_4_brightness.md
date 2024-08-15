@@ -1,6 +1,9 @@
 layout: embed_default
 ---
 
+layout: embed_default
+---
+
 # 1.4 The Brightness of Stars
 
 ## Introduction

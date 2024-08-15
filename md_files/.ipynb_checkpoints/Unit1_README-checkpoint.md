@@ -1,6 +1,9 @@
 layout: embed_default
 ---
 
+layout: embed_default
+---
+
 ## Unit 1: Introduction to Astronomy and the Scientific Method
 
 ![Banner Image](./figures/unit1_banner.png)

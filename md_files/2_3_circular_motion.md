@@ -1,6 +1,9 @@
 layout: embed_default
 ---
 
+layout: embed_default
+---
+
 # 2.3 Circular Motion
 
 ## Introduction

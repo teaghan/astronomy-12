@@ -1,6 +1,9 @@
 layout: embed_default
 ---
 
+layout: embed_default
+---
+
 # 1.2 The Scale of the Universe
 
 ## Introduction
