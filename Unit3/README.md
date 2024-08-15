@@ -9,6 +9,13 @@ This unit explores the fascinating life cycles of stars, from their formation in
    - Angular momentum
    - Observational Evidence: Infrared images and other observational data supporting star formation.
 
+### 3.2 Atoms and Elements
+   - Basic atomic structure
+   - Protons, neutrons, electrons
+   - Neutrinos, photons
+   - Isotopes
+   - Chemical Reactions
+
 ### 3.2 Nuclear Fusion
    - Fusion Processes: The proton-proton chain and the CNO cycle.
    - Energy Generation: How nuclear fusion powers stars, focusing on temperature and pressure conditions in the stellar core.
@@ -19,12 +26,7 @@ This unit explores the fascinating life cycles of stars, from their formation in
    - Abundance of Elements: How the relative abundance of elements provides clues about star formation and evolution.
    - Nucleosynthesis: The process of nucleosynthesis in stars, creating elements during different fusion stages and supernovae.
 
-### 3.4 Blackbody Radiation
-   - Planck’s Law and Spectrum: Describing the spectrum of radiation emitted by a blackbody.
-   - Wien’s Displacement Law: Relating temperature to the peak wavelength of blackbody radiation.
-   - Stefan-Boltzmann Law: Relating the total energy radiated per unit surface area to the fourth power of its temperature.
-
-### 3.5 Life Cycle of Stars
+### 3.4 Life Cycle of Stars
    - Main Sequence Evolution: The life of a star on the main sequence and the changes as it exhausts its hydrogen fuel.
    - Post-Main Sequence Evolution: Evolutionary paths after the main sequence, including red giants, supernovae, white dwarfs, neutron stars, and black holes.
    - Stellar Remnants: Types and observational properties of stellar remnants.

@@ -2,24 +2,27 @@
 
 This unit explores the nature of light and how it interacts with matter. It covers the electromagnetic spectrum, wave-particle duality, and the use of spectroscopy in astronomy.
 
+
 ### 4.1 Nature of Light
 - Electromagnetic Spectrum.
 - Wave-Particle Duality.
 
-### 4.2 Spectroscopy in Astronomy
+### 4.2 Blackbody Radiation
+   - Planck’s Law and Spectrum: Describing the spectrum of radiation emitted by a blackbody.
+   - Wien’s Displacement Law: Relating temperature to the peak wavelength of blackbody radiation.
+   - Stefan-Boltzmann Law: Relating the total energy radiated per unit surface area to the fourth power of its temperature.
+
+### 4.3 Formation of Spectral Lines
+- Physical processes behind spectral lines.
+
+### 4.4 Spectroscopy in Astronomy
 - Absorption and Emission Spectra.
 - Doppler Effect.
 
-### 4.3 Applications of Spectroscopy
+### 4.5 Applications of Spectroscopy
 - Identifying elements in stars.
 - Measuring stellar velocities.
 
-### 4.4 The Electromagnetic Spectrum
-- Different types of electromagnetic radiation.
-- Properties of each type.
-
-### 4.5 Formation of Spectral Lines
-- Physical processes behind spectral lines.
 
 **Science Curricular Connections:**
 - **Physics 11:** Properties and behaviors of waves

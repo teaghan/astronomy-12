@@ -7513,7 +7513,7 @@ a.anchor-link {
 <!-- End of mermaid configuration --></head>
 <body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
 <main>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=00b0ea38-1d02-4fed-a61b-31d12173c846">
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=ad9d0db0-6e7e-4086-b652-9e0fa6a401d7">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
@@ -7577,16 +7577,16 @@ where \(L\) is angular momentum</p>
 </blockquote>
 <h4 id="Understanding-Moment-of-Inertia">Understanding Moment of Inertia<a class="anchor-link" href="#Understanding-Moment-of-Inertia">¶</a></h4><p>The moment of inertia (\(I\)) is a measure of an object's resistance to changes in its rotation and it depends on both the mass of the object and how that mass is distributed relative to the axis of rotation. For example, it's easier to spin a figure skater with their arms close to their body than when their arms are extended. This is because pulling the arms in reduces the moment of inertia, allowing for faster rotation.</p>
 <ul>
-<li><strong>High Moment of Inertia</strong>: Objects with mass distributed far from the axis of rotation, which makes it harder to spin (e.g., a long, thin rod rotating about its end).</li>
-<li><strong>Low Moment of Inertia</strong>: Objects with mass concentrated close to the axis of rotation, which makes it easier to spin (e.g., a solid sphere rotating about its center).</li>
+<li><strong>High Moment of Inertia</strong>: Objects with mass distributed far from the axis of rotation, which makes it harder to spin.</li>
+<li><strong>Low Moment of Inertia</strong>: Objects with mass concentrated close to the axis of rotation, which makes it easier to spin.</li>
 </ul>
 <blockquote>
 <p><strong>Common Moment of Inertia Formulas:</strong></p>
 <ul>
 <li><strong>Solid Sphere</strong>: \(I = \frac{2}{5} m r^2\)</li>
+<li><strong>Thin Disk</strong>: \(I = \frac{1}{2} m r^2\)</li>
 <li><strong>Thin Rod (rotating about its end)</strong>: \(I = \frac{1}{3} m L^2\)</li>
 <li><strong>Thin Rod (rotating about its center)</strong>: \(I = \frac{1}{12} m L^2\)</li>
-<li><strong>Thin Disk</strong>: \(I = \frac{1}{2} m r^2\)</li>
 </ul>
 </blockquote>
 <div class="alert alert-block alert-info">
@@ -7598,12 +7598,12 @@ where \(L\) is angular momentum</p>
 </div>
 <p>As a molecular cloud collapses, it starts to spin faster, much like our figure skater. This increase in rotation speed is due to the conservation of angular momentum.</p>
 <div class="alert alert-block alert-warning">
-<b>Example:</b> Calculate the final rotation speed of a protostar's accretion disk.
+<b>Example:</b> Calculate the final rotation speed of a protostar's accretion disk when its radius decreased from 1000 AU to 100 AU. Assume the disk has approximately the same mass as our Sun and is initially rotating at 0.001 rad/s.
 </div>
 <blockquote>
 <p>Given:</p>
 <blockquote>
-<p>Initial mass of the accretion disk, \( m = 2 \times 10^{30} \, \text{kg} \) (approximately the mass of the Sun)</p>
+<p>Mass of the accretion disk, \( m = 2 \times 10^{30} \, \text{kg} \) (approximately the mass of the Sun)</p>
 <p>Initial radius of the disk, \( r_1 = 1000 \, \text{AU} \) (1 AU = \(1.496 \times 10^{11} \, \text{m}\))</p>
 <p>Final radius of the disk, \( r_2 = 100 \, \text{AU} \)</p>
 <p>Initial rotation speed, \( \omega_1 = 1 \times 10^{-3} \, \text{rad/s} \)</p>
@@ -7636,7 +7636,7 @@ where \(L\) is angular momentum</p>
 <blockquote>
 <p>\[ \omega_2 = \frac{r_1^2 \cdot \omega_1}{r_2^2} \]</p>
 </blockquote>
-<p>which always works for this scenario!!</p>
+<p>which always works for this scenario!! Hopefully this exemplifies why using algebra and variables is much more powerful than just plugging numbers into a calculator :)</p>
 <h4 id="Angular-Momentum-in-Star-Formation">Angular Momentum in Star Formation<a class="anchor-link" href="#Angular-Momentum-in-Star-Formation">¶</a></h4><p><strong>Formation of Accretion Disks</strong>: As the molecular cloud contracts, its rotation speed increases, and the material flattens into an accretion disk around the protostar. This disk is essential for the growth of the protostar, channeling material onto it and setting the stage for planet formation.</p>
 <p><strong>Bipolar Outflows</strong>: The rotating disk and the magnetic fields generate jets of gas that are ejected along the poles of the protostar. These jets carry away excess angular momentum, preventing the protostar from spinning too fast and allowing more material to accrete onto the star.</p>
 <p>These outflows can be observed as dazzling jets extending far into space, often lighting up surrounding gas clouds and creating stunning visual spectacles known as Herbig-Haro objects. These objects are markers of young, forming stars, providing astronomers with clues about the processes occurring within these hidden stellar nurseries.</p>
@@ -7649,7 +7649,7 @@ Infrared light is a powerful tool in the astronomer’s toolkit. Unlike visible 
 <blockquote>
 <p><strong>Fun Fact:</strong> The Spitzer Space Telescope, an infrared observatory, has provided some of the most detailed images of star-forming regions, revealing the intricate structures within molecular clouds.</p>
 </blockquote>
-<img alt="Infrared" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit3/figures/infrared" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
+<img alt="Infrared" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit3/figures/infrared.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
 <p><strong>2. Radio Telescopes:</strong>
 Radio telescopes offer another window into the hidden process of star formation. These telescopes are designed to detect the faint radio waves emitted by molecules in cold, dense regions of space. One of the most important molecules detected in these regions is carbon monoxide (CO). By mapping the distribution of CO and other molecules, astronomers can identify the locations of molecular clouds, where star formation is actively occurring. Radio observations can also reveal the movement of gas within these clouds, helping to trace the dynamics of the star formation process.</p>
 <blockquote>
