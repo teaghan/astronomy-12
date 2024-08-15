@@ -1,0 +1,714 @@
+Intro
+0:02
+the story of the formation of stars is
+0:05
+something that astronomers have been
+0:06
+trying to piece together for quite some
+0:08
+time and this is largely because the
+0:11
+stars themselves are shrouded in secrecy
+0:13
+I mean literally and shrouded in secrecy
+0:17
+we know for example that stars are
+0:19
+points of light and they are composed of
+0:23
+hydrogen and helium gas however when we
+0:26
+look around the night sky we see mostly
+0:28
+the points of light we seldom see the
+0:31
+gas itself well that's because the gas
+0:33
+is quite cool if you look at the
+0:36
+constellation of Orion you'll see
+0:38
+there's a relatively small patch of that
+0:41
+gas that is glowing kind of like a
+0:43
+fluorescent lamp but if we could look
+0:46
+into the same region with infrared eyes
+0:49
+we would see all of that cool gas known
+0:53
+as the Orion molecular cloud let's take
+0:57
+a closer look however at the Orion
+0:59
+Nebula let's take a closer look at the
+1:02
+near-infrared so you can see those very
+1:04
+hot bright stars at the center the--
+1:07
+these stars are called the trapezium and
+1:10
+surrounding the trapezium are these
+1:13
+tinier red little points of light
+1:16
+well these points of light look like
+1:18
+stars but they're not quite stars just
+1:20
+yet they are in fact proto stars so
+1:23
+proto stars are really just the cores of
+1:25
+collapsing molecular clouds we have
+1:28
+clouds within the clouds within the
+1:30
+clouds and tiny clumps form and they
+1:32
+collapse as they collapse they heat up
+1:35
+so they release a great deal of infrared
+1:38
+radiation now the cores themselves are
+1:40
+hot but they're not yet hot enough to
+1:43
+cause hydrogen to fuse into helium
+1:46
+through thermonuclear fusion and this is
+1:49
+just because the temperatures and the
+1:50
+pressures are building but they haven't
+1:52
+yet reached that critical mass or that
+1:55
+critical pressure to trigger hydrogen
+1:58
+fusion so let's take a look at the broad
+Formation cycle
+2:01
+steps of star formation we initially
+2:04
+begin with a cloud and the cloud is
+2:07
+consisting of moving molecules of gas so
+2:10
+that means that there's a pressure in
+2:12
+the cloud and despite the
+2:13
+fact that the cloud has some mass to it
+2:16
+rather than just collapsing under its
+2:18
+own gravity it's kind of repelled from
+2:20
+doing that by virtue of the motions of
+2:23
+the particles themselves
+2:24
+so pressure overcomes its mutual gravity
+2:28
+but something happens something triggers
+2:32
+the formation of little clumps of gas
+2:36
+and dust somewhere in the middle of
+2:38
+these clouds now these dense clumps have
+2:41
+mass and therefore they have gravity now
+2:44
+gravity starts to overtake the pressure
+2:46
+right it starts to overtake the motions
+2:49
+of the molecules and so as clumps form
+2:53
+then little cores form inside the clumps
+2:56
+these cores are essentially the
+2:59
+protostars they gain mass and therefore
+3:01
+the gravitational pull of these cores
+3:04
+increases so there now becomes a bit of
+3:07
+a snowball effect and this has effect of
+3:09
+accelerating the collapse but as the
+3:12
+cloud collapses it's rotating and this
+3:16
+causes the disc to flatten out so now
+3:19
+we've formed what's called a
+3:20
+circumstellar disk and we can think of
+3:23
+the disk as an inner disc which directly
+3:26
+feeds the protostar so this sometimes is
+3:28
+called an accretion disk or also called
+3:31
+a proto stellar disk and the remaining
+3:34
+outer disk flattens eventually and
+3:36
+becomes what's called a proto planetary
+3:39
+disk so eventually we would expect
+3:41
+planets to form inside this disk and at
+3:45
+some point the star itself the protostar
+3:48
+turns on in other words the pressures
+3:51
+and the temperatures are now high enough
+3:53
+that suddenly we can have thermonuclear
+3:55
+fusion in the core and this produces
+3:58
+tremendous fast winds that's helped
+4:02
+sweep out the disk as well as the
+4:04
+planets themselves they collect all the
+4:06
+debris in their path and the planetary
+4:09
+system is now born the star is a proper
+4:15
+planetary system so a main driver of the
+4:18
+story is the fact that the entire cloud
+4:21
+and subsequent disk and the stars
+4:23
+themselves are all rotating and
+4:26
+whenever we think of something that's
+4:28
+rotating it's important to consider a
+Angular momentum, L
+4:30
+quantity called angular momentum all
+4:33
+objects in motion have momentum and if
+4:35
+the object is rotating we call that
+4:38
+rotational momentum or more properly
+4:40
+angular momentum and angular momentum
+4:44
+depends on three things it's a product
+4:47
+of the mass of the rotating body the
+4:50
+rotational velocity or the angular
+4:53
+velocity the rate at which it's rotating
+4:55
+and also how spread out the masses
+4:59
+now angular momentum has a certain
+5:01
+property and namely that it's a
+5:03
+conserved quantity in other words it's
+5:06
+always going to remain constant even if
+5:09
+we were to somehow change one of the
+5:11
+three parameters so when a figure skater
+5:14
+is spinning if she has her arms spread
+5:16
+out she rotates relatively slowly but as
+5:18
+she brings her arms in she rotates
+5:21
+faster this is how the angular momentum
+5:24
+is conserved her mass doesn't change so
+5:27
+what has a change it's her rotational
+5:29
+velocity so what does this have to do
+5:32
+with stars again well remember stars are
+5:34
+forming out of these giant molecular
+5:36
+clouds and there are thousands of them
+5:39
+spread out just within our galaxy alone
+5:41
+each of these molecular clouds has the
+5:45
+mass of anywhere from a couple thousand
+5:47
+to up to a million Suns and they are
+5:51
+spread out over hundreds to thousands of
+5:54
+light year so even though these clouds
+5:57
+are rotating very slowly each of them
+5:59
+contain a tremendous amount of angular
+6:02
+momentum so there needs to be something
+6:05
+to get these giant molecular clouds to
+6:08
+begin collapsing
+6:09
+for example clouds can just randomly
+Triggered Star Formation
+6:12
+collide and that can get a couple of
+6:15
+rotating clouds to combine together
+6:17
+forming clumps and increasing the
+6:19
+rotational velocity massive stars can
+6:22
+explode as supernovae and these can send
+6:25
+shockwaves through interstellar space if
+6:27
+these shockwaves collide with a giant
+6:30
+molecular cloud that can cause that
+6:32
+cloud to fragment and collapse into
+6:35
+multiple stars or in a kind of a chicken
+6:38
+and egg scenario
+6:40
+we can have what we see here the
+6:42
+presence of these very young massive
+6:45
+stars at the center of this nebula can
+6:48
+trigger star formation by flooding the
+6:51
+entire region with ultraviolet radiation
+6:54
+and superfast stellar winds that kind of
+6:57
+slam in to the denser cooler gas around
+7:00
+it forming these tight knots and clumps
+7:03
+and each of the clumps that you see here
+7:05
+in this image are the cocoons of a young
+7:08
+forming protostar within and when stars
+7:12
+are reaching the end of their formation
+7:14
+stages they often go into what's called
+7:16
+a teatari star phase so we're talking
+7:20
+about stars that are about the same mass
+7:22
+of the Sun and they aren't yet fusing
+7:25
+hydrogen in their cores yet but they're
+7:27
+about to and T star II stars are often
+7:30
+characterized by the presence of
+7:31
+circumstellar disks and by these very
+7:34
+fast stellar winds so in this image
+7:37
+we're looking at v1 3:31 signe the
+7:40
+circumstellar disk is seen more or less
+7:42
+face-on and if we could take an
+7:44
+imaginary view of this same disc kind of
+7:46
+at an angle you'll see what's going on
+7:48
+what's happening is that the protostar
+7:50
+is emitting a very fast
+7:52
+stellar wind but the disc itself is made
+7:56
+of such cool dense gas and dust that it
+7:58
+has the effect of confining the outflow
+8:00
+of that stellar wind pretty much along
+8:03
+the axis of its own rotation in other
+8:05
+words the outflow is basically being
+8:08
+channeled out through the poles now
+8:10
+sometimes this outflow is very intense
+8:13
+and when we look in places like the
+8:16
+Carina Nebula remember every one of
+8:18
+these knots every one of these clumps is
+8:20
+a forming star system in and of itself
+8:25
+however when we look into the upper
+8:28
+right corner of this image you'll see
+8:29
+that there's a very pronounced jet of
+8:32
+material that's blasting out in a
+8:35
+bipolar fashion now when this stuff is
+8:38
+being ejected out at very high speeds
+8:40
+this has the effect of getting rid of
+8:43
+some of that angular momentum and that's
+8:45
+important because if the star were to
+8:48
+somehow keep all of its angular momentum
+8:49
+it would have to rotate so fast that it
+8:52
+would literally tear itself
+8:54
+part and when this material slams into
+8:58
+the surrounding dust and nebulosity it
+9:01
+ionizing that gas and it causes it to
+9:04
+glow
+9:05
+so these jets these glowing jets are
+9:08
+known as herbig-haro objects and they're
+9:10
+really just the high velocity jet
+9:12
+slamming in at hundreds of kilometers
+9:14
+per second now we think these are
+9:16
+relatively short duration events in
+9:19
+other words we don't think that these
+9:20
+last very long may be on the order of a
+9:22
+couple thousand maybe to a hundred
+9:25
+thousand years or so but remember that
+9:27
+the formation of these stars take place
+9:29
+over tens of millions of years now we're
+9:32
+lucky here we get to actually see both
+9:34
+lobes of the jet often times however we
+9:38
+have a very dense pillar of gas in this
+9:40
+particular case that's blocking one of
+9:43
+those jets from view luckily though we
+9:46
+can explore this region at infrared and
+9:50
+submillimetre wavelengths that allows us
+9:52
+to see through much of that blocking gas
+9:55
+and dust revealing both lobes in the
+9:58
+process
+9:59
+so these herbig-haro objects really seem
+HH 30: protostar, disk, and jet
+10:03
+to herald the arrival of a newly forming
+10:06
+star so this is a very well-studied
+10:08
+object HH 30 it may not look very
+10:11
+impressive because we are looking at the
+10:14
+individual pixels on the Hubble Space
+10:17
+Telescope's main camera but there are
+10:19
+still some very familiar features first
+10:22
+of all we have the jet which is being
+10:24
+emitted at a rate of about 300
+10:26
+kilometers per second there's also a lot
+10:29
+of light from the star itself being
+10:31
+reflected or scattered from the disk now
+10:33
+the disk itself is in silhouette and
+10:36
+that's because deep at the center is the
+10:38
+protostar itself hidden from our view
+10:40
+and to keep the scale in mind let's just
+10:43
+consider the radius of this disk
+10:45
+it's about 430 astronomical units
+10:49
+remember the semi-major axis of neptune
+10:52
+is about 30 astronomical units so this
+10:55
+is an extremely still an extremely very
+10:58
+very large system that is still in the
+11:02
+process of collapsing so what we think
+11:04
+is happening is that the star itself is
+11:06
+about to switch
+11:07
+John and there are presumably planets
+11:11
+inside this disk that are forming from
+11:14
+the disk material itself best of all we
+11:17
+can take images of these phenomena over
+11:20
+and over again and over a 14-year period
+11:23
+this particular jet was captured by the
+11:26
+Hubble Space Telescope so we can
+11:28
+actually watch how it moves through
+11:30
+space we don't have to pretend or assume
+11:32
+that this is happening we can see it
+11:34
+happening over time now we only have one
+11:37
+of the two Jets the other jet would be
+11:39
+moving toward the left of your screen
+11:42
+however it's concealed behind a dense
+11:45
+molecular cloud so we have a story that
+11:50
+we're starting to fit together about how
+11:52
+stars form there are these proto stellar
+11:56
+or protoplanetary disks that surround
+11:59
+newly forming stars and it seems that
+12:02
+every star that forms starts out with a
+12:04
+disc like this but not all these disks
+12:07
+have jets associated with them so the
+12:11
+Jets themselves are probably transient
+12:14
+events in fact if you look at this
+12:16
+object on the right side of your screen
+12:18
+you're gonna see little knots it's
+12:21
+almost as if there were like bullets of
+12:23
+material that were being ejected from
+12:25
+the star so this tells us that the Jets
+12:28
+themselves probably turn on and turn off
+12:30
+and turn back on again at various times
+12:32
+throughout the stars formation so quick
+12:37
+anatomy and recap we have the
+12:39
+circumstellar disk all this is the
+12:42
+rotating gas and dust and it's
+12:43
+flattening out due to the conservation
+12:45
+of angular momentum the inner disk is
+12:48
+rotating the fastest and therefore it's
+12:51
+the flattest part of the system this
+12:54
+inner disk is what directly feeds the
+12:56
+protostar and that's why it's often
+12:58
+called an accretion or a proto stellar
+13:01
+disk the protostar itself is hidden from
+13:03
+view it's directly at the center and
+13:06
+it's this disk that confines the outflow
+13:09
+of the proto stellar wind along the
+13:11
+poles and sometimes the outflow is
+13:13
+intense enough to create a jet so far
+13:17
+we've been talking about the formation
+13:19
+of stars that are approximately the mass
+13:21
+of the Sun but it turns out the same
+13:23
+phenomena is true even of massive stars
+13:26
+like this one this is a 15 solar mass
+13:29
+star called Sharples 2 - 106 and as the
+13:33
+picture may indicate it's the same
+13:35
+process just happening on a much much
+13:37
+larger scale so we have the protostar
+13:41
+itself which is basically hidden from
+13:43
+view we don't really even see the
+13:45
+protostar but this massive bipolar
+13:49
+outflow and you could just see all the
+13:50
+different knots that suggest how the
+13:53
+stuff has been colliding with the
+13:55
+interstellar medium so this whole system
+13:58
+is about two light-years from one end to
+14:02
+the next so this is just the same thing
+14:04
+that happened to our solar system except
+14:06
+obviously on a much larger scale now
+14:09
+most of the stars in the sky are
+Binary system formation
+14:11
+actually members of binary systems so
+14:14
+here is an example of a forming binary
+14:16
+system this is HK tari
+14:19
+and we have two separate discs so we
+14:22
+have two stars each forming from within
+14:24
+their own discs and since these two
+14:27
+discs and the 2 proto stars within are
+14:29
+gravitationally bound they will
+14:32
+undoubtedly go on to become a proper
+14:34
+binary star system these discs and the
+14:37
+stars forming within them will continue
+14:39
+to orbit one another but sometimes a
+14:42
+binary or even in this case a triple
+14:45
+star system can form from within the
+14:48
+same disk what we have is a single disk
+14:50
+and it looks like what's happened is
+14:52
+that the disk has fragmented and it's
+14:55
+this fragmentation of the disk that gave
+14:57
+rise to additional clumps or additional
+15:01
+cores so here's an artist's impression
+15:03
+of a similar system GG tari a it looks
+15:06
+like we had the primary star at the
+15:08
+centre and then from somewhere within
+15:11
+the disk some instability formed and
+15:14
+rather than accreting onto the main star
+15:16
+at the center it formed its own
+15:18
+accretion disk around a second protostar
+15:22
+as the protostar continues to develop
+15:26
+the remaining disk is flattening and
+15:28
+then little clumps form inside that disk
+15:32
+and go on to become planets
+15:34
+so we're going to learn more about the
+15:36
+formation of planetary systems next

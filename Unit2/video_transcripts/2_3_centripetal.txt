@@ -1,0 +1,342 @@
+0:00
+at first glance centripetal force looks
+0:02
+strange
+0:03
+consider this situation the moon
+0:06
+revolves around the earth
+0:07
+the moon has a velocity as shown at a
+0:09
+particular instant
+0:11
+however to make this circular motion the
+0:13
+force should be perpendicular to the
+0:15
+velocity
+0:16
+as shown
+0:20
+in mechanics we generally see velocity
+0:22
+in the direction of the applied force
+0:26
+why then is centripetal force
+0:28
+perpendicular to the velocity
+0:30
+what is centrifugal force let's figure
+0:33
+it out with an interesting thought
+0:34
+experiment
+0:36
+consider this tennis ball
+0:40
+and assume it's moving on a straight
+0:41
+line initially
+0:43
+if you apply force perpendicular to its
+0:45
+motion for a short time
+0:47
+the object will deflect as shown its
+0:50
+direction changes
+0:52
+now let's apply the force again
+0:53
+perpendicular to the new direction
+0:55
+the object deflects again let's repeat
+0:58
+this process
+1:02
+now observe the shape the object
+1:04
+traveled
+1:06
+it's very close to a circle
+1:13
+if the time interval of applied force is
+1:15
+significantly smaller
+1:16
+you will get a more perfect circle
+1:20
+which means if an object is always acted
+1:22
+upon with a force
+1:23
+perpendicular to its velocity the object
+1:25
+will move in a circle
+1:27
+this force is known as centripetal force
+1:37
+one more logical conclusion would be
+1:39
+that more the centripetal force
+1:41
+more will the object's deflection or
+1:43
+lesser will be the radius of the circle
+1:51
+this means for any circular motion to
+1:53
+occur inward perpendicular force
+1:56
+must act upon the object
+2:00
+to get the value of the centripetal
+2:01
+force we should approach the problem
+2:03
+analytically
+2:04
+and start with the way sir isaac newton
+2:06
+defined force
+2:08
+however there's no fun in an analytical
+2:10
+derivation
+2:11
+so we'll animate this method the
+2:13
+conceptual understanding we already
+2:15
+developed will really help you in
+2:16
+science
+2:17
+and engineering
+2:21
+once again it is clear from this
+2:22
+equation that the lesser the radius of
+2:24
+the circle
+2:25
+the more centripetal force will be
+2:27
+needed
+2:29
+when the moon revolves around the earth
+2:31
+the gravitational force
+2:32
+acting between the moon and the earth
+2:34
+provides the necessary centripetal force
+2:38
+similarly when you rotate an object
+2:40
+attached to a string
+2:41
+the tension in the string provides the
+2:43
+required centripetal force
+2:46
+consider this spinning wooden block the
+2:48
+frictional force between
+2:50
+the block and floor lends the necessary
+2:52
+centripetal force
+2:54
+in short centripetal force should be
+2:56
+supplied by some external source such as
+2:58
+gravitation
+2:59
+tension friction etc
+3:03
+now that we've learned the concept of
+3:04
+centripetal force the big question is
+3:07
+what is centrifugal force consider these
+3:10
+examples
+3:12
+when fluid spins in a beaker as the
+3:14
+speed of the beaker increases
+3:16
+the fluid flows outward
+3:19
+similarly in this centrifugal casting
+3:21
+process
+3:22
+the molten metal always moves to the
+3:24
+outer wall
+3:26
+as you increase the speed of this
+3:27
+suspended ball the ball
+3:29
+also travels outward
+3:32
+is there any force called the
+3:34
+centrifugal force which is acting
+3:36
+radially outward on a rotating object to
+3:38
+move it outward
+3:41
+scientifically speaking there is no such
+3:43
+force as a centrifugal force
+3:46
+it's a pseudo force a rotating object
+3:49
+always needs a force which is radially
+3:51
+inward
+3:52
+centrifugal force is needed in physics
+3:54
+only when you analyze the problem
+3:56
+rotating along with the object
+3:59
+in this example since the observer is
+4:01
+sitting inside a rotating cabin
+4:03
+the observer has to add a centrifugal
+4:05
+force to analyze the problem
+4:07
+it's a pseudo force added to convert a
+4:09
+non-inertial frame of reference
+4:11
+to an inertial frame of reference
+4:14
+if the observer is on the ground there
+4:16
+is no need to use such a force
+4:20
+now let's analyze the previous examples
+4:22
+using the concept of centripetal force
+4:24
+we have developed
+4:26
+as you rotate the ball faster it moves
+4:28
+away
+4:30
+the ball needs a centripetal force the
+4:33
+tension of the rope more specifically
+4:35
+the horizontal component of its tension
+4:37
+provides that force the tension on the
+4:40
+ball has
+4:40
+one more responsibility the vertical
+4:43
+component of the tension
+4:44
+has to balance the weight of the ball
+4:48
+logically as the ball rotates faster the
+4:50
+rope's tension
+4:51
+should increase to supply the sufficient
+4:53
+centripetal force
+4:56
+however the weight of the ball does not
+4:58
+increase which means that in order to
+5:00
+keep the vertical component of the
+5:01
+tension the same
+5:03
+the angle has to increase like this
+5:09
+this is the reason why the ball moves
+5:11
+away as you rotate it faster
+5:18
+the case of the rotating fluid is
+5:20
+slightly different
+5:23
+here again each fluid particle requires
+5:25
+a particular amount of centripetal force
+5:28
+to maintain the circular motion
+5:31
+the pressure difference caused by the
+5:32
+water level's height disparity
+5:34
+generates that centripetal force the
+5:37
+fluid
+5:38
+particles at the outer radius obviously
+5:40
+need more centripetal force
+5:42
+to satisfy this increasing centripetal
+5:44
+force requirement
+5:45
+the fluid surface has to form a curved
+5:48
+shape
+5:48
+rather than a straight line when the
+5:51
+water volume
+5:52
+rotates faster each particle demands
+5:54
+more centripetal force
+5:56
+or more pressure difference across the
+5:58
+particle
+5:59
+therefore the water surface curves more
+6:01
+than in the previous case
+6:04
+or you feel like the water is going
+6:05
+outward
+6:07
+it's better to avoid using centrifugal
+6:09
+force in your scientific or
+6:11
+engineering analyses because it's a
+6:13
+pseudo force
+6:14
+used only in some special cases always
+6:17
+work
+6:17
+using centripetal force that's the real
+6:20
+force that a rotating object requires

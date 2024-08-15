@@ -1,0 +1,248 @@
+0:00
+The Sun was always a bit of a mystery.
+0:04
+No one could figure out what was powering it.
+0:08
+In the 19th century, some scientists thought it could all be explained by gravity.
+0:14
+The Sun began as a giant cloud of dust and gas.
+0:18
+And this cloud collapsed under the force of gravity releasing lots of heat.
+0:25
+This might explain why the Sun is hot, but it doesn't explain why the Sun has been hot
+0:31
+for so long.
+0:33
+A clear picture didn't emerge until we had a better model of the atom.
+0:39
+At the center of each atom is a tiny nucleus made of protons and neutrons.
+0:45
+Protons have a positive electric charge and this is a problem because their charges are
+0:51
+pushing them apart.
+0:53
+The electric force is trying to rip apart the nucleus.
+0:58
+But there is a strong force holding it together: the nuclear force.
+1:05
+The nuclear force bring protons and neutrons together.
+1:09
+It doesn't really affect pairs of protons or pairs of neutrons.
+1:14
+To hold everything together you need to have just the right combination of protons and
+1:19
+neutrons.
+1:21
+Too many protons and it falls apart.
+1:23
+Too many neutrons and it falls apart.
+1:26
+But when you get just the right combination, you produce a nuclear reaction.
+1:33
+Nuclear reactions are similar to chemical reactions in many ways.
+1:37
+There are certain combinations of chemicals that are more stable.When you form stable
+1:43
+compounds, you make energy.
+1:46
+For example, if you combine hydrogen and oxygen to make H20, this is a more stable combination
+1:53
+and you make energy.
+1:55
+Similarly, if you combine two hydrogen nuclei into Helium, this is a more stable combination
+2:02
+and you make energy.
+2:05
+But nuclear reactions are different from chemical reactions.
+2:08
+They're much harder to produce, they're much more powerful, and they involve neutrons.
+2:15
+Chemical reactions are part of our everyday life, but nuclear reactions are not.The reason
+2:22
+is that the nuclear force only works over very short distances.
+2:27
+The protons are all positively charged.
+2:30
+So if you bring hydrogen nuclei together, they just repel each other.
+2:35
+If you bring them closer, they repel each other more.
+2:38
+The nuclear force only kicks in when they are extremely close.
+2:44
+Normally, the nuclei never get near each other.
+2:48
+It is only under conditions of extreme pressure and extreme heat that the nuclei will collide.
+2:56
+And this only happens at the center of a very massive object like our Sun or inside a nuclear
+3:03
+bomb.
+3:06
+Neutrons are very important in nuclear reactions, but for chemical reactions they're irrelevant.
+3:13
+This is a hydrogen nucleus and so is this.
+3:16
+For the purposes of chemistry, we don't care about the neutrons.
+3:21
+But for nuclear reactions, we do.
+3:23
+We have to keep track of them.
+3:25
+So this is a Hydrogen-1 nucleus.
+3:28
+And this is a Hydrogen-2 nucleus.
+3:31
+The number at the end is the total number of protons and neutrons.
+3:35
+Two protons and a neutron make Helium-3.
+3:38
+Two and two makes Helium-4.
+3:42
+Hydrogen-2 is also know as Deuterium.
+3:46
+Nuclear reactions are very powerful.
+3:50
+Let's look at our two reactions again.
+3:52
+The chemical reactions releases 5 eV of energy.
+3:56
+The nuclear reaction releases 24 million eV of energy.
+4:01
+So the nuclear reaction is 5 million times more powerful.
+4:07
+There's enough energy in just a pound of deuterium to power 10,000 homes for a year.
+4:12
+This is an insane amount of energy.
+4:15
+It's why the Sun is so bright, why nuclear bombs are so scary, and why scientists have
+4:21
+been working on fusion power for decades with little success.
+4:26
+There's another nuclear force that we need to talk about.
+4:29
+We've been talking about the strong nuclear force, but there's also a weak nuclear force.
+4:36
+The strong force is what holds the nucleus together.
+4:39
+The weak force causes radioactivity.
+4:43
+And it's called the weak force because it acts slowly.
+4:47
+The weak force can cause protons and neutrons to switch identities.
+4:52
+A proton can turn into a neutron.
+4:55
+Or a neutron can turn into a proton.
+4:58
+This is called beta decay.
+5:01
+Neutrons are heavier than protons just barely.
+5:04
+But what this means is that a free neutron can lose some mass and turn into a proton.
+5:11
+But a proton cannot turn into a neutron unless it's near other particles.
+5:17
+The reason this process is called beta decay is because it's one of the ways that a radioactive
+5:23
+element can decay.
+5:25
+Now it turns out that radioactivity can be slow.
+5:29
+Imagine you have a box full of Uranium-235 atoms.
+5:33
+Eventually, the Uranium atoms will all turn into Lead, but they're not in any hurry to
+5:39
+do this.
+5:41
+If you want to wait until half your Uranium atoms have turn into Lead, you'll be waiting
+5:46
+700 million years.
+5:51
+Radioactivity involves more than just beta decay.
+5:54
+There's actually more going on here.
+5:56
+But the point is that beta decay can be a slow process and it's a random process.
+6:03
+Now we finally have covered enough background to explain how the Sun shines.
+6:09
+This was worked out in the 30s by Hans Bethe.
+6:13
+The Sun is mostly made of Hydrogen-1 which is just a proton.
+6:18
+The Sun is very hot and very dense so these protons collide.
+6:23
+But this doesn't cause a nuclear reaction because there's no neutrons.
+6:28
+Most of the time when two protons collide they immediately fly apart producing no energy.
+6:35
+But it is possible, very very rarely, that something else happens: beta decay.
+6:43
+At the moment the two protons collide, one of them undergoes beta decay and turns into
+6:49
+a neutron.
+6:51
+This gives us Hydrogen-2 and releases tons of energy.
+6:55
+The Hydrogen-2 nucleus continues moving around and when it bumps into a proton it turns into
+7:02
+Helium-3 and this releases tons of energy..
+7:08
+As this process continues, the Sun produces more and more Helium-3.
+7:13
+When two Helium-3 nuclei collide, they can form into an even better combination Helium-4
+7:20
+and this releases tons of energy.
+7:23
+Hydrogen is converted into Helium in three steps.
+7:27
+First, two protons are combined into Deuterium through beta decay.
+7:32
+Next a proton is added to make Helium-3 and finally two Helium-3 nuclei collide creating
+7:39
+Helium-4 plus two leftover protons.
+7:43
+The first step is by far the slowest because you have to wait for beta decay.
+7:48
+For a typical proton in the center of the Sun the first step takes on average one billion
+7:54
+years.
+7:56
+Compare that to the second step which takes about 4 seconds.
+7:59
+Now in the final step, you have to find another Helium nucleus which is rare.
+8:03
+This takes about 400 years.These nuclear reactions are the source of the Sun's tremendous power.
+8:12
+The Sun is the ultimate energy source.
+8:15
+The Sun heats the air which causes wind.
+8:18
+The Sun heats water which causes rain giving us hydroelectric power.
+8:25
+Sunlight is the foundation of life.
+8:27
+The energy from ancient sunlight was deposited into the ground giving us our fossil fuels:
+8:33
+coal, oil, and natural gas.
+8:36
+Practically all the world's energy ultimately comes from either the Sun or nuclear power.
+8:42
+To summarize, we present: Children Explaining Nuclear Physics.
+8:47
+Hydrogen-1 atoms.
+8:50
+The Sun is made up most of these.
+8:54
+Now what if two of them collide?
+8:58
+Then one of them will turn into a neutron and you get Hydrogen-2.
+9:07
+Next, it collides with another atom becomes Helium-3.
+9:12
+And then it collides with another one and you get Helium-4.
+9:18
+Beautiful!
+9:19
+For more astronomical videos, please click subscribe!
+9:22
+Yes!

@@ -1,0 +1,210 @@
+0:00
+[Music]
+0:10
+hello learners this is easy engineering
+0:12
+today we are going to talk about another
+0:14
+fun topic in physics
+0:16
+it is all about the kepler's laws of
+0:18
+planetary emotion
+0:20
+kepler's laws of planetary motion are
+0:23
+laws
+0:24
+describing the motions of the planets in
+0:26
+the solar system
+0:27
+they were derived by the german
+0:29
+astronomer johannes kepler
+0:31
+there are three laws of planetary motion
+0:33
+let us talk about them one by one
+0:37
+kepler's first law of planetary motion
+0:39
+sometimes referred to as the loss of
+0:42
+ellipses can be stated as all planets
+0:45
+move about the sun in elliptical orbits
+0:48
+having the sun as one of the
+0:51
+foci this means that planets are
+0:53
+orbiting the sun in a path described as
+0:55
+an ellipse this is a picture of an
+0:58
+ellipse
+1:01
+suppose this ellipse is where the planet
+1:03
+earth moves
+1:04
+the earth moves along the ellipse around
+1:06
+the sun
+1:08
+the sun is located at either one or
+1:09
+foresight of the ellipse
+1:13
+now let us move on to the second law
+1:16
+kepler's second law of planetary motion
+1:18
+sometimes referred to as the law
+1:20
+of equal areas can be stated as
+1:24
+a radius vector joining in the planet to
+1:26
+the sun sweeps out equal areas in equal
+1:28
+lengths of time
+1:30
+the second law describes the speed at
+1:32
+which any given planet
+1:34
+will move while orbiting the sun know
+1:37
+that when a planet is close to the sun
+1:39
+it moves fast but when a planet is far
+1:41
+from the sun
+1:42
+it moves slowly so if we draw an
+1:45
+imaginary line of the movement of the
+1:47
+planet
+1:47
+and the sun for every month of the year
+1:50
+we can see that when the planet is close
+1:52
+to the sun
+1:53
+it will form a wide but short triangle
+1:56
+and when the planet is far from the sun
+1:58
+[Music]
+2:01
+it will form a thin but long triangle
+2:05
+the earth would have to adjust its
+2:07
+movements in order to match the
+2:08
+imaginary area
+2:11
+did you know that the knowledge of
+2:12
+kepler's second law has proved
+2:14
+the importance of newton's law of
+2:16
+gravitation
+2:17
+newton showed that the motion a body is
+2:20
+subject to central gravitational force
+2:22
+does not always follow the elliptical
+2:24
+orbits as specified with the first law
+2:26
+of kepler
+2:27
+but instead planets or other heavenly
+2:30
+bodies can take parts defined
+2:32
+by other open chronic herbs
+2:35
+amazing right now let us move on to the
+2:38
+kepler's planetary motion sometimes
+2:40
+referred to as the law of harmonies
+2:43
+can be stated as the squares of the
+2:46
+sidereal periods of the planets
+2:48
+are directly proportional to the cubes
+2:50
+of their mean distances from the sun
+2:53
+it compares the orbital period and
+2:55
+radius of orbit of the planet
+2:57
+to those of other planets it is the
+2:59
+ratio of the squares
+3:00
+of the periods to the cubes of their
+3:02
+average distances from
+3:04
+the sun is the same for every one of the
+3:06
+planets
+3:07
+the comparison of each planet can be
+3:09
+shown in this illustration
+3:12
+now what does that mean kepler's third
+3:15
+law means
+3:16
+how long a planet takes to go around the
+3:18
+sun which is its period
+3:20
+is related to the planet's mean distance
+3:23
+from the sun
+3:25
+that is the square of the period divided
+3:28
+by the cube of the mean distance
+3:31
+is equal to a constant and for every
+3:33
+planet no matter what is period or
+3:35
+distance
+3:36
+t squared over r cubed is the same
+3:39
+number
+3:40
+and that's it did you enjoy our topic
+3:42
+for today
+3:43
+i hope you certainly did see you again
+3:45
+next time for more interesting and fun
+3:47
+topics only here in east engineering
+3:49
+we make engineering topics easy and fun
+3:51
+for you
+4:02
+you

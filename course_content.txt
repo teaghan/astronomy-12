@@ -3364,3 +3364,292 @@ layout: embed_default
 # 7.5 SETI
 
 
+
+# Unit 1 Assignment
+Astronomy Assignment: Celestial Explorers Name:	____________________________	Embark	on	a	journey	through	the	night	sky	using	the	Stellarium	tool	to	identify	celestial	objects,	record	their	characteristics,	and	explore	the	vast	distances	of	the	universe.	This	assignment	will	help	you	become	familiar	with	key	astronomical	concepts	while	enjoying	the	beauty	of	the	cosmos.	Resources •	Stellarium	Web	-	An	online	planetarium	for	observing	the	night	sky.	Part 1: Getting Started with Stellarium 1. Set	Your	Location:	Open	Stellarium	and	set	your	location	to	your	current	city	or	a	nearby	location.	This	will	help	you	see	the	night	sky	as	it	appears	from	your	specific	spot	on	Earth.	2. Familiarize	Yourself:	Spend	some	time	exploring	the	Stellarium	interface.	Learn	how	to	navigate	the	sky,	zoom	in	on	objects,	and	access	information	about	them.	Part 2: Identifying Celestial Objects Choose	a	clear	night	when	the	stars	are	visible,	and	find	an	open	space	to	get	the	widest	view	possible.	Use	the	Stellarium	tool	to	help	you	locate	visible	objects	in	the	sky.	The North Star (Polaris) 1. Find	Polaris:	Use	Stellarium	to	help	locate	the	North	Star,	Polaris.		2. Record	the	following	information	from	Stellarium:				-	Right	Ascension	(RA):	____________________________				-	Declination	(Dec):	____________________________				-	Distance	from	Earth	(light-years):	____________________________		3. Calculate	Light	Travel	Time:	Using	the	distance,	calculate	how	many	years	into	the	past	you	are	seeing	when	you	observe	Polaris.						Light	Travel	Time:	____________________________	Visible Planets 4. Identify	Visible	Planets:	Use	Stellarium	to	help	you	identify	at	least	two	planets	visible	in	the	night	sky.	5. Record	the	following	information:	a. Planet	1:						Name:	____________________________						RA:	____________________________						Dec:	____________________________						Distance	from	Earth	(astronomical	units):	____________________						Light	Travel	Time:	___________________________	b. Planet	2:						Name:	____________________________						RA:	____________________________						Dec:	____________________________						Distance	from	Earth	(astronomical	units):	____________________						Light	Travel	Time:	____________________________	 Bright Stars 6. Identify	Bright	Stars:	Use	Stellarium	to	help	you	identify	at	least	two	bright	stars	in	the	night	sky.	7. Record	the	following	information:	a. Star	1:						-	Name:	____________________________						-	RA:	____________________________						-	Dec:	____________________________						-	Distance	from	Earth	(light-years):	____________________________						-	Light	Travel	Time:	____________________________	b. Star	2:						-	Name:	____________________________						-	RA:	____________________________						-	Dec:	____________________________						-	Distance	from	Earth	(light-years):	____________________________						-	Light	Travel	Time:	____________________________						Constellations 8. Constellation	Exploration:	Choose	one	constellation	and	identify	its	main	stars.				-	Constellation	Name:	____________________________				-	Main	Stars:	List	their	names,	RA,	Dec,	distance,	and	light	travel	time.							Part 3: Cosmic Reflections 	1. Write	a	short	reflection	on	what	you	found	most	interesting	or	surprising	about	your	observations.	How	does	understanding	the	light	travel	time	change	your	perception	of	the	stars	and	planets	you	observed?						2. What	do	you	notice	about	the	distances	of	the	stars	in	your	chosen	constellation?	Are	these	stars	actually	close	to	each	other	in	space?						
+
+
+# Unit 2 Assignment
+Investigating Galaxy Data
+Name:
+Objective
+The purpose of this assignment is to apply your knowledge of circular motion and gravity to analyze
+galaxy data and determine if there are any discrepancies between our observations and expectations.
+1What is a Model?
+A model is a simplified representation of a system or phenomenon that helps us understand and predict
+its behavior. In science, models are essential tools for testing hypotheses and validating theories against
+observations.
+Models are constructed based on known laws and principles and include key variables and relationships
+that define the system being studied. For example, in astronomy, we use models to describe the motion of
+planets, stars, and galaxies by applying Newton’s laws of motion and gravitation.
+A good model should:
+•Capture the essential features of the system.
+•Make accurate predictions that can be tested against experimental or observational data.
+•Be as simple as possible while still being accurate.
+However, no model is perfect. Models often make assumptions and simplifications that may not hold
+true in all situations. For instance, when modeling the orbits of planets, we might assume they are perfect
+circles, even though they are slightly elliptical in reality. These simplifications are necessary to make the
+problem manageable but can lead to discrepancies between the model’s predictions and actual observa-
+tions.
+In this assignment, we will create a model for the rotational velocity of stars in a galaxy and compare
+it to observational data. By examining any discrepancies, we can explore potential reasons why our model
+might not perfectly match reality, leading to new insights and improvements in our understanding.
+12Gravity Review
+Newton’s Second Law states that the force on a mass, m, is related to its acceleration, a, through the
+equation:
+F=ma (1)
+Additionally, the gravitational force between two masses, m1andm2, is given by:
+FG=Gm 1m2
+r2(2)
+where ris the distance between the two objects, and G= 6.6743 ×10−11m3·kg−1·s−2is the gravita-
+tional constant.
+For example, if we use m1=M⊙= 1.989×1030kg (the mass of the Sun) and place a planet with
+the same mass as the Earth ( m2=ME= 5.972×1024kg) at various distances from the Sun, we can
+see how the gravitational force between them decreases as the distance increases. In other words, we can
+use Equation 2 to model the force between the Sun and a planet with the same mass as Earth for different
+distances. This model is shown in Figure 1.
+Sample calculation for r= 1.25×1011m:
+FG=GM⊙ME
+r2=(6.6743 ×10−11)(1.989×1030)(5.972×1024)
+(1.25×1011)2N
+FG= 5.074×1022N
+2Figure 1: Modeling the force between the Sun and Earth.
+3Circular Motion
+When an object undergoes circular motion with a radius, r, and a constant speed, v, it is actually accel-
+erating towards the center of the circle. This acceleration is given by:
+a=v2
+r(3)
+We can relate this equation to Newton’s Second Law (Equation 1) to find the relationship between the
+centripetal force and the orbital velocity. According to Newton’s Second Law:
+F=ma and a=v2
+r
+Therefore, the centripetal force, Fc, is:
+Fc=mv2
+r(4)
+Let’s apply this to the Earth-Sun system. The Earth is located approximately rE= 1.475×1011m from
+the Sun. Based on the time it takes to complete one orbit (365.25 days), we can determine the Earth’s
+3orbital speed, which is vmeas= 29,780m/s. Using this orbital speed, we can calculate the centripetal force
+on Earth and compare it to the theoretical gravitational force using our model with r= 1.475×1011m.
+Calculating the “measured” force between the Sun and Earth:
+Fmeas=ME·v2
+meas
+rE=(5.972×1024)(29,780)2
+(1.475×1011)N
+Fmeas= 3.591×1022N
+Figure 2: The force between the Sun and Earth.
+The calculated force is quite close to the theoretical value!
+To quantify this closeness, we use the percentage error formula:
+%error =|Fmeas−Fmodel|
+Fmodel×100% (5)
+4Calculating the percentage error:
+%error =|3.591×1022−3.644×1022|
+3.644×1022×100%
+%error = 1.45%
+While this error is quite small, we can hypothesize why our model does not perfectly match the mea-
+surement. For instance:
+•The Earth’s orbit is not perfectly circular, so Fc=mv2
+ris not an exact model.
+•Large planets, like Jupiter, also have a substantial gravitational interaction with Earth, so FG=Gm 1m2
+r2
+is not exact either.
+This example should give you some guidance on how to:
+1.Create a model of a physical phenomenon.
+2.Compare your measurements to that model.
+3.Use this comparison to hypothesize what might be missing from your model.
+54Galaxies
+Similar to how the Earth orbits around the Sun, stars in a galaxy rotate around the center of the galaxy. A
+rotation curve is a plot of the rotational (or orbital) velocity of stars in a galaxy as a function of their distance
+from the center (radius).
+Using photometric data of the luminous matter, we can create a rotation curve of a galaxy. This curve
+is used to estimate the enclosed mass within a certain radius by equating the centripetal force to the gravi-
+tational force. We assume that, like the Earth orbiting the Sun, stars have circular orbits. Therefore, we can
+use the same relationship as before:
+mv2
+r=GmM enc(r)
+r2(6)
+where:
+•v= rotational velocity
+•G= gravitational constant
+•m= mass of the star
+•Menc(r)= enclosed mass as a function of radius (note: this is not the same as Menc×r)
+•r= radius or distance from the center of the galaxy
+Since stars are very massive objects and the distances we consider are also very large, we typically use
+units of solar masses ( 1M⊙= 1.989×1030kg) and kiloparsecs ( 1kpc= 3.086×1019m). We can also
+express the gravitational constant in these units, where G= 4.30×10−6kpc·km2/M⊙/s2.
+Observations of galaxies show that the luminous matter is largely contained within the central “bulge.”
+Therefore, at larger distances, if we assume that Menc=Mbulge, Equation 6 simplifies to:
+mv2
+r=GmM bulge
+r2(7)
+65Activity Part 1: Creating a Rotational Model
+Your goal for this activity is to:
+1.Use the relationship in Equation 7 to create a model for the rotational velocity of a star in a galaxy in
+terms of the mass enclosed within that star’s orbit.
+2.Compare this model to measured data from the provided data tables.
+3.Discuss whether or not your model adequately represents the data.
+5.1 Creating a model
+a) Using Equation 7 and your algebra skills, develop an equation for vthat will serve as your model for
+the rotation curve of your galaxy.
+To do this, follow these steps:
+1. Start with Equation 7:
+mv2
+r=GmM bulge
+r2
+2. Simplify the equation to solve for v. This will give you a model for the rotational velocity as a function
+of radius rand mass Mbulge.
+75.2 Galaxy data
+NGC7814, also known as the “Little Sombrero,” is a spiral galaxy located approximately 40 million light-
+years away in the constellation Pegasus. It is characterized by a prominent central bulge and a thin, flat
+disk. The galaxy’s edge-on orientation provides a clear view of its structure, making it an excellent subject
+for studying galactic dynamics and mass distribution.
+Figure 3: NGC7814 - The Little Sombrero Galaxy
+The table below provides some measurements obtained from NGC7814 of the rotational velocities ( v)
+of stars at different distances from the center of the galaxy ( r).
+Galaxy Name NGC7814
+Mbulge 0.5912 ×1010M⊙
+r (kpc) vmeas (km/s)
+0.6300 265.0000
+2.7900 233.0000
+5.0300 228.0000
+7.2600 227.0000
+9.5000 223.0000
+11.7400 216.0000
+14.0100 214.0000
+16.1800 214.0000
+18.4400 214.0000
+85.3 Plotting the data
+For this activity, you can either use a graphing program of your choice or do the calculations and graphs
+by hand.
+a) Use the data table for NGC7814 to create a rotation curve plot (i.e., plot the measurements for v
+against r) with appropriate axis labels and units.
+b) On this same plot, include a curve that represents your model. To accomplish this, follow these steps:
+1. Use your model equation to calculate the theoretical rotational velocity for various values of r.
+2. Fill in the table below with your calculated velocities.
+3. Plot these points on your graph and connect them with a smooth curve.
+Show at least one sample calculation.
+r (kpc) v (km/s)
+5.3.1 Sample Calculations
+95.3.2 Results
+a) Calculate the percentage error between the measurements and your model for each star, then cal-
+culate the average percentage error. Show at least one sample calculation.
+Sample percentage error calculation:
+%error =|vmeas −vmodel |
+vmodel×100%
+10b) Write down what you observe about the agreement between the measurements and your model.
+What can you say about the measured rotational velocities at large distances from the galaxy’s center?
+c) Does your model appear to accurately represent the measurements? Use evidence from your com-
+parisons to justify your answer.
+d) What do you think might be missing from your model? (Hint: what assumptions did we make?)
+116Enclosed Mass
+Previously, we modeled the rotational velocity of a star orbiting its galaxy using the equation:
+v=√
+GM enc
+r(8)
+where:
+•v= rotational velocity
+•G= 4.30×10−6kpc·km2/M⊙/s2(the gravitational constant)
+•Menc= enclosed mass as a function of radius
+•r= radius or distance from the center of the galaxy
+However, when we assumed that the enclosed mass was simply the mass of the bulge of the galaxy,
+the model did not accurately represent the experimental data. This discrepancy leads us to explore how
+we can more accurately estimate the enclosed mass.
+In reality, multiple sources contribute to the mass of a galaxy. Some of the main sources include:
+1. The central black hole
+2. The bulge of the galaxy
+3. The main stellar disk
+4. The surrounding gas cloud
+Our goal is to model the enclosed mass by including these contributions and compare this model to
+the measured enclosed mass obtained from the radial velocity curve of the galaxy.
+12Figure 4: The structure of a galaxy.
+To begin, our model will include these four contributions as follows:
+Menc(r) =MBH+Mbulge +Mdisk+Mgas(r) (9)
+where:
+•MBH= mass of the central black hole
+•Mbulge = mass of the galaxy bulge
+•Mdisk= mass of the main stellar disk
+•Mgas(r)= mass of the gas cloud as a function of radius
+The measurements we will be analyzing are from stars outside of the bulge and main stellar disk. There-
+fore, Mbulge andMdiskcan be determined from their average spherical densities, ρbulge andρdisk, using
+the formula:
+Mass =Volume ×Density =4
+3πr3ρ (10)
+Equation 10 can also be used for Mgas, but note that this mass will continue to increase as we move
+further from the center of the galaxy.
+137Activity Part 2: Creating a Model
+Your goal for this activity is to:
+1.Use the relationship in Equation 9 to create a model for the enclosed mass within a given radius of
+the galaxy.
+2.Compare this model to measured data from the provided data tables.
+3.Discuss any discrepancies between the model and the measured data.
+Table 1: Components of the enclosed mass for NGC 7814.
+Galaxy Name NGC7814
+MBH 1.00×108M⊙
+ρbulge 1.524×108M⊙/kpc3
+rbulge 2.10kpc
+ρdisk 5.592×107M⊙/kpc3
+rdisk 6.05kpc
+ρgas 7.329×104M⊙/kpc3
+Table 2: Rotational curve data for NGC 7814.
+r (kpc) v (km/s)
+6.14 228
+7.26 227
+8.37 226
+9.50 223
+10.65 219
+11.74 216
+12.82 214
+14.01 214
+15.09 214
+16.18 214
+17.36 214
+18.44 214
+19.53 214
+147.1 Creating and Plotting the Model
+a) Expand Equation 9 to create a model forMencin terms of r,MBH,ρbulge,rbulge,ρdisk,rdisk, and
+ρgas. You can follow the steps below:
+1.Start with Equation 9:
+Menc(r) =MBH+Mbulge +Mdisk+Mgas(r)
+2.Use the provided values in Table 1 to express Mbulge,Mdisk, and Mgas(r)in terms of their densities
+and radii. Remember that the mass of a spherical region is given by:
+Mass =Volume ×Density =4
+3πr3ρ
+3.Substitute these expressions into Equation 9 to get a full model for Menc(r).
+15b) Use your model and the data in Tables 1 and 2 to determine the enclosed mass within each star’s
+orbit.
+Show at least one sample calculation for the model value of the enclosed mass ( Menc(r)).
+c) To obtain the measured enclosed mass from the rotational curve data, rearrange Equation 8 and use
+the measured velocities in Table 2.
+Show at least one sample calculation for the measured enclosed mass.
+Table 3: Enclosed Mass Data for NGC7814
+r (kpc) Menc(model, M⊙)Menc(measured, M⊙)
+6.14
+7.26
+8.37
+9.50
+10.65
+11.74
+12.82
+14.01
+15.09
+16.18
+17.36
+18.44
+19.53
+d) In the graph area on the following page (or with your graphing software), plot both the model and
+measured enclosed mass vs. the radius. Include appropriate axis labels and legends.
+7.1.1 Sample Calculations
+167.1.2 Results
+a) Atr= 19.53kpc, how much enclosed mass is missing from your model compared to the measured
+value?
+17b) Write down what you observe about the trend of the model. What about the measurements?
+c) Does your model appear to accurately represent the measurements? Use evidence from your com-
+parisons to justify your answer.
+d) What do you think might be missing from your model? Be creative!!
+188Self-Assessment
+For each statement, circle the answer that best represents how you feel about today’s lesson.
+a) After today’s lesson, I have an understanding of what a “model” is.
+Strongly Agree | Agree | Disagree
+b) After today’s lesson, my confidence in my ability to compare measurements to a model .
+Improved | Did not improve
+19
+

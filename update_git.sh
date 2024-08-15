@@ -7,6 +7,7 @@ units=("Unit1" "Unit2" "Unit3" "Unit4" "Unit5" "Unit6" "Unit7")
 for unit in "${units[@]}"; do
   find "${unit}" -type f \( -name "*.ipynb" -o -name "*.html" \) ! -name "*-checkpoint.ipynb" ! -path "*/.ipynb_checkpoints/*" -exec git add {} \;
   git add "${unit}/figures/*"
+  git add "${unit}/video_transcripts/*.txt"
   git add "${unit}/README.md"
   git add "${unit}/*.docx"
   git add "${unit}/*.pdf"

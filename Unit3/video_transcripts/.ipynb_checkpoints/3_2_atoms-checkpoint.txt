@@ -1,0 +1,147 @@
+What Are Atoms?
+0:05
+What are Atoms?
+0:06
+Everything we can see and even those gases that we cannot see
+0:10
+are made up of atoms.
+0:12
+In short,
+0:12
+all matter is made up of atoms.
+0:15
+Atoms are so small that we cannot see them with our naked eyes.
+What atoms are made of
+0:18
+More fascinating thing
+0:20
+is that atoms themselves are made of smaller particles,
+0:23
+such as the positively charged protons,
+0:25
+negatively charged electrons,
+0:27
+and some particles with no charge, called neutrons.
+Subatomic particles
+0:31
+We can collectively call protons, neutrons, and electrons;
+0:34
+subatomic particles.
+Proton
+0:36
+A proton has a relative charge of +1
+0:39
+and a relative mass of 1,
+Neutron
+0:42
+while a neutron has a relative charge of 0
+0:45
+and a relative mass of 1,
+Electron
+0:47
+and an electron has a relative charge of -1
+0:50
+and a relative mass of 1/1840.
+0:54
+It is represented by the symbol e,
+0:56
+Protons are represented by the symbol p,
+0:59
+while neutrons, by the symbol n.
+1:02
+The protons and neutrons are tightly packed together
+1:04
+in the nucleus of the atom.
+1:06
+This gives the nucleus an overall positive charge.
+Nucleus of an atom
+1:09
+The nucleus, as the name suggests,
+1:11
+is located in the centre of the atom.
+1:14
+The electrons move rapidly around the nucleus.
+1:16
+When the elements are different,
+1:18
+the amount of protons will also different.
+1:21
+Moreover,
+1:22
+the number of electrons and protons in an atom are equal.
+1:26
+This makes every atom electrically neutral.
+1:29
+This is because negative charges cancel out positive charges.
+Proton number or atomic number
+1:33
+Proton Number
+1:34
+The Proton Number is the number of protons in an atom.
+1:37
+The proton number is also called the atomic number.
+1:40
+It is represented by the symbol Z.
+1:43
+Since atoms are electrically neutral,
+1:45
+the proton number also tells us the number of electrons in the atom.
+1:48
+For example,
+1:49
+the proton number of hydrogen is 1,
+1:52
+carbon is 6,
+1:53
+and oxygen is 8.
+1:55
+This means hydrogen has 1 proton and 1 electron,
+1:59
+carbon has 6 protons and 6 electrons,
+2:02
+and oxygen has 8 protons and 8 electrons.
+2:05
+Another important thing to remember
+2:07
+is that each element has a unique proton number.
+Nucleon number or mass number
+2:10
+Nucleon Number
+2:11
+The nucleon number of an atom
+2:13
+is the total number of protons and neutrons in the atom
+2:16
+and is represented by the symbol capital A.
+2:19
+Nucleon number is also used to serve the mass number,
+2:23
+The mass of electrons is much lighter than the other two.
+2:26
+So, it is negligible
+2:28
+that the mass of an atom only depends on the number of protons and neutrons
+2:31
+in the atom nucleus.
+2:33
+To simplify,
+Formula of nucleon number
+2:34
+Nucleon number, A,
+2:36
+equals to the number of protons + the number of neutrons.
+How elements are written in the periodic table
+2:39
+In the periodic table of elements,
+2:41
+an element is written as AZX.
+2:44
+Where X is the chemical symbol of the element,
+2:47
+A is the nucleon number or mass number,
+2:50
+written in superscript left of the symbol,
+2:53
+and Z is the proton number or atomic number in subscript,
+2:56
+also left of the symbol.

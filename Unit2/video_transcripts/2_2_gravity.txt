@@ -1,0 +1,370 @@
+0:00
+Professor Dave here, I want to tell you
+0:02
+about Newton's law of universal gravitation.
+0:11
+We learned about Newton's
+0:12
+laws of motion, but there's one more law
+0:15
+of his to discuss, and it's a big one.
+0:16
+It's Newton's law of universal
+0:19
+gravitation. In possibly one of the
+0:21
+greatest strokes of genius in the
+0:23
+history of mankind, Newton looked at the
+0:26
+motion of the planets in their nearly
+0:28
+circular orbits around the Sun and
+0:30
+understood that the centripetal force
+0:32
+causing this motion was precisely the
+0:35
+same force that causes objects to fall
+0:37
+down towards Earth, which we call the
+0:40
+gravitational force. In this way he
+0:43
+proposed that the planets are in a kind
+0:45
+of free fall towards the Sun just the
+0:47
+same way that the Apple that mythically
+0:49
+hit him on the head to produce this
+0:51
+insight was in free fall towards the
+0:53
+earth. The objects differ greatly in size
+0:57
+but the concept is the same. Newton
+1:00
+corroborated this notion with a thought
+1:02
+experiment. When a cannon fires a cannon ball,
+1:05
+the ball eventually hits the ground.
+1:07
+If another cannonball is fired with
+1:10
+greater force, it will go a little
+1:13
+further before hitting the ground. If a
+1:15
+cannonball could be fired with an
+1:17
+incredibly immense force, it could
+1:20
+produce a speed so great that the ball
+1:22
+would never hit the ground, since it
+1:24
+would fall at the same rate that Earth's
+1:27
+curvature is produced. It would thus
+1:29
+always be falling towards the earth but
+1:32
+never hitting it. Such an object would be
+1:34
+said to be in orbit around the Earth.
+1:37
+Of course no cannon can do this, but we have
+1:40
+finally achieved this feat with all of
+1:42
+our satellites and space stations, which
+1:44
+are brought up to orbit on rockets .These
+1:47
+are very far from Earth's surface and
+1:49
+they are moving with such great speed
+1:51
+that they, along with anyone on board, are
+1:54
+always falling towards the earth but
+1:56
+never hitting it, in a free fall just
+1:59
+like Newton's apple. This means they
+2:02
+orbit around the Earth indefinitely at a
+2:04
+fixed speed and radius. The same can be
+2:07
+said for all the planets around the Sun.
+2:09
+This gravitational force can describe
+2:12
+the motion of every object
+2:13
+in space and it is the case that every
+2:16
+object that contains mass will exert
+2:18
+gravity on every other massive object.
+2:21
+Of course to feel the effects of gravity we
+2:23
+must be near an enormous object, like a
+2:25
+planet, but it is completely accurate to
+2:28
+say that gravitational force is exerted
+2:30
+by your car, your refrigerator, even you
+2:33
+yourself. It is just that this force is
+2:35
+completely negligible compared to the
+2:37
+gravitational force exerted by the earth.
+2:40
+Newton developed an equation to quantify
+2:43
+the magnitude of the gravitational force
+2:45
+between two objects, and it looks like
+2:47
+this, where F is equal to the constant of
+2:50
+universal gravitation, G, times the mass
+2:53
+of the first object, times the mass of
+2:55
+the second object, divided by the
+2:57
+distance between them squared. This
+2:59
+constant, like any other constant, simply
+3:01
+exists so that a natural phenomenon like
+3:03
+gravity can be expressed in our own
+3:05
+arbitrary man-made units, and it is equal
+3:08
+to 6.67 times 10 to the negative 11
+3:10
+Newton meters squared over kilogram
+3:13
+squared. These are the units that will
+3:15
+cancel out the units on the masses and
+3:17
+radius so as to give a value for force
+3:20
+in newtons. This value is not known to
+3:23
+Newton at the time but was determined
+3:26
+experimentally about a hundred years
+3:27
+later by Henry Cavendish. When discussing
+3:30
+the radius between two objects we will
+3:32
+take the distance between their centers
+3:34
+rather than their surfaces, as Newton
+3:37
+showed that the gravitational force
+3:39
+exerted by an object depends only on its
+3:42
+mass and not on its volume, meaning that
+3:45
+when discussing gravity we can treat
+3:47
+everything as a point like mass. He had
+3:50
+to invent the calculus to do so, much to
+3:53
+the dismay of math students everywhere.
+3:55
+When examining a system like the earth
+3:58
+and the moon, we must understand that
+4:01
+both of these objects exert
+4:02
+gravitational force on the other, and
+4:04
+that these forces are equal in magnitude
+4:06
+meaning that both of these bodies rotate
+4:09
+around their combined center of mass, but
+4:12
+don't forget that F equals ma, so equal
+4:15
+forces will not produce equal
+4:17
+accelerations if the masses are
+4:19
+different. As it happens, the earth is
+4:22
+much much more massive than the moon so
+4:24
+the mutual gravitational force is able
+4:26
+to accelerate
+4:27
+the moon more than the earth, and the
+4:29
+center of mass for the system lies
+4:32
+within the earth itself, which is why we
+4:34
+simply observe the moon going around the
+4:36
+earth. The same can be said for Newton's
+4:39
+falling apple. The apple accelerates
+4:42
+towards the earth and the earth
+4:43
+accelerates towards the apple, but the
+4:46
+earth is more massive than the apple by
+4:48
+an inconceivable factor, so the
+4:51
+acceleration of the earth is not even
+4:53
+measurable whereas we can visually
+4:55
+confirm the acceleration of the apple.
+4:57
+Furthermore, we want to understand that
+5:00
+an apple will fall to the earth with the
+5:02
+same acceleration as a bowling ball or
+5:04
+any other massive object, if we disregard
+5:07
+wind resistance. Although
+5:09
+counterintuitive to some, we can
+5:12
+rationalize this if we understand that
+5:14
+while the force of gravity is able to
+5:17
+impart greater acceleration on a more
+5:19
+massive object, the more massive object
+5:22
+also has greater inertia or resistance
+5:24
+to being accelerated, so the end result
+5:28
+is that all objects accelerate towards
+5:30
+Earth in the same way, at 9.8 meters per
+5:33
+second squared. This fact is easy to
+5:36
+derive if we do some algebraic
+5:37
+manipulation. We know that a falling
+5:40
+object exhibits behavior according to
+5:42
+Newton's second law, F equals ma, where
+5:45
+the force that generates the falling is
+5:47
+equal to the mass of the object times
+5:49
+its acceleration, but this force is the
+5:52
+gravitational force, so we can also model
+5:54
+the falling behavior with G m1 m2 over r
+5:57
+squared, where m 1 is the mass of the
+5:59
+object and m2 is the mass of the earth.
+6:01
+If we set these equal to each other, the
+6:04
+mass of the object is found on both
+6:06
+sides and will cancel out, so we can see
+6:09
+that the acceleration due to gravity is
+6:11
+equal to the gravitational constant
+6:12
+times the mass of the Earth divided by
+6:15
+the radius squared. This means that the
+6:17
+mass of an object does not affect the
+6:20
+rate of free fall.
+6:31
+Newton's work on gravity
+6:32
+was revolutionary. It correlated an
+6:34
+incredible amount of data, from
+6:36
+terrestrial motion to celestial motion,
+6:39
+which is all any good theory can hope to
+6:41
+do. But he could not explain how objects
+6:44
+can exert the gravitational force on one
+6:47
+another from a distance. Later, scientists
+6:49
+solved this problem by labeling gravity
+6:52
+as a field force, stating that matter
+6:54
+generates gravitational fields in space.
+6:56
+This was a bit more satisfactory, but it
+6:59
+wasn't until Einstein's general theory
+7:02
+of relativity that we arrived at a more
+7:04
+sophisticated understanding of gravity,
+7:06
+which has helped us learn about the
+7:08
+structure of space itself, as well as how
+7:11
+planets and stars and galaxies form. We
+7:14
+are still trying to fully understand
+7:15
+gravity today, but the continuation of
+7:18
+this discussion will have to wait until
+7:20
+the modern physics course, so for now
+7:22
+let's check comprehension.
+7:54
+Thanks for watching, guys. Subscribe to my channel
+7:55
+for more tutorials, support me on patreon
+7:57
+so I can keep making content, and as
+8:00
+always feel free to email me:
+8:10
+by travelpod
