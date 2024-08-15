@@ -4,24 +4,24 @@
 
 This unit sets the stage for understanding the vastness and complexity of the cosmos by introducing students to the historical development of astronomy, the immense scale of the universe, the night sky, and the effects of light travel time.
 
-### 1.1 A Brief History of Astronomy
+### [1.1 A Brief History of Astronomy](https://github.com/teaghan/astronomy-12/tree/main/Unit1/1_1_history.ipynb)
 - Explore the evolution of astronomical understanding from ancient civilizations to modern times.
 - Significant contributions from astronomers such as Ptolemy, Copernicus, Galileo, and Newton.
 
-### 1.2 The Scale of the Universe
+### [1.2 The Scale of the Universe](https://github.com/teaghan/astronomy-12/tree/main/Unit1/1_2_scale.ipynb)
 - Understand the vast distances in space using scientific notation.
 - Learn about the structure and size of the solar system, the Milky Way, and the observable universe.
 
-### 1.3 The Celestial Sphere
+### [1.3 The Celestial Sphere](https://github.com/teaghan/astronomy-12/tree/main/Unit1/1_3_the_sky.ipynb)
 - Concept of the celestial sphere and its components: celestial poles, celestial equator, and ecliptic.
 - Understand the apparent motion of stars and constellations.
 
-### 1.4 The Brightness of Stars
+### [1.4 The Brightness of Stars](https://github.com/teaghan/astronomy-12/tree/main/Unit1/1_4_brightness.ipynb)
 - Differentiate between luminosity, flux, and apparent brightness.
 - Understand the inverse square law of light.
 - Explore the magnitude scale and the distance modulus.
 
-### 1.5 Consequences of Light Travel Time
+### [1.5 Consequences of Light Travel Time](https://github.com/teaghan/astronomy-12/tree/main/Unit1/1_5_light_travel.ipynb)
 - Effect of the finite speed of light on observations.
 - Concept of looking back in time.
 

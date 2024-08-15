@@ -1,6 +1,4 @@
-layout: embed_default
 ---
-
 layout: embed_default
 ---
 
