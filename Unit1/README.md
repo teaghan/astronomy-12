@@ -5,6 +5,7 @@
 This unit sets the stage for understanding the vastness and complexity of the cosmos by introducing students to the historical development of astronomy, the immense scale of the universe, the night sky, and the effects of light travel time.
 
 ### Teacher Assessment
+
 - Summary Notes
 - Assignment/Project
 

@@ -8,6 +8,25 @@ layout: embed_default
 
 This unit sets the stage for understanding the vastness and complexity of the cosmos by introducing students to the historical development of astronomy, the immense scale of the universe, the night sky, and the effects of light travel time.
 
+### Teacher Assessment
+
+- Summary Notes
+- Assignment/Project
+
+### Self-Assessment
+
+Each section of this unit includes a set of "Check Your Understanding" questions that are designed to prepare you for the midterm exam.
+
+### [Summary Notes](https://teaghan.github.io/astronomy-12/Unit1/Unit1_Summary_Notes.pdf)
+
+While going through the lessons, working on the Check Your Understanding problems, and completing any assignment/project, you are expected to take meaningful notes for your future self. These notes can include concepts, diagrams, examples, etc.
+
+**You will be allowed to access to these notes during the test!**
+
+Print out the summary notes file and fill it with useful, hand-written notes while working through this unit and submit your notes at the end of the unit to be assessed for completion.
+
+There is a suggested set of topics as well as empty boxes to give you the opportunity to summarize additional topics.
+
 ### [1.1 A Brief History of Astronomy](../md_files/1_1_history.html)
 - Explore the evolution of astronomical understanding from ancient civilizations to modern times.
 - Significant contributions from astronomers such as Ptolemy, Copernicus, Galileo, and Newton.
@@ -29,11 +48,11 @@ This unit sets the stage for understanding the vastness and complexity of the co
 - Effect of the finite speed of light on observations.
 - Concept of looking back in time.
 
-### Assignment
+### [Unit 1 Assignment: Night Sky Observations](https://teaghan.github.io/astronomy-12/Unit1/Unit1_Assignment.pdf)
 
-<iframe src="https://teaghan.github.io/astronomy-12/Unit1/Unit1_Assignment.pdf" width="100%" height="600px">
-    Your browser does not support iframes. You can <a href="https://teaghan.github.io/astronomy-12/Unit1/Unit1_Assignment.pdf">download the PDF here</a>.
-</iframe>
+- Print off the attached assignment.
+- Follow the steps and complete the questions.
+- Submit your document with the questions answered.
 
 **Science Curricular Connections:**
 - **Earth Science 11:** The nebular hypothesis, Stars as the center of a solar system
