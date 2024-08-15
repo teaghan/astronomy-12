@@ -175,8 +175,3 @@ Apply the concepts you learned in the previous lessons to the solar system!
 
 - **Astronomy** by Andrew Fraknoi, David Morrison, and Sidney C. Wolff
 - **Foundations of Astrophysics** by Barbara Ryden and Bradley M. Peterson
-
-
-```python
-
-```

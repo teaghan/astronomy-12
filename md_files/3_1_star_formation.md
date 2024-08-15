@@ -236,8 +236,3 @@ By combining these observational techniques, astronomers have been able to build
 
 - **Astronomy (2016)**. Andrew Fraknoi, David Morrison, and Sidney C. Wolff.
 - **Foundations of Astrophysics (2010)**. Barbara Ryden and Bradley M. Peterson.
-
-
-```python
-
-```

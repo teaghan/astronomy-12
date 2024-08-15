@@ -237,8 +237,3 @@ has a semimajor axis of 84 AU. What is its orbital period according to Kepler’
 
 - **Astronomy (2016)**. Andrew Fraknoi, David Morrison, and Sidney C. Wolff.
 - **Foundations of Astrophysics (2010)**. Barbara Ryden and Bradley M. Peterson.
-
-
-```python
-
-```

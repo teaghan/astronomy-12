@@ -515,8 +515,3 @@ print(f'The distance from Earth to the star is {d_ly:.2f} light-years.')
     The distance from Earth to the star is 5.00 parsecs.
     The distance from Earth to the star is 16.30 light-years.
 
-
-
-```python
-
-```

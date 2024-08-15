@@ -155,8 +155,3 @@ In the cores of stars, temperatures reach millions of degrees, and particles mov
 - **Astronomy (2016)**. Andrew Fraknoi, David Morrison, and Sidney C. Wolff.
 - **Foundations of Astrophysics (2010)**. Barbara Ryden and Bradley M. Peterson.
 
-
-
-```python
-
-```

@@ -245,8 +245,3 @@ Understanding the differences between these star populations not only helps astr
 
 - **Astronomy (2016)**. Andrew Fraknoi, David Morrison, and Sidney C. Wolff.
 - **Foundations of Astrophysics (2010)**. Barbara Ryden and Bradley M. Peterson.
-
-
-```python
-
-```

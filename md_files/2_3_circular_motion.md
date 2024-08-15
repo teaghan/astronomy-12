@@ -239,8 +239,3 @@ By mastering the concept of orbital speed, we can better appreciate the intricat
 
 - **Astronomy (2016).** Andrew Fraknoi, David Morrison, and Sidney C. Wolff.
 - **An Introduction to Modern Astrophysics (2017).** Bradley W. Carroll and Dale A. Ostlie.
-
-
-```python
-
-```

@@ -259,8 +259,3 @@ on the ground?
 - **Astronomy (2016)**. Andrew Fraknoi, David Morrison, and Sidney C. Wolff.
 - **An Introduction to Modern Astrophysics (2017)**. Bradley W. Carroll and Dale A. Ostlie.
 - **RESOURCE GK-12 Program**. College of Engineering, University of California Davis.
-
-
-```python
-
-```

@@ -29,6 +29,12 @@ This unit sets the stage for understanding the vastness and complexity of the co
 - Effect of the finite speed of light on observations.
 - Concept of looking back in time.
 
+### Assignment
+
+<iframe src="https://teaghan.github.io/astronomy-12/Unit1/Unit1_Assignment.pdf" width="100%" height="600px">
+    Your browser does not support iframes. You can <a href="https://teaghan.github.io/astronomy-12/Unit1/Unit1_Assignment.pdf">download the PDF here</a>.
+</iframe>
+
 **Science Curricular Connections:**
 - **Earth Science 11:** The nebular hypothesis, Stars as the center of a solar system
 

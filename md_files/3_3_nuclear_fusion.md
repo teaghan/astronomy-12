@@ -218,8 +218,3 @@ Nuclear fusion is not only the engine that powers stars; it also shapes their en
 
 - **Astronomy (2016)**. Andrew Fraknoi, David Morrison, and Sidney C. Wolff.
 - **Foundations of Astrophysics (2010)**. Barbara Ryden and Bradley M. Peterson.
-
-
-```python
-
-```
