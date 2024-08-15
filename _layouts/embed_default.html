@@ -2,15 +2,66 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}" type="image/x-icon">
 
-{% seo %}
+    {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
     {% include head-custom.html %}
+    
+    <!-- Custom styles for colored boxes -->
+    <style>
+      .alert {
+        padding: 20px;
+        margin-bottom: 15px;
+        border: 1px solid transparent;
+        border-radius: 4px;
+      }
+      .alert-success {
+        color: #3c763d;
+        background-color: #dff0d8;
+        border-color: #d6e9c6;
+      }
+      .alert-info {
+        color: #31708f;
+        background-color: #d9edf7;
+        border-color: #bce8f1;
+      }
+    </style>
+
+    <!-- Load MathJax -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS_CHTML-full,Safe"></script>
+    <!-- MathJax configuration -->
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        TeX: {
+          equationNumbers: {
+            autoNumber: "AMS",
+            useLabelIds: true
+          }
+        },
+        tex2jax: {
+          inlineMath: [ ['\\(','\\)']],
+          displayMath: [ ['\\[','\\]']],
+          processEscapes: true,
+          processEnvironments: true
+        },
+        displayAlign: 'center',
+        CommonHTML: {
+          linebreaks: {
+            automatic: true
+          }
+        }
+      });
+      MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+    </script>
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
