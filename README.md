@@ -1,4 +1,4 @@
-# Astronomy (Specialized Science 12)
+# Astronomy 12
 
 ![Banner Image](./images/course_banner.png)
 

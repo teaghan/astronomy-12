@@ -34,6 +34,26 @@
         background-color: #d9edf7;
         border-color: #bce8f1;
       }
+      .alert-warning {
+        color: #8a6d3b;
+        background-color: #fcf8e3;
+        border-color: #faebcc;
+      }
+      .alert-danger {
+        color: #a94442;
+        background-color: #f2dede;
+        border-color: #ebccd1;
+      }
+      .alert-primary {
+        color: #004085;
+        background-color: #cce5ff;
+        border-color: #b8daff;
+      }
+      .alert-secondary {
+        color: #383d41;
+        background-color: #e2e3e5;
+        border-color: #d6d8db;
+      }
     </style>
 
     <!-- Load MathJax -->
@@ -48,8 +68,8 @@
           }
         },
         tex2jax: {
-          inlineMath: [ ['\\(','\\)']],
-          displayMath: [ ['\\[','\\]']],
+          inlineMath: [ ['\\(','\\)'], ['$','$'] ],
+          displayMath: [ ['\\[','\\]'], ['$$','$$'] ],
           processEscapes: true,
           processEnvironments: true
         },
