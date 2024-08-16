@@ -32,13 +32,12 @@ This course integrates concepts from chemistry, physics, biology, and earth scie
    - [3.4 Chemical Composition of Stars](https://github.com/teaghan/astronomy-12/tree/main/Unit3/3_4_chemical_composition.ipynb)
    - [3.5 Life Cycle of Stars](https://github.com/teaghan/astronomy-12/tree/main/Unit3/3_5_life_cycle.ipynb)
 
-
-[**Unit 4:** The Solar System](https://github.com/teaghan/astronomy-12/tree/main/Unit4)
-   - [4.1 Formation of the Solar System](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_1_solar_system_formation.ipynb)
-   - [4.2 The Sun](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_2_the_sun.ipynb)
-   - [4.3 Planets and Moons](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_3_planets_moons.ipynb)
-   - [4.4 Dating Planetary Surfaces](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_4_dating_surfaces.ipynb)
-   - [4.5 Origin of the Solar System](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_5_solar_system_origin.ipynb)
+[**Unit 4:** Light from Space](https://github.com/teaghan/astronomy-12/tree/main/Unit4)
+   - [4.1 Nature of Light](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_1_solar_system_formation.ipynb)
+   - [4.2 Blackbody Radiation](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_2_the_sun.ipynb)
+   - [4.3 Atomic Energies](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_3_planets_moons.ipynb)
+   - [4.4 Spectroscopy I](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_4_dating_surfaces.ipynb)
+   - [4.5 Spectroscopy II](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_5_solar_system_origin.ipynb)
 
 [**Unit 5:** Galaxies and the Universe](https://github.com/teaghan/astronomy-12/tree/main/Unit6)
    - [5.1 Types of Galaxies](https://github.com/teaghan/astronomy-12/tree/main/Unit5/5_1_galaxy_types.ipynb)
