@@ -19,11 +19,19 @@ Atoms are the fundamental units of matter, making up everything in the universe,
 
 ### **Protons, Neutrons, and Electrons**
 
-Atoms consist of three primary subatomic particles: protons, neutrons, and electrons.
+Atoms consist of three primary subatomic particles: protons, neutrons, and electrons. These particles are responsible for the identity and behavior of atoms, including their role in stellar processes like nuclear fusion.
 
-- **Protons** are positively charged particles found in the nucleus of an atom. The number of protons in an atom determines the element’s identity. For example, an atom with one proton is hydrogen, while an atom with six protons is carbon.
-- **Neutrons** are neutral particles also located in the nucleus. Neutrons provide stability to the nucleus by balancing the repulsive forces between the positively charged protons.
-- **Electrons** are negatively charged particles that orbit the nucleus in a cloud. These tiny particles are responsible for chemical bonds and the behavior of atoms in different states of matter.
+- **Protons**: Positively charged particles found in the nucleus of an atom. The number of protons determines the element's identity.
+- **Neutrons**: Neutral particles also located in the nucleus. They provide stability to the nucleus by balancing the repulsive forces between protons.
+- **Electrons**: Negatively charged particles that orbit the nucleus. Electrons are responsible for chemical bonds and the behavior of atoms in different states of matter.
+
+### **Table of Subatomic Particles**
+
+| **Particle**  | **Mass (kg)**                 | **Charge**      | **Location**      |
+|---------------|-------------------------------|-----------------|-------------------|
+| Proton        | $1.6726 \times 10^{-27}$       | +1 (positive)   | Nucleus           |
+| Neutron       | $1.6749 \times 10^{-27}$       | 0 (neutral)     | Nucleus           |
+| Electron      | $9.1094 \times 10^{-31}$       | -1 (negative)   | Orbiting nucleus  |
 
 ### **Atomic Number and Mass Number**
 
@@ -32,23 +40,21 @@ Atoms consist of three primary subatomic particles: protons, neutrons, and elect
 
 For example, carbon has an atomic number of 6 and a typical mass number of 12, meaning it has 6 protons and 6 neutrons.
 
+<img src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit3/figures/atomic_number.png" alt="atomic number" width="1000" style="display: block; margin-left: auto; margin-right: auto;">
+
 ### **Isotopes**
 
 Isotopes are variations of an element that have the same number of protons but different numbers of neutrons. Some isotopes are stable, while others are radioactive and can decay over time. In stars, isotopes play a critical role in nuclear fusion processes, where atoms combine to form heavier elements, releasing vast amounts of energy.
 
 > **Did You Know?** The Sun primarily fuses hydrogen isotopes (protons) to form helium, providing the energy that powers our solar system.
 
+<img src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit3/figures/isotopes.png" alt="H isotopes" width="1000" style="display: block; margin-left: auto; margin-right: auto;">
+
 ---
 
-## Subatomic Particles
+## Neutrinos and Photons
 
-Let’s take a closer look at the fundamental particles inside atoms and their significance in stellar environments.
-
-### **Protons, Neutrons, and Electrons**
-
-- **Protons** carry a positive charge and have a mass approximately 1,836 times that of an electron.
-- **Neutrons** have no charge (neutral) but have a mass similar to that of protons, making them crucial for the stability of atomic nuclei.
-- **Electrons** are negatively charged and extremely light compared to protons and neutrons. They orbit the nucleus and participate in chemical reactions.
+Now, let’s explore two additional key particles—neutrinos and photons—that play critical roles in both atomic and stellar processes.
 
 ### **Neutrinos**
 
@@ -56,19 +62,43 @@ Neutrinos are incredibly light, neutral particles that interact very weakly with
 
 > **Fun Fact**: Every second, trillions of neutrinos from the Sun pass through your body unnoticed!
 
+<img src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit3/figures/neutrino_detector.png" alt="Neutrino Detector" width="1000" style="display: block; margin-left: auto; margin-right: auto;">
+
+### **Photons**
+
+Photons are the basic units of light and all other forms of electromagnetic radiation. They are massless particles that travel at the speed of light and carry energy. In stars, photons are produced during nuclear fusion reactions and are responsible for the light and heat that stars emit.
+
+#### **The Nature of Light: Wave-Particle Duality**
+
+Light exhibits both wave-like and particle-like properties. As a wave, light can be described by its wavelength and frequency. As a particle, light is made up of photons. This wave-particle duality is a fundamental concept in quantum physics and helps explain the behavior of light in different situations, such as when it passes through a prism or interacts with matter.
+
+> **Fun Fact**: Photons from the Sun take hundreds of thousands of years to escape from the Sun’s core to its surface, but only 8 minutes to travel the 150 million kilometers to Earth.
+
+### **Table of Electromagnetic Radiation**
+
+| **Type of Radiation** | **Wavelength Range (nm)** | **Radiated by Objects at This Temperature** | **Typical Sources**                                |
+|-----------------------|---------------------------|---------------------------------------------|---------------------------------------------------|
+| Gamma rays             | Less than 0.01            | More than $10^8$ K                          | Produced in nuclear reactions; require very high-energy processes |
+| X-rays                 | 0.01–20                   | $10^6$–$10^8$ K                             | Gas in clusters of galaxies, supernova remnants, solar corona      |
+| Ultraviolet            | 20–400                    | $10^4$–$10^6$ K                             | Supernova remnants, very hot stars                                |
+| Visible                | 400–700                   | $10^3$–$10^4$ K                             | Stars                                                        |
+| Infrared               | $10^3$–$10^6$             | 10–$10^3$ K                                 | Cool clouds of dust and gas, planets, moons                    |
+| Microwave              | $10^6$–$10^9$             | Less than 10 K                              | Active galaxies, pulsars, cosmic background radiation         |
+| Radio                  | More than $10^9$          | Less than 10 K                              | Supernova remnants, pulsars, cold gas                        |
+
 ---
 
 ## Forces within Atoms
 
-Atoms are held together by several fundamental forces. Let’s explore these forces and their roles in both atomic structure and stellar processes.
+Atoms are held together through the interaction of the four fundamental forces. Let’s explore these forces and their roles in both atomic structure and stellar processes.
+
+### **The Electromagnetic Force**
+
+The electromagnetic force is responsible for the attraction between negatively charged electrons and positively charged protons, keeping electrons in orbit around the nucleus. This force also governs the behavior of charged particles in stellar environments, such as plasma. Additionally, the electromagnetic force is responsible for the repulsion of like charges, such as the repulsive force between two positively charged protons within an atom's nucleus.
 
 ### **The Strong Nuclear Force**
 
 The strong nuclear force is what holds protons and neutrons together in the nucleus, despite the repulsive electromagnetic force between the positively charged protons. This force is incredibly powerful but acts only at very short distances within the nucleus.
-
-### **The Electromagnetic Force**
-
-The electromagnetic force is responsible for the attraction between negatively charged electrons and positively charged protons, keeping electrons in orbit around the nucleus. This force also governs the behavior of charged particles in stellar environments, such as plasma.
 
 ### **The Weak Nuclear Force**
 
@@ -80,21 +110,9 @@ While gravity is the weakest of the four fundamental forces on the atomic scale,
 
 ---
 
-## Photons and Electromagnetic Radiation
-
-### **What Are Photons?**
-
-Photons are the basic units of light and all other forms of electromagnetic radiation. They are massless particles that travel at the speed of light and carry energy. In stars, photons are produced during nuclear fusion reactions and are responsible for the light and heat that stars emit.
-
-### **The Nature of Light: Wave-Particle Duality**
-
-Light exhibits both wave-like and particle-like properties. As a wave, light can be described by its wavelength and frequency. As a particle, light is made up of photons. This wave-particle duality is a fundamental concept in quantum physics and helps explain the behavior of light in different situations, such as when it passes through a prism or interacts with matter.
-
-> **Fun Fact**: Photons from the Sun take hundreds of thousands of years to escape from the Sun’s core to its surface, but only 8 minutes to travel the 150 million kilometers to Earth.
-
----
-
 ## Radioactive Decay
+
+Radioactive decay is a natural process in which unstable atomic nuclei lose energy by emitting radiation. This process transforms atoms into different elements or isotopes over time. In stellar environments, radioactive decay plays a crucial role in the production of energy and the synthesis of new elements, contributing to the life cycles of stars and the evolution of the universe.
 
 ### **Types of Radioactive Decay**
 
@@ -108,44 +126,59 @@ The half-life of a radioactive isotope is the time it takes for half of the atom
 
 > **Example**: Uranium-238, with a half-life of 4.5 billion years, plays a key role in the heat generation inside planets like Earth.
 
+<img src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit3/figures/radioactive_decay.png" alt="Radioactive Decay" width="1000" style="display: block; margin-left: auto; margin-right: auto;">
+
+---
+Here’s an enhanced version of the "Particles in Stellar Environments" section:
+
 ---
 
 ## Particles in Stellar Environments
 
-Stars are extreme environments where particles behave in extraordinary ways. Here’s how particles play a role in the dynamic processes that occur within and around stars.
+The universe's most powerful laboratories are stars, where temperatures and pressures soar to unimaginable extremes. These harsh environments cause particles to behave in ways that defy our everyday experiences on Earth. 
 
 ### **High-Energy Environments in Stars**
 
-In the cores of stars, temperatures reach millions of degrees, and particles move at incredible speeds. Under these conditions, atoms are stripped of their electrons, creating a plasma—a hot, ionized gas composed of charged particles.
+At the heart of a star, the temperature can exceed millions of degrees Celsius—hot enough to strip atoms of their electrons. This creates a plasma, an incredibly energetic state of matter composed of freely moving ions and electrons. Plasma is often described as a "soup" of charged particles, and in this environment, particles collide at incredible speeds, facilitating nuclear fusion reactions that power the star.
+
+As these particles interact, they generate intense magnetic fields and release vast amounts of energy in the form of light and heat. The movement of charged particles in this plasma also generates phenomena such as solar flares, which can burst out from the star's surface with explosive force, affecting entire planetary systems.
+
+> **Fun Fact**: Plasma, the most common state of matter in the universe, makes up 99% of all visible matter, including stars, lightning, and even neon signs.
 
 ### **Stellar Winds and Supernovae**
 
-- **Stellar Winds**: Many stars, especially massive ones, emit strong stellar winds—streams of charged particles like protons and electrons—into space. These winds shape the evolution of stars and can even strip away the outer layers of gas from dying stars.
-  
-- **Supernovae**: When a massive star explodes as a supernova, it ejects a tremendous amount of material into space, including high-energy particles. These particles, accelerated to near light speeds, contribute to the cosmic rays that permeate the galaxy and influence the formation of new stars and planets.
+Stars are not just passive energy emitters—they are also sources of powerful particle flows that shape the universe around them.
 
-> **Did You Know?** Supernovae are responsible for creating many of the heavy elements in the universe, including the gold in your jewelry!
+- **Stellar Winds**: Many stars, particularly massive ones, emit continuous streams of charged particles known as stellar winds. These winds are composed mainly of protons and electrons and can extend far beyond the star, influencing the formation of planets, asteroids, and even entire star systems. Stellar winds can erode the outer layers of a dying star, contributing to the creation of stunning nebulae—vast clouds of gas and dust that may eventually collapse to form new stars.
+
+   Stellar winds are also responsible for the breathtaking beauty of planetary nebulae and the majestic structures seen in star-forming regions like the Eagle Nebula's "Pillars of Creation."
+
+<img src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit3/figures/stellar_winds.png" alt="Stellar Winds" width="1000" style="display: block; margin-left: auto; margin-right: auto;">
+
+- **Supernovae**: The death throes of a massive star culminate in a supernova—a colossal explosion that outshines entire galaxies. During a supernova, a star ejects enormous quantities of material into space at speeds approaching the speed of light. These high-energy particles, accelerated by the explosion, become cosmic rays that travel through the galaxy, bombarding planets and influencing their atmospheres.
+
+   Supernovae are also nature’s forge for the heaviest elements, including iron, gold, and uranium. The very atoms that make up your body, the Earth, and everything around you were once created in the fiery death of a star. Without supernovae, the universe would lack the heavy elements necessary for life.
 
 ---
 
 ## Check Your Understanding
 
-1. **Atomic Structure**: Describe the three main subatomic particles that make up an atom and explain their roles.
+1. **Atomic Structure**: Explain how the atomic number and mass number define the identity and characteristics of an element. How do these properties influence the formation of isotopes in stellar environments?
 <br><br>
 
-2. **Forces in Atoms**: What is the strong nuclear force, and how does it differ from the electromagnetic force within an atom?
+2. **Subatomic Particles**: Compare and contrast the roles of protons, neutrons, and electrons in atomic structure. How do their respective masses and charges contribute to the stability and reactivity of an atom?
 <br><br>
 
-3. **Neutrinos**: Why are neutrinos so important in the study of stars, and why are they difficult to detect?
+3. **Forces within Atoms**: Describe the strong nuclear force and explain why it is crucial in holding the nucleus together, despite the repulsive electromagnetic force between protons. How does this force compare to gravity on an atomic scale?
 <br><br>
 
-4. **Radioactive Decay**: Explain the difference between alpha, beta, and gamma decay. Provide an example of where radioactive decay is important in a stellar process.
+3. **Neutrinos**: Why are neutrinos so important in the study of stars, and why do you think they are so difficult to detect?
 <br><br>
 
-5. **Photons**: What are photons, and how do they contribute to the energy emitted by stars?
+4. **Photons**: What are photons, and how do they contribute to the energy emitted by stars?
 <br><br>
 
-6. **Stellar Winds**: How do stellar winds affect the evolution of stars and their surrounding environments?
+5. **Electromagnetic Radiation**: Examine the different types of electromagnetic radiation (gamma rays, X-rays, ultraviolet, visible light, etc.) and their relationship to the temperature and behavior of astronomical objects. How do these radiation types help astronomers study the universe?
 <br><br>
 
 ---
@@ -154,4 +187,3 @@ In the cores of stars, temperatures reach millions of degrees, and particles mov
 
 - **Astronomy (2016)**. Andrew Fraknoi, David Morrison, and Sidney C. Wolff.
 - **Foundations of Astrophysics (2010)**. Barbara Ryden and Bradley M. Peterson.
-

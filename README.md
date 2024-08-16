@@ -11,7 +11,7 @@ This course integrates concepts from chemistry, physics, biology, and earth scie
 
 ## Course Overview
 
-[**Unit 1:** Introduction to Astronomy and the Scientific Method](https://github.com/teaghan/astronomy-12/tree/main/Unit1)
+[**Unit 1:** Introduction to Astronomy](https://github.com/teaghan/astronomy-12/tree/main/Unit1)
    - [1.1 A Brief History of Astronomy](https://github.com/teaghan/astronomy-12/tree/main/Unit1/1_1_history.ipynb)
    - [1.2 The Scale of the Universe](https://github.com/teaghan/astronomy-12/tree/main/Unit1/1_2_scale.ipynb)
    - [1.3 The Celestial Sphere](https://github.com/teaghan/astronomy-12/tree/main/Unit1/1_3_the_sky.ipynb)

@@ -2,6 +2,8 @@
 layout: embed_default
 ---
 
+# 3.5 Life Cycle of Stars
+
 ## The Initial Mass Function (IMF)
 
 The initial mass function (IMF) describes the distribution of masses for a population of newly formed stars.
@@ -26,33 +28,4 @@ Star formation can occur in various environments, from dense star clusters to mo
 
 **Impact on Star Formation Rate:**
 - **Environmental Factors**: The density and temperature of the surrounding gas, as well as the presence of external forces, affect the rate at which stars form.
-
-
-
-```python
-import numpy as np
-resid = 50
-delta = 1
-
-loss = delta*(np.abs(resid) - 0.5*delta)
-loss, resid**2
-```
-
-
-
-
-    (49.5, 2500)
-
-
-
-
-```python
-0.015*1.66054e-27*(3e8)**2
-```
-
-
-
-
-    2.241729e-12
-
 

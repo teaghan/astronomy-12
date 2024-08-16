@@ -155,6 +155,8 @@ The energy produced by nuclear fusion in the core of a star must journey to the 
 <h4>Interesting Side Note</h4> Despite the fact that light travels at an incredible speed—about 300,000 kilometers per second in a vacuum—the energy produced in the Sun's core can take thousands of years to reach the surface. This is because photons are continuously absorbed and re-emitted in the radiative zone, making their journey to the surface a slow and winding path. By the time a photon reaches the surface, its journey might have taken several million years!
 </div>
 
+<img src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit3/figures/photon_path.png" alt="Photon Path" width="1000" style="display: block; margin-left: auto; margin-right: auto;">
+
 ---
 
 ## Nuclear Fusion and Star Life Cycles

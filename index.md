@@ -36,13 +36,12 @@ This course integrates concepts from chemistry, physics, biology, and earth scie
    - [3.4 Chemical Composition of Stars](./md_files/3_4_chemical_composition.html)
    - [3.5 Life Cycle of Stars](./md_files/3_5_life_cycle.html)
 
-
-[**Unit 4:** The Solar System](./md_files/Unit4_README.html)
-   - [4.1 Formation of the Solar System](./md_files/4_1_solar_system_formation.html)
-   - [4.2 The Sun](./md_files/4_2_the_sun.html)
-   - [4.3 Planets and Moons](./md_files/4_3_planets_moons.html)
-   - [4.4 Dating Planetary Surfaces](./md_files/4_4_dating_surfaces.html)
-   - [4.5 Origin of the Solar System](./md_files/4_5_solar_system_origin.html)
+[**Unit 4:** Light and Spectroscopy](./md_files/Unit4_README.html)
+   - [4.1 Nature of Light](./md_files/4_1_solar_system_formation.html)
+   - [4.2 Blackbody Radiation](./md_files/4_2_the_sun.html)
+   - [4.3 Atomic Energies](./md_files/4_3_planets_moons.html)
+   - [4.4 Spectroscopy I](./md_files/4_4_dating_surfaces.html)
+   - [4.5 Spectroscopy II](./md_files/4_5_solar_system_origin.html)
 
 [**Unit 5:** Galaxies and the Universe](./md_files/Unit6_README.html)
    - [5.1 Types of Galaxies](./md_files/5_1_galaxy_types.html)
