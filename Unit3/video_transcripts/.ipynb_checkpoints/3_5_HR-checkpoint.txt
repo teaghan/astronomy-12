@@ -1,0 +1,420 @@
+0:00
+[Music]
+0:02
+you should understand that temperature
+0:04
+and heat are not the same thing
+0:07
+temperature is a measure of how fast the
+0:10
+atoms of a material are moving heat is a
+0:13
+measure of energy output and of course
+0:16
+heat always flows from a region of
+0:18
+higher temperature to lower temperature
+0:21
+these are Concepts you should hopefully
+0:23
+recall from your study of
+0:25
+physics well now's the time where you're
+0:28
+going to see some amazing application of
+0:31
+these VAR Concepts let's take this step
+0:34
+by step starting with an
+0:37
+analogy which has a higher temperature a
+0:41
+campfire or a warm compost heap indeed
+0:45
+the campfire which is to say the average
+0:47
+speed of the atoms in the campfire is
+0:50
+much faster that's why you wouldn't want
+0:52
+to put your finger in the
+0:54
+campfire but the campfire and the
+0:57
+compost heap are both releasing energy
+0:59
+energy to the environment right the
+1:02
+campfire releases it real quickly
+1:05
+because of its higher temperature and
+1:07
+the compost he releases energy much more
+1:10
+slowly because of its lower temperature
+1:13
+got
+1:14
+that now what if the compost heap were
+1:18
+much
+1:19
+bigger say it has the very same
+1:21
+temperature but it's much much bigger
+1:24
+like the size of many city
+1:27
+blocks because it's bigger do see that
+1:30
+the total amount of energy it releases
+1:32
+each second is also much bigger any bit
+1:36
+of the compost tap might not be that
+1:39
+much but add it all together and wow
+1:42
+that's a lot of
+1:44
+energy so let me ask you which releases
+1:47
+more energy the small campfire or this
+1:50
+humongous compost heap sure the campfire
+1:54
+has a higher temperature but it's quite
+1:57
+small by
+1:58
+comparison so you see this lower
+2:00
+temperature compost heap puts out much
+2:03
+more total energy than the higher
+2:05
+temperature
+2:07
+campfire temperature and heat are not
+2:10
+the same
+2:11
+thing if you understand this you'll
+2:14
+understand the same thing happening with
+2:17
+stars the star prion has a toasty
+2:20
+surface temperature of about 6,500
+2:22
+Kelvin remember we get the surface
+2:25
+temperature from the star's color its
+2:27
+Luminosity is a mere 6
+2:30
+n oh and remember from the last lesson
+2:33
+that Luminosity is a measure of a star's
+2:35
+energy output relative to our own Sun so
+2:38
+pran is 6.9 times more luminous than our
+2:42
+sun okay the star Bal juice has a
+2:46
+surface temperature of about 3,000
+2:48
+Kelvin so because it's cooler you might
+2:51
+expect its Luminosity to be less than
+2:54
+6.9 huh well that might be true if they
+2:58
+were the same size as shown here here
+3:01
+but that cool to the touch Bal juice has
+3:04
+a Luminosity of about
+3:07
+120,000 huh how can something this cool
+3:10
+put out so much energy think of the
+3:14
+compost
+3:15
+heap your conclusion yeah they obviously
+3:20
+cannot be the same size that Bal juice
+3:23
+puts out so much energy and is yet
+3:25
+cooler tells us that Bal juice must be
+3:28
+much larger
+3:30
+a Luminosity of
+3:33
+120,000 Bal juice must be extremely
+3:36
+large indeed the calculations made by
+3:39
+astronomers show Bal juice to be
+3:41
+astoundingly large the point here is
+3:45
+that by comparing the Luminosity of a
+3:47
+star to its surface temperature we gain
+3:49
+a measure of that star's size now that's
+3:54
+crafty because it means we don't have to
+3:57
+actually travel to a star in order to
+3:59
+measure how big it
+4:01
+is it also allows us to study and
+4:03
+compare stars to each
+4:06
+other in doing this we can get a sense
+4:08
+of all the different kinds of stars
+4:11
+there
+4:12
+are this in turn allows us to reveal the
+4:15
+potential histories and life cycles of
+4:20
+stars the graph that correlates Stellar
+4:23
+Luminosity to temperature is called the
+4:25
+Herz sprung Russell diagram or the HR
+4:28
+diagram for
+4:30
+short it's a rather important diagram in
+4:34
+many ways what the periodic table is to
+4:37
+chemistry the HR diagram is to
+4:40
+astronomy as a chemist myself I like to
+4:43
+call it the Periodic Table of
+4:45
+astronomy of course don't memorize this
+4:49
+thing rather let's learn how to read it
+4:53
+luminous stars are at the top and dim
+4:55
+Stars toward the bottom note that
+4:58
+Luminosity is given in
+5:01
+exponents so for example when you go
+5:03
+from here to here the Luminosity is 10
+5:06
+times as great from here to here you're
+5:09
+talking about a hundredfold increase in
+5:14
+Luminosity on the horizontal axis the
+5:17
+higher surface temperatures are shown to
+5:19
+the left anything about 10,000 Kelvin or
+5:23
+greater is indicated as a bluish star
+5:26
+anything cooler than 4,000 Kelvin is
+5:29
+shown as a reddish
+5:31
+star most stars fall within a diagonal
+5:35
+line which we call the main sequence our
+5:38
+sun is an example of a main sequence
+5:41
+star all these stars are burning
+5:43
+primarily hydrogen as their nuclear
+5:46
+fuel above the main sequence are the
+5:49
+Giants Super Giants and even the hyper
+5:52
+Giants here Arcturus is an example of a
+5:55
+giant Bal juu is a super giant well
+5:59
+maybe a hyper giant it's subjective but
+6:03
+VY Kennis Majoris now that would
+6:05
+definitely be a hyper giant the HR
+6:09
+diagram plots Luminosity using exponents
+6:12
+it it has to otherwise the range of
+6:14
+luminosities wouldn't fit on a regular
+6:17
+siiz piece of paper likewise it's not
+6:20
+very practical depicting the relative
+6:22
+sizes of stars on a regular piece of
+6:24
+paper so HR diagrams when printed on
+6:28
+regular paper are limited in their
+6:31
+ability to give us the sense of star
+6:33
+sizes but here in video we don't have
+6:37
+that limitation nice
+6:40
+eh oh we should talk about densities get
+6:44
+this as large as Bal juice is it's only
+6:46
+about 15 times more massive than our sun
+6:50
+so while it's huge it's only huge at the
+6:54
+expense of not being very
+6:56
+dense its outer Photosphere for example
+6:59
+is less dense than the air you're
+7:01
+breathing right now that's billions of
+7:03
+times less dense than our much smaller
+7:06
+but much more compact
+7:08
+Sun speaking of compact below the main
+7:11
+sequence we have stars that are
+7:13
+necessarily tiny this includes the white
+7:17
+dwarfs we'll be talking about white
+7:19
+dwarfs in more detail in a bit briefly
+7:23
+our sun is destined to become a white
+7:25
+dwarf when that happens it'll have a
+7:28
+density that's out the roof like a
+7:31
+million times that of
+7:33
+gold oh what's the difference between a
+7:36
+blue super giant and a red super
+7:38
+giant well one has a higher temperature
+7:42
+right
+7:44
+which good but why might the blue super
+7:48
+giant have a higher
+7:50
+temperature oh it must be cranking out
+7:54
+more thermonuclear Fusion so which do
+7:57
+you suppose would be more dense a blue
+8:00
+super giant or a red super
+8:03
+giant if you're going to have more
+8:06
+thermonuclear Fusion you're going to
+8:08
+need a good concentration of fuel right
+8:11
+so the blue one hey excellent H you
+8:16
+might even be in a position now to
+8:18
+answer why it is that the average blue
+8:21
+super giant is smaller than the average
+8:23
+red super
+8:25
+giant how nice if you could talk about
+8:28
+these and other questions with
+8:30
+classmates or better yet with classmates
+8:33
+and your course instructor Al together
+8:35
+in the
+8:37
+classroom don't think that you're going
+8:39
+to have command over these Concepts just
+8:41
+by watching these videos over and over
+8:43
+again no you need to try articulating
+8:46
+these Concepts
+8:48
+yourself if you want entertainment just
+8:50
+sit back relax and watch like you might
+8:53
+do at some sporting event that's not bad
+8:57
+we all appreciate good entertainment
+9:00
+all I'm saying is if you want to be a
+9:02
+player you got to play if you want to do
+9:06
+well on your exams you got to do more
+9:08
+than just watch you got to interact you
+9:11
+got to get your mouth
+9:13
+moving are we
+9:16
+interacting no I'm just lecturing to you
+9:19
+and you're
+9:21
+listening that's not good
+9:26
+enough well that's your basic
+9:29
+introduction to the herzsprung Russell
+9:31
+diagram in the next lesson we're going
+9:34
+to use this diagram to explore the
+9:36
+various potential life cycles of stars
+9:39
+fascinating stuff till
+9:42
+then good science to
+9:45
+[Music]
