@@ -18,7 +18,7 @@ This unit explores the fascinating life cycles of stars, from their formation in
 ### [Summary Notes](https://teaghan.github.io/astronomy-12/Unit3/Unit3_Summary_Notes.pdf)
 
 - While going through the lessons, working on the Check Your Understanding problems, and completing any assignment/project, you are expected to take meaningful notes for your future self. These notes can include concepts, diagrams, examples, etc.
-- **You will be allowed to access to these notes during the test!**
+- **You will be allowed to access these notes during the test!**
 - Print out the summary notes file and fill it with useful, hand-written notes while working through this unit and submit your notes at the end of the unit to be assessed for completion.
 - There is a suggested set of topics as well as empty boxes to give you the opportunity to summarize additional topics.
 
@@ -50,7 +50,7 @@ This unit explores the fascinating life cycles of stars, from their formation in
    - Stellar Remnants: Types and observational properties of stellar remnants.
    - The Hertzsprung-Russell (H-R) Diagram: Understanding the H-R diagram and its significance in studying stellar evolution.
 
-### [Assignment: ](https://teaghan.github.io/astronomy-12/Unit3/Unit3_Assignment.pdf)
+### [Assignment: Stellar Evolution Report](https://teaghan.github.io/astronomy-12/Unit3/Unit3_Assignment.pdf)
 - Print off the attached assignment.
 - Follow the steps and complete the questions.
 - Submit your document with the questions answered.
@@ -60,21 +60,19 @@ This unit explores the fascinating life cycles of stars, from their formation in
 - **AI Tutor**: [**Astronomy Tutor**](https://chatgpt.com/g/g-10CjMHMvk-astronomy-tutor) to support you with this class.
 
 ### Science Curricular Connections
+
 - **Physics 12:**
+  - "Gravitational field and Newton’s law of universal gravitation"
+  - "Gravitational dynamics and energy relationships"
+  - "Electromagnetic induction"
+
+- **Physics 11:**
+  - "Conservation of energy; principle of work and energy"
+  - "Thermal equilibrium and specific heat capacity"
+  - "Generation and propagation of waves"
+
+- **Earth Sciences 11:**
+  - "Stars as the center of a solar system"
+  - "The nebular hypothesis"
 
 ### Learning Standards
-- I can describe the process of star formation from molecular clouds to protostars.
-- I can explain the conditions necessary for Jeans instability and cloud collapse.
-- I can identify observational evidence supporting star formation.
-- I can explain the proton-proton chain and the CNO cycle as nuclear fusion processes.
-- I can describe how nuclear fusion generates energy in stars.
-- I can explain the helium flash and advanced fusion stages in stellar evolution.
-- I can use stellar spectroscopy to determine the chemical composition of stars.
-- I can explain how the abundance of elements provides clues about star formation and evolution.
-- I can describe the process of nucleosynthesis in stars.
-- I can describe the evolutionary path of stars on the main sequence and post-main sequence.
-- I can explain the different types of stellar remnants and their properties.
-- I can interpret the Hertzsprung-Russell (H-R) diagram and its significance in studying stellar evolution.
-- I can describe Planck’s law and the spectrum of blackbody radiation.
-- I can explain Wien’s displacement law and relate it to the temperature of a blackbody.
-- I can use the Stefan-Boltzmann law to relate the energy radiated per unit surface area to the temperature of a blackbody.

@@ -125,6 +125,8 @@ The death of a star is not the end of its story. The remnants left behind after 
 
 3. **Black Holes**: For the most massive stars, even neutron stars are not dense enough to contain their cores after a supernova. The core collapses further, forming a **black hole**—a region of space where gravity is so strong that not even light can escape. These enigmatic objects warp space and time around them, and while we cannot see black holes directly, we can observe their effects on nearby matter. Gas and dust falling into a black hole are heated to extreme temperatures and emit X-rays, providing a glimpse of these mysterious cosmic objects. Black holes can continue to grow over time by swallowing up surrounding matter, merging with other black holes, or both, creating even more massive versions known as **supermassive black holes** found at the centers of galaxies.
 
+<img src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit3/figures/blackhole.png" alt="Black Hole" width="1000" style="display: block; margin-left: auto; margin-right: auto;">
+
 ---
 
 
@@ -140,7 +142,7 @@ The death of a star is not the end of its story. The remnants left behind after 
    <br><br>
 5. **Main Sequence Trends**: Describe how the mass, luminosity, surface temperature, and radius of main-sequence stars change in value going from the “bottom” to the “top” of the main sequence.
    <br><br>
-6. **Spectral Data Analysis**: Review the spectral data for the five stars in Table A:
+6. **Spectral Data Analysis**: Review the spectral data for the five stars in the table below:
 
    | **Star** | **Spectrum**      |
    |:--------:|:-----------------:|
