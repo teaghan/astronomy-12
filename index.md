@@ -15,7 +15,7 @@ This course integrates concepts from chemistry, physics, biology, and earth scie
 
 ## Course Overview
 
-[**Unit 1:** Introduction to Astronomy and the Scientific Method](./md_files/Unit1_README.html)
+[**Unit 1:** Introduction to Astronomy](./md_files/Unit1_README.html)
    - [1.1 A Brief History of Astronomy](./md_files/1_1_history.html)
    - [1.2 The Scale of the Universe](./md_files/1_2_scale.html)
    - [1.3 The Celestial Sphere](./md_files/1_3_the_sky.html)
