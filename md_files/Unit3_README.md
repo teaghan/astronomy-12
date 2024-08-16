@@ -61,18 +61,49 @@ This unit explores the fascinating life cycles of stars, from their formation in
 
 ### Science Curricular Connections
 
-- **Physics 12:**
-  - "Gravitational field and Newton’s law of universal gravitation"
-  - "Gravitational dynamics and energy relationships"
-  - "Electromagnetic induction"
+**Physics 11:**
+- mass, force of gravity
+- balanced and unbalanced forces in systems
+- conservation of energy; principle of work and energy
+- generation and propagation of waves
+- properties and behaviors of waves
 
-- **Physics 11:**
-  - "Conservation of energy; principle of work and energy"
-  - "Thermal equilibrium and specific heat capacity"
-  - "Generation and propagation of waves"
+**Physics 12:**
+- gravitational field and Newton’s law of universal gravitation
+- gravitational dynamics and energy relationships
+- Electric field 
+- electrostatic dynamics and energy relationships
+- electromagnetic induction
+- electrostatic dynamics and energy relationships 
+- applications of electromagnetic induction
+- imomentum
+- conservation of momentum
 
-- **Earth Sciences 11:**
-  - "Stars as the center of a solar system"
-  - "The nebular hypothesis"
+**Chemistry 11:**
+- quantum mechanical model and electron configuration
+- valence electrons
+- bonds/forces
+- reactions
+
+**Chemistry 12:**
+- energy change during a chemical reaction
+
+**Earth Sciences 11:**
+- solar radiation interactions
+- the nebular hypothesis (explanation of the formation and properties of our solar system)
 
 ### Learning Standards
+- I can describe the process of star formation, from molecular clouds to protostars.
+- I can explain the role of angular momentum in the formation of stars.
+- I can calculate the angular momentum and moment of inertia when given the shape and mass of an object.
+- I can use the conservation of angular momentum to determine how the rotational speed of an object changes when the radius changes.
+- I can explain the basic structure of atoms, including protons, neutrons, and electrons.
+- I can identify the role of isotopes in stellar chemistry.
+- I can describe the importance of neutrinos and photons in stellar processes.
+- I can explain the conditions necessary for nuclear fusion to ignite within protostars.
+- I can describe the proton-proton chain reaction and the CNO cycle in stars.
+- I can explain the process of nucleosynthesis and apply it to the creation of heavier elements in stars.
+- I can calculate the energy output of a nuclear fusion reaction.
+- I can use the Hertzsprung-Russell (H-R) diagram to classify stars and predict their future evolution.
+- I can describe how the mass of a star influences its evolutionary path and final state, such as becoming a white dwarf, neutron star, or black hole.
+- I can explain the life cycle of stars from the main sequence to their end stages, comparing the different paths taken by low-mass and high-mass stars.
