@@ -216,7 +216,7 @@ This unit explores the fascinating life cycles of stars, from their formation in
    - Stellar Remnants: Types and observational properties of stellar remnants.
    - The Hertzsprung-Russell (H-R) Diagram: Understanding the H-R diagram and its significance in studying stellar evolution.
 
-### [Assignment: Stellar Evolution Report](https://teaghan.github.io/astronomy-12/Unit3/Unit3_Assignment.pdf)
+### [Assignment: Stellar Evolution](https://teaghan.github.io/astronomy-12/Unit3/Unit3_Assignment.pdf)
 - Print off the attached assignment.
 - Follow the steps and complete the questions.
 - Submit your document with the questions answered.
@@ -3729,4 +3729,143 @@ Strongly Agree | Agree | Disagree
 b) After today’s lesson, my confidence in my ability to compare measurements to a model .
 Improved | Did not improve
 19
+
+
+# Unit 3 Assignment
+StellarEvolution
+Name:
+Stars are the fundamental building blocks of the universe, serving as the engines that fuel galaxies and
+the laboratories where elements are forged. From the Sun, our closest star, to the distant giants that illumi-
+nate the night sky, stars come in a wide variety of sizes, temperatures, and luminosities. In this assignment,
+you will become a stellar detective, using the tools and concepts you’ve learned to unravel the mysteries
+of a select group of stars.
+KeyConceptsandFormulas
+LuminosityandTemperature
+The luminosity of a star is the total energy it emits per second. The Stefan-Boltzmann law relates a star’s
+luminosity ( L) to its surface area and temperature:
+L= 4πR2σT4
+Where:
+•Lis the luminosity,
+•Ris the radius of the star,
+•Tis the surface temperature,
+•σis the Stefan-Boltzmann constant.
+This equation shows that a star’s luminosity depends on both its size and temperature. Hotter and
+larger stars emit more energy, making them more luminous.
+TheInverseSquareLawandApparentBrightness
+The apparent brightness or flux ( F) of a star as seen from Earth is related to its luminosity and distance
+(r) from Earth:
+F=L
+4πr2
+Distant stars appear dimmer than those that are closer, even if they have the same luminosity. By
+knowing a star’s apparent brightness and distance, you can calculate its true luminosity.
+1StellarEvolutionandtheHRDiagram
+Stars evolve over time, following a life cycle that depends on their mass. The Hertzsprung-Russell (HR)
+diagram plots stars according to their luminosity and temperature, revealing patterns that correspond to
+different stages of stellar evolution. Most stars spend the majority of their lives on the mainsequence ,
+fusing hydrogen into helium in their cores.
+Mass-LuminosityRelationshipforMain-SequenceStars
+The luminosity of main-sequence stars is approximately proportional to the mass raised to the power
+of 3.5:
+L
+L⊙=(M
+M⊙)3.5
+This equation shows that more massive stars are more luminous but have shorter lifespans.
+NucleosynthesisandEnergyProduction
+Stars generate energy through nuclear fusion, where lighter elements, like hydrogen, are fused into
+heavier elements, like helium, in the core. As stars evolve, they can fuse heavier elements, creating the
+elements found throughout the universe.
+2Part1:DataAnalysisandHRDiagramPlotting
+Star # Temperature (K) Luminosity (L
+L⊙)Radius (R
+R⊙)Absolute
+Magnitude ( Mv) Star Type Spectral Class
+1 9030 45.0 2.63 1.450 2A
+2 7720 7.92 1.34 2.440 2F
+3 16500 0.013 0.014 11.890 1B
+4 14245 231000 42 -6.120 3O
+5 3575 123000 45 -6.780 3M
+6 11900 0.00067 0.00898 11.380 1B
+7 16390 1278 5.68 -3.320 2B
+8 39000 204000 10.6 -4.700 2O
+9 5300 0.59 0.91 5.490 2F
+10 19400 10920 6.03 -3.080 2B
+11 5936 1.357 1.106 4.460 2F
+12 18290 0.0013 0.00934 12.780 1B
+13 30000 28840 6.3 -4.200 2B
+14 12010 0.00078 0.00920 12.130 1B
+15 9373 424520 24 -5.990 3O
+16 15680 0.00122 0.01140 11.920 1B
+17 8250 9.25 1.93 -0.980 2F
+18 25000 0.056 0.00840 10.580 1B
+19 17383 342900 30 -6.090 3O
+20 34190 198200 6.390 -4.570 2O
+21 8924 0.00028 0.00879 14.870 1A
+22 11250 672 6.98 -2.300 2A
+23 10574 0.00014 0.00920 12.020 1F
+24 29560 188000 6.02 -4.010 2B
+25 4077 0.085 0.79500 6.228 2K
+1.PlottheStarsontheHRDiagram
+•Use the provided data to plot each star on an HR diagram. The x-axis represents temperature (loga-
+rithmic scale), and the y-axis represents luminosity (logarithmic scale).
+•Use the luminosity and temperature to determine the position of each star on the diagram.
+32.IdentifyStarTypes
+Each star is categorized as Type 1, 2, or 3. Use the HR diagram, the stars’ properties, and your knowledge
+on stellar evolution to determine what these types represent.
+3.ExplainStarClassification
+After plotting the stars and identifying their types, write a brief explanation of how you determined the
+classification for each star type. Reference the position of each star on the HR diagram and connect their
+properties to stellar evolution.
+4Part2:ConceptualQuestions
+1.EvolutionaryPaths
+Consider Star #11 from the table. Explain its likely evolutionary path. Justify your prediction based on
+the star’s mass, luminosity, and evolutionary stage.
+Hint: For main-sequence stars, luminosity is related to mass by the formulaL
+L⊙=(
+M
+M⊙)3.5
+.
+2.EnergyProductionandFusion
+Describe the energy production process (i.e., the specific fusion processes) occurring inside stars at
+different stages of their life cycles.
+3.FusionandLuminosity
+How does the fusion process inside a star relate to its luminosity and temperature? Why do stars be-
+come more luminous as they evolve off the main sequence?
+54.ConnectingMass,Luminosity,andLifespan
+Reflect on the relationship between a star’s mass, luminosity, and lifespan. Why do stars with higher
+masses have shorter lifespans despite having more fuel?
+Hint: Recall that the luminosity is the rate of energy output and that L∝M3.5.
+Part3:CalculationQuestions
+1.SurfaceFlux
+Star 5 (M-type star) and Star 7 (B-type star) have very different temperatures and radii. Star 5 is much
+cooler but significantly larger, while Star 7 is much hotter but smaller. Calculate the surface flux (energy
+per square meter per second) for both stars using the Stefan-Boltzmann law: F=σT4, where Tis the
+temperature and σ= 5.67×10−8W/m2/K4. Use the calculated flux and the given radii to explain how
+each star achieves its luminosity. Does the difference in temperature fully account for the difference in
+luminosity, or does the size of the star play a crucial role?
+62.EstimatingtheLifetimeofStar7
+In lesson 3.3, we found that the mass loss of one proton-proton (p-p) chain reaction is 0.02862 u, which
+represents about 0.71% of the initial mass. Therefore, when 1 kilogram of hydrogen is converted into he-
+lium, approximately 0.0071 kilograms of mass is converted into energy.
+•Models of massive stars like Star 7 indicate that only about 10% of the total hydrogen in the star
+will participate in nuclear reactions, as it is only the hydrogen in the central regions that is at a high
+enough temperature.
+•Use this information to estimate the lifetime of Star 7.
+Given:
+•Luminosity of Star 7: 1,278L⊙
+•Luminosity of the Sun: L⊙= 3.8×1026watts
+•Mass of the Sun: M⊙= 2×1030kg
+(i)CalculatethemassofStar7 using the mass-luminosity relationship:
+L
+L⊙=(M
+M⊙)3.5
+Solve for Min terms of LandL⊙, and then calculate the mass of Star 7 in kilograms.
+(ii)Determinethetotalenergyavailablefromhydrogenfusion in Star 7’s core. Assume that 10% of
+Star 7’s mass participates in nuclear fusion. Calculate the total energy released from this mass of
+hydrogen using the fact that 0.0071 kg of mass is converted into energy for every 1 kg of hydrogen.
+Hint: E= ∆m·c2
+(iii)EstimatethelifetimeofStar7 . Use the total energy available from fusion and the luminosity of Star
+7 to estimate the lifetime in seconds, then convert this value to years.
+Hint: Think about the units: luminosity is energy per unit time (1 watt = 1 Joule/s) and you want to get
+units of time!
+7
 

@@ -50,7 +50,7 @@ This unit explores the fascinating life cycles of stars, from their formation in
    - Stellar Remnants: Types and observational properties of stellar remnants.
    - The Hertzsprung-Russell (H-R) Diagram: Understanding the H-R diagram and its significance in studying stellar evolution.
 
-### [Assignment: Stellar Evolution Report](https://teaghan.github.io/astronomy-12/Unit3/Unit3_Assignment.pdf)
+### [Assignment: Stellar Evolution](https://teaghan.github.io/astronomy-12/Unit3/Unit3_Assignment.pdf)
 - Print off the attached assignment.
 - Follow the steps and complete the questions.
 - Submit your document with the questions answered.
