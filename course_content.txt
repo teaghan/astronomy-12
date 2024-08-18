@@ -3347,11 +3347,12 @@ The death of a star is not the end of its story. The remnants left behind after 
 
    - Which is the hottest? Coolest? Most luminous? Least luminous? In each case, give your reasoning.
    <br><br>
-7. **Brown Dwarfs**: Suppose you want to search for brown dwarfs using a space telescope. Will you design your telescope to detect light in the ultraviolet or the infrared part of the spectrum? Why?
+7. **Type-M Star**: An astronomer discovers a type-M star with a large luminosity. How is this possible? What kind of star is it?
    <br><br>
-8. **Type-M Star**: An astronomer discovers a type-M star with a large luminosity. How is this possible? What kind of star is it?
+8. **Betelgeuse Density**: Betelgeuse has a radius of 0.75 billion kilometers and a mass that is 15 times that of the Sun, how would its average density compare to that of the Sun? Use the definition of density, $ \text{density} = \frac{\text{mass}}{\text{volume}} $, where the volume is that of a sphere.
    <br><br>
-9. **Betelgeuse Density**: Betelgeuse has a radius of 0.75 billion kilometers and a mass that is 15 times that of the Sun, how would its average density compare to that of the Sun? Use the definition of density, $ \text{density} = \frac{\text{mass}}{\text{volume}} $, where the volume is that of a sphere.
+9. **Main Sequence Evolution**: How do stars typically “move” through the main sequence band on an H–R diagram? Why?
+   <br><br>
 
 ---
 
