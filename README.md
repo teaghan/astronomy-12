@@ -36,10 +36,10 @@ Welcome to Astronomy 12, a course that connects key ideas from chemistry, physic
 
 [**Unit 4:** Light and Spectroscopy](https://github.com/teaghan/astronomy-12/tree/main/Unit4)
    - [4.1 Nature of Light](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_1_solar_system_formation.ipynb)
-   - [4.2 Blackbody Radiation](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_2_the_sun.ipynb)
-   - [4.3 Atomic Energies](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_3_planets_moons.ipynb)
-   - [4.4 Spectroscopy I](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_4_dating_surfaces.ipynb)
-   - [4.5 Spectroscopy II](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_5_solar_system_origin.ipynb)
+   - [4.2 Blackbody Radiation](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_2_blackbody.ipynb)
+   - [4.3 Atomic Energies](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_3_atomic_energies.ipynb)
+   - [4.4 Spectroscopy I: Principles of Spectroscopy](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_4_spectroscopy_1.ipynb)
+   - [4.5 Spectroscopy II: Applications of Spectroscopy](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_5_spectroscopy_2.ipynb)
 
 [**Unit 5:** Galaxies and the Universe](https://github.com/teaghan/astronomy-12/tree/main/Unit6)
    - [5.1 Types of Galaxies](https://github.com/teaghan/astronomy-12/tree/main/Unit5/5_1_galaxy_types.ipynb)
