@@ -1,0 +1,143 @@
+0:00
+Hey it's professor Dave, let's learn about light.
+0:09
+Since we've been able to
+0:10
+look up at the Sun, we've been aware of
+0:12
+light. As darkness is one of very few
+0:15
+things that we instinctually fear, we
+0:18
+have always bestowed light with godlike
+0:20
+properties, but for all of antiquity we
+Classical electromagnetism
+0:23
+had no idea what light really was.
+0:25
+Figures like Newton and Huygens worked
+0:28
+with light in the 17th century, but a
+0:31
+more sophisticated description of light
+0:33
+which we call classical electromagnetism
+0:36
+was developed largely by James Clerk
+0:39
+Maxwell in the 19th century. This theory
+0:42
+depicts light as a transverse wave
+0:45
+composed of oscillating electric and
+0:47
+magnetic fields which are at right
+0:50
+angles to each other, and perpendicular
+0:52
+to the direction that the wave moves.
+0:55
+We will learn more about these fields later.
+Electromagnetic Spectrum
+0:58
+Just like the kinds of waves we have
+1:00
+previously discussed, electromagnetic
+1:03
+waves have amplitudes, wavelengths, and
+1:06
+frequencies, but instead of different
+1:09
+frequencies producing different pitches
+1:12
+like sound waves, different frequencies
+1:15
+of electromagnetic waves produce
+1:17
+different kinds of light. If the light is
+1:20
+visible, these frequencies will
+1:22
+correspond to different colors.
+1:24
+Frequencies greater than this will exist
+1:27
+as UV radiation, x-rays, or gamma rays, and
+1:31
+frequencies less than this qualify as
+1:33
+infrared radiation, microwaves, or radio
+1:37
+waves. All of these phenomena are
+1:40
+collectively referred to as
+1:41
+electromagnetic radiation, and they can
+1:45
+be found on the electromagnetic spectrum.
+1:47
+Here we can see all the wavelengths and
+1:50
+frequencies ranging from radio waves to
+1:52
+gamma rays, and we have found some
+1:55
+technological use for all of these in
+1:57
+modern society, even though they seem
+1:59
+dramatically different, some requiring
+2:02
+things like antennas or other equipment
+2:05
+to manipulate. All of them are
+2:07
+fundamentally the same thing as the
+2:10
+light you can see with your eyeballs,
+2:11
+they are just of different
+2:13
+wavelengths. All electromagnetic
+Speed
+2:16
+radiation moves at the speed of light
+2:18
+which is about 300 million meters per
+2:21
+second in a vacuum, the fastest speed
+2:23
+possible in the universe. This is fast
+Frequency
+2:26
+enough to get from here to the moon in
+2:28
+about a second, and since we know that
+2:30
+all waves move at a speed that is equal
+2:33
+to their wavelength times their
+2:34
+frequency, this product will be equal to
+2:37
+the speed of light for any type of
+2:39
+electromagnetic radiation. How is it that
+Conclusion
+2:42
+electromagnetic radiation is produced?
+2:46
+To answer this question we have to learn
+2:48
+about electric fields which are coming
+2:51
+up soon, for now let's check comprehension.
+3:24
+Thanks for watching, guys. Subscribe to my channel for more
+3:27
+tutorials, support me on patreon so I can
+3:29
+keep making content, and as always, feel
+3:31
+free to email me:

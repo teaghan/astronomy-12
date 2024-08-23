@@ -15,7 +15,7 @@ Spectroscopy is a crucial tool in astronomy, enabling us to decode the light fro
 ### Self-Assessment
 - Each section of this unit includes a set of "Check Your Understanding" questions that are designed to prepare you for the midterm exam.
 
-### [4.1 Nature of Light](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_1_nature_of_light)
+### [4.1 The Nature of Light](../md_files/4_1_nature_of_light.html)
 - **Electromagnetic Spectrum**: Overview of the different types of electromagnetic radiation and their significance in astronomy.
 - **Wave-Particle Duality**: Discussion of light's dual nature, emphasizing wave and particle properties.
 - **Polarization of Light**: Introduction to light polarization and its applications in astronomy.

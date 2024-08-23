@@ -36,6 +36,8 @@ where:
 
 > This law explains why stars appear dimmer the farther away they are. It's not because they're less powerful, but because their light spreads out over a larger area.
 
+<img src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit1/figures/inv_sq_law.png" alt="Inverse Square Law" width="1000" style="display: block; margin-left: auto; margin-right: auto;">
+
 <div class="alert alert-block alert-warning">
 <b>Example:</b> Calculating the Solar Flux at Different Distances
 </div>
