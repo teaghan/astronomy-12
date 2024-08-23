@@ -1,8 +1,10 @@
 # Astronomy 12
 
+Visit the [course website](https://teaghan.github.io/astronomy-12/) for a more user-friendly interaction with the course content.
+
 ![Banner Image](./images/course_banner.png)
 
-This course integrates concepts from chemistry, physics, biology, and earth sciences to explore the vast and intriguing field of astronomy. Students will engage in hands-on activities, projects, and discussions to understand celestial phenomena and their underlying scientific principles. This interdisciplinary approach will enhance their appreciation of the universe and the interconnectedness of different scientific disciplines.
+Welcome to Astronomy 12, a course that connects key ideas from chemistry, physics, and earth sciences to help you explore the vast field of astronomy. Through hands-on activities, projects, and discussions, you’ll learn about celestial phenomena and the science behind them. As we study the history and modern discoveries in astronomy, you'll gain a better understanding of the universe and see how different areas of science work together to explain the cosmos.
 
 ## Course Resources
 

@@ -38,16 +38,22 @@ def copy_and_rename_readme_files(unit_dirs, md_dir):
 def copy_and_adjust_main_readme(main_readme, output_file):
     """
     Copies the main README.md file to index.md and adjusts embedded links to point to the correct paths.
-    Also adds the appropriate header.
+    Also adds the appropriate header and removes the line with [course website].
     """
     # Regex patterns for various adjustments
     link_pattern = re.compile(r'\[(.*?)\]\((https://github.com/teaghan/astronomy-12/tree/main/Unit\d+/(.*?))\.ipynb\)')
     unit_link_pattern = re.compile(r'\[(.*?)\]\((https://github.com/teaghan/astronomy-12/tree/main/(Unit\d+))\)')
-    
+
     if os.path.exists(main_readme):
         # Read the main README.md file content
         with open(main_readme, "r") as file:
-            content = file.read()
+            content = file.readlines()
+        
+        # Remove the line containing [course website]
+        content = [line for line in content if '[course website]' not in line]
+        
+        # Join the lines back into a single string for further adjustments
+        content = ''.join(content)
         
         # Adjust the notebook links
         new_content = link_pattern.sub(r'[\1](./md_files/\3.html)', content)

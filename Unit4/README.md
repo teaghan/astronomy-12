@@ -2,35 +2,31 @@
 
 This unit explores the nature of light and how it interacts with matter. It covers the electromagnetic spectrum, wave-particle duality, and the use of spectroscopy in astronomy.
 
+   - [4.1 Nature of Light](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_1_solar_system_formation.ipynb)
+   - [4.2 Blackbody Radiation](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_2_the_sun.ipynb)
+   - [4.3 Atomic Energies](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_3_planets_moons.ipynb)
+   - [4.4 Spectroscopy I](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_4_dating_surfaces.ipynb)
+   - [4.5 Spectroscopy II](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_5_solar_system_origin.ipynb)
 
 ### 4.1 Nature of Light
 - Electromagnetic Spectrum.
 - Wave-Particle Duality.
 
 ### 4.2 Blackbody Radiation
-   - Planck’s Law and Spectrum: Describing the spectrum of radiation emitted by a blackbody.
-   - Wien’s Displacement Law: Relating temperature to the peak wavelength of blackbody radiation.
-   - Stefan-Boltzmann Law: Relating the total energy radiated per unit surface area to the fourth power of its temperature.
+- Planck’s Law and Spectrum: Describing the spectrum of radiation emitted by a blackbody.
+- Wien’s Displacement Law: Relating temperature to the peak wavelength of blackbody radiation.
+- Stefan-Boltzmann Law: Relating the total energy radiated per unit surface area to the fourth power of its temperature.
 
-### 4.3 Formation of Spectral Lines
+### 4.3 Atomic Energies
 - Physical processes behind spectral lines.
 
-### 4.4 Spectroscopy in Astronomy
+### 4.4 Spectroscopy I
 - Absorption and Emission Spectra.
-- Doppler Effect.
 
-### 4.5 Applications of Spectroscopy
+### 4.5 Spectroscopy II
 - Identifying elements in stars.
 - Measuring stellar velocities.
 
-
 **Science Curricular Connections:**
-- **Physics 11:** Properties and behaviors of waves
-- **Physics 12:** Electromagnetic induction and its applications
-- **Chemistry 11:** Analysis techniques
 
 **Learning Standards:**
-- Describe the electromagnetic spectrum and wave-particle duality.
-- Explain the principles of spectroscopy and its applications in astronomy.
-- Identify elements in stars using spectroscopy.
-- Understand the formation and significance of spectral lines.
