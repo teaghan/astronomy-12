@@ -38,7 +38,7 @@ Welcome to Astronomy 12, a course that connects key ideas from chemistry, physic
    - [3.5 Life Cycle of Stars](./md_files/3_5_life_cycle.html)
 
 [**Unit 4:** Light and Spectroscopy](./md_files/Unit4_README.html)
-   - [4.1 Nature of Light](./md_files/4_1_solar_system_formation.html)
+   - [4.1 Nature of Light](./md_files/4_1_nature_of_light.html)
    - [4.2 Blackbody Radiation](./md_files/4_2_blackbody.html)
    - [4.3 Atomic Energies](./md_files/4_3_atomic_energies.html)
    - [4.4 Spectroscopy I: Principles of Spectroscopy](./md_files/4_4_spectroscopy_1.html)

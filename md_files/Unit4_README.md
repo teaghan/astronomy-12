@@ -16,9 +16,11 @@ Spectroscopy is a crucial tool in astronomy, enabling us to decode the light fro
 - Each section of this unit includes a set of "Check Your Understanding" questions that are designed to prepare you for the midterm exam.
 
 ### [4.1 The Nature of Light](../md_files/4_1_nature_of_light.html)
-- **Electromagnetic Spectrum**: Overview of the different types of electromagnetic radiation and their significance in astronomy.
-- **Wave-Particle Duality**: Discussion of light's dual nature, emphasizing wave and particle properties.
-- **Polarization of Light**: Introduction to light polarization and its applications in astronomy.
+- **Electromagnetic Spectrum**: Overview of different types of electromagnetic radiation and their roles in astronomy.
+- **Wave Properties**: Key properties of light, such as amplitude, wavelength, and frequency, and the relationship between wavelength and frequency through the wave equation.
+- **Wave-Particle Duality**: Introduction to light’s dual nature as both a wave and particles (photons). The energy of a photon is calculated using Planck’s equation.
+- **Interaction of Light with Matter**: Exploration of reflection, refraction, and absorption of light and their importance in telescope design and astronomical observations.
+- **Applications in Astronomy**: How different wavelengths are used to observe various cosmic phenomena, from radio waves to X-rays, revealing insights into the universe.
 
 ### [4.2 Blackbody Radiation](../md_files/4_2_blackbody.html)
 - **Planck’s Law and Spectrum**: Description of the spectrum of radiation emitted by a blackbody.
