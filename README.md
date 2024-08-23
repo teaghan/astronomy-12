@@ -35,7 +35,7 @@ Welcome to Astronomy 12, a course that connects key ideas from chemistry, physic
    - [3.5 Life Cycle of Stars](https://github.com/teaghan/astronomy-12/tree/main/Unit3/3_5_life_cycle.ipynb)
 
 [**Unit 4:** Light and Spectroscopy](https://github.com/teaghan/astronomy-12/tree/main/Unit4)
-   - [4.1 Nature of Light](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_1_nature_of_light.ipynb)
+   - [4.1 The Nature of Light](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_1_nature_of_light.ipynb)
    - [4.2 Blackbody Radiation](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_2_blackbody.ipynb)
    - [4.3 Atomic Energies](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_3_atomic_energies.ipynb)
    - [4.4 Spectroscopy I: Principles of Spectroscopy](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_4_spectroscopy_1.ipynb)

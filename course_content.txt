@@ -3444,7 +3444,7 @@ Light is an electromagnetic wave with key properties such as <i>amplitude</i>, <
 
 A fundamental principle in wave physics is that the speed of a wave is the product of its wavelength and frequency. For light, this relationship is expressed by the equation:
 
-$$c = \lambda f$$
+$$ c = \lambda f $$
 
 where $c$ is the speed of light, $\lambda$ is the wavelength, and $f$ is the frequency. This equation shows that shorter wavelengths correspond to higher frequencies and vice versa.
 
@@ -3555,9 +3555,7 @@ On the one hand, light behaves like a wave, capable of interference and diffract
 
 The relationship between the energy of a photon and its frequency is given by **Planck’s equation**:
 
-$$
-E = hf
-$$
+$$ E = hf $$
 
 In this equation, $E$ represents the energy of the photon, $h$ is Planck’s constant ($6.626 \times 10^{-34}$ J·s), and $f$ is the frequency of the light. This equation reveals that higher-frequency light, such as ultraviolet or X-rays, has more energetic photons compared to lower-frequency light, such as infrared or radio waves.
 
