@@ -1,6 +1,15 @@
-## Unit 4: Light and Spectroscopy 
+## Unit 4: Light and Spectroscopy
 
-Spectroscopy is a crucial tool in astronomy, enabling us to decode the light from stars, galaxies, and distant worlds to uncover their secrets. In this unit, you'll explore the nature of light, from the electromagnetic spectrum to wave-particle duality. Discover how blackbody radiation reveals the temperatures of celestial objects, how atomic energies produce the spectral lines that serve as cosmic fingerprints, and how spectroscopy helps astronomers determine the composition, temperature, and motion of objects across the universe. 
+Spectroscopy is a crucial tool in astronomy, enabling us to decode the light from stars, galaxies, and distant worlds to uncover their secrets. In this unit, you'll explore the nature of light, from the electromagnetic spectrum to wave-particle duality. Discover how blackbody radiation reveals the temperatures of celestial objects, how atomic energies produce the spectral lines that serve as cosmic fingerprints, and how spectroscopy helps astronomers determine the composition, temperature, and motion of objects across the universe.
+
+![Banner Image](../Unit4/figures/unit4_banner.png)
+
+### Teacher Assessment
+- Summary Notes
+- Assignment/Project
+
+### Self-Assessment
+- Each section of this unit includes a set of "Check Your Understanding" questions that are designed to prepare you for the midterm exam.
 
 ### [4.1 Nature of Light](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_1_nature_of_light)
 - **Electromagnetic Spectrum**: Overview of the different types of electromagnetic radiation and their significance in astronomy.
@@ -29,6 +38,42 @@ Spectroscopy is a crucial tool in astronomy, enabling us to decode the light fro
 - **Measuring Stellar Velocities**: Discussion of the Doppler effect and how radial velocity measurements are used to study stellar motion and detect exoplanets.
 - **The Science of Spectroscopy**: Overview of line lists, catalogs of spectral lines, and how they are used in practical spectroscopic analysis.
 
-**Science Curricular Connections:**
+### [Assignment: Spectroscopy in Action](https://teaghan.github.io/astronomy-12/Unit4/Unit4_Assignment.pdf)
+- Print off the attached assignment.
+- Follow the steps and complete the questions.
+- Submit your document with the questions answered.
 
-**Learning Standards:**
+### Course Resources
+- **Free Textbook**: [**Astronomy**](https://openstax.org/books/astronomy/pages/1-introduction) by OpenStax.
+- **AI Tutor**: [**Astronomy Tutor**](https://chatgpt.com/g/g-10CjMHMvk-astronomy-tutor) to support you with this class.
+
+### Science Curricular Connections
+
+**Physics 11:**
+- Properties and behaviors of waves
+- Generation and propagation of waves
+
+**Physics 12:**
+- Electromagnetic induction and its applications
+- Doppler effect
+
+**Chemistry 11:**
+- Quantum mechanical model and electron configuration
+- Analysis techniques (e.g., spectroscopy)
+
+**Chemistry 12:**
+- Energy change during a chemical reaction
+
+**Earth Sciences 11:**
+- Solar radiation interactions
+
+### Learning Standards
+- I can describe the electromagnetic spectrum and wave-particle duality.
+- I can explain the principles of blackbody radiation, including Planck's Law, Wien's Displacement Law, and the Stefan-Boltzmann Law.
+- I can explain the structure of the atom and how electromagnetic radiation interacts with atoms to produce spectral lines.
+- I can distinguish between absorption and emission spectra and explain how these spectra are produced.
+- I can apply Kirchhoff's laws of spectroscopy to explain continuous, emission, and absorption spectra.
+- I can explain the mechanisms of spectral line broadening and their significance in astrophysical observations.
+- I can use spectroscopy to identify the chemical composition of stars.
+- I can explain how the Doppler effect is used to measure stellar velocities.
+- I can describe how line lists and catalogs of spectral lines are used in practical spectroscopic analysis.
