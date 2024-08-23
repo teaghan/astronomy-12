@@ -39,10 +39,10 @@ Welcome to Astronomy 12, a course that connects key ideas from chemistry, physic
 
 [**Unit 4:** Light and Spectroscopy](./md_files/Unit4_README.html)
    - [4.1 Nature of Light](./md_files/4_1_solar_system_formation.html)
-   - [4.2 Blackbody Radiation](./md_files/4_2_the_sun.html)
-   - [4.3 Atomic Energies](./md_files/4_3_planets_moons.html)
-   - [4.4 Spectroscopy I](./md_files/4_4_dating_surfaces.html)
-   - [4.5 Spectroscopy II](./md_files/4_5_solar_system_origin.html)
+   - [4.2 Blackbody Radiation](./md_files/4_2_blackbody.html)
+   - [4.3 Atomic Energies](./md_files/4_3_atomic_energies.html)
+   - [4.4 Spectroscopy I: Principles of Spectroscopy](./md_files/4_4_spectroscopy_1.html)
+   - [4.5 Spectroscopy II: Applications of Spectroscopy](./md_files/4_5_spectroscopy_2.html)
 
 [**Unit 5:** Galaxies and the Universe](./md_files/Unit6_README.html)
    - [5.1 Types of Galaxies](./md_files/5_1_galaxy_types.html)

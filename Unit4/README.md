@@ -1,6 +1,6 @@
-## Unit 4: Light and Spectroscopy
+## Unit 4: Light and Spectroscopy 
 
-This unit explores the nature of light and how it interacts with matter. It covers the electromagnetic spectrum, wave-particle duality, blackbody radiation, atomic energies, and the application of spectroscopy in astronomy.
+Spectroscopy is a crucial tool in astronomy, enabling us to decode the light from stars, galaxies, and distant worlds to uncover their secrets. In this unit, you'll explore the nature of light, from the electromagnetic spectrum to wave-particle duality. Discover how blackbody radiation reveals the temperatures of celestial objects, how atomic energies produce the spectral lines that serve as cosmic fingerprints, and how spectroscopy helps astronomers determine the composition, temperature, and motion of objects across the universe. 
 
 ### [4.1 Nature of Light](https://github.com/teaghan/astronomy-12/tree/main/Unit4/4_1_nature_of_light)
 - **Electromagnetic Spectrum**: Overview of the different types of electromagnetic radiation and their significance in astronomy.
