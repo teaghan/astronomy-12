@@ -40,16 +40,13 @@ The triple-alpha process can be described as follows:
 
 1. **Formation of Beryllium-8:**
    - Two helium-4 nuclei (alpha particles) collide to form beryllium-8. The reaction can be represented as:
-     $$
-     \text{He}^4 + \text{He}^4 \rightarrow \text{Be}^8
-     $$
+> $$ \text{He}^4 + \text{He}^4 \rightarrow \text{Be}^8 $$
+
    - Beryllium-8 ($\text{Be}^8$) is highly unstable and typically decays back into two helium nuclei within a fraction of a second. However, under the extreme conditions in the core of a star, if another helium-4 nucleus collides with the beryllium-8 before it decays, the next step occurs.
 
 2. **Formation of Carbon-12:**
    - The unstable beryllium-8 nucleus captures another helium-4 nucleus to form carbon-12. The reaction is:
-     $$
-     \text{Be}^8 + \text{He}^4 \rightarrow \text{C}^{12} + \gamma
-     $$
+> $$ \text{Be}^8 + \text{He}^4 \rightarrow \text{C}^{12} + \gamma $$
    - This reaction releases a gamma-ray photon ($\gamma$), which carries away the excess energy from the fusion process.
 
 This sequence of reactions is the primary way that carbon, an essential element for life, is produced in stars. The creation of carbon and oxygen through the triple-alpha process marks a critical stage in the chemical evolution of the universe, as these elements are necessary for the formation of complex molecules and ultimately, life as we know it.

@@ -97,9 +97,7 @@ Parallax is the apparent displacement of an object because of a change in the ob
 
 **Parsecs:** The distance to a star can be determined using its parallax angle. A parsec (pc) is defined as the distance at which a star would have a parallax angle of one arcsecond. It is derived from the formula:
 
-$$
-\text{Distance (parsecs)} = \frac{1}{\text{parallax (arcseconds)}}
-$$
+> $$ \text{Distance (parsecs)} = \frac{1}{\text{parallax (arcseconds)}} $$
 
 > One parsec is approximately equal to 3.26 light-years. This unit of measurement is especially useful in astronomy for calculating vast interstellar distances.
 

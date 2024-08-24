@@ -33,10 +33,7 @@ Light is an electromagnetic wave with key properties such as <i>amplitude</i>, <
 
 A fundamental principle in wave physics is that the speed of a wave is the product of its wavelength and frequency. For light, this relationship is expressed by the equation:
 
-$$ c = \lambda f $$
-
-\[ c = \lambda f \]
-
+> $$ c = \lambda f $$
 
 where $c$ is the speed of light, $\lambda$ is the wavelength, and $f$ is the frequency. This equation shows that shorter wavelengths correspond to higher frequencies and vice versa.
 

@@ -42,9 +42,8 @@ Centripetal force is the force required to keep an object moving in a circular p
 In the context of circular motion, any force that keeps an object on its curved path acts as a centripetal force. This could be tension in a string for a ball being swung around, friction between tires and the road for a car turning a corner, or gravity for celestial bodies in orbit.
 
 **Mathematical Expression:**
-$$
-F_c = \frac{mv^2}{r}
-$$
+
+> $$ F_c = \frac{mv^2}{r} $$
 where:
 - $ F_c $ is the centripetal force
 - $ m $ is the mass of the object
@@ -63,13 +62,13 @@ In astronomy, the most common centripetal force is gravity. For planetary motion
 > In orbital motion, the centripetal force is the force of gravity.
 
 When we look at the gravitational force acting as the centripetal force, the expressions can be equated:
-$$
-F_g = F_c
-$$
+
+> $$ F_g = F_c $$
+
 This leads to the equation:
-$$
-\frac{GMm}{r^2} = \frac{mv^2}{r}
-$$
+
+> $$ \frac{GMm}{r^2} = \frac{mv^2}{r} $$
+
 Here, $ G $ is the gravitational constant and $ M $ is the mass of the central body (such as the Sun or Earth). Simplifying this equation allows us to understand the relationships between the various forces and motions involved in orbital mechanics.
 
 <div class="alert alert-block alert-warning">
@@ -99,9 +98,7 @@ In this example, the immense centripetal force required to keep Earth in its orb
 Centripetal acceleration is the acceleration experienced by an object moving in a circle at a constant speed, directed towards the center of the circle. This acceleration is what causes the object to change direction continuously.
 
 **Formula:**
-$$
-a_c = \frac{v^2}{r}
-$$
+> $$ a_c = \frac{v^2}{r} $$
 
 ### Application to Circular Orbits
 
@@ -137,41 +134,28 @@ To derive the orbital speed, we start with the fact that the gravitational force
 **Step-by-Step Derivation:**
 
 1. **Equate Gravitational Force to Centripetal Force:**
-   $$ 
-   F_g = F_c 
-   $$
+> $$ F_g = F_c $$
 
 2. **Express Gravitational Force:**
-   $$
-   F_g = \frac{GMm}{r^2}
-   $$
+> $$ F_g = \frac{GMm}{r^2} $$
    - Where $G$ is the gravitational constant, $M$ is the mass of the central body, $m$ is the mass of the orbiting object, and $r$ is the radius of the orbit.
 
 3. **Express Centripetal Force:**
-   $$
-   F_c = \frac{mv^2}{r}
-   $$
+> $$ F_c = \frac{mv^2}{r} $$
    - Where $v$ is the orbital speed.
 
 4. **Set the Expressions Equal to Each Other:**
-   $$
-   \frac{GMm}{r^2} = \frac{mv^2}{r}
-   $$
+> $$ \frac{GMm}{r^2} = \frac{mv^2}{r} $$
 
 5. **Simplify the Equation:**
    - Cancel $m$ from both sides:
-     $$
-     \frac{GM}{r^2} = \frac{v^2}{r}
-     $$
+> $$ \frac{GM}{r^2} = \frac{v^2}{r} $$
+  
    - Multiply both sides by $r$:
-     $$
-     \frac{GM}{r} = v^2
-     $$
+> $$ \frac{GM}{r} = v^2 $$
 
 6. **Solve for Orbital Speed ($v$):**
-   $$
-   v = \sqrt{\frac{GM}{r}}
-   $$
+> $$ v = \sqrt{\frac{GM}{r}} $$
 
 This formula shows that the orbital speed of an object depends on the gravitational constant ($G$), the mass of the central body ($M$), and the radius of the orbit ($r$). 
 

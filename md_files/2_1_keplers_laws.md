@@ -74,21 +74,21 @@ Kepler also found that there is a precise mathematical relationship between the 
 
 Mathematically, this can be written as:
 
-$$ P^2 \propto a^3 $$
+> $$ P^2 \propto a^3 $$
 
 or 
 
-$$ P^2 = k \cdot a^3 $$
+> $$ P^2 = k \cdot a^3 $$
 
 where $ P $ is the orbital period, $ a $ is the semi-major axis, and $ k $ is a constant.
 
 To put this in perspective, consider Earth and Mars. Earth, with a semi-major axis of 1 astronomical unit (AU), completes an orbit in one year. Mars, with a semi-major axis of about 1.52 AU, takes approximately 1.88 Earth years to complete its orbit. Plugging these values into Kepler’s formula, we find that:
 
-$$ P_{\text{Earth}}^2 = 1^2 = 1 $$
-$$ a_{\text{Earth}}^3 = 1^3 = 1 $$
-
-$$ P_{\text{Mars}}^2 \approx 1.88^2 = 3.53 $$
-$$ a_{\text{Mars}}^3 \approx 1.52^3 = 3.52 $$
+> $$ P_{\text{Earth}}^2 = 1^2 = 1 $$
+> $$ a_{\text{Earth}}^3 = 1^3 = 1 $$
+> 
+> $$ P_{\text{Mars}}^2 \approx 1.88^2 = 3.53 $$
+> $$ a_{\text{Mars}}^3 \approx 1.52^3 = 3.52 $$
 
 This near-perfect correlation between $ P^2 $ and $ a^3 $ demonstrated the universal applicability of Kepler’s Third Law across different planets, from Mercury to the distant gas giants.
 

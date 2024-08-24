@@ -614,9 +614,7 @@ Parallax is the apparent displacement of an object because of a change in the ob
 
 **Parsecs:** The distance to a star can be determined using its parallax angle. A parsec (pc) is defined as the distance at which a star would have a parallax angle of one arcsecond. It is derived from the formula:
 
-$$
-\text{Distance (parsecs)} = \frac{1}{\text{parallax (arcseconds)}}
-$$
+> $$ \text{Distance (parsecs)} = \frac{1}{\text{parallax (arcseconds)}} $$
 
 > One parsec is approximately equal to 3.26 light-years. This unit of measurement is especially useful in astronomy for calculating vast interstellar distances.
 
@@ -858,7 +856,7 @@ To understand stellar brightness, we first need to define a few key concepts: fl
 
 As light travels from a star, it spreads out over an ever-increasing area. This spreading out follows the **Inverse Square Law**, which states that the flux decreases with the square of the distance from the source. Mathematically, we express this as:
 
-$$ F = \frac{L}{4\pi r^2} $$
+> $$ F = \frac{L}{4\pi r^2} $$
 
 where:
 - $F$ is the flux (in watts per square meter, $\text{W/m}^2$),
@@ -899,13 +897,13 @@ The magnitude scale dates back to the ancient Greek astronomer Hipparchus, who c
 
 The logarithmic nature of the scale is represented by:
 
-$$ m_1 - m_2 = -2.5 \log_{10} \left( \frac{F_1}{F_2} \right) $$
+> $$ m_1 - m_2 = -2.5 \log_{10} \left( \frac{F_1}{F_2} \right) $$
 
 where $ m_1 $ and $ m_2 $ are the magnitudes of two stars, and $ F_1 $ and $ F_2 $ are their respective fluxes.
 
 Another way to write this equation is:
 
-$$ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{m_1 - m_2} $$
+> $$ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{m_1 - m_2} $$
 
 which allows us to compare the flux of two objects (and the flux is what we would typically call "brightness" in every day conversation).
 
@@ -969,7 +967,7 @@ Absolute magnitude is the apparent magnitude (brightness) a star would have if i
 
 The relationship between a star's absolute magnitude $ M $, apparent magnitude $ m $, and distance $ d $ in parsecs is given by:
 
-$$ M = m + 5 - 5 \log_{10}(d) $$
+> $$ M = m + 5 - 5 \log_{10}(d) $$
 
 ---
 
@@ -979,7 +977,7 @@ $$ M = m + 5 - 5 \log_{10}(d) $$
 
 The **distance modulus** provides a way to calculate the distance to a star based on its apparent and absolute magnitudes. The formula is:
 
-$$ m - M = 5 \log_{10}(d) - 5 $$
+> $$ m - M = 5 \log_{10}(d) - 5 $$
 
 where:
 - $ m $ is the apparent magnitude,
@@ -1022,7 +1020,7 @@ This equation is incredibly useful for determining stellar distances, making it 
 <br><br>
 3. **Magnitude Scale** Use the Magnitude Scale equation below to explain why a magnitude 2 compared to a magnitude 5 star is about 16 times brighter.
 
-$$ m_1 - m_2 = -2.5 \log_{10} \left( \frac{F_1}{F_2} \right) $$
+> $$ m_1 - m_2 = -2.5 \log_{10} \left( \frac{F_1}{F_2} \right) $$
 
 4. **Absolute Magnitude**: If a star has an apparent magnitude of 7 and is located 50 parsecs away, what is its absolute magnitude?
 <br><br>
@@ -1034,7 +1032,7 @@ $$ m_1 - m_2 = -2.5 \log_{10} \left( \frac{F_1}{F_2} \right) $$
 <br><br>
 8. **Algebra Challenge**: Derive the relation
 
-$$m = M_{Sun} − 2.5 \log_{10}(\frac{F}{F_{10,Sun}})$$
+> $$m = M_{Sun} − 2.5 \log_{10}(\frac{F}{F_{10,Sun}})$$
 
 where $M_{Sun}$ is the absolute magnitude of the Sun and $F_{10,Sun}$ is the flux received from the Sun if it were 10 parsecs away from the observer.
 
@@ -1287,21 +1285,21 @@ Kepler also found that there is a precise mathematical relationship between the 
 
 Mathematically, this can be written as:
 
-$$ P^2 \propto a^3 $$
+> $$ P^2 \propto a^3 $$
 
 or 
 
-$$ P^2 = k \cdot a^3 $$
+> $$ P^2 = k \cdot a^3 $$
 
 where $ P $ is the orbital period, $ a $ is the semi-major axis, and $ k $ is a constant.
 
 To put this in perspective, consider Earth and Mars. Earth, with a semi-major axis of 1 astronomical unit (AU), completes an orbit in one year. Mars, with a semi-major axis of about 1.52 AU, takes approximately 1.88 Earth years to complete its orbit. Plugging these values into Kepler’s formula, we find that:
 
-$$ P_{\text{Earth}}^2 = 1^2 = 1 $$
-$$ a_{\text{Earth}}^3 = 1^3 = 1 $$
-
-$$ P_{\text{Mars}}^2 \approx 1.88^2 = 3.53 $$
-$$ a_{\text{Mars}}^3 \approx 1.52^3 = 3.52 $$
+> $$ P_{\text{Earth}}^2 = 1^2 = 1 $$
+> $$ a_{\text{Earth}}^3 = 1^3 = 1 $$
+> 
+> $$ P_{\text{Mars}}^2 \approx 1.88^2 = 3.53 $$
+> $$ a_{\text{Mars}}^3 \approx 1.52^3 = 3.52 $$
 
 This near-perfect correlation between $ P^2 $ and $ a^3 $ demonstrated the universal applicability of Kepler’s Third Law across different planets, from Mercury to the distant gas giants.
 
@@ -1653,15 +1651,11 @@ The gravitational constant $ G $ is a key quantity in Newton's law of universal 
 
 Imagine standing on a scale to measure your weight. What you're actually measuring is the gravitational force that Earth exerts on you. This force, which keeps your feet firmly planted on the ground, is a manifestation of gravity. Newton's second law, $F = ma$, helps us calculate this force. On Earth, the acceleration due to gravity, $g$, is approximately $9.8 \, \text{m/s}^2$. Therefore, your weight can be calculated using the equation:
 
-$$
-F = mg
-$$
+> $$ F = mg $$
 
 For example, let's calculate the weight of a 70 kg person on Earth:
 
-$$
-F = 70 \, \text{kg} \times 9.8 \, \text{m/s}^2 = 686 \, \text{N}
-$$
+> $$ F = 70 \, \text{kg} \times 9.8 \, \text{m/s}^2 = 686 \, \text{N} $$
 
 This calculation shows that the gravitational force acting on a 70 kg person is 686 newtons. This force is what we commonly refer to as "weight."
 
@@ -1761,9 +1755,8 @@ Centripetal force is the force required to keep an object moving in a circular p
 In the context of circular motion, any force that keeps an object on its curved path acts as a centripetal force. This could be tension in a string for a ball being swung around, friction between tires and the road for a car turning a corner, or gravity for celestial bodies in orbit.
 
 **Mathematical Expression:**
-$$
-F_c = \frac{mv^2}{r}
-$$
+
+> $$ F_c = \frac{mv^2}{r} $$
 where:
 - $ F_c $ is the centripetal force
 - $ m $ is the mass of the object
@@ -1782,13 +1775,13 @@ In astronomy, the most common centripetal force is gravity. For planetary motion
 > In orbital motion, the centripetal force is the force of gravity.
 
 When we look at the gravitational force acting as the centripetal force, the expressions can be equated:
-$$
-F_g = F_c
-$$
+
+> $$ F_g = F_c $$
+
 This leads to the equation:
-$$
-\frac{GMm}{r^2} = \frac{mv^2}{r}
-$$
+
+> $$ \frac{GMm}{r^2} = \frac{mv^2}{r} $$
+
 Here, $ G $ is the gravitational constant and $ M $ is the mass of the central body (such as the Sun or Earth). Simplifying this equation allows us to understand the relationships between the various forces and motions involved in orbital mechanics.
 
 <div class="alert alert-block alert-warning">
@@ -1818,9 +1811,7 @@ In this example, the immense centripetal force required to keep Earth in its orb
 Centripetal acceleration is the acceleration experienced by an object moving in a circle at a constant speed, directed towards the center of the circle. This acceleration is what causes the object to change direction continuously.
 
 **Formula:**
-$$
-a_c = \frac{v^2}{r}
-$$
+> $$ a_c = \frac{v^2}{r} $$
 
 ### Application to Circular Orbits
 
@@ -1856,41 +1847,28 @@ To derive the orbital speed, we start with the fact that the gravitational force
 **Step-by-Step Derivation:**
 
 1. **Equate Gravitational Force to Centripetal Force:**
-   $$ 
-   F_g = F_c 
-   $$
+> $$ F_g = F_c $$
 
 2. **Express Gravitational Force:**
-   $$
-   F_g = \frac{GMm}{r^2}
-   $$
+> $$ F_g = \frac{GMm}{r^2} $$
    - Where $G$ is the gravitational constant, $M$ is the mass of the central body, $m$ is the mass of the orbiting object, and $r$ is the radius of the orbit.
 
 3. **Express Centripetal Force:**
-   $$
-   F_c = \frac{mv^2}{r}
-   $$
+> $$ F_c = \frac{mv^2}{r} $$
    - Where $v$ is the orbital speed.
 
 4. **Set the Expressions Equal to Each Other:**
-   $$
-   \frac{GMm}{r^2} = \frac{mv^2}{r}
-   $$
+> $$ \frac{GMm}{r^2} = \frac{mv^2}{r} $$
 
 5. **Simplify the Equation:**
    - Cancel $m$ from both sides:
-     $$
-     \frac{GM}{r^2} = \frac{v^2}{r}
-     $$
+> $$ \frac{GM}{r^2} = \frac{v^2}{r} $$
+  
    - Multiply both sides by $r$:
-     $$
-     \frac{GM}{r} = v^2
-     $$
+> $$ \frac{GM}{r} = v^2 $$
 
 6. **Solve for Orbital Speed ($v$):**
-   $$
-   v = \sqrt{\frac{GM}{r}}
-   $$
+> $$ v = \sqrt{\frac{GM}{r}} $$
 
 This formula shows that the orbital speed of an object depends on the gravitational constant ($G$), the mass of the central body ($M$), and the radius of the orbit ($r$). 
 
@@ -2799,10 +2777,9 @@ The proton-proton (p-p) chain is the dominant fusion process in stars the size o
 1. **Step 1: Formation of Deuterium**
    - Two protons collide at high speeds. Normally, they would repel each other due to their positive charges, but under the extreme conditions in a star's core, one proton undergoes beta decay and converts into a neutron. This forms Deuterium (Hydrogen-2), consisting of one proton and one neutron.
    - **Reaction:** The first step involves the fusion of two protons ($^1\text{H}$) to form deuterium ($^2\text{H}$), releasing a positron ($e^+$) and a neutrino ($\nu_e$).
-   $$
-   ^1\text{H} + ^1\text{H} \rightarrow ^2\text{H} + e^+ + \nu_e
-   $$
-> Here, the superscripts indicate the total number of protons and neutrons in the nucleus.
+> $$ ^1\text{H} + ^1\text{H} \rightarrow ^2\text{H} + e^+ + \nu_e $$
+
+>> Here, the superscripts indicate the total number of protons and neutrons in the nucleus.
    - **Time Scale**: This step is the slowest, taking about a billion years on average for a proton in the Sun.
 
 <img src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit3/figures/pp1.png" alt="PP Chain Step 1" width="1000" style="display: block; margin-left: auto; margin-right: auto;">
@@ -2810,9 +2787,8 @@ The proton-proton (p-p) chain is the dominant fusion process in stars the size o
 2. **Step 2: Formation of Helium-3**
    - The newly formed Deuterium nucleus collides with another proton, resulting in the formation of Helium-3 (two protons and one neutron).
    - **Reaction:** In the second step, the deuterium nucleus ($^2\text{H}$) produced in the first step fuses with another proton to form helium-3 ($^3\text{He}$), releasing a gamma-ray photon.
-   $$
-   ^2\text{H} + ^1\text{H} \rightarrow ^3\text{He} + \gamma
-   $$
+> $$ ^2\text{H} + ^1\text{H} \rightarrow ^3\text{He} + \gamma $$
+   
    - **Time Scale**: This reaction happens quickly, in about 4 seconds.
 
 <img src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit3/figures/pp2.png" alt="PP Chain Step 2" width="1000" style="display: block; margin-left: auto; margin-right: auto;">
@@ -2820,9 +2796,8 @@ The proton-proton (p-p) chain is the dominant fusion process in stars the size o
 3. **Step 3: Formation of Helium-4**
    - Finally, two Helium-3 nuclei collide to form Helium-4 (two protons and two neutrons) and release two protons.
    - **Reaction:** The third step involves the fusion of two helium-3 nuclei ($^3\text{He}$) to form helium-4 ($^4\text{He}$) and two protons. 
-   $$
-   ^3\text{He} + ^3\text{He} \rightarrow ^4\text{He} + ^1\text{H} + ^1\text{H}
-   $$
+> $$ ^3\text{He} + ^3\text{He} \rightarrow ^4\text{He} + ^1\text{H} + ^1\text{H} $$
+   
    - **Time Scale**: This step takes about 400 years for Helium-3 nuclei to collide in the Sun's core.
 
 
@@ -2845,29 +2820,21 @@ The proton-proton (p-p) chain is the dominant fusion process in stars the size o
 
 In the proton-proton (p-p) chain, four hydrogen nuclei (protons) are ultimately fused to form a single helium-4 nucleus. The overall reaction can be represented as:
 
-$$
-^1\text{H} + ^1\text{H} + ^1\text{H} + ^1\text{H} \rightarrow ^4\text{He} + 2e^+ + 2\nu_e + 2\gamma + \text{energy}
-$$
+> $$ ^1\text{H} + ^1\text{H} + ^1\text{H} + ^1\text{H} \rightarrow ^4\text{He} + 2e^+ + 2\nu_e + 2\gamma + \text{energy} $$
 
 To determine the amount of energy released during this process, we can calculate the difference in mass between the initial hydrogen atoms and the final helium atom. The mass of a hydrogen atom is 1.007825 atomic mass units (u), and the mass of a helium-4 atom is 4.00268 u. Here, we use the full atomic mass, including electrons, because the process involves the creation and annihilation of positrons and electrons.
 
 The mass of the initial four hydrogen atoms is:
 
-$$
-4 \times 1.007825 \, \text{u} = 4.03130 \, \text{u}
-$$
+> $$ 4 \times 1.007825 \, \text{u} = 4.03130 \, \text{u} $$
 
 The mass of the final helium atom is:
 
-$$
-4.00268 \, \text{u}
-$$
+> $$ 4.00268 \, \text{u} $$
 
 The difference in mass, which is converted to energy, is:
 
-$$
-4.03130 \, \text{u} - 4.00268 \, \text{u} = 0.02862 \, \text{u}
-$$
+> $$ 4.03130 \, \text{u} - 4.00268 \, \text{u} = 0.02862 \, \text{u} $$
 
 <div class="alert alert-block alert-info">
 <h4>p-p Chain Mass loss:</h4> The mass loss of one proton-proton (p-p) chain reaction is 0.02862 u, which represents about 0.71% of the initial mass. Therefore, when 1 kilogram of hydrogen is converted into helium, approximately 0.0071 kilograms of mass is converted into energy.
@@ -2875,9 +2842,7 @@ $$
 
 Using Einstein's mass-energy equivalence formula, $E = mc^2$, where $c$ is the speed of light ($3 \times 10^8$ meters per second), the energy released by this mass conversion is:
 
-$$
-E = 0.0071 \, \text{kg} \times \left(3 \times 10^8 \, \text{m/s}\right)^2 = 6.4 \times 10^{14} \, \text{J}
-$$
+> $$ E = 0.0071 \, \text{kg} \times \left(3 \times 10^8 \, \text{m/s}\right)^2 = 6.4 \times 10^{14} \, \text{J} $$
 
 This amount of energy, released from the fusion of just 1 kilogram of hydrogen, is enough to supply all the electricity used in the United States for approximately two weeks.
 
@@ -3030,16 +2995,13 @@ The triple-alpha process can be described as follows:
 
 1. **Formation of Beryllium-8:**
    - Two helium-4 nuclei (alpha particles) collide to form beryllium-8. The reaction can be represented as:
-     $$
-     \text{He}^4 + \text{He}^4 \rightarrow \text{Be}^8
-     $$
+> $$ \text{He}^4 + \text{He}^4 \rightarrow \text{Be}^8 $$
+
    - Beryllium-8 ($\text{Be}^8$) is highly unstable and typically decays back into two helium nuclei within a fraction of a second. However, under the extreme conditions in the core of a star, if another helium-4 nucleus collides with the beryllium-8 before it decays, the next step occurs.
 
 2. **Formation of Carbon-12:**
    - The unstable beryllium-8 nucleus captures another helium-4 nucleus to form carbon-12. The reaction is:
-     $$
-     \text{Be}^8 + \text{He}^4 \rightarrow \text{C}^{12} + \gamma
-     $$
+> $$ \text{Be}^8 + \text{He}^4 \rightarrow \text{C}^{12} + \gamma $$
    - This reaction releases a gamma-ray photon ($\gamma$), which carries away the excess energy from the fusion process.
 
 This sequence of reactions is the primary way that carbon, an essential element for life, is produced in stars. The creation of carbon and oxygen through the triple-alpha process marks a critical stage in the chemical evolution of the universe, as these elements are necessary for the formation of complex molecules and ultimately, life as we know it.
@@ -3444,10 +3406,7 @@ Light is an electromagnetic wave with key properties such as <i>amplitude</i>, <
 
 A fundamental principle in wave physics is that the speed of a wave is the product of its wavelength and frequency. For light, this relationship is expressed by the equation:
 
-$$ c = \lambda f $$
-
-\[ c = \lambda f \]
-
+> $$ c = \lambda f $$
 
 where $c$ is the speed of light, $\lambda$ is the wavelength, and $f$ is the frequency. This equation shows that shorter wavelengths correspond to higher frequencies and vice versa.
 

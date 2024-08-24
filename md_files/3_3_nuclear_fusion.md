@@ -34,10 +34,9 @@ The proton-proton (p-p) chain is the dominant fusion process in stars the size o
 1. **Step 1: Formation of Deuterium**
    - Two protons collide at high speeds. Normally, they would repel each other due to their positive charges, but under the extreme conditions in a star's core, one proton undergoes beta decay and converts into a neutron. This forms Deuterium (Hydrogen-2), consisting of one proton and one neutron.
    - **Reaction:** The first step involves the fusion of two protons ($^1\text{H}$) to form deuterium ($^2\text{H}$), releasing a positron ($e^+$) and a neutrino ($\nu_e$).
-   $$
-   ^1\text{H} + ^1\text{H} \rightarrow ^2\text{H} + e^+ + \nu_e
-   $$
-> Here, the superscripts indicate the total number of protons and neutrons in the nucleus.
+> $$ ^1\text{H} + ^1\text{H} \rightarrow ^2\text{H} + e^+ + \nu_e $$
+
+>> Here, the superscripts indicate the total number of protons and neutrons in the nucleus.
    - **Time Scale**: This step is the slowest, taking about a billion years on average for a proton in the Sun.
 
 <img src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit3/figures/pp1.png" alt="PP Chain Step 1" width="1000" style="display: block; margin-left: auto; margin-right: auto;">
@@ -45,9 +44,8 @@ The proton-proton (p-p) chain is the dominant fusion process in stars the size o
 2. **Step 2: Formation of Helium-3**
    - The newly formed Deuterium nucleus collides with another proton, resulting in the formation of Helium-3 (two protons and one neutron).
    - **Reaction:** In the second step, the deuterium nucleus ($^2\text{H}$) produced in the first step fuses with another proton to form helium-3 ($^3\text{He}$), releasing a gamma-ray photon.
-   $$
-   ^2\text{H} + ^1\text{H} \rightarrow ^3\text{He} + \gamma
-   $$
+> $$ ^2\text{H} + ^1\text{H} \rightarrow ^3\text{He} + \gamma $$
+   
    - **Time Scale**: This reaction happens quickly, in about 4 seconds.
 
 <img src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit3/figures/pp2.png" alt="PP Chain Step 2" width="1000" style="display: block; margin-left: auto; margin-right: auto;">
@@ -55,9 +53,8 @@ The proton-proton (p-p) chain is the dominant fusion process in stars the size o
 3. **Step 3: Formation of Helium-4**
    - Finally, two Helium-3 nuclei collide to form Helium-4 (two protons and two neutrons) and release two protons.
    - **Reaction:** The third step involves the fusion of two helium-3 nuclei ($^3\text{He}$) to form helium-4 ($^4\text{He}$) and two protons. 
-   $$
-   ^3\text{He} + ^3\text{He} \rightarrow ^4\text{He} + ^1\text{H} + ^1\text{H}
-   $$
+> $$ ^3\text{He} + ^3\text{He} \rightarrow ^4\text{He} + ^1\text{H} + ^1\text{H} $$
+   
    - **Time Scale**: This step takes about 400 years for Helium-3 nuclei to collide in the Sun's core.
 
 
@@ -80,29 +77,21 @@ The proton-proton (p-p) chain is the dominant fusion process in stars the size o
 
 In the proton-proton (p-p) chain, four hydrogen nuclei (protons) are ultimately fused to form a single helium-4 nucleus. The overall reaction can be represented as:
 
-$$
-^1\text{H} + ^1\text{H} + ^1\text{H} + ^1\text{H} \rightarrow ^4\text{He} + 2e^+ + 2\nu_e + 2\gamma + \text{energy}
-$$
+> $$ ^1\text{H} + ^1\text{H} + ^1\text{H} + ^1\text{H} \rightarrow ^4\text{He} + 2e^+ + 2\nu_e + 2\gamma + \text{energy} $$
 
 To determine the amount of energy released during this process, we can calculate the difference in mass between the initial hydrogen atoms and the final helium atom. The mass of a hydrogen atom is 1.007825 atomic mass units (u), and the mass of a helium-4 atom is 4.00268 u. Here, we use the full atomic mass, including electrons, because the process involves the creation and annihilation of positrons and electrons.
 
 The mass of the initial four hydrogen atoms is:
 
-$$
-4 \times 1.007825 \, \text{u} = 4.03130 \, \text{u}
-$$
+> $$ 4 \times 1.007825 \, \text{u} = 4.03130 \, \text{u} $$
 
 The mass of the final helium atom is:
 
-$$
-4.00268 \, \text{u}
-$$
+> $$ 4.00268 \, \text{u} $$
 
 The difference in mass, which is converted to energy, is:
 
-$$
-4.03130 \, \text{u} - 4.00268 \, \text{u} = 0.02862 \, \text{u}
-$$
+> $$ 4.03130 \, \text{u} - 4.00268 \, \text{u} = 0.02862 \, \text{u} $$
 
 <div class="alert alert-block alert-info">
 <h4>p-p Chain Mass loss:</h4> The mass loss of one proton-proton (p-p) chain reaction is 0.02862 u, which represents about 0.71% of the initial mass. Therefore, when 1 kilogram of hydrogen is converted into helium, approximately 0.0071 kilograms of mass is converted into energy.
@@ -110,9 +99,7 @@ $$
 
 Using Einstein's mass-energy equivalence formula, $E = mc^2$, where $c$ is the speed of light ($3 \times 10^8$ meters per second), the energy released by this mass conversion is:
 
-$$
-E = 0.0071 \, \text{kg} \times \left(3 \times 10^8 \, \text{m/s}\right)^2 = 6.4 \times 10^{14} \, \text{J}
-$$
+> $$ E = 0.0071 \, \text{kg} \times \left(3 \times 10^8 \, \text{m/s}\right)^2 = 6.4 \times 10^{14} \, \text{J} $$
 
 This amount of energy, released from the fusion of just 1 kilogram of hydrogen, is enough to supply all the electricity used in the United States for approximately two weeks.
 

@@ -27,7 +27,7 @@ To understand stellar brightness, we first need to define a few key concepts: fl
 
 As light travels from a star, it spreads out over an ever-increasing area. This spreading out follows the **Inverse Square Law**, which states that the flux decreases with the square of the distance from the source. Mathematically, we express this as:
 
-$$ F = \frac{L}{4\pi r^2} $$
+> $$ F = \frac{L}{4\pi r^2} $$
 
 where:
 - $F$ is the flux (in watts per square meter, $\text{W/m}^2$),
@@ -68,13 +68,13 @@ The magnitude scale dates back to the ancient Greek astronomer Hipparchus, who c
 
 The logarithmic nature of the scale is represented by:
 
-$$ m_1 - m_2 = -2.5 \log_{10} \left( \frac{F_1}{F_2} \right) $$
+> $$ m_1 - m_2 = -2.5 \log_{10} \left( \frac{F_1}{F_2} \right) $$
 
 where $ m_1 $ and $ m_2 $ are the magnitudes of two stars, and $ F_1 $ and $ F_2 $ are their respective fluxes.
 
 Another way to write this equation is:
 
-$$ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{m_1 - m_2} $$
+> $$ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{m_1 - m_2} $$
 
 which allows us to compare the flux of two objects (and the flux is what we would typically call "brightness" in every day conversation).
 
@@ -138,7 +138,7 @@ Absolute magnitude is the apparent magnitude (brightness) a star would have if i
 
 The relationship between a star's absolute magnitude $ M $, apparent magnitude $ m $, and distance $ d $ in parsecs is given by:
 
-$$ M = m + 5 - 5 \log_{10}(d) $$
+> $$ M = m + 5 - 5 \log_{10}(d) $$
 
 ---
 
@@ -148,7 +148,7 @@ $$ M = m + 5 - 5 \log_{10}(d) $$
 
 The **distance modulus** provides a way to calculate the distance to a star based on its apparent and absolute magnitudes. The formula is:
 
-$$ m - M = 5 \log_{10}(d) - 5 $$
+> $$ m - M = 5 \log_{10}(d) - 5 $$
 
 where:
 - $ m $ is the apparent magnitude,
@@ -191,7 +191,7 @@ This equation is incredibly useful for determining stellar distances, making it 
 <br><br>
 3. **Magnitude Scale** Use the Magnitude Scale equation below to explain why a magnitude 2 compared to a magnitude 5 star is about 16 times brighter.
 
-$$ m_1 - m_2 = -2.5 \log_{10} \left( \frac{F_1}{F_2} \right) $$
+> $$ m_1 - m_2 = -2.5 \log_{10} \left( \frac{F_1}{F_2} \right) $$
 
 4. **Absolute Magnitude**: If a star has an apparent magnitude of 7 and is located 50 parsecs away, what is its absolute magnitude?
 <br><br>
@@ -203,7 +203,7 @@ $$ m_1 - m_2 = -2.5 \log_{10} \left( \frac{F_1}{F_2} \right) $$
 <br><br>
 8. **Algebra Challenge**: Derive the relation
 
-$$m = M_{Sun} − 2.5 \log_{10}(\frac{F}{F_{10,Sun}})$$
+> $$m = M_{Sun} − 2.5 \log_{10}(\frac{F}{F_{10,Sun}})$$
 
 where $M_{Sun}$ is the absolute magnitude of the Sun and $F_{10,Sun}$ is the flux received from the Sun if it were 10 parsecs away from the observer.
 

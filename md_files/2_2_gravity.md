@@ -198,15 +198,11 @@ The gravitational constant $ G $ is a key quantity in Newton's law of universal 
 
 Imagine standing on a scale to measure your weight. What you're actually measuring is the gravitational force that Earth exerts on you. This force, which keeps your feet firmly planted on the ground, is a manifestation of gravity. Newton's second law, $F = ma$, helps us calculate this force. On Earth, the acceleration due to gravity, $g$, is approximately $9.8 \, \text{m/s}^2$. Therefore, your weight can be calculated using the equation:
 
-$$
-F = mg
-$$
+> $$ F = mg $$
 
 For example, let's calculate the weight of a 70 kg person on Earth:
 
-$$
-F = 70 \, \text{kg} \times 9.8 \, \text{m/s}^2 = 686 \, \text{N}
-$$
+> $$ F = 70 \, \text{kg} \times 9.8 \, \text{m/s}^2 = 686 \, \text{N} $$
 
 This calculation shows that the gravitational force acting on a 70 kg person is 686 newtons. This force is what we commonly refer to as "weight."
 
