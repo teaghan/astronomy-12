@@ -144,7 +144,7 @@ On the one hand, light behaves like a wave, capable of interference and diffract
 
 The relationship between the energy of a photon and its frequency is given by **Planck’s equation**:
 
-$$ E = hf $$
+> $$ E = hf $$
 
 In this equation, $E$ represents the energy of the photon, $h$ is Planck’s constant ($6.626 \times 10^{-34}$ J·s), and $f$ is the frequency of the light. This equation reveals that higher-frequency light, such as ultraviolet or X-rays, has more energetic photons compared to lower-frequency light, such as infrared or radio waves.
 
