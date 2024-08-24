@@ -85,7 +85,9 @@
           inlineMath: [ ['\\(','\\)'], ['$','$'] ],
           displayMath: [ ['\\[','\\]'], ['$$','$$'] ],
           processEscapes: true,
-          processEnvironments: true
+          processEnvironments: true,
+          ignoreClass: "no-mathjax",  <!-- Ignore specific classes -->
+          processClass: "mathjax-process",  <!-- Process specific classes -->
         },
         displayAlign: 'center',
         CommonHTML: {
@@ -96,6 +98,7 @@
       });
       MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
     </script>
+
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
