@@ -35,6 +35,9 @@ A fundamental principle in wave physics is that the speed of a wave is the produ
 
 $$ c = \lambda f $$
 
+\[ c = \lambda f \]
+
+
 where $c$ is the speed of light, $\lambda$ is the wavelength, and $f$ is the frequency. This equation shows that shorter wavelengths correspond to higher frequencies and vice versa.
 
 <div class="alert alert-block alert-info">
