@@ -1,0 +1,520 @@
+0:00
+hi and welcome to high school physics
+0:01
+explained and today I'm going to be
+0:03
+talking about the blackbody curve about
+0:05
+reen's law and in particular in the
+0:07
+context of studying stars in particular
+0:10
+so stay tuned
+0:15
+[Music]
+0:18
+so what you could see he is a
+0:20
+representation of a blackbody curve now
+0:24
+before we study the actual graph here we
+0:27
+need to quickly review what a blackbody
+0:28
+is now a blackbody is simply an object
+0:32
+that absorbs all the radiation that
+0:34
+falls on it Andrea mitts it in the form
+0:36
+of electromagnetic radiation
+0:38
+so in sense of stars stars are
+0:41
+generating energy by the way of fusion
+0:43
+within their core so the light you see
+0:45
+from stars is totally due to emission
+0:47
+there's no reflection going on so if we
+0:50
+look at the blackbody curve you will see
+0:52
+that has a very characteristic shape now
+0:55
+the blackbody curve actually represents
+0:57
+basically the intensity per wavelength
+1:01
+so in this particular image here we're
+1:03
+going to be looking at the Sun you see a
+1:06
+distribution of wavelengths and with
+1:10
+different intensities so on the y-axis
+1:12
+we have our spectral power density so
+1:15
+really it's just talking about the
+1:16
+intensity for every given wavelength and
+1:18
+on the x-axis you see the wavelength so
+1:21
+the star that we call our Sun in this
+1:24
+case is giving a very characteristic
+1:26
+curve or a blackbody curve now let's
+1:29
+explore the parts of this graph here so
+1:32
+we're gonna add our labels here and you
+1:33
+will see that what we have here is the
+1:36
+visible spectrum we have our infrared
+1:38
+range and obviously the further we go
+1:40
+away with the longer the wavelength and
+1:42
+at the other end you see the
+1:43
+ultraviolets
+1:45
+section now you'll see that there is
+1:47
+quite a significant drop-off in the
+1:49
+ultraviolet the section and that's not
+1:51
+saying that the Sun is not giving off
+1:53
+any ultraviolet radiation it is but in
+1:56
+terms of higher frequencies the amount
+1:58
+of radiation or the intensity of those
+2:01
+ultraviolet signal padule-- drops off
+2:03
+now the reason behind that I'm not
+2:05
+discussing in this video but I have a
+2:08
+video if you look on black bodies and
+2:09
+Max Planck and I'll put the link in the
+2:12
+description below then you can explore
+2:15
+that so looking at our Sun we'll see
+2:18
+that we have a lot of infrared radiation
+2:20
+but we certainly have a lot more
+2:22
+radiation in the visible spectrum
+2:25
+if you then
+2:26
+look at that visible spectrum although
+2:29
+that we have here a differing amounts
+2:33
+between our ultraviolet and our red
+2:36
+there is not a huge difference in terms
+2:39
+of the intensities of these wavelengths
+2:41
+so what we end up seeing is you can see
+2:43
+here this diagram at the top here is the
+2:46
+fact that we're going to see white
+2:48
+lights because we're getting equal
+2:50
+amounts of roughly speaking of the
+2:52
+wavelengths that are in the visible
+2:54
+spectrum but now let's have a look what
+2:58
+happens at the spectrum as I change the
+3:00
+temperature so I'm going to first lower
+3:03
+the temperature you'll see what happens
+3:05
+is we're going to get a drop of
+3:07
+intensity along all wavelengths but if
+3:10
+you look very carefully you'll find that
+3:12
+the peak actually drops oh let me take a
+3:14
+photo of roughly where the Sun is which
+3:17
+is this line and then I'm going to drop
+3:18
+to the radiation emitted by a light bulb
+3:21
+like so and I press a photo here and you
+3:24
+can see that there is now a significant
+3:26
+difference so we have a drop in
+3:29
+intensity for each of the wavelengths
+3:30
+but we also have a shift towards the
+3:34
+right in other words the intensity of
+3:36
+the wave like that is of a greatest
+3:38
+intensity is certainly moved towards the
+3:40
+longer end now the issue now here of
+3:42
+course is the scale so if I'm just
+3:44
+reduce our scale of the Y axis then
+3:47
+we're going to get a better
+3:50
+representation here you can an seem that
+3:52
+the sun's graph is off the scale here
+3:54
+and here we have infrared radiation
+3:56
+being the predominant form of energy and
+3:59
+if you know anything about light bulbs
+4:01
+at least your old-style incandescent
+4:03
+light bulbs they're about 95 percent
+4:05
+inefficient that is of a hundred percent
+4:08
+of all the energy they emit the majority
+4:10
+is in the infrared range that's because
+4:12
+light bulbs acting like a blackbody and
+4:14
+it's giving off yes light but much more
+4:17
+in the terms of the infrared
+4:19
+now let's against a change our scale and
+4:22
+we're going to zoom out a bit and we're
+4:24
+going to increase the temperature as we
+4:26
+go up and I'm going to take a few
+4:28
+snapshots of various energies as we go
+4:31
+up so here's a snapshot again and I'm
+4:35
+going to move my graph again and another
+4:37
+snapshot over here
+4:39
+if you look very carefully you'll find
+4:42
+that our Peaks went from here now to
+4:44
+here and now to here so in other words
+4:46
+as we get hotter and hotter the
+4:48
+wavelength with the greatest intensity
+4:50
+moved to way things that are shorter if
+4:53
+I turn this intensity on you'll see I
+4:56
+now have the area underneath the graph
+4:58
+so since the scale tells us the
+5:01
+intensity per given wavelength the total
+5:03
+area under the graph is the total
+5:05
+intensity of the light given off by the
+5:09
+star now what is intensity it's the
+5:11
+amount of power per unit area so in
+5:14
+other words the Sun gives off a constant
+5:16
+certain roughly constant value of energy
+5:19
+so therefore energy over time its power
+5:21
+but as we go further and further and
+5:24
+further away that power that energy is
+5:26
+spread over a much larger surface area
+5:28
+so the intensity which is the amount of
+5:31
+power per given area certainly changes
+5:35
+so I again yeah I would look look at my
+5:38
+video where I look at the relationship
+5:40
+of the inverse square law in terms of
+5:43
+intensity in distance and there you can
+5:45
+see where I talk about intensity in that
+5:47
+regard now what happens if we now get a
+5:50
+hotter star so again I'm gonna have to
+5:53
+change my scales here so now I have
+5:56
+changed my scales and I'm now going to
+5:59
+start that is significantly hotter so
+6:02
+we're going to jump ray up to closer and
+6:05
+closer and I'm gonna stop here cuz we're
+6:06
+gonna go about the graph here in this
+6:08
+case we have a star that has a
+6:09
+temperature of around surface
+6:11
+temperature at least of around
+6:12
+8250 Kelvin you see again that the total
+6:15
+intensity certainly is greater so a hot
+6:18
+blue star is significantly brighter it
+6:22
+has a greater intensity then let's say
+6:24
+warmer let's say cooler stars such as
+6:27
+our Sun and even cooler star such as red
+6:30
+dwarfs and so forth but you again can
+6:32
+see that the peak has moved more and
+6:35
+more towards the left so if I now turn
+6:38
+on our graph values you can see here the
+6:41
+value of our wavelength and our
+6:44
+intensity are given so as I drop the
+6:48
+temperatures you'll see that as I move
+6:50
+across that both scales
+6:53
+so that is the peak intensity shifts and
+6:57
+so as I move that across like so you
+7:02
+will see that that almost looks like an
+7:05
+inverse relationship and it is an
+7:08
+inverse relationship and we'll discuss
+7:10
+that in a second now here we have of
+7:13
+course a representation of our star that
+7:15
+is significant Halloween au have a lot
+7:17
+of energy in the short wavelengths of
+7:20
+our visible and of course ultraviolet
+7:22
+and so as a result we see more blues and
+7:25
+less reds and greens and so we therefore
+7:28
+have blue star if I go to the other
+7:31
+extreme where we go to the red dwarf
+7:34
+which is a temperature of maybe around
+7:36
+3000 Kelvin like so my scale is way out
+7:39
+so I'm going to change that scale so
+7:41
+that we can get a better perspective and
+7:44
+there it is you can see we have lots of
+7:47
+infrared radiation we have a lot of in
+7:50
+terms of the visible there red end of
+7:52
+the spectrum but very little in the blue
+7:54
+end of the spectrum and so the star
+7:55
+appears a reddish color and so we refer
+7:58
+to often this as a red dwarf and the
+8:00
+intensity a total intensity of course is
+8:03
+significantly lower than the Sun and
+8:05
+even more significant than the hot blue
+8:08
+stars such as Sirius
+8:09
+all right so now let's again scale back
+8:13
+and now let's have a look a little bit
+8:14
+of mathematics which is probably one of
+8:16
+the reasons why you're watching this
+8:17
+video you understand blackbody curves
+8:19
+but you're also piqued by the term of
+8:22
+dean's law and now what is the Wenzel
+8:24
+there let's remind ourselves who's the
+8:26
+Dean his name is vilem Dean a German
+8:29
+scientists in the 19th century and he
+8:31
+was the first to really establish the
+8:34
+relationship between the wavelength that
+8:36
+is of the greatest intensity with the
+8:38
+temperature and that's the key so again
+8:41
+we're going to actually have our values
+8:44
+showing here and I'm going to get my
+8:47
+temperature increasing so as my
+8:49
+temperatures increase you will notice
+8:51
+that the wavelengths are decreasing of
+8:54
+that particular peak intensity and
+8:57
+therefore what we have here is an
+9:00
+inverse relationship between the
+9:02
+wavelength that is its peak value with
+9:05
+the temperature
+9:07
+so in other words why this is useful is
+9:09
+is that if you can work out the in
+9:11
+maximum wavelength intensity in other
+9:14
+words this particular value right here
+9:16
+then you can use this relationship which
+9:19
+we refer to as Venus law to determine
+9:22
+the temperature of the star so let's
+9:25
+have a look at this so it's an inverse
+9:26
+relationship so we know that the
+9:28
+temperature is proportional to 1 over
+9:32
+the wavelength or we can write at there
+9:34
+this way that the wavelength is
+9:36
+proportional to 1 over the temperature
+9:38
+so that's the inverse relationship so
+9:41
+what we will get if we were to graph the
+9:44
+wavelength with the temperature when you
+9:46
+would get an inverse relationship like
+9:48
+so but if we now graph the wavelength
+9:53
+with 1 over the temperature because
+9:56
+there's an inverse relationship we get a
+9:58
+straight line and that tells us that the
+10:02
+slope that is the wavelength divided by
+10:04
+1 over T is a constant value I'm gonna
+10:09
+call that constant value B at this point
+10:11
+now that means if I rearrange that I get
+10:14
+the wavelength is equal to B over T and
+10:22
+there is means law now B ends up being
+10:29
+equal to approximately 2 point 9 8 by 10
+10:34
+to the power of negative 3 so that's
+10:37
+Vain's law Vin's law is the relationship
+10:41
+between the wavelength that has the
+10:44
+greatest intensity and the temperature
+10:46
+in terms of Kelvin and it's a simple
+10:48
+inverse relationship where the constant
+10:51
+has the value of 2 point 9 8 by 10 to
+10:54
+the negative 3 now sometimes ravines law
+10:56
+is called Wiens displacement law this is
+10:58
+basically the same thing so when you
+11:00
+look it up and you see displacement law
