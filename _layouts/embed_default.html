@@ -99,6 +99,13 @@
       MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
     </script>
 
+    <!-- Ensure MathJax processes after the content is fully loaded -->
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+      });
+    </script>
+
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
