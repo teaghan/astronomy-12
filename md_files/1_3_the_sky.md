@@ -62,13 +62,16 @@ The Sun, Moon, and stars appear to rise in the east and set in the west due to E
 
 The simulator below gives an interactive visualization of the celestial sphere and the visible sky. Anything above the green plane in the right hand screen is visible to the observer. Try playing around with the settings and clicking "start animation".
 
-<div style="position: relative; overflow: hidden; width: 100%; height: 0; padding-bottom: 60%;"> <!-- Adjusted Aspect Ratio -->
+<div style="position: relative; width: 100%; overflow: hidden;">
     <iframe src="https://astro.unl.edu/naap/motion2/animations/ce_hc.html" 
             style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
             frameborder="0" 
+            scrolling="no" 
+            onload="this.style.height=this.contentWindow.document.documentElement.scrollHeight +'px';"
             allowfullscreen>
     </iframe>
 </div>
+
 
 ---
 
