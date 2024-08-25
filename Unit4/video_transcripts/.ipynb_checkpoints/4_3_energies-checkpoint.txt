@@ -1,0 +1,590 @@
+0:00
+so the photoelectric effect proves that
+0:03
+one electron can absorb one Photon of
+0:06
+energy the energy of a photon I'm going
+0:09
+to put e gamma gamma is the general
+0:12
+symbol for a photon doesn't necessarily
+0:14
+mean a gamma Photon Photon energy equals
+0:18
+HF F being frequency and H being planked
+0:23
+constant that's
+0:26
+6.63 * 10us 34 dual seconds now in the
+0:31
+photo electric effect we had electrons
+0:33
+in metals absorbing photons but it
+0:36
+doesn't have to be a metal it can be any
+0:39
+electron so I'm going to draw an atom
+0:42
+here I'm going to draw the nucleus which
+0:43
+is
+0:44
+positive then I'm going to
+0:47
+draw just one
+0:51
+electron in a shell around the nucleus
+0:55
+now when a photon comes
+0:58
+in and it's absorbed by an electron one
+1:01
+of two things can happen if it gets more
+1:05
+energy then the electron becomes more
+1:09
+excited and it
+1:13
+jumps to a shell that is further away
+1:17
+from the nucleus we can say that it's
+1:19
+gone up an energy
+1:23
+level and we call this
+1:26
+excitation photon is absorbed electron
+1:29
+go goes up an energy level now what
+1:34
+we're going to find out a little bit
+1:35
+later on is that electrons can only be
+1:37
+in certain energy levels another thing
+1:39
+can happen as well
+1:45
+though if the photon has Lads of
+1:49
+energy so it's got a higher frequency
+1:52
+then the electron has way too much
+1:54
+energy to go to the next energy level or
+1:57
+an energy level above that it actually
+1:59
+just completely
+2:00
+completely moves away from the atom what
+2:04
+are we left with we're left with an ion
+2:07
+this is ionization ionization is what
+2:09
+happens when an electron is given enough
+2:11
+energy by a photon or it can be given
+2:14
+energy by another free electron and it
+2:17
+jumps out of the atom completely and
+2:20
+we're left with a free electron and an
+2:22
+ion left obviously more energy is needed
+2:25
+for ionization than excitation now this
+2:28
+electron here doesn't like being in the
+2:30
+energy level above where it's supposed
+2:32
+to be usually so after it's absorbed the
+2:35
+energy and gone up it will come straight
+2:37
+back down when this electron does go
+2:39
+back to its normal energy level energy
+2:42
+is released and we call this de
+2:44
+exitation sometimes also called
+2:48
+relaxation the electron returns to
+2:51
+energy level and a
+2:55
+photon is
+2:57
+emitted so with the excitation of phot
+2:59
+phon can come in be absorbed by an
+3:01
+electron it can go up an energy level
+3:03
+come straight back down and by doing so
+3:06
+it releases its own Photon so let's draw
+Energy levels
+3:10
+our atom again now this is where our
+3:12
+electron usually is but it could also be
+3:15
+if it has enough energy in any of these
+3:18
+shells or energy
+3:20
+levels above but they are very specific
+3:24
+to an
+3:25
+atom what we're going to do is take a
+3:28
+snapshot of this which just going to
+3:30
+take a slice of this and we're going to
+3:31
+blow it up here so instead of drawing
+3:34
+shells we're actually just going to draw
+3:37
+our energy levels like this so here's
+3:40
+our electron in its normal shell we're
+3:44
+going to call this its ground state
+3:46
+that's when it has no energy or rather
+3:49
+no more energy than usual it's all
+3:51
+relative now we're going to measure
+3:53
+these in electron volts now remember
+3:56
+that one electron volt is equals to 1.6
+4:00
+6 * 10 -9
+4:03
+Jew it's just an easier number to deal
+4:05
+with because when we're talking about
+4:07
+individual electrons energies we're
+4:09
+talking very small numbers of Jews so we
+4:11
+deal with electron volts instead now
+4:14
+when a photon comes
+4:16
+in the electron can jump to one of these
+4:20
+energy levels now I can tell you that
+4:22
+these energy levels here are five
+4:24
+electron volts seven electron volts and
+4:27
+eight electron volts this electron volts
+4:30
+here though once it reaches this point
+4:33
+it's out of the atom so that's when it's
+4:37
+actually being
+4:39
+ionized so if this Photon and the energy
+4:42
+of this photon is HF PL constant times
+4:44
+the frequency if the photon had eight
+4:47
+electron volts that's eight lots of
+4:48
+these or more to give the electron then
+4:51
+the electron would jump all the way up
+4:52
+past this eight electron volts and it
+4:54
+would escape the atom the atom is now
+4:56
+being ionized but we're not going to
+4:58
+think about that for now we're just
+4:59
+going to think about what would happen
+5:01
+if it didn't go quite to that point if
+5:04
+the energy of the photon was equals to
+5:07
+three electron volts it's not enough
+5:10
+energy to get the electron to its next
+5:13
+energy level so it's not like the photon
+5:15
+is absorbed and the electron goes
+5:16
+partway to this five electron volts it
+5:18
+can't do that instead the photon would
+5:21
+just pass straight
+5:23
+through so that means that it's not
+5:28
+absorbed but but if it did have exactly
+5:31
+let's say seven electron volts it's
+5:34
+enough to get it to its third energy
+5:37
+level we give these by the way numbers
+5:40
+N1 is the ground state then N2 then N3
+5:44
+so here we go the electron has absorbed
+Emission
+5:47
+the
+5:48
+photon and it goes up to this energy
+5:51
+level here hrah it's absorbed a photon
+5:54
+of the right amount of energy cuz it has
+5:56
+just the right frequency and it's gone
+5:58
+up to that third energy level we said
+6:01
+that electrons like being at their
+6:03
+ground state they want to come back to
+6:04
+here as soon as possible now on the way
+6:07
+back down from here the electron now has
+6:10
+a choice either it can go straight back
+6:13
+down to
+6:16
+here and it can release a photon because
+6:19
+it has to get rid of
+6:21
+energy and that's going to be a photon
+6:25
+that has seven electron volts of energy
+6:27
+that makes sense but it has another
+6:29
+option as well so it can go from
+6:33
+n 3 to N1 or it can stop
+6:37
+halfway it can go to
+6:40
+here and then down to here so it's gone
+6:43
+from Nal
+6:45
+3 to n =
+6:47
+2 to Nal 1 so it's gone from the third
+6:50
+energy level to the second and then back
+6:52
+to the ground state there both of these
+6:55
+will release photons what's the energy
+6:58
+of this Photon going to be well it's
+7:00
+gone from Seven electron volts to five
+7:02
+electron volts so this photon is going
+7:04
+to have two electron volts of energy so
+7:07
+it's going to be 3.2 * 10- 19 Jew this
+7:10
+one here is going to release a photon
+7:13
+that has five electron volts of energy
+7:16
+so it's going to be 8 * 10 -9 Jew so
+7:19
+when an electron absorbs some energy
+7:21
+from a photon it only absorbs one Photon
+7:25
+but on its way down it has choices it
+7:27
+can go straight to the bottom or it can
+7:30
+go to energy levels in between then fall
+7:33
+to the bottom from there even though
+7:35
+we're absorbing one Photon here one type
+7:38
+of photon how many photons can be
+7:40
+emitted 1 2 3 so we're going to have
+7:44
+various colors of photons and light
+7:47
+being emitted when this electron goes
+7:50
+from the third energy level down to its
+7:52
+ground state what about if I wanted to
+7:54
+find out the wavelength of this Photon
+7:58
+here let's let's have a look we know
+8:00
+that the energy of a
+8:02
+photon is equals to
+8:04
+HF from the wave equation we know the V
+8:08
+or C is f Lambda frequency times
+8:11
+wavelength so that means that
+8:13
+frequency is equals to speed of light
+8:16
+divided by the wavelength pop this in
+8:20
+here we end up with energy equals
+8:24
+HC over Lambda rearrange this and we end
+8:28
+up with wavelength equals PL constant
+8:31
+times the speed of light divided the
+8:33
+energy of the photon give that a go if
+8:35
+you want pause the video if you feel
+8:37
+like
+8:39
+it this is going to be 6.63 * 10-
+8:43
+34 * 3 * 10 8 divided by well it's five
+8:49
+electron volts that's five times this
+8:52
+many Jews whenever we do any
+8:54
+calculations we always have to use
+8:55
+Jewels we never put electron volts
+8:58
+straight into into an equation that's
+9:00
+going to give us a wavelength of
+9:04
+2.5 * 10 - 7 m or about
+9:09
+250 nanm pretty much visible light so
+Absorption & emission spectra
+9:13
+that does mean the atoms only absorb
+9:17
+certain wavelengths of light so you
+9:20
+might see a diagram like
+9:23
+this and you'll
+9:26
+see all the colors in the rainbow going
+9:28
+from
+9:30
+red all the way to
+9:33
+Blue and because we know that electrons
+9:36
+can only absorb certain wavelengths and
+9:38
+certain frequencies of
+9:41
+photons we get these black lines
+9:44
+appearing on
+9:45
+here and it's going to be different for
+9:48
+every single atom and molecule in the
+9:50
+world so this is an absorption Spectrum
+9:53
+so in other words all of these
+9:55
+wavelengths pass through but these black
+9:58
+lines show
+9:59
+the ones that are
+10:01
+absorbed so you can deduce energy levels
+10:04
+from those we also have an emission
+10:06
+spectrum as well other way around this
+10:09
+time the whole thing will be black apart
+10:12
+from a few colored
+10:14
+lines that
+10:17
+show what
+10:23
+frequencies and wavelengths are emitted
+10:26
+from something I've drawn an absorption
+10:28
+spectrum and emission spectrum for two
+10:30
+different elements here but if we did
+10:32
+have an absorption spectrum and an
+10:33
+emission spectrum would they be exactly
+10:35
+the same well no they wouldn't be you
+10:38
+would expect more lines on the emission
+10:41
+spectrum why is that well it's
+10:45
+because all electrons when they absorb
+10:47
+they have to start at the ground
+10:51
+state and go up to a specific energy
+10:53
+level on the way back down though they
+10:56
+can take any route they want so there's
+10:59
+always going to be a greater number of
+11:01
+different wavelengths that can be
+11:02
+emitted that could be absorbed you take
+11:04
+multiple Roots back to the ground
+11:11
+state one place that we see excitation
+Fluorescent tube light
+11:14
+and de exitation
+11:16
+happening is in a fluorescent tube what
+11:19
+we have in here is low pressure Mercury
+11:22
+gas and what we do is we
+11:25
+fire
+11:27
+electrons from one end to the
+11:30
+other the electrons collide with the
+11:34
+Mercury atoms and they
+11:37
+excite the
+11:41
+electrons like we saw
+11:46
+earlier or we could draw it like
+11:51
+this the electrons de exite the problem
+11:54
+is is that they
+11:56
+emit UV photons
+12:00
+it's a high
+12:02
+frequency what do these photons
+12:08
+do these UV photons are absorbed by the
+12:12
+coating on the outside of the tube so
+12:15
+you have this
+12:16
+coating it's all around the outside if
+12:18
+it wasn't for this coating if you scrape
+12:20
+off the coating off a fluorescent tube
+12:22
+you're just getting UV photons coming
+12:24
+straight out but if we have this coating
+12:25
+the UV photons are absorbed by the
+12:27
+coating and have excitation again what
+12:31
+do they do in turn when they de exite
+12:34
+they emit visible photons therefore
+12:37
+lighting up a room that they're
+12:51
+in so that's how a fluorescent tube
+12:54
+Works notice that the excitation that we
+12:57
+get to begin with isn't due to the
+12:59
+absorption of photons it's an electron
+13:02
+coming in whacking into another electron
+13:06
+that electron goes off CU it's still got
+13:07
+loads of energy but it's given some of
+13:10
+its energy to this electron raising it
+13:12
+an energy level to get rid of that
+13:14
+energy it releases this high frequency
+13:16
+UV Photon that's absorbed by the coating
+13:19
+that then releases visible light photons
+13:22
+to light up a room so that's electron
+13:24
+energy levels if you think I've missed
+13:25
+anything or have any questions please
+13:27
+put it in a comment down below and don't
+13:29
+forget to leave a like if you found this
+13:30
+helpful and I'll see you next
+13:37
+time
