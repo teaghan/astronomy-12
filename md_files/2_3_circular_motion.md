@@ -121,6 +121,19 @@ In circular orbits, the centripetal acceleration is provided by the gravitationa
 > > $$ a_c \approx 5.93 \times 10^{-3} \, \text{m/s}^2 $$
 
 ---
+
+## Gravity and Circular Motion Simulator
+
+Feel free to play around with the simulator below to get a feel for how gravity impacts orbits of planets, moons, and satellites!
+
+<iframe src="https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits_en.html"
+        width="800"
+        height="600"
+        allowfullscreen>
+</iframe>
+
+---
+
 ## Orbital Speed
 
 Understanding the speed at which an object orbits a celestial body is crucial in astronomy. The orbital speed determines how long it takes for an object, such as a planet, moon, or satellite, to complete one full orbit around its primary body.

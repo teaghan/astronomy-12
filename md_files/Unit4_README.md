@@ -23,7 +23,7 @@ Spectroscopy is a crucial tool in astronomy, enabling us to decode the light fro
 - **Applications in Astronomy**: How different wavelengths are used to observe various cosmic phenomena, from radio waves to X-rays, revealing insights into the universe.
 
 ### [4.2 Blackbody Radiation](../md_files/4_2_blackbody.html)
-- **Planck’s Law and Spectrum**: Description of the spectrum of radiation emitted by a blackbody.
+- **Blackbody Spectrum**: Description of the spectrum of radiation emitted by a blackbody.
 - **Wien’s Displacement Law**: Relating temperature to the peak wavelength of blackbody radiation.
 - **Stefan-Boltzmann Law**: Explaining the total energy radiated per unit surface area in relation to temperature.
 - **Color Indices and Stellar Classification**: Overview of how color indices help classify stars based on temperature and color.
@@ -75,7 +75,8 @@ Spectroscopy is a crucial tool in astronomy, enabling us to decode the light fro
 
 ### Learning Standards
 - I can describe the electromagnetic spectrum and wave-particle duality.
-- I can explain the principles of blackbody radiation, including Planck's Law, Wien's Displacement Law, and the Stefan-Boltzmann Law.
+- I can explain the principles of blackbody radiation.
+- I can apply Wien's Displacement Law and the Stefan-Boltzmann Law to solve problems.
 - I can explain the structure of the atom and how electromagnetic radiation interacts with atoms to produce spectral lines.
 - I can distinguish between absorption and emission spectra and explain how these spectra are produced.
 - I can apply Kirchhoff's laws of spectroscopy to explain continuous, emission, and absorption spectra.
