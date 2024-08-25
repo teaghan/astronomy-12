@@ -8,7 +8,7 @@ Understanding atomic energies is crucial in astronomy because it allows us to de
 
 <div class="alert alert-block alert-success">
   <h4>Video</h4>
-  <p>Watch <a href="https://www.youtube.com/watch?v=31CW4axauxc" target="_blank">this video</a> for an explanation of  atomic energy levels and emission spectra.</p>
+  <p>Watch <a href="https://www.youtube.com/watch?v=31CW4axauxc" target="_blank">this video</a> for an explanation of atomic energy levels and emission spectra.</p>
 </div>
 
 ---
@@ -30,7 +30,7 @@ Photons can transfer energy to electrons in atoms, causing the electrons to jump
 
 ## Electron Volts
 
-The energy of photons and electrons is often measured in electron volts (eV), a unit of energy more convenient for the small scales involved in atomic physics.
+The energy of photons and electrons is often measured in electron volts (eV), a unit of energy that is more convenient for the small scales involved in atomic physics.
 
 - **1 eV** is defined as the energy gained by an electron when it is accelerated through an electric potential difference of 1 volt:
   > $$ 1 \, \text{eV} = 1.6 \times 10^{-19} \, \text{J} $$
@@ -131,85 +131,28 @@ The resulting spectral lines from these transitions can be grouped into specific
 
 ## Energy Calculations for Atomic Transitions
 
-The energy levels of the hydrogen atom are quantized and can be described by the formula:
-
-> $$ E_n = - \frac{13.6 \, \text{eV}}{n^2} $$
-
-where:
-- $E_n$ is the energy of the electron in the $n$th energy level,
-- $13.6 \, \text{eV}$ is the ionization energy of the hydrogen atom, which is the energy required to remove the electron from the ground state ($n = 1$),
-- $n$ is the principal quantum number (1, 2, 3, ...).
-
-Here are the energies for the first few energy levels of the hydrogen atom:
-
-- **$n = 1$ (Ground State):**
-  > $$ E_1 = - \frac{13.6 \, \text{eV}}{1^2} = -13.6 \, \text{eV} $$
-
-- **$n = 2$:**
-  > $$ E_2 = - \frac{13.6 \, \text{eV}}{2^2} = -3.4 \, \text{eV} $$
-
-- **$n = 3$:**
-  > $$ E_3 = - \frac{13.6 \, \text{eV}}{3^2} = -1.51 \, \text{eV} $$
-
-- **$n = 4$:**
-  > $$ E_4 = - \frac{13.6 \, \text{eV}}{4^2} = -0.85 \, \text{eV} $$
-
-- **$n = 5$:**
-  > $$ E_5 = - \frac{13.6 \, \text{eV}}{5^2} = -0.54 \, \text{eV} $$
-
-- **$n = 6$:**
-  > $$ E_6 = - \frac{13.6 \, \text{eV}}{6^2} = -0.38 \, \text{eV} $$
-
-As $n$ increases, the energy levels get closer together and approach zero, which corresponds to the electron being free from the atom (ionization). The ground state ($n = 1$) has the most negative energy, meaning the electron is most tightly bound to the nucleus at this level.
-
-
-<div class="alert alert-block alert-warning">
-  <h4>Example:</h4> Calculate the energy of a photon emitted during the transition from $n = 3$ to $n = 2$ in a hydrogen atom.
-</div>
-
-> Given:
-> 
-> The energy levels of the hydrogen atom are given by the formula:
-> $$ E_n = - \frac{13.6 \, \text{eV}}{n^2} $$
-> 
-> Solution:
-> 
-> 1. **Calculate the energy of the electron at $n = 3$:**
-> > $$ E_3 = - \frac{13.6 \, \text{eV}}{3^2} = - \frac{13.6 \, \text{eV}}{9} = -1.51 \, \text{eV} $$
-> 
-> 2. **Calculate the energy of the electron at $n = 2$:**
-> > $$ E_2 = - \frac{13.6 \, \text{eV}}{2^2} = - \frac{13.6 \, \text{eV}}{4} = -3.4 \, \text{eV} $$
-> 
-> 3. **Find the energy difference ($\Delta E$) between these levels, which corresponds to the energy of the emitted photon:**
-> > $$ \Delta E = E_2 - E_3 = -3.4 \, \text{eV} - (-1.51 \, \text{eV}) = 1.89 \, \text{eV} $$
-> 
-> 4. **Convert the energy difference to joules:**
-> > $$ E = 1.89 \, \text{eV} \times 1.6 \times 10^{-19} \, \text{J/eV} = 3.02 \times 10^{-19} \, \text{J} $$
-> >
-> > Thus, the energy of the photon emitted during this transition is $3.02 \times 10^{-19}$ joules.
-
 To calculate the energy of photons associated with atomic transitions, we use the formula:
 
-> $$ E = \frac{hc}{\lambda} $$
+> $$ E = \frac{hc}{\lambda}
+
+ $$
 
 <div class="alert alert-block alert-warning">
-  <h4>Example:</h4> Calculate the wavelength of light emitted when an electron in a hydrogen atom transitions from $n = 3$ to $n = 2$.
+  <h4>Example:</h4> A photon emitted during the transition from $n = 3$ to $n = 2$ in a hydrogen atom has an energy of 1.89 eV. Calculate the wavelength of light emitted from this transition.
 </div>
 
-> We previously found that the energy of the photon emitted during this transition is $3.02 \times 10^{-19}$ joules.
-> 
-> So we can use the formula:
+> We can use the formula:
 > 
 > > $$ \lambda = \frac{hc}{E} $$
 > 
 > Where:
-> - $h = 6.63 \times 10^{-34} \, \text{J·s}$ (Planck's constant),
+> - $h = 6.63 \times 10^{-34} \, \text{J}\cdot {s}$ (Planck's constant),
 > - $c = 3 \times 10^8 \, \text{m/s}$ (speed of light),
 > - $E = 3.02 \times 10^{-19} \, \text{J}$ (energy of the photon).
 > 
 > Substituting the values:
 > 
-> > $$ \lambda = \frac{6.63 \times 10^{-34} \, \text{J·s} \times 3 \times 10^8 \, \text{m/s}}{3.02 \times 10^{-19} \, \text{J}} $$
+> > $$ \lambda = \frac{6.63 \times 10^{-34} \, \text{J}\cdot {s} \times 3 \times 10^8 \, \text{m/s}}{3.02 \times 10^{-19} \, \text{J}} $$
 > 
 > > $$ \lambda \approx 6.59 \times 10^{-7} \, \text{m} = 659 \, \text{nm} $$
 > 
@@ -246,15 +189,42 @@ Understanding atomic energies is at the heart of these astronomical analyses, he
 
 ## Check Your Understanding
 
-1. **Problem 1**: Calculate the energy in joules of a photon with a wavelength of 400 nm.
-2. **Problem 2**: Determine the ionization energy required to remove the electron from a hydrogen atom.
-3. **Problem 3**: What is the wavelength of light emitted when an electron in a hydrogen atom transitions from $n = 4$ to $n = 2$?
+
+## Check Your Understanding
+
+1. A photon has a wavelength of $500 \, \text{nm}$. Calculate the energy of this photon in electron volts (eV).
+   <br><br>
+
+2. Explain how emission lines and absorption lines are formed. In what sorts of cosmic objects would you expect to see each?
+   <br><br>
+
+3. Explain how electrons use light energy to move among energy levels within an atom.
+   <br><br>
+
+4. Which of the following transitions in a hydrogen atom would produce a photon with the shortest wavelength?
+   1. $n = 3$ to $n = 2$
+   2. $n = 4$ to $n = 2$
+   3. $n = 5$ to $n = 2$
+   4. $n = 6$ to $n = 2$
+   <br><br>
+
+5. An astronomer observes a star and detects several absorption lines in its spectrum. How can the astronomer use these lines to determine the star's composition? What information do these absorption lines provide?
+   <br><br>
+
+6. Calculate the wavelength of light emitted when an electron in a hydrogen atom transitions from $n = 4$ to $n = 2$. Use the given energy for this transition of $2.55 \, \text{eV}$.
+   <br><br>
+
+7. Explain why ionization energy is important for determining the temperature of a star. What does the ionization state of an element tell us about the conditions within the star?
+   <br><br>
+
+8. A photon has an energy of $2.5 \, \text{eV}$. Calculate its wavelength in nanometers.
+   <br><br>
 
 --- 
 
 ## Resources
 
-
+- Astronomy (2016). Andrew Fraknoi, David Morrison, and Sidney C. Wolff.
 
 # 4.3 Atomic Energies
 

@@ -7507,7 +7507,7 @@ a.anchor-link {
 <!-- End of mermaid configuration --></head>
 <body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
 <main>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=1dc3e98c-6cdb-4e8a-8925-7a674477419b">
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=6e01fa4b-86c5-4a88-b550-4610c61d4d62">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
@@ -7516,7 +7516,7 @@ a.anchor-link {
 <h1 id="4.3-Atomic-Energies">4.3 Atomic Energies<a class="anchor-link" href="#4.3-Atomic-Energies">¶</a></h1><p>Understanding atomic energies is crucial in astronomy because it allows us to decipher the light from stars and other celestial bodies. By analyzing the energies associated with atomic transitions, astronomers can determine the composition, temperature, and other properties of stars.</p>
 <div class="alert alert-block alert-success">
 <h4>Video</h4>
-<p>Watch <a href="https://www.youtube.com/watch?v=31CW4axauxc" target="_blank">this video</a> for an explanation of  atomic energy levels and emission spectra.</p>
+<p>Watch <a href="https://www.youtube.com/watch?v=31CW4axauxc" target="_blank">this video</a> for an explanation of atomic energy levels and emission spectra.</p>
 </div>
 <hr/>
 <h2 id="Recap:-The-Quantum-Nature-of-Light">Recap: The Quantum Nature of Light<a class="anchor-link" href="#Recap:-The-Quantum-Nature-of-Light">¶</a></h2><p>Remember from our previous lesson that light behaves as both a particle and a wave. This dual nature is fundamental to understanding how light interacts with matter. Photons are the particle aspect of light, and each photon carries a specific amount of energy, determined by its frequency:</p>
@@ -7531,7 +7531,7 @@ a.anchor-link {
 </ul>
 <p>Photons can transfer energy to electrons in atoms, causing the electrons to jump between energy levels. This is the foundation of atomic spectroscopy.</p>
 <hr/>
-<h2 id="Electron-Volts">Electron Volts<a class="anchor-link" href="#Electron-Volts">¶</a></h2><p>The energy of photons and electrons is often measured in electron volts (eV), a unit of energy more convenient for the small scales involved in atomic physics.</p>
+<h2 id="Electron-Volts">Electron Volts<a class="anchor-link" href="#Electron-Volts">¶</a></h2><p>The energy of photons and electrons is often measured in electron volts (eV), a unit of energy that is more convenient for the small scales involved in atomic physics.</p>
 <ul>
 <li><strong>1 eV</strong> is defined as the energy gained by an electron when it is accelerated through an electric potential difference of 1 volt:<blockquote>
 <p>\[ 1 \, \text{eV} = 1.6 \times 10^{-19} \, \text{J} \]</p>
@@ -7604,110 +7604,31 @@ a.anchor-link {
 <li><p><strong>Paschen Series</strong>: These transitions end at the third energy level (\(n = 3\)). The resulting spectral lines fall within the infrared region, invisible to the human eye but detectable using infrared telescopes.</p>
 </li>
 </ul>
-<h2 id="Energy-Calculations-for-Atomic-Transitions">Energy Calculations for Atomic Transitions<a class="anchor-link" href="#Energy-Calculations-for-Atomic-Transitions">¶</a></h2><p>The energy levels of the hydrogen atom are quantized and can be described by the formula:</p>
+<h2 id="Energy-Calculations-for-Atomic-Transitions">Energy Calculations for Atomic Transitions<a class="anchor-link" href="#Energy-Calculations-for-Atomic-Transitions">¶</a></h2><p>To calculate the energy of photons associated with atomic transitions, we use the formula:</p>
 <blockquote>
-<p>\[ E_n = - \frac{13.6 \, \text{eV}}{n^2} \]</p>
+<p>\[ E = \frac{hc}{\lambda}</p>
 </blockquote>
-<p>where:</p>
-<ul>
-<li>\(E_n\) is the energy of the electron in the \(n\)th energy level,</li>
-<li>\(13.6 \, \text{eV}\) is the ionization energy of the hydrogen atom, which is the energy required to remove the electron from the ground state (\(n = 1\)),</li>
-<li>\(n\) is the principal quantum number (1, 2, 3, ...).</li>
-</ul>
-<p>Here are the energies for the first few energy levels of the hydrogen atom:</p>
-<ul>
-<li><p><strong>\(n = 1\) (Ground State):</strong></p>
+<p>\]
+
+&lt;div class="alert alert-block alert-warning"&gt;
+  &lt;h4&gt;Example:&lt;/h4&gt; A photon emitted during the transition from \(n = 3\) to \(n = 2\) in a hydrogen atom has an energy of 1.89 eV. Calculate the wavelength of light emitted from this transition.
+&lt;/div&gt;
+
+&gt; We can use the formula:
+&gt; 
+&gt; &gt; \[ \lambda = \frac{hc}{E} \]
+&gt; 
+&gt; Where:
+&gt; - \(h = 6.63 \times 10^{-34} \, \text{J}\cdot {s}\) (Planck's constant),
+&gt; - \(c = 3 \times 10^8 \, \text{m/s}\) (speed of light),
+&gt; - \(E = 3.02 \times 10^{-19} \, \text{J}\) (energy of the photon).
+&gt; 
+&gt; Substituting the values:
+&gt; 
+&gt; &gt; \[ \lambda = \frac{6.63 \times 10^{-34} , \text{J}\cdot {s} \times 3 \times 10^8 , \text{m/s}}{3.02 \times 10^{-19} , \text{J}} \]
+&gt; 
+&gt; &gt; \[ \lambda \approx 6.59 \times 10^{-7} , \text{m} = 659 , \text{nm} \]</p>
 <blockquote>
-<p>\[ E_1 = - \frac{13.6 \, \text{eV}}{1^2} = -13.6 \, \text{eV} \]</p>
-</blockquote>
-</li>
-<li><p><strong>\(n = 2\):</strong></p>
-<blockquote>
-<p>\[ E_2 = - \frac{13.6 \, \text{eV}}{2^2} = -3.4 \, \text{eV} \]</p>
-</blockquote>
-</li>
-<li><p><strong>\(n = 3\):</strong></p>
-<blockquote>
-<p>\[ E_3 = - \frac{13.6 \, \text{eV}}{3^2} = -1.51 \, \text{eV} \]</p>
-</blockquote>
-</li>
-<li><p><strong>\(n = 4\):</strong></p>
-<blockquote>
-<p>\[ E_4 = - \frac{13.6 \, \text{eV}}{4^2} = -0.85 \, \text{eV} \]</p>
-</blockquote>
-</li>
-<li><p><strong>\(n = 5\):</strong></p>
-<blockquote>
-<p>\[ E_5 = - \frac{13.6 \, \text{eV}}{5^2} = -0.54 \, \text{eV} \]</p>
-</blockquote>
-</li>
-<li><p><strong>\(n = 6\):</strong></p>
-<blockquote>
-<p>\[ E_6 = - \frac{13.6 \, \text{eV}}{6^2} = -0.38 \, \text{eV} \]</p>
-</blockquote>
-</li>
-</ul>
-<p>As \(n\) increases, the energy levels get closer together and approach zero, which corresponds to the electron being free from the atom (ionization). The ground state (\(n = 1\)) has the most negative energy, meaning the electron is most tightly bound to the nucleus at this level.</p>
-<div class="alert alert-block alert-warning">
-<h4>Example:</h4> Calculate the energy of a photon emitted during the transition from \(n = 3\) to \(n = 2\) in a hydrogen atom.
-</div>
-<blockquote>
-<p>Given:</p>
-<p>The energy levels of the hydrogen atom are given by the formula:
-\[ E_n = - \frac{13.6 \, \text{eV}}{n^2} \]</p>
-<p>Solution:</p>
-<ol>
-<li><strong>Calculate the energy of the electron at \(n = 3\):</strong></li>
-</ol>
-<blockquote>
-<p>\[ E_3 = - \frac{13.6 \, \text{eV}}{3^2} = - \frac{13.6 \, \text{eV}}{9} = -1.51 \, \text{eV} \]</p>
-</blockquote>
-<ol start="2">
-<li><strong>Calculate the energy of the electron at \(n = 2\):</strong></li>
-</ol>
-<blockquote>
-<p>\[ E_2 = - \frac{13.6 \, \text{eV}}{2^2} = - \frac{13.6 \, \text{eV}}{4} = -3.4 \, \text{eV} \]</p>
-</blockquote>
-<ol start="3">
-<li><strong>Find the energy difference (\(\Delta E\)) between these levels, which corresponds to the energy of the emitted photon:</strong></li>
-</ol>
-<blockquote>
-<p>\[ \Delta E = E_2 - E_3 = -3.4 \, \text{eV} - (-1.51 \, \text{eV}) = 1.89 \, \text{eV} \]</p>
-</blockquote>
-<ol start="4">
-<li><strong>Convert the energy difference to joules:</strong></li>
-</ol>
-<blockquote>
-<p>\[ E = 1.89 \, \text{eV} \times 1.6 \times 10^{-19} \, \text{J/eV} = 3.02 \times 10^{-19} \, \text{J} \]</p>
-<p>Thus, the energy of the photon emitted during this transition is \(3.02 \times 10^{-19}\) joules.</p>
-</blockquote>
-</blockquote>
-<p>To calculate the energy of photons associated with atomic transitions, we use the formula:</p>
-<blockquote>
-<p>\[ E = \frac{hc}{\lambda} \]</p>
-</blockquote>
-<div class="alert alert-block alert-warning">
-<h4>Example:</h4> Calculate the wavelength of light emitted when an electron in a hydrogen atom transitions from \(n = 3\) to \(n = 2\).
-</div>
-<blockquote>
-<p>We previously found that the energy of the photon emitted during this transition is \(3.02 \times 10^{-19}\) joules.</p>
-<p>So we can use the formula:</p>
-<blockquote>
-<p>\[ \lambda = \frac{hc}{E} \]</p>
-</blockquote>
-<p>Where:</p>
-<ul>
-<li>\(h = 6.63 \times 10^{-34} \, \text{J·s}\) (Planck's constant),</li>
-<li>\(c = 3 \times 10^8 \, \text{m/s}\) (speed of light),</li>
-<li>\(E = 3.02 \times 10^{-19} \, \text{J}\) (energy of the photon).</li>
-</ul>
-<p>Substituting the values:</p>
-<blockquote>
-<p>\[ \lambda = \frac{6.63 \times 10^{-34} \, \text{J·s} \times 3 \times 10^8 \, \text{m/s}}{3.02 \times 10^{-19} \, \text{J}} \]</p>
-</blockquote>
-<blockquote>
-<p>\[ \lambda \approx 6.59 \times 10^{-7} \, \text{m} = 659 \, \text{nm} \]</p>
-</blockquote>
 <p>This wavelength corresponds to red light in the visible spectrum.</p>
 </blockquote>
 <hr/>
@@ -7729,13 +7650,42 @@ In hydrogen, the simplest atom, it takes exactly **13.6 eV** to remove its singl
 </ul>
 <p>Understanding atomic energies is at the heart of these astronomical analyses, helping us map out the composition, temperature, and motion of stars across the universe.</p>
 <hr/>
-<h2 id="Check-Your-Understanding">Check Your Understanding<a class="anchor-link" href="#Check-Your-Understanding">¶</a></h2><ol>
-<li><strong>Problem 1</strong>: Calculate the energy in joules of a photon with a wavelength of 400 nm.</li>
-<li><strong>Problem 2</strong>: Determine the ionization energy required to remove the electron from a hydrogen atom.</li>
-<li><strong>Problem 3</strong>: What is the wavelength of light emitted when an electron in a hydrogen atom transitions from \(n = 4\) to \(n = 2\)?</li>
+<h2 id="Check-Your-Understanding">Check Your Understanding<a class="anchor-link" href="#Check-Your-Understanding">¶</a></h2><h2 id="Check-Your-Understanding">Check Your Understanding<a class="anchor-link" href="#Check-Your-Understanding">¶</a></h2><ol>
+<li><p>A photon has a wavelength of \(500 \, \text{nm}\). Calculate the energy of this photon in electron volts (eV).
+<br/><br/></p>
+</li>
+<li><p>Explain how emission lines and absorption lines are formed. In what sorts of cosmic objects would you expect to see each?
+<br/><br/></p>
+</li>
+<li><p>Explain how electrons use light energy to move among energy levels within an atom.
+<br/><br/></p>
+</li>
+<li><p>Which of the following transitions in a hydrogen atom would produce a photon with the shortest wavelength?</p>
+<ol>
+<li>\(n = 3\) to \(n = 2\)</li>
+<li>\(n = 4\) to \(n = 2\)</li>
+<li>\(n = 5\) to \(n = 2\)</li>
+<li>\(n = 6\) to \(n = 2\)
+<br/><br/></li>
+</ol>
+</li>
+<li><p>An astronomer observes a star and detects several absorption lines in its spectrum. How can the astronomer use these lines to determine the star's composition? What information do these absorption lines provide?
+<br/><br/></p>
+</li>
+<li><p>Calculate the wavelength of light emitted when an electron in a hydrogen atom transitions from \(n = 4\) to \(n = 2\). Use the given energy for this transition of \(2.55 \, \text{eV}\).
+<br/><br/></p>
+</li>
+<li><p>Explain why ionization energy is important for determining the temperature of a star. What does the ionization state of an element tell us about the conditions within the star?
+<br/><br/></p>
+</li>
+<li><p>A photon has an energy of \(2.5 \, \text{eV}\). Calculate its wavelength in nanometers.
+<br/><br/></p>
+</li>
 </ol>
 <hr/>
-<h2 id="Resources">Resources<a class="anchor-link" href="#Resources">¶</a></h2>
+<h2 id="Resources">Resources<a class="anchor-link" href="#Resources">¶</a></h2><ul>
+<li>Astronomy (2016). Andrew Fraknoi, David Morrison, and Sidney C. Wolff.</li>
+</ul>
 </div>
 </div>
 </div>
