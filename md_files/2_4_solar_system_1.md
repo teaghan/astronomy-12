@@ -11,7 +11,6 @@ In this lesson, we will explore the fascinating structure and components of our 
   <p>Watch <a href="https://www.youtube.com/watch?v=x1QTc5YeO6w" target="_blank">this video</a> for an excellent overview of the formation of the solar system.</p>
 </div>
 
-
 ---
 
 ## Formation of the Solar System
