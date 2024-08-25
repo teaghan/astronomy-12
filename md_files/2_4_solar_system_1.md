@@ -14,17 +14,6 @@ In this lesson, we will explore the fascinating structure and components of our 
 
 ---
 
-<iframe src="https://www.solarsystemscope.com/iframe" width="500" height="400" style="min-width:500px; min-height: 400px; border: 2px solid #0f5c6e;"></iframe>
-
-<div style="width: 100%; height: 0; padding-bottom: 75%; position: relative;">
-    <iframe src="https://www.solarsystemscope.com/iframe" 
-            style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;" 
-            allowfullscreen>
-    </iframe>
-</div>
-
-
-
 ## Formation of the Solar System
 
 Imagine a vast cloud of gas and dust floating in space, a remnant of ancient stellar explosions. About 4.5 billion years ago, this seemingly unremarkable cloud began to collapse under its own gravity. This was the solar nebula, and its collapse initiated the birth of our solar system.
@@ -156,6 +145,19 @@ Neptune has a faint ring system and 14 known moons, with Triton being the most n
 
 <div class="alert alert-block alert-info">
 <b>Did You Know?</b> Triton is thought to be a captured Kuiper Belt object, which may explain its unusual orbit.
+</div>
+
+---
+
+## Solar System Simulator
+
+Interested in learning more about the solar system? Check out the simulation below to get an interactive representation of the Sun and palnets.
+
+<div style="width: 100%; height: 0; padding-bottom: 75%; position: relative;">
+    <iframe src="https://www.solarsystemscope.com/iframe" 
+            style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;" 
+            allowfullscreen>
+    </iframe>
 </div>
 
 ---
