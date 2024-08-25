@@ -7507,7 +7507,7 @@ a.anchor-link {
 <!-- End of mermaid configuration --></head>
 <body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
 <main>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=8c0a539b-dd91-4be2-9431-82be80e2e844">
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=83939ff9-2dc3-4c36-9204-319aaf17da29">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
@@ -7552,7 +7552,7 @@ a.anchor-link {
 <ul>
 <li>\(\lambda_{\text{max}}\) is the wavelength of maximum emission,</li>
 <li>\(T\) is the temperature in Kelvin,</li>
-<li>\(b\) is Wien’s constant, approximately \(2.898 \times 10^{-3} \, \text{m} \cdot \text{K}\).</li>
+<li>\(b\) is Wien’s constant, approximately \(2.898 \times 10^{-3} \, \text{m/K}\).</li>
 </ul>
 <p>What does this mean for stars?</p>
 <ul>
@@ -7565,12 +7565,12 @@ a.anchor-link {
 <p>If a star has a surface temperature of 5800 K (similar to the Sun), the peak wavelength of its radiation can be calculated as:</p>
 </div>
 <blockquote>
-<p>\[ \lambda_{\text{max}} = \frac{2.898 \times 10^{-3} \, \text{m} \cdot \text{K}}{5800 \, \text{K}} \approx 500 \, \text{nm} \]</p>
+<p>\[ \lambda_{\text{max}} = \frac{2.898 \times 10^{-3} \, \text{m/K}}{5800 \, \text{K}} \approx 500 \, \text{nm} \]</p>
 <p>This wavelength is in the visible light range, explaining why the Sun appears white or yellowish to our eyes.</p>
 </blockquote>
 <div class="alert alert-block alert-info">
-<h4>Stellar Age and Colour</h4>
-The color of a star can also tell us about its stage in the stellar life cycle. Hot, young stars tend to be blue or white, while older, cooler stars often appear red as they near the end of their life cycle.
+<h4>Stellar Age and Color</h4>
+The color of a star can also tell us about its stage in the stellar life cycle. Hot, young stars tend to be blue or white, while older, cooler stars often appear red as they near the end of their life cycle. However, this relationship between color and age is complex and also depends on the star’s mass.
 </div>
 <hr/>
 <h2 id="Stefan-Boltzmann-Law">Stefan-Boltzmann Law<a class="anchor-link" href="#Stefan-Boltzmann-Law">¶</a></h2><p>Have you ever wondered why some stars shine brighter than others, even though they might be cooler? The secret lies in the <strong>Stefan-Boltzmann Law</strong>, a powerful relationship between the temperature of a star and the total energy it radiates.</p>
@@ -7586,83 +7586,83 @@ The color of a star can also tell us about its stage in the stellar life cycle. 
 </ul>
 <p>What does this mean for stars? Consider this: if one star is twice as hot as another, it doesn’t just emit twice the energy—it emits <strong>16 times</strong> more energy per unit area! This is because the energy output scales with \(T^4\), meaning that small differences in temperature can lead to enormous differences in brightness.</p>
 <p>But temperature isn't the only factor at play. The <strong>luminosity</strong> of a star, which is the total energy it emits, also depends on the star’s surface area. Large stars like red giants, even though they might be cooler, can shine just as brightly as smaller, hotter stars because they have much more surface area over which to radiate their energy.</p>
+<h3 id="Calculating-the-Power-of-a-Star">Calculating the Power of a Star<a class="anchor-link" href="#Calculating-the-Power-of-a-Star">¶</a></h3><p>While energy flux tells us how much power a star emits per square meter, we would often like to know how much total power is emitted by the star. We can determine that by multiplying the energy flux by the number of square meters on the surface of the star. Since stars are mostly spherical, we can use the formula \(4\pi R^2\) for the surface area, where \(R\) is the radius of the star.</p>
+<p>The total power emitted by the star (which we call the star’s “absolute luminosity”) can be found by multiplying the formula for energy flux by the formula for the surface area:</p>
+<blockquote>
+<p>\[ L = 4\pi R^2 \sigma T^4 \]</p>
+</blockquote>
+<div class="alert alert-block alert-warning">
+<h4>Example</h4>
+<p>Two stars have the same size and are the same distance from us. Star A has a surface temperature of 6000 K, and Star B has a surface temperature twice as high, 12,000 K. How much more luminous is Star B compared to Star A?</p>
+</div>
+<blockquote>
+<p>Start by writing the formula for the luminosity of each</p>
+</blockquote>
+<p>star:</p>
+<blockquote>
+<p>\[ L_A = 4\pi R_A^2 \sigma T_A^4 \]<br/>
+\[ L_B = 4\pi R_B^2 \sigma T_B^4 \]</p>
+<p>Now, take the ratio of the luminosity of Star B to Star A:
+\[ \frac{L_B}{L_A} = \frac{4\pi R_B^2 \sigma T_B^4}{4\pi R_A^2 \sigma T_A^4} = \frac{R_B^2 T_B^4}{R_A^2 T_A^4} \]</p>
+<p>Since the two stars are the same size, we can simplify by setting \(R_A = R_B\):</p>
+<p>\[ \frac{L_B}{L_A} = \frac{T_B^4}{T_A^4} = \left(\frac{12,000 \, \text{K}}{6,000 \, \text{K}}\right)^4 = 2^4 = 16 \]</p>
+<blockquote>
+<p>So Star B is 16 times more luminous than Star A!</p>
+</blockquote>
+</blockquote>
 <p>The Stefan-Boltzmann Law gives us a deeper understanding of how stars of different sizes and temperatures contribute to the dazzling array of brightness we see in the night sky.</p>
 <div class="alert alert-block alert-info">
 <h4>Size, Temperature, and Luminosity</h4>
 The Stefan-Boltzmann Law explains why a cool red giant can appear just as luminous as a small, blazing-hot blue star. Size and temperature both play crucial roles in determining a star’s brightness.
 </div>
 <hr/>
-<h2 id="Color-Indices-and-Stellar-Classification">Color Indices and Stellar Classification<a class="anchor-link" href="#Color-Indices-and-Stellar-Classification">¶</a></h2><p>Imagine walking through the cosmos, guided only by the color of the stars. Their colors aren’t just a visual treat—they are cosmic signposts that tell us about a star’s temperature, age, and even its future. This information is vital for astronomers, who classify stars based on their color using a system known as <strong>color indices</strong>.</p>
-<p>Remember when you first encountered the <strong>Hertzsprung-Russell (HR) diagram</strong>? You learned how stars are categorized based on their luminosity and temperature. The color index is a similar concept that connects the star’s color to its temperature, allowing astronomers to classify stars into different spectral types.</p>
-<p>The <strong>color index</strong> is a numerical value obtained by measuring a star’s brightness through different filters, usually comparing the amount of light in the <strong>blue</strong> and <strong>red</strong> parts of the spectrum. This measurement provides a quick and powerful way to determine a star’s temperature:</p>
+<h2 id="Color-Indices-and-Stellar-Classification">Color Indices and Stellar Classification<a class="anchor-link" href="#Color-Indices-and-Stellar-Classification">¶</a></h2><p>When you look up at the night sky and see stars shining in different colors, you are witnessing more than just a beautiful display. Those colors are cosmic clues, revealing the temperature of the stars and providing a key to their classification. Astronomers use these colors, expressed as <strong>color indices</strong>, to categorize stars and unlock insights into their properties and evolution.</p>
+<p>The <strong>color index</strong> is a numerical value that compares a star’s brightness at different wavelengths of light. To do this, astronomers use filters that allow specific wavelengths to pass through, measuring the star’s brightness in those wavelengths. One commonly used set of filters measures stellar brightness in three key regions of the spectrum:</p>
 <ul>
-<li><strong>Hot stars</strong> (like O-type stars) emit more blue light than red, resulting in a <strong>negative color index</strong> and giving them their characteristic blue appearance.</li>
-<li><strong>Cool stars</strong> (like M-type stars) emit more red light than blue, resulting in a <strong>positive color index</strong> and making them appear red.</li>
+<li><strong>Ultraviolet (U)</strong> at 360 nm,</li>
+<li><strong>Blue (B)</strong> at 420 nm,</li>
+<li><strong>Visual (V)</strong> at 540 nm, which corresponds to yellow light.</li>
 </ul>
-<p>These spectral classifications (O, B, A, F, G, K, M) provide a systematic way to categorize stars based on their temperature:</p>
+<p>The difference in brightness between two of these filters is called a <strong>color index</strong>. The most commonly used index in astronomy is the <strong>B–V index</strong>, which is calculated by subtracting the star’s visual magnitude (V) from its blue magnitude (B). This index is directly related to the star’s temperature:</p>
 <ul>
-<li><strong>O-type stars</strong>: These are the hottest and most massive stars, glowing with a brilliant blue hue and burning through their nuclear fuel at an extraordinary rate.</li>
-<li><strong>M-type stars</strong>: At the other end of the spectrum, M-type stars are the coolest and smallest, often appearing red due to their lower temperature.</li>
+<li><strong>Hot stars</strong> (like O-type stars) emit more light in the blue part of the spectrum, resulting in a <strong>negative B–V index</strong> and giving them a blue appearance.</li>
+<li><strong>Cool stars</strong> (like M-type stars) emit more light in the red part of the spectrum, resulting in a <strong>positive B–V index</strong> and giving them a red appearance.</li>
+</ul>
+<p>Remember the <strong>Hertzsprung-Russell (HR) diagram</strong> you studied earlier? It plots stars based on their luminosity and temperature, and the color index helps pinpoint where a star belongs on this diagram. The spectral classification system (O, B, A, F, G, K, M) is based on the star’s temperature, which correlates with its color:</p>
+<ul>
+<li><strong>O-type stars</strong>: The hottest and most massive, glowing blue with surface temperatures exceeding 25,000 K. These stars sit at the upper left of the HR diagram, where high-temperature, high-luminosity stars are found (remember the temperature on the HR diagram is typically inverted).</li>
+<li><strong>M-type stars</strong>: The coolest and smallest, glowing red with temperatures around 3000 K. These stars are located at the lower right of the HR diagram, representing low-temperature, low-luminosity stars.</li>
 </ul>
 <div class="alert alert-block alert-info">
-<h4>The Sun</h4>
-Our Sun is a G-type star, meaning it has a moderate surface temperature of about 5,800 K. This places it between the hottest blue stars and the coolest red ones, giving it a warm yellowish-white color.
+<h4>Color Indices</h4>
+Vega, a bright star in the summer sky, has a B–V index close to 0, indicating it is a hot, blue-white star with a surface temperature around 10,000 K. In contrast, Betelgeuse, a cool red giant, has a B–V index around +2, reflecting its much lower surface temperature of about 3000 K.
 </div>
-<p>The <strong>color index</strong> is more than just a temperature gauge—it plays a crucial role in understanding <strong>stellar evolution</strong>. By knowing a star's color and classification, astronomers can predict its life cycle, from its formation in a molecular cloud to its eventual death as a white dwarf, neutron star, or black hole.</p>
-<p>These color classifications, combined with the HR diagram, give astronomers a powerful toolkit for charting the life stories of stars. Every star in the night sky has a tale to tell, and its color is the key to unlocking its secrets.</p>
+<p>The <strong>color index</strong> is not just a tool for measuring temperature—it’s a vital part of understanding <strong>stellar evolution</strong>. By knowing a star's color and classification, astronomers can determine its life cycle stage, from the fusion-powered main sequence to its final phases as a white dwarf, neutron star, or black hole.</p>
 <hr/>
 <h2 id="Check-Your-Understanding">Check Your Understanding<a class="anchor-link" href="#Check-Your-Understanding">¶</a></h2><ol>
-<li>Why does the peak wavelength of radiation emitted by a star shift towards shorter wavelengths as the star’s temperature increases?</li>
-<li>A star has a surface temperature of \(3000 \, \text{K}\). Calculate its peak emission wavelength using Wien’s Displacement Law.</li>
-<li>If the emitted radiation from a red dwarf star has a wavelength of maximum
-power at 1200 nm, what is the temperature of this star, assuming it is a blackbody?</li>
-<li>If a star emits \(1.42 \times 10^6 \, \text{W/m}^2\) of energy, what is its surface temperature?</li>
+<li>Why does the peak wavelength of radiation emitted by a star shift towards shorter wavelengths as the star’s temperature increases?
+<br/><br/></li>
+<li>How can two stars of the same temperature have different luminosities?
+<br/><br/></li>
+<li>A star has a surface temperature of \(3000 \, \text{K}\). Calculate its peak emission wavelength using Wien’s Displacement Law.
+<br/><br/></li>
+<li>If the emitted radiation from a red dwarf star has a wavelength of maximum power at 1200 nm, what is the temperature of this star, assuming it is a blackbody?
+<br/><br/></li>
+<li>What is the temperature of a star whose maximum light is emitted at a wavelength of 290 nm?
+<br/><br/></li>
+<li>If a star emits \(1.42 \times 10^6 \, \text{W/m}^2\) of energy, what is its surface temperature?
+<br/><br/></li>
+<li>Two stars with identical diameters are the same distance away. One has a temperature of 8700 K and the other has a temperature of 2900 K. Which is brighter? How much brighter is it?
+<br/><br/></li>
+<li>If the emitted infrared radiation from Pluto has a wavelength of maximum intensity at 75,000 nm, what is the temperature of Pluto assuming it follows Wien’s law?
+<br/><br/></li>
+<li>Two stars have the same luminosity, but Star A has a temperature of 4000 K, while Star B has a temperature of 8000 K. Based on their temperatures, calculate the ratio of the radius of Star A to the radius of Star B (i.e. find \(\frac{R_A}{R_B}\)).
+<br/><br/></li>
 </ol>
 <hr/>
 <h2 id="Resources">Resources<a class="anchor-link" href="#Resources">¶</a></h2><ul>
 <li>Astronomy (2016). Andrew Fraknoi, David Morrison, and Sidney C. Wolff.</li>
 </ul>
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=de325902">
-<div class="jp-Cell-inputWrapper" tabindex="0">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h1 id="4.2-Blackbody-Radiation">4.2 Blackbody Radiation<a class="anchor-link" href="#4.2-Blackbody-Radiation">¶</a></h1><ul>
-<li><strong>Planck’s Law and Spectrum</strong>: Description of the spectrum of radiation emitted by a blackbody.</li>
-<li><strong>Wien’s Displacement Law</strong>: Relating temperature to the peak wavelength of blackbody radiation.</li>
-<li><strong>Stefan-Boltzmann Law</strong>: Explaining the total energy radiated per unit surface area in relation to temperature.</li>
-<li><strong>Color Indices and Stellar Classification</strong>: Overview of how color indices help classify stars based on temperature and color.</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=88f047e1-48b1-4a35-8998-3dc6cc1cf764">
-<div class="jp-Cell-inputWrapper" tabindex="0">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<iframe allowfullscreen="" height="600" src="https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_en.html" width="800">
-</iframe>
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=8b734235-3ca8-4a39-a426-d7bb3e33208d">
-<div class="jp-Cell-inputWrapper" tabindex="0">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p>video: <a href="https://www.youtube.com/watch?v=XdXAdwb7loE">https://www.youtube.com/watch?v=XdXAdwb7loE</a></p>
-<p>EXAMPLE 5.3</p>
-<p>EXAMPLE 5.4</p>
 </div>
 </div>
 </div>

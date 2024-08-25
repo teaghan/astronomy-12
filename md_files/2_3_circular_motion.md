@@ -126,11 +126,12 @@ In circular orbits, the centripetal acceleration is provided by the gravitationa
 
 Feel free to play around with the simulator below to get a feel for how gravity impacts orbits of planets, moons, and satellites!
 
-<iframe src="https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits_en.html"
-        width="800"
-        height="600"
-        allowfullscreen>
-</iframe>
+<div style="width: 100%; height: 0; padding-bottom: 75%; position: relative;">
+    <iframe src="https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits_en.html" 
+            style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;" 
+            allowfullscreen>
+    </iframe>
+</div>
 
 ---
 
