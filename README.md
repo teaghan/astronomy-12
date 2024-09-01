@@ -10,6 +10,7 @@ Welcome to Astronomy 12, a course that connects key ideas from chemistry, physic
 
 - **Free Textbook**: [**Astronomy**](https://openstax.org/books/astronomy/pages/1-introduction) by OpenStax.
 - **AI Tutor**: [**Astronomy Tutor**](https://chatgpt.com/g/g-10CjMHMvk-astronomy-tutor) to support you with this class.
+   - **beta AI Tutor**: [**New Astronomy Tutor**](https://teaghan-educational-prompt-engineering-tutormain-dkogwm.streamlit.app/)
 
 ## Course Overview
 

@@ -306,10 +306,12 @@ Spectroscopy is a crucial tool in astronomy, enabling us to decode the light fro
 - **Color Indices and Stellar Classification**: Overview of how color indices help classify stars based on temperature and color.
 
 ### [4.3 Atomic Energies](../md_files/4_3_atomic_energies.html)
-- **Model of the Atom**: Introduction to the structure of the atom, including the nucleus and electron orbits.
-- **Interaction of Electromagnetic Radiation with Atoms**: Explanation of how light interacts with atoms, leading to the absorption and emission of photons.
-- **Formation of Spectral Lines**: Understanding how spectral lines are formed through electronic transitions in atoms.
-- **Molecular Spectroscopy**: Brief introduction to molecular spectra and their role in studying interstellar gas clouds.
+- **Quantum Nature of Light**: Recap of light’s wave-particle duality and photon energy.
+- **Electron Volts**: Introduction to eV as a unit of energy with conversion examples.
+- **Bohr Model**: Overview of quantized energy levels and electron transitions.
+- **Spectra**: How electron transitions produce emission and absorption spectra.
+- **Hydrogen Spectrum**: Discussion of Lyman, Balmer, and Paschen series in the hydrogen atom.
+- **Ionization Energy**: Importance of ionization energy in understanding stellar conditions.
 
 ### [4.4 Spectroscopy I: Principles of Spectroscopy](../md_files/4_4_spectroscopy_1.html)
 - **Absorption and Emission Spectra**: Exploring how and why absorption and emission spectra are produced in different astrophysical environments.
@@ -2073,9 +2075,7 @@ Mars, known as the Red Planet due to its iron oxide-rich soil, has fascinated sc
 
 As we venture further from the Sun, we encounter the majestic Jovian planets, also known as gas giants. These massive planets, composed primarily of hydrogen, helium, and other volatiles, present a stark contrast to the rocky terrestrial worlds. Their immense sizes and unique characteristics offer a fascinating glimpse into the outer reaches of our solar system.
 
-<img src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit2/figures/Giant_Planets.png" alt="Jovian Planets" width="1000" style="display: block; margin-left: auto;
-
- margin-right: auto;">
+<img src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit2/figures/Giant_Planets.png" alt="Jovian Planets" width="1000" style="display: block; margin-left: auto; margin-right: auto;">
 
 #### Jupiter
 Jupiter, the largest planet in our solar system, is a colossal world with a diameter of about 11 times that of Earth. Its most famous feature is the Great Red Spot, a gigantic storm larger than Earth itself, which has been raging for centuries. Jupiter's atmosphere is a dynamic blend of hydrogen and helium, with swirling clouds of ammonia crystals and complex weather patterns. 
@@ -3832,6 +3832,7 @@ The **color index** is not just a tool for measuring temperature—it’s a vita
 layout: embed_default
 ---
 
+```python
 # 4.3 Atomic Energies
 
 Understanding atomic energies is crucial in astronomy because it allows us to decipher the light from stars and other celestial bodies. By analyzing the energies associated with atomic transitions, astronomers can determine the composition, temperature, and other properties of stars.
@@ -3963,9 +3964,7 @@ The resulting spectral lines from these transitions can be grouped into specific
 
 To calculate the energy of photons associated with atomic transitions, we use the formula:
 
-> $$ E = \frac{hc}{\lambda}
-
- $$
+> $$ E = \frac{hc}{\lambda} $$
 
 <div class="alert alert-block alert-warning">
   <h4>Example:</h4> A photon emitted during the transition from $n = 3$ to $n = 2$ in a hydrogen atom has an energy of 1.89 eV. Calculate the wavelength of light emitted from this transition.
@@ -4055,6 +4054,7 @@ Understanding atomic energies is at the heart of these astronomical analyses, he
 ## Resources
 
 - Astronomy (2016). Andrew Fraknoi, David Morrison, and Sidney C. Wolff.
+```
 
 
 # 4_4_spectroscopy_1.md

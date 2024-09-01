@@ -29,10 +29,12 @@ Spectroscopy is a crucial tool in astronomy, enabling us to decode the light fro
 - **Color Indices and Stellar Classification**: Overview of how color indices help classify stars based on temperature and color.
 
 ### [4.3 Atomic Energies](../md_files/4_3_atomic_energies.html)
-- **Model of the Atom**: Introduction to the structure of the atom, including the nucleus and electron orbits.
-- **Interaction of Electromagnetic Radiation with Atoms**: Explanation of how light interacts with atoms, leading to the absorption and emission of photons.
-- **Formation of Spectral Lines**: Understanding how spectral lines are formed through electronic transitions in atoms.
-- **Molecular Spectroscopy**: Brief introduction to molecular spectra and their role in studying interstellar gas clouds.
+- **Quantum Nature of Light**: Recap of light’s wave-particle duality and photon energy.
+- **Electron Volts**: Introduction to eV as a unit of energy with conversion examples.
+- **Bohr Model**: Overview of quantized energy levels and electron transitions.
+- **Spectra**: How electron transitions produce emission and absorption spectra.
+- **Hydrogen Spectrum**: Discussion of Lyman, Balmer, and Paschen series in the hydrogen atom.
+- **Ionization Energy**: Importance of ionization energy in understanding stellar conditions.
 
 ### [4.4 Spectroscopy I: Principles of Spectroscopy](../md_files/4_4_spectroscopy_1.html)
 - **Absorption and Emission Spectra**: Exploring how and why absorption and emission spectra are produced in different astrophysical environments.

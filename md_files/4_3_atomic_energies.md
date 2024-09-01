@@ -2,6 +2,7 @@
 layout: embed_default
 ---
 
+```python
 # 4.3 Atomic Energies
 
 Understanding atomic energies is crucial in astronomy because it allows us to decipher the light from stars and other celestial bodies. By analyzing the energies associated with atomic transitions, astronomers can determine the composition, temperature, and other properties of stars.
@@ -133,9 +134,7 @@ The resulting spectral lines from these transitions can be grouped into specific
 
 To calculate the energy of photons associated with atomic transitions, we use the formula:
 
-> $$ E = \frac{hc}{\lambda}
-
- $$
+> $$ E = \frac{hc}{\lambda} $$
 
 <div class="alert alert-block alert-warning">
   <h4>Example:</h4> A photon emitted during the transition from $n = 3$ to $n = 2$ in a hydrogen atom has an energy of 1.89 eV. Calculate the wavelength of light emitted from this transition.
@@ -225,3 +224,4 @@ Understanding atomic energies is at the heart of these astronomical analyses, he
 ## Resources
 
 - Astronomy (2016). Andrew Fraknoi, David Morrison, and Sidney C. Wolff.
+```
