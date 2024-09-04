@@ -3832,7 +3832,6 @@ The **color index** is not just a tool for measuring temperature—it’s a vita
 layout: embed_default
 ---
 
-```python
 # 4.3 Atomic Energies
 
 Understanding atomic energies is crucial in astronomy because it allows us to decipher the light from stars and other celestial bodies. By analyzing the energies associated with atomic transitions, astronomers can determine the composition, temperature, and other properties of stars.
@@ -3997,7 +3996,7 @@ Ionization energy plays a critical role in the life of stars. In the searing hea
 
 <div class="alert alert-block alert-info">
 <h4>Ionization Energy for Hydrogen</h4>
-In hydrogen, the simplest atom, it takes exactly **13.6 eV** to remove its single electron and ionize the atom completely. This might not seem like much energy, but in the context of a star, it tells us a lot about the environment in which this atom exists.
+In hydrogen, the simplest atom, it takes exactly 13.6 eV to remove its single electron and ionize the atom completely. This might not seem like much energy, but in the context of a star, it tells us a lot about the environment in which this atom exists.
 </div>
 
 ---
@@ -4054,7 +4053,6 @@ Understanding atomic energies is at the heart of these astronomical analyses, he
 ## Resources
 
 - Astronomy (2016). Andrew Fraknoi, David Morrison, and Sidney C. Wolff.
-```
 
 
 # 4_4_spectroscopy_1.md
