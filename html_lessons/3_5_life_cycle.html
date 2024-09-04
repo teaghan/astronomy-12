@@ -3,7 +3,7 @@
 <html lang="en">
 <head><meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>1_4_brightness</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>3_5_life_cycle</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <style type="text/css">
     pre { line-height: 125%; }
 td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }
@@ -7294,8 +7294,6 @@ a.anchor-link {
 
 
 
-
-
 <!-- Load mathjax -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS_CHTML-full,Safe"> </script>
 <!-- MathJax configuration -->
@@ -7323,8 +7321,6 @@ a.anchor-link {
     MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
 </script>
 <!-- End of mathjax configuration --><script type="module">
-
-
 
 
 
@@ -7513,176 +7509,196 @@ a.anchor-link {
 <!-- End of mermaid configuration --></head>
 <body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
 <main>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=522ba052-44ea-492a-a03e-0a1a2d22ef1b">
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=e4a0f0f0-49d3-433e-bb2c-a94d05c70ba3">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h1 id="1.4-The-Brightness-of-Stars">1.4 The Brightness of Stars<a class="anchor-link" href="#1.4-The-Brightness-of-Stars">¶</a></h1><h2 id="Introduction">Introduction<a class="anchor-link" href="#Introduction">¶</a></h2><p>Have you ever gazed up at the night sky and wondered why some stars shine brighter than others? The study of stellar brightness not only allows us to appreciate the beauty of the cosmos but also provides crucial information about the stars themselves. In this lesson, we'll explore how astronomers measure the brightness of stars, the physics behind their luminosity, and the historical context of the magnitude scale.</p>
+<h1 id="3.5-Life-Cycle-of-Stars">3.5 Life Cycle of Stars<a class="anchor-link" href="#3.5-Life-Cycle-of-Stars">¶</a></h1><p>Stars are the building blocks of galaxies, and understanding their life cycle provides crucial insights into the workings of the universe. From the brilliant birth of a star to its final breath as a stellar remnant, the evolution of stars is a complex and fascinating journey governed primarily by one key factor: <strong>mass</strong>. In this lesson, we will explore how the initial mass of a star dictates its life path, the stages stars go through, and the remnants they leave behind.</p>
 <div class="alert alert-block alert-success">
 <h4>Video</h4>
-<p>Watch <a href="https://youtu.be/JIXFXGiDa4Y?si=x7IidSPRQEKKfjgL" target="_blank">this video</a> for an excellent overview of the brightness of stars, including practical examples and historical context.</p>
+<p>Watch <a href="https://www.youtube.com/watch?v=_EtlJCfaxdc" target="_blank">this video</a> for an introduction to stellar evolution and the Hertzsprung-Russell (H-R) Diagram. It provides visual aids and explanations that will help you understand the key concepts covered in this lesson. I recommend watching it at x1.5 speed!</p>
 </div>
 <hr/>
-<h3 id="Flux-and-Luminosity">Flux and Luminosity<a class="anchor-link" href="#Flux-and-Luminosity">¶</a></h3><p>To understand stellar brightness, we first need to define a few key concepts: flux and luminosity.</p>
-<p><strong>Flux</strong> is the amount of light energy received per unit area per unit time. Imagine standing under a streetlamp at night. The light that hits you is the flux.</p>
-<p><strong>Luminosity</strong>, on the other hand, is the total amount of energy a star emits per unit time. Think of it as the star's total power output.</p>
-<h3 id="The-Inverse-Square-Law">The Inverse Square Law<a class="anchor-link" href="#The-Inverse-Square-Law">¶</a></h3><p>As light travels from a star, it spreads out over an ever-increasing area. This spreading out follows the <strong>Inverse Square Law</strong>, which states that the flux decreases with the square of the distance from the source. Mathematically, we express this as:</p>
-<blockquote>
-<p>\[ F = \frac{L}{4\pi r^2} \]</p>
-</blockquote>
-<p>where:</p>
+<h2 id="Initial-Mass-and-Its-Impact-on-Stellar-Evolution">Initial Mass and Its Impact on Stellar Evolution<a class="anchor-link" href="#Initial-Mass-and-Its-Impact-on-Stellar-Evolution">¶</a></h2><p>The most important factor in determining a star’s evolution is its initial mass. The initial mass determines not only how long the star will live but also the different stages it will go through and its final fate. Stars are classified into three main categories based on their mass:</p>
 <ul>
-<li>\(F\) is the flux (in watts per square meter, \(\text{W/m}^2\)),</li>
-<li>\(L\) is the luminosity (in watts, \(\text{W}\)),</li>
-<li>\(r\) is the distance from the star (in meters, \(\text{m}\)).</li>
+<li><strong>Low-mass stars</strong> (up to 0.5 solar masses): These stars have long lifespans, typically tens of billions of years.</li>
+<li><strong>Intermediate-mass stars</strong> (between 0.5 and 8 solar masses): These stars have moderate lifespans, ranging from hundreds of millions to a few billion years.</li>
+<li><strong>High-mass stars</strong> (greater than 8 solar masses): These stars have short but dramatic lifespans, often only a few million years.</li>
 </ul>
-<blockquote>
-<p>This law explains why stars appear dimmer the farther away they are. It's not because they're less powerful, but because their light spreads out over a larger area.</p>
-</blockquote>
-<img alt="Inverse Square Law" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit1/figures/inv_sq_law.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
+<h3 id="Why-Does-Mass-Matter?">Why Does Mass Matter?<a class="anchor-link" href="#Why-Does-Mass-Matter?">¶</a></h3><p>The greater the mass of a star, the higher the core temperature and pressure. This means that high-mass stars can sustain more vigorous nuclear fusion, leading to shorter lifespans but more spectacular end-of-life events, such as supernovae. In contrast, low-mass stars burn their fuel more slowly, leading to longer lifespans and more peaceful ends as white dwarfs.</p>
 <div class="alert alert-block alert-warning">
-<b>Example:</b> Calculating the Solar Flux at Different Distances
+<h4>Stellar Lifetimes</h4> A low-mass star like our Sun will live for approximately 10 billion years, slowly fusing hydrogen into helium. In contrast, a massive star 20 times the mass of the Sun might live for only 10 million years before exploding as a supernova.
 </div>
-<blockquote>
-<p>The luminosity of the Sun is \( 3.839 \times 10^{26} \) W and is at a distance of 1 AU (astronomical unit) away from Earth, which is \( 1.496 \times 10^{11} \) meters.</p>
-<p>Earth receives a radiant flux above its absorbing atmosphere given by:</p>
-<blockquote>
-<p>\[ F = \frac{L}{4\pi r^2} \]</p>
-<p>\[ F = \frac{3.839 \times 10^{26}}{4\pi (1.496 \times 10^{11})^2} \]</p>
-<p>\[ F \approx 1365 \, \text{W/m}^2 \]</p>
-</blockquote>
-<p>This value of the solar flux is known as the <strong>solar irradiance</strong>, sometimes also called the solar constant.</p>
-</blockquote>
 <hr/>
-<h2 id="Apparent-Brightness-and-the-Magnitude-Scale">Apparent Brightness and the Magnitude Scale<a class="anchor-link" href="#Apparent-Brightness-and-the-Magnitude-Scale">¶</a></h2><h3 id="Apparent-Magnitude">Apparent Magnitude<a class="anchor-link" href="#Apparent-Magnitude">¶</a></h3><p>The <strong>apparent magnitude</strong> of a star is a measure of its brightness as seen from Earth. This concept is crucial because it takes into account both the intrinsic luminosity of the star and its distance from us.</p>
-<h3 id="Historical-Background-of-the-Magnitude-Scale">Historical Background of the Magnitude Scale<a class="anchor-link" href="#Historical-Background-of-the-Magnitude-Scale">¶</a></h3><p>The magnitude scale dates back to the ancient Greek astronomer Hipparchus, who classified stars according to their apparent brightness. This system was refined by Ptolemy and later standardized to a logarithmic scale, where a difference of 5 magnitudes corresponds to a factor of 100 in brightness.</p>
-<p>The logarithmic nature of the scale is represented by:</p>
-<blockquote>
-<p>\[ m_1 - m_2 = -2.5 \log_{10} \left( \frac{F_1}{F_2} \right) \]</p>
-</blockquote>
-<p>where \( m_1 \) and \( m_2 \) are the magnitudes of two stars, and \( F_1 \) and \( F_2 \) are their respective fluxes.</p>
-<p>Another way to write this equation is:</p>
-<blockquote>
-<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{m_1 - m_2} \]</p>
-</blockquote>
-<p>which allows us to compare the flux of two objects (and the flux is what we would typically call "brightness" in every day conversation).</p>
-<blockquote>
-<p>The star Vega was historically used as the standard for apparent magnitude, set at 0. Modern measurements have slightly adjusted this value, but Vega remains a key reference point in the magnitude system.</p>
-</blockquote>
+<h2 id="The-Hertzsprung-Russell-(H-R)-Diagram-as-a-Tool-for-Understanding-Stellar-Evolution">The Hertzsprung-Russell (H-R) Diagram as a Tool for Understanding Stellar Evolution<a class="anchor-link" href="#The-Hertzsprung-Russell-(H-R)-Diagram-as-a-Tool-for-Understanding-Stellar-Evolution">¶</a></h2><p>The <strong>Hertzsprung-Russell (H-R) Diagram</strong> is one of the most important tools in astronomy for understanding stellar evolution. The diagram plots stars according to their luminosity and surface temperature, revealing distinct patterns that correspond to different stages of stellar life.</p>
+<h3 id="Key-Regions-of-the-H-R-Diagram:">Key Regions of the H-R Diagram:<a class="anchor-link" href="#Key-Regions-of-the-H-R-Diagram:">¶</a></h3><ul>
+<li><strong>Main Sequence</strong>: Where stars spend most of their lives, fusing hydrogen into helium. About 90% of stars fall on the main sequence, with their position determined by mass—more massive stars are hotter and more luminous, while low-mass stars are cooler and dimmer.</li>
+<li><strong>Red Giants and Supergiants</strong>: Large, cool stars that have exhausted their hydrogen and moved on to fuse heavier elements. These stars occupy the upper-right region of the diagram, indicating high luminosity despite their relatively cool surface temperatures.</li>
+<li><strong>White Dwarfs</strong>: Hot but dim remnants of low- and intermediate-mass stars, found in the lower-left region of the diagram. These stars are small but have very high surface temperatures.</li>
+</ul>
+<img alt="Super Giant" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit3/figures/supergiant.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
+<h3 id="Stellar-Radii-and-the-H-R-Diagram:">Stellar Radii and the H-R Diagram:<a class="anchor-link" href="#Stellar-Radii-and-the-H-R-Diagram:">¶</a></h3><p>The H-R Diagram also allows astronomers to infer stellar radii. If two stars have the same surface temperature but one is more luminous, the more luminous star must have a larger radius. This explains why supergiants can be cool but extremely luminous—they have enormous surface areas. Conversely, white dwarfs are hot but dim because of their small size.</p>
+<img alt="HR Small" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit3/figures/hr_1.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
+<h3 id="Distribution-of-Stars:">Distribution of Stars:<a class="anchor-link" href="#Distribution-of-Stars:">¶</a></h3><p>It's important to recognize that the distribution of stars on the H-R Diagram does not fully represent the true population of stars in the universe. While many stars we observe are on the main sequence, faint stars like red dwarfs are underrepresented due to their low brightness and distance from us. Understanding this helps astronomers make more accurate models of stellar populations.</p>
 <div class="alert alert-block alert-info">
-<b>Recall:</b> A logarithm is a mathematical operator that tells us the power to which a base number must be raised to obtain a given number. When the base is not specified, it is assumed to be 10.
+<h4>The H-R Diagram</h4> The H-R Diagram is often compared to the periodic table in chemistry—just as the periodic table organizes elements by their properties, the H-R Diagram organizes stars by their temperature and luminosity. It also helps astronomers estimate stellar radii and understand the diverse evolutionary paths of stars.
 </div>
-<blockquote>
-<p>For example, \( \log_{10}(100) = 2 \) because \( 10^2 = 100 \).</p>
-</blockquote>
-<p>Logarithmic scales are used in astronomy to manage the huge differences in the brightness and distances of celestial objects.</p>
-<img alt="Apparent Magnitudes of Well-Known Objects" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit1/figures/Apparent_Magnitudes.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
-<div class="alert alert-block alert-warning">
-<b>Example:</b> Suppose an astronomer has discovered something special about a dim star with a magnitude of 8.5 and wants to explain how much dimmer this star is compared to Sirius. We'll use the dim star as Star 1 and Sirius as Star 2 in our equation.
-</div>
-<blockquote>
-<p>Given:</p>
-<blockquote>
-<p>Dim star magnitude, \( m_1 = 8.5 \)</p>
-<p>Sirius magnitude, \( m_2 = -1.5 \)</p>
-</blockquote>
-<p>Solution:</p>
-<blockquote>
-<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{8.5 - (-1.5)} \]</p>
-<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{10} \]</p>
-<p>\[ \frac{F_2}{F_1} = (100)^2 = 100 \times 100 = 10,000 \]</p>
-<p>Therefore, the dim star is 10,000 times dimmer than Sirius.</p>
-</blockquote>
-</blockquote>
-<div class="alert alert-block alert-warning">
-<b>Example:</b> It is a common misconception that Polaris (magnitude 2.0) is the brightest star in the sky. However, Sirius, with a magnitude of -1.5, holds that title. Let's compare the apparent brightness of Sirius to Polaris.
-</div>
-<blockquote>
-<p>Given:</p>
-<blockquote>
-<p>Polaris magnitude, \( m_1 = 2.0 \)</p>
-<p>Sirius magnitude, \( m_2 = -1.5 \)</p>
-</blockquote>
-<p>Solution:</p>
-<blockquote>
-<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{2.0 - (-1.5)} \]</p>
-<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{3.5} \]</p>
-<p>\[ \frac{F_2}{F_1} = 100^{0.7} = 25 \]</p>
-</blockquote>
-<p>Our calculation shows that Sirius’ apparent brightness is 25 times greater than Polaris’ apparent brightness.</p>
-</blockquote>
+<img alt="HR Large" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit3/figures/hr_2.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
 <hr/>
-<h2 id="Absolute-Magnitude">Absolute Magnitude<a class="anchor-link" href="#Absolute-Magnitude">¶</a></h2><p>Absolute magnitude is the apparent magnitude (brightness) a star would have if it were placed at a standard distance of 10 parsecs from Earth. This standardization allows astronomers to compare the true brightness of stars without the confounding effect of distance.</p>
-<p>The relationship between a star's absolute magnitude \( M \), apparent magnitude \( m \), and distance \( d \) in parsecs is given by:</p>
-<blockquote>
-<p>\[ M = m + 5 - 5 \log_{10}(d) \]</p>
-</blockquote>
+<h2 id="Main-Sequence-Evolution">Main Sequence Evolution<a class="anchor-link" href="#Main-Sequence-Evolution">¶</a></h2><p>Stars spend the majority of their lives on the <strong>main sequence</strong>, where they fuse hydrogen into helium in their cores. This is the most stable and longest phase of a star’s life. The position of a star on the main sequence depends on its mass: more massive stars are hotter and more luminous, placing them higher on the Hertzsprung-Russell (H-R) Diagram.</p>
+<p>The main sequence phase ends when the star exhausts the hydrogen in its core. What happens next depends on the star’s mass.</p>
+<h3 id="Characteristics-of-Main-Sequence-Stars">Characteristics of Main-Sequence Stars<a class="anchor-link" href="#Characteristics-of-Main-Sequence-Stars">¶</a></h3><table>
+<thead>
+<tr>
+<th style="text-align:center"><strong>Spectral Type</strong></th>
+<th style="text-align:center"><strong>Mass (Sun = 1)</strong></th>
+<th style="text-align:center"><strong>Luminosity (Sun = 1)</strong></th>
+<th style="text-align:center"><strong>Temperature</strong></th>
+<th style="text-align:center"><strong>Radius (Sun = 1)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">O5</td>
+<td style="text-align:center">40</td>
+<td style="text-align:center">7 × 10<sup>5</sup></td>
+<td style="text-align:center">40,000 K</td>
+<td style="text-align:center">18</td>
+</tr>
+<tr>
+<td style="text-align:center">B0</td>
+<td style="text-align:center">16</td>
+<td style="text-align:center">2.7 × 10<sup>5</sup></td>
+<td style="text-align:center">28,000 K</td>
+<td style="text-align:center">7</td>
+</tr>
+<tr>
+<td style="text-align:center">A0</td>
+<td style="text-align:center">3.3</td>
+<td style="text-align:center">55</td>
+<td style="text-align:center">10,000 K</td>
+<td style="text-align:center">2.5</td>
+</tr>
+<tr>
+<td style="text-align:center">F0</td>
+<td style="text-align:center">1.7</td>
+<td style="text-align:center">5</td>
+<td style="text-align:center">7500 K</td>
+<td style="text-align:center">1.4</td>
+</tr>
+<tr>
+<td style="text-align:center">G0</td>
+<td style="text-align:center">1.1</td>
+<td style="text-align:center">1.4</td>
+<td style="text-align:center">6000 K</td>
+<td style="text-align:center">1.1</td>
+</tr>
+<tr>
+<td style="text-align:center">K0</td>
+<td style="text-align:center">0.8</td>
+<td style="text-align:center">0.35</td>
+<td style="text-align:center">5000 K</td>
+<td style="text-align:center">0.8</td>
+</tr>
+<tr>
+<td style="text-align:center">M0</td>
+<td style="text-align:center">0.4</td>
+<td style="text-align:center">0.05</td>
+<td style="text-align:center">3500 K</td>
+<td style="text-align:center">0.6</td>
+</tr>
+</tbody>
+</table>
+<div class="alert alert-block alert-info">
+<h4>Tip:</h4> On the H-R Diagram, stars on the main sequence form a diagonal line from the top left (hot, luminous stars) to the bottom right (cool, dim stars). Our Sun is a middle-aged main sequence star.
+</div>
 <hr/>
-<h2 id="Distance-Modulus">Distance Modulus<a class="anchor-link" href="#Distance-Modulus">¶</a></h2><h3 id="Explanation-of-Distance-Modulus">Explanation of Distance Modulus<a class="anchor-link" href="#Explanation-of-Distance-Modulus">¶</a></h3><p>The <strong>distance modulus</strong> provides a way to calculate the distance to a star based on its apparent and absolute magnitudes. The formula is:</p>
-<blockquote>
-<p>\[ m - M = 5 \log_{10}(d) - 5 \]</p>
-</blockquote>
-<p>where:</p>
-<ul>
-<li>\( m \) is the apparent magnitude,</li>
-<li>\( M \) is the absolute magnitude,</li>
-<li>\( d \) is the distance in parsecs.</li>
+<h2 id="Advanced-Stages-of-Stellar-Evolution">Advanced Stages of Stellar Evolution<a class="anchor-link" href="#Advanced-Stages-of-Stellar-Evolution">¶</a></h2><p>Once a star exhausts the hydrogen in its core, it enters the advanced stages of evolution. For low- and intermediate-mass stars, this means burning helium and possibly heavier elements, while high-mass stars go through a series of rapid fusion stages.</p>
+<h3 id="Helium-and-Heavier-Element-Fusion">Helium and Heavier Element Fusion<a class="anchor-link" href="#Helium-and-Heavier-Element-Fusion">¶</a></h3><ul>
+<li><strong>Helium Burning</strong>: After hydrogen is depleted, the core contracts and heats up, allowing helium to fuse into carbon and oxygen in a process called the <strong>triple-alpha process</strong>.</li>
+<li><strong>Carbon, Oxygen, and Silicon Burning</strong>: In high-mass stars, the core continues to contract and heat up, enabling the fusion of heavier elements like carbon, oxygen, and silicon. These stages are much shorter and more energetic than hydrogen fusion.</li>
 </ul>
-<p>This equation is incredibly useful for determining stellar distances, making it a cornerstone of astronomical measurement.</p>
-<div class="alert alert-block alert-warning">
-<b>Example:</b> Calculating the Absolute Magnitude of the Sun
+<p>Eventually, high-mass stars create iron in their cores, which cannot undergo fusion to release energy. This leads to a catastrophic core collapse, resulting in a supernova explosion.</p>
+<div class="alert alert-block alert-info">
+<h4>High Mass Stars</h4> A high-mass star may burn carbon in its core for only a few thousand years, while it spends millions of years fusing hydrogen on the main sequence.
 </div>
-<blockquote>
-<p>The apparent magnitude of the Sun, \( m_{\text{Sun}} \), is \( -26.83 \), and its distance from Earth is 1 AU, which is \( 4.848 \times 10^{-6} \) parsecs. Using the formula for absolute magnitude:</p>
-<p>\[ M_{\text{Sun}} = m_{\text{Sun}} - 5 \log_{10}(d) + 5 \]</p>
-<p>we can calculate the absolute magnitude of the Sun.</p>
-<p>\[ M_{\text{Sun}} = m_{\text{Sun}} - 5 \log_{10}(d) + 5 \]</p>
-<p>\[ M_{\text{Sun}} = -26.83 - 5 \log_{10}(4.848 \times 10^{-6}) + 5 \]</p>
-<p>Since \( \log_{10}(4.848 \times 10^{-6}) \approx -5.315 \):</p>
-<p>\[ M_{\text{Sun}} = -26.83 - 5(-5.315) + 5 \]</p>
-<p>\[ M_{\text{Sun}} = -26.83 + 26.575 + 5 \]</p>
-<p>\[ M_{\text{Sun}} = 4.74 \]</p>
-<blockquote>
-<p>Thus, the absolute magnitude of the Sun is \( +4.74 \).</p>
-</blockquote>
-</blockquote>
+<hr/>
+<h2 id="Post-Main-Sequence-Evolution">Post-Main Sequence Evolution<a class="anchor-link" href="#Post-Main-Sequence-Evolution">¶</a></h2><p>When a star exhausts the hydrogen in its core, it leaves the main sequence—the longest and most stable phase of its life. What happens next depends on the star’s mass, and the journey can take dramatically different paths. The post-main sequence evolution is where the true diversity of stellar life stories begins to unfold.</p>
+<ul>
+<li><p><strong>Low-Mass Stars</strong>: For a star like our Sun, after billions of years of stable hydrogen fusion, the core runs out of fuel, and the star can no longer hold itself together. The outer layers begin to expand and cool, turning the star into a <strong>red giant</strong>—an enormous, bloated version of its former self. During this phase, the star is shedding its outer layers in a stellar wind, leaving behind a hot, exposed core. Over time, the core cools and contracts, becoming a dense, Earth-sized object known as a <strong>white dwarf</strong>. The star's brilliance fades, but it will continue to glow faintly for billions of years as it slowly radiates away its remaining heat.</p>
+</li>
+<li><p><strong>Intermediate-Mass Stars</strong>: Stars with slightly more mass follow a similar path but with a bit more flair. These stars also become red giants, but as they expel their outer layers, they often create beautiful, glowing shells of gas known as <strong>planetary nebulae</strong>. These nebulae are lit up by the ultraviolet radiation from the hot core, creating some of the most stunning images in astronomy. Like their smaller cousins, these stars end up as white dwarfs, quietly cooling for the rest of eternity.</p>
+</li>
+<li><p><strong>High-Mass Stars</strong>: The fate of high-mass stars, however, is far more dramatic. These stellar giants evolve into <strong>supergiants</strong>, with their cores burning through heavier and heavier elements—helium, carbon, oxygen, and so on—until they reach iron. Iron is a dead end for fusion, and without the energy from fusion to support it, the core collapses under its own gravity in a fraction of a second. This collapse triggers a <strong>supernova</strong>, one of the most powerful explosions in the universe. For a brief moment, the star shines brighter than an entire galaxy. What remains after this cosmic cataclysm is a dense core—either a <strong>neutron star</strong> or, if the star was massive enough, a <strong>black hole</strong>.</p>
+</li>
+</ul>
+<hr/>
+<h2 id="The-Evolution-of-Stellar-Remnants">The Evolution of Stellar Remnants<a class="anchor-link" href="#The-Evolution-of-Stellar-Remnants">¶</a></h2><p>The death of a star is not the end of its story. The remnants left behind after a star’s dramatic final act continue to exist, and each type of remnant tells a different tale of the star it once was.</p>
+<ol>
+<li><strong>White Dwarfs</strong>: These remnants of low- and intermediate-mass stars are among the densest objects in the universe. Imagine compressing the mass of the Sun into a sphere the size of Earth—this is a white dwarf. The gravity at the surface of a white dwarf is so intense that a teaspoon of its material would weigh several tons on Earth. Though no longer capable of nuclear fusion, white dwarfs continue to glow faintly as they slowly cool over billions of years. Eventually, after a time far longer than the current age of the universe, they will cool to become cold, dark <strong>black dwarfs</strong>—essentially stellar embers that no longer emit light.</li>
+</ol>
+<img alt="White Dwarf" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit3/figures/white_dwarf.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
+<ol start="2">
+<li><strong>Neutron Stars</strong>: When a high-mass star goes supernova, the core that remains can be crushed into an incredibly dense object called a neutron star. Imagine a star more massive than the Sun compressed into a sphere just 20 kilometers across. The densities involved are so extreme that a sugar-cube-sized amount of neutron star material would weigh as much as a mountain! Neutron stars also have some fascinating properties: many rotate extremely rapidly, and as they spin, they emit beams of radiation from their magnetic poles. When these beams sweep past Earth, we detect them as pulses of light, which is why these neutron stars are known as <strong>pulsars</strong>.</li>
+</ol>
+<div class="alert alert-block alert-warning">
+<h4>Did you know?</h4> A neutron star has a density so extreme that a sugar-cube-sized amount of its material would weigh as much as a mountain.
+</div>
+<ol start="3">
+<li><strong>Black Holes</strong>: For the most massive stars, even neutron stars are not dense enough to contain their cores after a supernova. The core collapses further, forming a <strong>black hole</strong>—a region of space where gravity is so strong that not even light can escape. These enigmatic objects warp space and time around them, and while we cannot see black holes directly, we can observe their effects on nearby matter. Gas and dust falling into a black hole are heated to extreme temperatures and emit X-rays, providing a glimpse of these mysterious cosmic objects. Black holes can continue to grow over time by swallowing up surrounding matter, merging with other black holes, or both, creating even more massive versions known as <strong>supermassive black holes</strong> found at the centers of galaxies.</li>
+</ol>
+<img alt="Black Hole" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit3/figures/blackhole.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
 <hr/>
 <h2 id="Check-Your-Understanding">Check Your Understanding<a class="anchor-link" href="#Check-Your-Understanding">¶</a></h2><ol>
-<li><strong>Brightness</strong>: Other than the distance to a star, what characteristics of a star do you think would make it more or less bright to us?
+<li><p><strong>Mass and Evolution</strong>: How does the initial mass of a star determine its life cycle and final fate?
+<br/><br/></p>
+</li>
+<li><p><strong>Fusion Processes</strong>: Why do more massive stars undergo faster fusion processes, leading to shorter lifespans?
+<br/><br/></p>
+</li>
+<li><p><strong>H-R Diagram</strong>: How can the Hertzsprung-Russell Diagram be used to track the life cycle of a star?
+<br/><br/></p>
+</li>
+<li><p><strong>Supernovae</strong>: What conditions lead to a supernova explosion, and what determines whether the remnant will be a neutron star or a black hole?
+<br/><br/></p>
+</li>
+<li><p><strong>Main Sequence Trends</strong>: Describe how the mass, luminosity, surface temperature, and radius of main-sequence stars change in value going from the “bottom” to the “top” of the main sequence.
+<br/><br/></p>
+</li>
+<li><p><strong>Spectral Data Analysis</strong>: Review the spectral data for the five stars in the table below:</p>
+<p>| <strong>Star</strong> | <strong>Spectrum</strong>      |
+|:--------:|:-----------------:|
+| 1        | G, main sequence  |
+| 2        | K, giant          |
+| 3        | K, main sequence  |
+| 4        | O, main sequence  |
+| 5        | M, main sequence  |</p>
+<ul>
+<li>Which is the hottest? Coolest? Most luminous? Least luminous? In each case, give your reasoning.
 <br/><br/></li>
-<li><strong>Flux and Luminosity</strong>: Given a star with a luminosity of \( 4 \times 10^{26} \) watts and a distance of 2 parsecs, calculate the flux received on Earth.
-<br/><br/></li>
-<li><strong>Magnitude Scale</strong> Use the Magnitude Scale equation below to explain why a magnitude 2 compared to a magnitude 5 star is about 16 times brighter.</li>
+</ul>
+</li>
+<li><p><strong>Type-M Star</strong>: An astronomer discovers a type-M star with a large luminosity. How is this possible? What kind of star is it?
+<br/><br/></p>
+</li>
+<li><p><strong>Betelgeuse Density</strong>: Betelgeuse has a radius of 0.75 billion kilometers and a mass that is 15 times that of the Sun, how would its average density compare to that of the Sun? Use the definition of density, \( \text{density} = \frac{\text{mass}}{\text{volume}} \), where the volume is that of a sphere.
+<br/><br/></p>
+</li>
+<li><p><strong>Main Sequence Evolution</strong>: How do stars typically “move” through the main sequence band on an H–R diagram? Why?
+<br/><br/></p>
+</li>
 </ol>
-<blockquote>
-<p>\[ m_1 - m_2 = -2.5 \log_{10} \left( \frac{F_1}{F_2} \right) \]</p>
-</blockquote>
-<ol start="4">
-<li><strong>Absolute Magnitude</strong>: If a star has an apparent magnitude of 7 and is located 50 parsecs away, what is its absolute magnitude?
-<br/><br/></li>
-<li><strong>Apparent Brightness</strong>: Two stars have apparent magnitudes of 3 and 5. Calculate the ratio of their fluxes (<em>i.e.</em> \(\frac{F_2}{F_1}\)).
-<br/><br/></li>
-<li><strong>Distance Modulus</strong>: Calculate the distance to a star with an apparent magnitude of 10 and an absolute magnitude of 2.
-<br/><br/></li>
-<li><strong>Flux</strong>: At what distance from a 100-W light bulb is the radiant flux equal to the solar irradiance?
-<br/><br/></li>
-<li><strong>Algebra Challenge</strong>: Derive the relation</li>
-</ol>
-<blockquote>
-<p>\[m = M_{Sun} − 2.5 \log_{10}(\frac{F}{F_{10,Sun}})\]</p>
-</blockquote>
-<p>where \(M_{Sun}\) is the absolute magnitude of the Sun and \(F_{10,Sun}\) is the flux received from the Sun if it were 10 parsecs away from the observer.</p>
 <hr/>
-<h3 id="Resources">Resources<a class="anchor-link" href="#Resources">¶</a></h3><ul>
+<h2 id="Resources">Resources<a class="anchor-link" href="#Resources">¶</a></h2><ul>
 <li>Astronomy (2016). Andrew Fraknoi, David Morrison, and Sidney C. Wolff.</li>
-<li>An Introduction to Modern Astrophysics (2017). Bradley W. Carroll and Dale A. Ostlie.</li>
+<li>Foundations of Astrophysics (2010). Barbara Ryden, Bradley M. Peterson.</li>
 </ul>
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=a0958c60-3f33-4d85-bd55-4c27ac369acb">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=d1777a5f-e111-4ae5-82dc-a4d82b38bdd7">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>

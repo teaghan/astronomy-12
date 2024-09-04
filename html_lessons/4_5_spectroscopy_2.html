@@ -3,7 +3,7 @@
 <html lang="en">
 <head><meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>1_4_brightness</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>4_5_spectroscopy_2</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <style type="text/css">
     pre { line-height: 125%; }
 td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }
@@ -7293,9 +7293,6 @@ a.anchor-link {
 </style>
 
 
-
-
-
 <!-- Load mathjax -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS_CHTML-full,Safe"> </script>
 <!-- MathJax configuration -->
@@ -7323,9 +7320,6 @@ a.anchor-link {
     MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
 </script>
 <!-- End of mathjax configuration --><script type="module">
-
-
-
 
 
   document.addEventListener("DOMContentLoaded", async () => {
@@ -7513,176 +7507,21 @@ a.anchor-link {
 <!-- End of mermaid configuration --></head>
 <body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
 <main>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=522ba052-44ea-492a-a03e-0a1a2d22ef1b">
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=be5db47e">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h1 id="1.4-The-Brightness-of-Stars">1.4 The Brightness of Stars<a class="anchor-link" href="#1.4-The-Brightness-of-Stars">¶</a></h1><h2 id="Introduction">Introduction<a class="anchor-link" href="#Introduction">¶</a></h2><p>Have you ever gazed up at the night sky and wondered why some stars shine brighter than others? The study of stellar brightness not only allows us to appreciate the beauty of the cosmos but also provides crucial information about the stars themselves. In this lesson, we'll explore how astronomers measure the brightness of stars, the physics behind their luminosity, and the historical context of the magnitude scale.</p>
-<div class="alert alert-block alert-success">
-<h4>Video</h4>
-<p>Watch <a href="https://youtu.be/JIXFXGiDa4Y?si=x7IidSPRQEKKfjgL" target="_blank">this video</a> for an excellent overview of the brightness of stars, including practical examples and historical context.</p>
-</div>
-<hr/>
-<h3 id="Flux-and-Luminosity">Flux and Luminosity<a class="anchor-link" href="#Flux-and-Luminosity">¶</a></h3><p>To understand stellar brightness, we first need to define a few key concepts: flux and luminosity.</p>
-<p><strong>Flux</strong> is the amount of light energy received per unit area per unit time. Imagine standing under a streetlamp at night. The light that hits you is the flux.</p>
-<p><strong>Luminosity</strong>, on the other hand, is the total amount of energy a star emits per unit time. Think of it as the star's total power output.</p>
-<h3 id="The-Inverse-Square-Law">The Inverse Square Law<a class="anchor-link" href="#The-Inverse-Square-Law">¶</a></h3><p>As light travels from a star, it spreads out over an ever-increasing area. This spreading out follows the <strong>Inverse Square Law</strong>, which states that the flux decreases with the square of the distance from the source. Mathematically, we express this as:</p>
-<blockquote>
-<p>\[ F = \frac{L}{4\pi r^2} \]</p>
-</blockquote>
-<p>where:</p>
-<ul>
-<li>\(F\) is the flux (in watts per square meter, \(\text{W/m}^2\)),</li>
-<li>\(L\) is the luminosity (in watts, \(\text{W}\)),</li>
-<li>\(r\) is the distance from the star (in meters, \(\text{m}\)).</li>
-</ul>
-<blockquote>
-<p>This law explains why stars appear dimmer the farther away they are. It's not because they're less powerful, but because their light spreads out over a larger area.</p>
-</blockquote>
-<img alt="Inverse Square Law" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit1/figures/inv_sq_law.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
-<div class="alert alert-block alert-warning">
-<b>Example:</b> Calculating the Solar Flux at Different Distances
-</div>
-<blockquote>
-<p>The luminosity of the Sun is \( 3.839 \times 10^{26} \) W and is at a distance of 1 AU (astronomical unit) away from Earth, which is \( 1.496 \times 10^{11} \) meters.</p>
-<p>Earth receives a radiant flux above its absorbing atmosphere given by:</p>
-<blockquote>
-<p>\[ F = \frac{L}{4\pi r^2} \]</p>
-<p>\[ F = \frac{3.839 \times 10^{26}}{4\pi (1.496 \times 10^{11})^2} \]</p>
-<p>\[ F \approx 1365 \, \text{W/m}^2 \]</p>
-</blockquote>
-<p>This value of the solar flux is known as the <strong>solar irradiance</strong>, sometimes also called the solar constant.</p>
-</blockquote>
-<hr/>
-<h2 id="Apparent-Brightness-and-the-Magnitude-Scale">Apparent Brightness and the Magnitude Scale<a class="anchor-link" href="#Apparent-Brightness-and-the-Magnitude-Scale">¶</a></h2><h3 id="Apparent-Magnitude">Apparent Magnitude<a class="anchor-link" href="#Apparent-Magnitude">¶</a></h3><p>The <strong>apparent magnitude</strong> of a star is a measure of its brightness as seen from Earth. This concept is crucial because it takes into account both the intrinsic luminosity of the star and its distance from us.</p>
-<h3 id="Historical-Background-of-the-Magnitude-Scale">Historical Background of the Magnitude Scale<a class="anchor-link" href="#Historical-Background-of-the-Magnitude-Scale">¶</a></h3><p>The magnitude scale dates back to the ancient Greek astronomer Hipparchus, who classified stars according to their apparent brightness. This system was refined by Ptolemy and later standardized to a logarithmic scale, where a difference of 5 magnitudes corresponds to a factor of 100 in brightness.</p>
-<p>The logarithmic nature of the scale is represented by:</p>
-<blockquote>
-<p>\[ m_1 - m_2 = -2.5 \log_{10} \left( \frac{F_1}{F_2} \right) \]</p>
-</blockquote>
-<p>where \( m_1 \) and \( m_2 \) are the magnitudes of two stars, and \( F_1 \) and \( F_2 \) are their respective fluxes.</p>
-<p>Another way to write this equation is:</p>
-<blockquote>
-<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{m_1 - m_2} \]</p>
-</blockquote>
-<p>which allows us to compare the flux of two objects (and the flux is what we would typically call "brightness" in every day conversation).</p>
-<blockquote>
-<p>The star Vega was historically used as the standard for apparent magnitude, set at 0. Modern measurements have slightly adjusted this value, but Vega remains a key reference point in the magnitude system.</p>
-</blockquote>
-<div class="alert alert-block alert-info">
-<b>Recall:</b> A logarithm is a mathematical operator that tells us the power to which a base number must be raised to obtain a given number. When the base is not specified, it is assumed to be 10.
-</div>
-<blockquote>
-<p>For example, \( \log_{10}(100) = 2 \) because \( 10^2 = 100 \).</p>
-</blockquote>
-<p>Logarithmic scales are used in astronomy to manage the huge differences in the brightness and distances of celestial objects.</p>
-<img alt="Apparent Magnitudes of Well-Known Objects" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit1/figures/Apparent_Magnitudes.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
-<div class="alert alert-block alert-warning">
-<b>Example:</b> Suppose an astronomer has discovered something special about a dim star with a magnitude of 8.5 and wants to explain how much dimmer this star is compared to Sirius. We'll use the dim star as Star 1 and Sirius as Star 2 in our equation.
-</div>
-<blockquote>
-<p>Given:</p>
-<blockquote>
-<p>Dim star magnitude, \( m_1 = 8.5 \)</p>
-<p>Sirius magnitude, \( m_2 = -1.5 \)</p>
-</blockquote>
-<p>Solution:</p>
-<blockquote>
-<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{8.5 - (-1.5)} \]</p>
-<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{10} \]</p>
-<p>\[ \frac{F_2}{F_1} = (100)^2 = 100 \times 100 = 10,000 \]</p>
-<p>Therefore, the dim star is 10,000 times dimmer than Sirius.</p>
-</blockquote>
-</blockquote>
-<div class="alert alert-block alert-warning">
-<b>Example:</b> It is a common misconception that Polaris (magnitude 2.0) is the brightest star in the sky. However, Sirius, with a magnitude of -1.5, holds that title. Let's compare the apparent brightness of Sirius to Polaris.
-</div>
-<blockquote>
-<p>Given:</p>
-<blockquote>
-<p>Polaris magnitude, \( m_1 = 2.0 \)</p>
-<p>Sirius magnitude, \( m_2 = -1.5 \)</p>
-</blockquote>
-<p>Solution:</p>
-<blockquote>
-<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{2.0 - (-1.5)} \]</p>
-<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{3.5} \]</p>
-<p>\[ \frac{F_2}{F_1} = 100^{0.7} = 25 \]</p>
-</blockquote>
-<p>Our calculation shows that Sirius’ apparent brightness is 25 times greater than Polaris’ apparent brightness.</p>
-</blockquote>
-<hr/>
-<h2 id="Absolute-Magnitude">Absolute Magnitude<a class="anchor-link" href="#Absolute-Magnitude">¶</a></h2><p>Absolute magnitude is the apparent magnitude (brightness) a star would have if it were placed at a standard distance of 10 parsecs from Earth. This standardization allows astronomers to compare the true brightness of stars without the confounding effect of distance.</p>
-<p>The relationship between a star's absolute magnitude \( M \), apparent magnitude \( m \), and distance \( d \) in parsecs is given by:</p>
-<blockquote>
-<p>\[ M = m + 5 - 5 \log_{10}(d) \]</p>
-</blockquote>
-<hr/>
-<h2 id="Distance-Modulus">Distance Modulus<a class="anchor-link" href="#Distance-Modulus">¶</a></h2><h3 id="Explanation-of-Distance-Modulus">Explanation of Distance Modulus<a class="anchor-link" href="#Explanation-of-Distance-Modulus">¶</a></h3><p>The <strong>distance modulus</strong> provides a way to calculate the distance to a star based on its apparent and absolute magnitudes. The formula is:</p>
-<blockquote>
-<p>\[ m - M = 5 \log_{10}(d) - 5 \]</p>
-</blockquote>
-<p>where:</p>
-<ul>
-<li>\( m \) is the apparent magnitude,</li>
-<li>\( M \) is the absolute magnitude,</li>
-<li>\( d \) is the distance in parsecs.</li>
-</ul>
-<p>This equation is incredibly useful for determining stellar distances, making it a cornerstone of astronomical measurement.</p>
-<div class="alert alert-block alert-warning">
-<b>Example:</b> Calculating the Absolute Magnitude of the Sun
-</div>
-<blockquote>
-<p>The apparent magnitude of the Sun, \( m_{\text{Sun}} \), is \( -26.83 \), and its distance from Earth is 1 AU, which is \( 4.848 \times 10^{-6} \) parsecs. Using the formula for absolute magnitude:</p>
-<p>\[ M_{\text{Sun}} = m_{\text{Sun}} - 5 \log_{10}(d) + 5 \]</p>
-<p>we can calculate the absolute magnitude of the Sun.</p>
-<p>\[ M_{\text{Sun}} = m_{\text{Sun}} - 5 \log_{10}(d) + 5 \]</p>
-<p>\[ M_{\text{Sun}} = -26.83 - 5 \log_{10}(4.848 \times 10^{-6}) + 5 \]</p>
-<p>Since \( \log_{10}(4.848 \times 10^{-6}) \approx -5.315 \):</p>
-<p>\[ M_{\text{Sun}} = -26.83 - 5(-5.315) + 5 \]</p>
-<p>\[ M_{\text{Sun}} = -26.83 + 26.575 + 5 \]</p>
-<p>\[ M_{\text{Sun}} = 4.74 \]</p>
-<blockquote>
-<p>Thus, the absolute magnitude of the Sun is \( +4.74 \).</p>
-</blockquote>
-</blockquote>
-<hr/>
-<h2 id="Check-Your-Understanding">Check Your Understanding<a class="anchor-link" href="#Check-Your-Understanding">¶</a></h2><ol>
-<li><strong>Brightness</strong>: Other than the distance to a star, what characteristics of a star do you think would make it more or less bright to us?
-<br/><br/></li>
-<li><strong>Flux and Luminosity</strong>: Given a star with a luminosity of \( 4 \times 10^{26} \) watts and a distance of 2 parsecs, calculate the flux received on Earth.
-<br/><br/></li>
-<li><strong>Magnitude Scale</strong> Use the Magnitude Scale equation below to explain why a magnitude 2 compared to a magnitude 5 star is about 16 times brighter.</li>
-</ol>
-<blockquote>
-<p>\[ m_1 - m_2 = -2.5 \log_{10} \left( \frac{F_1}{F_2} \right) \]</p>
-</blockquote>
-<ol start="4">
-<li><strong>Absolute Magnitude</strong>: If a star has an apparent magnitude of 7 and is located 50 parsecs away, what is its absolute magnitude?
-<br/><br/></li>
-<li><strong>Apparent Brightness</strong>: Two stars have apparent magnitudes of 3 and 5. Calculate the ratio of their fluxes (<em>i.e.</em> \(\frac{F_2}{F_1}\)).
-<br/><br/></li>
-<li><strong>Distance Modulus</strong>: Calculate the distance to a star with an apparent magnitude of 10 and an absolute magnitude of 2.
-<br/><br/></li>
-<li><strong>Flux</strong>: At what distance from a 100-W light bulb is the radiant flux equal to the solar irradiance?
-<br/><br/></li>
-<li><strong>Algebra Challenge</strong>: Derive the relation</li>
-</ol>
-<blockquote>
-<p>\[m = M_{Sun} − 2.5 \log_{10}(\frac{F}{F_{10,Sun}})\]</p>
-</blockquote>
-<p>where \(M_{Sun}\) is the absolute magnitude of the Sun and \(F_{10,Sun}\) is the flux received from the Sun if it were 10 parsecs away from the observer.</p>
-<hr/>
-<h3 id="Resources">Resources<a class="anchor-link" href="#Resources">¶</a></h3><ul>
-<li>Astronomy (2016). Andrew Fraknoi, David Morrison, and Sidney C. Wolff.</li>
-<li>An Introduction to Modern Astrophysics (2017). Bradley W. Carroll and Dale A. Ostlie.</li>
+<h1 id="4.5-Spectroscopy-II:-Applications-of-Spectroscopy">4.5 Spectroscopy II: Applications of Spectroscopy<a class="anchor-link" href="#4.5-Spectroscopy-II:-Applications-of-Spectroscopy">¶</a></h1><ul>
+<li><strong>Identifying Elements in Stars</strong>: How spectroscopy is used to identify the chemical composition of stars.</li>
+<li><strong>Measuring Stellar Velocities</strong>: Discussion of the Doppler effect and how radial velocity measurements are used to study stellar motion and detect exoplanets.</li>
+<li><strong>The Science of Spectroscopy</strong>: Overview of line lists, catalogs of spectral lines, and how they are used in practical spectroscopic analysis.</li>
 </ul>
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=a0958c60-3f33-4d85-bd55-4c27ac369acb">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=5e5eccab-17a9-4543-8219-31b8feb8695e">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>

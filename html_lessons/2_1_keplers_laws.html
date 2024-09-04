@@ -3,7 +3,7 @@
 <html lang="en">
 <head><meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>1_4_brightness</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>2_1_keplers_laws</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <style type="text/css">
     pre { line-height: 125%; }
 td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }
@@ -7295,7 +7295,6 @@ a.anchor-link {
 
 
 
-
 <!-- Load mathjax -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS_CHTML-full,Safe"> </script>
 <!-- MathJax configuration -->
@@ -7323,7 +7322,6 @@ a.anchor-link {
     MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
 </script>
 <!-- End of mathjax configuration --><script type="module">
-
 
 
 
@@ -7513,176 +7511,238 @@ a.anchor-link {
 <!-- End of mermaid configuration --></head>
 <body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
 <main>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=522ba052-44ea-492a-a03e-0a1a2d22ef1b">
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=b941b77f-bcd7-442f-b1d6-ced02ee01ec7">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h1 id="1.4-The-Brightness-of-Stars">1.4 The Brightness of Stars<a class="anchor-link" href="#1.4-The-Brightness-of-Stars">¶</a></h1><h2 id="Introduction">Introduction<a class="anchor-link" href="#Introduction">¶</a></h2><p>Have you ever gazed up at the night sky and wondered why some stars shine brighter than others? The study of stellar brightness not only allows us to appreciate the beauty of the cosmos but also provides crucial information about the stars themselves. In this lesson, we'll explore how astronomers measure the brightness of stars, the physics behind their luminosity, and the historical context of the magnitude scale.</p>
+<h1 id="2.1-Kepler's-Laws:-The-Story-of-Planetary-Motion">2.1 Kepler's Laws: The Story of Planetary Motion<a class="anchor-link" href="#2.1-Kepler's-Laws:-The-Story-of-Planetary-Motion">¶</a></h1><hr/>
+<h4 id="Introduction">Introduction<a class="anchor-link" href="#Introduction">¶</a></h4><p>Today we will uncover the story of Kepler's Laws of Planetary Motion. These laws revolutionized our understanding of the solar system and laid the foundation for modern astronomy.</p>
 <div class="alert alert-block alert-success">
 <h4>Video</h4>
-<p>Watch <a href="https://youtu.be/JIXFXGiDa4Y?si=x7IidSPRQEKKfjgL" target="_blank">this video</a> for an excellent overview of the brightness of stars, including practical examples and historical context.</p>
+<p>Watch <a href="https://www.youtube.com/watch?v=Dvoe8Ib5D1o" target="_blank">this video</a> for an overview of Kepler's Laws of Planetary Motion.</p>
 </div>
 <hr/>
-<h3 id="Flux-and-Luminosity">Flux and Luminosity<a class="anchor-link" href="#Flux-and-Luminosity">¶</a></h3><p>To understand stellar brightness, we first need to define a few key concepts: flux and luminosity.</p>
-<p><strong>Flux</strong> is the amount of light energy received per unit area per unit time. Imagine standing under a streetlamp at night. The light that hits you is the flux.</p>
-<p><strong>Luminosity</strong>, on the other hand, is the total amount of energy a star emits per unit time. Think of it as the star's total power output.</p>
-<h3 id="The-Inverse-Square-Law">The Inverse Square Law<a class="anchor-link" href="#The-Inverse-Square-Law">¶</a></h3><p>As light travels from a star, it spreads out over an ever-increasing area. This spreading out follows the <strong>Inverse Square Law</strong>, which states that the flux decreases with the square of the distance from the source. Mathematically, we express this as:</p>
-<blockquote>
-<p>\[ F = \frac{L}{4\pi r^2} \]</p>
-</blockquote>
-<p>where:</p>
-<ul>
-<li>\(F\) is the flux (in watts per square meter, \(\text{W/m}^2\)),</li>
-<li>\(L\) is the luminosity (in watts, \(\text{W}\)),</li>
-<li>\(r\) is the distance from the star (in meters, \(\text{m}\)).</li>
-</ul>
-<blockquote>
-<p>This law explains why stars appear dimmer the farther away they are. It's not because they're less powerful, but because their light spreads out over a larger area.</p>
-</blockquote>
-<img alt="Inverse Square Law" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit1/figures/inv_sq_law.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
-<div class="alert alert-block alert-warning">
-<b>Example:</b> Calculating the Solar Flux at Different Distances
-</div>
-<blockquote>
-<p>The luminosity of the Sun is \( 3.839 \times 10^{26} \) W and is at a distance of 1 AU (astronomical unit) away from Earth, which is \( 1.496 \times 10^{11} \) meters.</p>
-<p>Earth receives a radiant flux above its absorbing atmosphere given by:</p>
-<blockquote>
-<p>\[ F = \frac{L}{4\pi r^2} \]</p>
-<p>\[ F = \frac{3.839 \times 10^{26}}{4\pi (1.496 \times 10^{11})^2} \]</p>
-<p>\[ F \approx 1365 \, \text{W/m}^2 \]</p>
-</blockquote>
-<p>This value of the solar flux is known as the <strong>solar irradiance</strong>, sometimes also called the solar constant.</p>
-</blockquote>
+<h3 id="Historical-Context">Historical Context<a class="anchor-link" href="#Historical-Context">¶</a></h3><h4 id="Johannes-Kepler:-The-Mathematician-of-the-Heavens">Johannes Kepler: The Mathematician of the Heavens<a class="anchor-link" href="#Johannes-Kepler:-The-Mathematician-of-the-Heavens">¶</a></h4><p>Johannes Kepler was a German mathematician and astronomer who lived in the late 16th and early 17th centuries. Born in 1571, Kepler is best known for formulating the three laws of planetary motion, which described the orbits of planets around the Sun with unprecedented accuracy.</p>
+<h4 id="Tycho-Brahe:-The-Observational-Genius">Tycho Brahe: The Observational Genius<a class="anchor-link" href="#Tycho-Brahe:-The-Observational-Genius">¶</a></h4><p>Tycho Brahe, a Danish nobleman, was a meticulous observer of the stars and planets. His detailed astronomical data provided the foundation upon which Kepler built his laws. Brahe's observations were the most accurate of his time, and his collaboration with Kepler was crucial to the development of the laws of planetary motion.</p>
+<h4 id="The-Copernican-Revolution">The Copernican Revolution<a class="anchor-link" href="#The-Copernican-Revolution">¶</a></h4><p>The heliocentric model proposed by Nicolaus Copernicus placed the Sun at the center of the solar system, challenging the long-held geocentric model. Kepler's laws provided the mathematical evidence needed to support Copernicus's revolutionary idea, cementing the heliocentric model as the correct representation of our solar system.</p>
 <hr/>
-<h2 id="Apparent-Brightness-and-the-Magnitude-Scale">Apparent Brightness and the Magnitude Scale<a class="anchor-link" href="#Apparent-Brightness-and-the-Magnitude-Scale">¶</a></h2><h3 id="Apparent-Magnitude">Apparent Magnitude<a class="anchor-link" href="#Apparent-Magnitude">¶</a></h3><p>The <strong>apparent magnitude</strong> of a star is a measure of its brightness as seen from Earth. This concept is crucial because it takes into account both the intrinsic luminosity of the star and its distance from us.</p>
-<h3 id="Historical-Background-of-the-Magnitude-Scale">Historical Background of the Magnitude Scale<a class="anchor-link" href="#Historical-Background-of-the-Magnitude-Scale">¶</a></h3><p>The magnitude scale dates back to the ancient Greek astronomer Hipparchus, who classified stars according to their apparent brightness. This system was refined by Ptolemy and later standardized to a logarithmic scale, where a difference of 5 magnitudes corresponds to a factor of 100 in brightness.</p>
-<p>The logarithmic nature of the scale is represented by:</p>
+<h3 id="Kepler%E2%80%99s-Laws-of-Planetary-Motion">Kepler’s Laws of Planetary Motion<a class="anchor-link" href="#Kepler%E2%80%99s-Laws-of-Planetary-Motion">¶</a></h3><h4 id="First-Law-(Law-of-Ellipses)">First Law (Law of Ellipses)<a class="anchor-link" href="#First-Law-(Law-of-Ellipses)">¶</a></h4><p>Imagine a time when the prevailing belief was that planets orbited the Earth in perfect circles. This view dominated until Johannes Kepler, through meticulous analysis of Tycho Brahe's precise observations, discovered something remarkable. Kepler found that the planets, including our Earth, do not travel in perfect circles but rather in ellipses—an elegant, stretched circle.</p>
 <blockquote>
-<p>\[ m_1 - m_2 = -2.5 \log_{10} \left( \frac{F_1}{F_2} \right) \]</p>
+<p><strong>Kepler's First Law</strong> states that planets move in elliptical orbits with the Sun at one focus.</p>
 </blockquote>
-<p>where \( m_1 \) and \( m_2 \) are the magnitudes of two stars, and \( F_1 \) and \( F_2 \) are their respective fluxes.</p>
-<p>Another way to write this equation is:</p>
-<blockquote>
-<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{m_1 - m_2} \]</p>
-</blockquote>
-<p>which allows us to compare the flux of two objects (and the flux is what we would typically call "brightness" in every day conversation).</p>
-<blockquote>
-<p>The star Vega was historically used as the standard for apparent magnitude, set at 0. Modern measurements have slightly adjusted this value, but Vega remains a key reference point in the magnitude system.</p>
-</blockquote>
+<p>An ellipse has a unique shape characterized by two focal points (foci). For planetary orbits, one of these foci is occupied by the Sun. The degree of this "stretching" is determined by the eccentricity of the ellipse. An eccentricity of 0 indicates a perfect circle, while values approaching 1 indicate increasingly elongated shapes. This breakthrough explained the varying distances between the planets and the Sun, a phenomenon that could not be reconciled with circular orbits.</p>
+<img alt="Ellipse" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit2/figures/ellipse.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
 <div class="alert alert-block alert-info">
-<b>Recall:</b> A logarithm is a mathematical operator that tells us the power to which a base number must be raised to obtain a given number. When the base is not specified, it is assumed to be 10.
+<b>Tip:</b> Remember, an ellipse has two foci. For planetary orbits, one of these foci is occupied by the Sun.
 </div>
+<p>Kepler's First Law shattered the long-held notion of circular orbits and paved the way for a deeper understanding of celestial mechanics. It was a testament to the power of careful observation and the willingness to challenge established beliefs.</p>
+<img alt="Orbits of the Planets" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit2/figures/7_3.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
+<h4 id="Second-Law-(Law-of-Equal-Areas)">Second Law (Law of Equal Areas)<a class="anchor-link" href="#Second-Law-(Law-of-Equal-Areas)">¶</a></h4><p>Kepler found that, when a planet was moving along its elliptical path, it accelerated as it got closer to the Sun, covering a greater distance in a shorter time. Conversely, when it was further away from the Sun, it slowed down. Kepler’s Second Law captures this beautifully by asserting that the imaginary line connecting a planet to the Sun sweeps out equal areas in equal time periods, regardless of where the planet is in its orbit.</p>
 <blockquote>
-<p>For example, \( \log_{10}(100) = 2 \) because \( 10^2 = 100 \).</p>
+<p><strong>Kepler's Second Law</strong> states that a line segment joining a planet and the Sun sweeps out equal areas during equal intervals of time.</p>
 </blockquote>
-<p>Logarithmic scales are used in astronomy to manage the huge differences in the brightness and distances of celestial objects.</p>
-<img alt="Apparent Magnitudes of Well-Known Objects" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit1/figures/Apparent_Magnitudes.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
-<div class="alert alert-block alert-warning">
-<b>Example:</b> Suppose an astronomer has discovered something special about a dim star with a magnitude of 8.5 and wants to explain how much dimmer this star is compared to Sirius. We'll use the dim star as Star 1 and Sirius as Star 2 in our equation.
+<img alt="Kepler's Second Law: The Law of Equal Areas" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit2/figures/3_5.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
+<p>For instance, when Earth is at perihelion (the point closest to the Sun), it travels faster, zipping through its orbit. When it reaches aphelion (the point farthest from the Sun), its pace slows. This variation in speed explained why planets appeared to change their velocity as observed from Earth—an observation that had puzzled astronomers for centuries.</p>
+<p>Kepler's Second Law not only provided insights into planetary motion but also hinted at the gravitational forces at play, a concept that would later be fully developed by Sir Isaac Newton.</p>
+<h4 id="Third-Law-(Law-of-Harmonies)">Third Law (Law of Harmonies)<a class="anchor-link" href="#Third-Law-(Law-of-Harmonies)">¶</a></h4><p>Kepler also found that there is a precise mathematical relationship between the time a planet takes to orbit the Sun (its orbital period) and the size of its orbit (the semi-major axis). Specifically, the square of a planet’s orbital period is proportional to the cube of the semi-major axis of its orbit.</p>
+<blockquote>
+<p><strong>Kepler's Third Law</strong> states that the square of the orbital period of a planet is proportional to the cube of the semi-major axis of its orbit.</p>
+</blockquote>
+<p>Mathematically, this can be written as:</p>
+<blockquote>
+<p>\[ P^2 \propto a^3 \]</p>
+</blockquote>
+<p>or</p>
+<blockquote>
+<p>\[ P^2 = k \cdot a^3 \]</p>
+</blockquote>
+<p>where \( P \) is the orbital period, \( a \) is the semi-major axis, and \( k \) is a constant.</p>
+<p>To put this in perspective, consider Earth and Mars. Earth, with a semi-major axis of 1 astronomical unit (AU), completes an orbit in one year. Mars, with a semi-major axis of about 1.52 AU, takes approximately 1.88 Earth years to complete its orbit. Plugging these values into Kepler’s formula, we find that:</p>
+<blockquote>
+<p>\[ P_{\text{Earth}}^2 = 1^2 = 1 \]
+\[ a_{\text{Earth}}^3 = 1^3 = 1 \]</p>
+<p>\[ P_{\text{Mars}}^2 \approx 1.88^2 = 3.53 \]
+\[ a_{\text{Mars}}^3 \approx 1.52^3 = 3.52 \]</p>
+</blockquote>
+<p>This near-perfect correlation between \( P^2 \) and \( a^3 \) demonstrated the universal applicability of Kepler’s Third Law across different planets, from Mercury to the distant gas giants.</p>
+<div class="alert alert-block alert-info">
+<b>Note:</b> When using Kepler's Third Law, ensure that the units are consistent. Typically, the orbital period is measured in Earth years, and the semi-major axis is measured in astronomical units (AU). This consistency is crucial for maintaining the correct proportionality and making accurate predictions. In these units, the proportionality constant, k, is equal to 1.
 </div>
-<blockquote>
-<p>Given:</p>
-<blockquote>
-<p>Dim star magnitude, \( m_1 = 8.5 \)</p>
-<p>Sirius magnitude, \( m_2 = -1.5 \)</p>
-</blockquote>
-<p>Solution:</p>
-<blockquote>
-<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{8.5 - (-1.5)} \]</p>
-<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{10} \]</p>
-<p>\[ \frac{F_2}{F_1} = (100)^2 = 100 \times 100 = 10,000 \]</p>
-<p>Therefore, the dim star is 10,000 times dimmer than Sirius.</p>
-</blockquote>
-</blockquote>
-<div class="alert alert-block alert-warning">
-<b>Example:</b> It is a common misconception that Polaris (magnitude 2.0) is the brightest star in the sky. However, Sirius, with a magnitude of -1.5, holds that title. Let's compare the apparent brightness of Sirius to Polaris.
-</div>
-<blockquote>
-<p>Given:</p>
-<blockquote>
-<p>Polaris magnitude, \( m_1 = 2.0 \)</p>
-<p>Sirius magnitude, \( m_2 = -1.5 \)</p>
-</blockquote>
-<p>Solution:</p>
-<blockquote>
-<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{2.0 - (-1.5)} \]</p>
-<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{3.5} \]</p>
-<p>\[ \frac{F_2}{F_1} = 100^{0.7} = 25 \]</p>
-</blockquote>
-<p>Our calculation shows that Sirius’ apparent brightness is 25 times greater than Polaris’ apparent brightness.</p>
-</blockquote>
+<p>Kepler's Third Law unified the celestial mechanics of our solar system, offering a powerful tool for predicting planetary positions and understanding the vast cosmic clockwork. It set the stage for Newton's laws of motion and universal gravitation, which would further explain the forces driving these harmonious motions.</p>
+<h4 id="Orbital-Data-for-the-Planets">Orbital Data for the Planets<a class="anchor-link" href="#Orbital-Data-for-the-Planets">¶</a></h4><p>To see Kepler's laws in action, let's examine the orbital data for the planets in our solar system:</p>
+<table>
+<thead>
+<tr>
+<th>Planet</th>
+<th>Semimajor Axis (AU)</th>
+<th>Period (years)</th>
+<th>Eccentricity</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mercury</td>
+<td>0.39</td>
+<td>0.24</td>
+<td>0.21</td>
+</tr>
+<tr>
+<td>Venus</td>
+<td>0.72</td>
+<td>0.6</td>
+<td>0.01</td>
+</tr>
+<tr>
+<td>Earth</td>
+<td>1.00</td>
+<td>1.00</td>
+<td>0.02</td>
+</tr>
+<tr>
+<td>Mars</td>
+<td>1.52</td>
+<td>1.88</td>
+<td>0.09</td>
+</tr>
+<tr>
+<td>(Ceres)</td>
+<td>2.77</td>
+<td>4.6</td>
+<td>0.08</td>
+</tr>
+<tr>
+<td>Jupiter</td>
+<td>5.20</td>
+<td>11.86</td>
+<td>0.05</td>
+</tr>
+<tr>
+<td>Saturn</td>
+<td>9.54</td>
+<td>29.46</td>
+<td>0.06</td>
+</tr>
+<tr>
+<td>Uranus</td>
+<td>19.19</td>
+<td>84.01</td>
+<td>0.05</td>
+</tr>
+<tr>
+<td>Neptune</td>
+<td>30.06</td>
+<td>164.82</td>
+<td>0.01</td>
+</tr>
+</tbody>
+</table>
 <hr/>
-<h2 id="Absolute-Magnitude">Absolute Magnitude<a class="anchor-link" href="#Absolute-Magnitude">¶</a></h2><p>Absolute magnitude is the apparent magnitude (brightness) a star would have if it were placed at a standard distance of 10 parsecs from Earth. This standardization allows astronomers to compare the true brightness of stars without the confounding effect of distance.</p>
-<p>The relationship between a star's absolute magnitude \( M \), apparent magnitude \( m \), and distance \( d \) in parsecs is given by:</p>
-<blockquote>
-<p>\[ M = m + 5 - 5 \log_{10}(d) \]</p>
-</blockquote>
-<hr/>
-<h2 id="Distance-Modulus">Distance Modulus<a class="anchor-link" href="#Distance-Modulus">¶</a></h2><h3 id="Explanation-of-Distance-Modulus">Explanation of Distance Modulus<a class="anchor-link" href="#Explanation-of-Distance-Modulus">¶</a></h3><p>The <strong>distance modulus</strong> provides a way to calculate the distance to a star based on its apparent and absolute magnitudes. The formula is:</p>
-<blockquote>
-<p>\[ m - M = 5 \log_{10}(d) - 5 \]</p>
-</blockquote>
-<p>where:</p>
-<ul>
-<li>\( m \) is the apparent magnitude,</li>
-<li>\( M \) is the absolute magnitude,</li>
-<li>\( d \) is the distance in parsecs.</li>
-</ul>
-<p>This equation is incredibly useful for determining stellar distances, making it a cornerstone of astronomical measurement.</p>
-<div class="alert alert-block alert-warning">
-<b>Example:</b> Calculating the Absolute Magnitude of the Sun
+<h3 id="Mathematical-Examples">Mathematical Examples<a class="anchor-link" href="#Mathematical-Examples">¶</a></h3><div class="alert alert-block alert-warning">
+<b>Example:</b> Calculate the orbital period of an object with a semimajor axis of 50 AU.
 </div>
 <blockquote>
-<p>The apparent magnitude of the Sun, \( m_{\text{Sun}} \), is \( -26.83 \), and its distance from Earth is 1 AU, which is \( 4.848 \times 10^{-6} \) parsecs. Using the formula for absolute magnitude:</p>
-<p>\[ M_{\text{Sun}} = m_{\text{Sun}} - 5 \log_{10}(d) + 5 \]</p>
-<p>we can calculate the absolute magnitude of the Sun.</p>
-<p>\[ M_{\text{Sun}} = m_{\text{Sun}} - 5 \log_{10}(d) + 5 \]</p>
-<p>\[ M_{\text{Sun}} = -26.83 - 5 \log_{10}(4.848 \times 10^{-6}) + 5 \]</p>
-<p>Since \( \log_{10}(4.848 \times 10^{-6}) \approx -5.315 \):</p>
-<p>\[ M_{\text{Sun}} = -26.83 - 5(-5.315) + 5 \]</p>
-<p>\[ M_{\text{Sun}} = -26.83 + 26.575 + 5 \]</p>
-<p>\[ M_{\text{Sun}} = 4.74 \]</p>
-<blockquote>
-<p>Thus, the absolute magnitude of the Sun is \( +4.74 \).</p>
-</blockquote>
-</blockquote>
-<hr/>
-<h2 id="Check-Your-Understanding">Check Your Understanding<a class="anchor-link" href="#Check-Your-Understanding">¶</a></h2><ol>
-<li><strong>Brightness</strong>: Other than the distance to a star, what characteristics of a star do you think would make it more or less bright to us?
-<br/><br/></li>
-<li><strong>Flux and Luminosity</strong>: Given a star with a luminosity of \( 4 \times 10^{26} \) watts and a distance of 2 parsecs, calculate the flux received on Earth.
-<br/><br/></li>
-<li><strong>Magnitude Scale</strong> Use the Magnitude Scale equation below to explain why a magnitude 2 compared to a magnitude 5 star is about 16 times brighter.</li>
+<p><strong>Solution</strong>:</p>
+<ol>
+<li><strong>Formula</strong>: Kepler's Third Law relates the square of the orbital period (\(P\)) to the cube of the semimajor axis (\(a\)):
+\[
+P^2 = a^3
+\]</li>
+<li><strong>Substitute the Given Value</strong>: \(a = 50 \text{ AU}\)
+\[
+P^2 = 50^3
+\]
+\[
+P^2 = 125000
+\]</li>
+<li><strong>Solve for \(P\)</strong>:
+\[
+P = \sqrt{125000}
+\]
+\[
+P \approx 353.55 \text{ years}
+\]</li>
 </ol>
 <blockquote>
-<p>\[ m_1 - m_2 = -2.5 \log_{10} \left( \frac{F_1}{F_2} \right) \]</p>
+<p>Therefore, the orbital period of an object with a semimajor axis of 50 AU is approximately 353.55 years.</p>
 </blockquote>
-<ol start="4">
-<li><strong>Absolute Magnitude</strong>: If a star has an apparent magnitude of 7 and is located 50 parsecs away, what is its absolute magnitude?
-<br/><br/></li>
-<li><strong>Apparent Brightness</strong>: Two stars have apparent magnitudes of 3 and 5. Calculate the ratio of their fluxes (<em>i.e.</em> \(\frac{F_2}{F_1}\)).
-<br/><br/></li>
-<li><strong>Distance Modulus</strong>: Calculate the distance to a star with an apparent magnitude of 10 and an absolute magnitude of 2.
-<br/><br/></li>
-<li><strong>Flux</strong>: At what distance from a 100-W light bulb is the radiant flux equal to the solar irradiance?
-<br/><br/></li>
-<li><strong>Algebra Challenge</strong>: Derive the relation</li>
+</blockquote>
+<hr/>
+<div class="alert alert-block alert-warning">
+<b>Example:</b> Verify \( P^2 \) and \( a^3 \) for Venus and Earth using given orbital periods and semimajor axes.
+</div>
+<blockquote>
+<p><strong>Solution</strong>:</p>
+<p><strong>For Venus</strong>:</p>
+<ol>
+<li><strong>Given</strong>:
+\[
+P = 0.62 \text{ years}, \quad a = 0.72 \text{ AU}
+\]</li>
+<li><strong>Calculate \(P^2\)</strong>:
+\[
+P^2 = 0.62^2 \approx 0.3844
+\]</li>
+<li><strong>Calculate \(a^3\)</strong>:
+\[
+a^3 = 0.72^3 \approx 0.3732
+\]</li>
 </ol>
 <blockquote>
-<p>\[m = M_{Sun} − 2.5 \log_{10}(\frac{F}{F_{10,Sun}})\]</p>
+<p>For Venus, \( P^2 \approx 0.3844 \) and \( a^3 \approx 0.3732 \).</p>
 </blockquote>
-<p>where \(M_{Sun}\) is the absolute magnitude of the Sun and \(F_{10,Sun}\) is the flux received from the Sun if it were 10 parsecs away from the observer.</p>
+<p><strong>For Earth</strong>:</p>
+<ol>
+<li><strong>Given</strong>:
+\[
+P = 1.00 \text{ year}, \quad a = 1.00 \text{ AU}
+\]</li>
+<li><strong>Calculate \(P^2\)</strong>:
+\[
+P^2 = 1.00^2 = 1.00
+\]</li>
+<li><strong>Calculate \(a^3\)</strong>:
+\[
+a^3 = 1.00^3 = 1.00
+\]</li>
+</ol>
+<blockquote>
+<p>For Earth, \( P^2 = 1.00 \) and \( a^3 = 1.00 \).</p>
+</blockquote>
+</blockquote>
+<hr/>
+<h3 id="Applications-and-Implications">Applications and Implications<a class="anchor-link" href="#Applications-and-Implications">¶</a></h3><h4 id="Predicting-Planetary-Positions">Predicting Planetary Positions<a class="anchor-link" href="#Predicting-Planetary-Positions">¶</a></h4><p>Kepler’s laws allow astronomers to predict the positions of planets in their orbits with great accuracy. This capability is crucial for space navigation and understanding the dynamics of our solar system.</p>
+<p>In the early 17th century, predicting the precise locations of planets was an arduous task filled with inaccuracies. Before Kepler, astronomers relied on complex systems of epicycles and deferents to explain planetary motion, a method rooted in the Ptolemaic geocentric model. However, these systems often fell short in matching observations, leading to significant errors in predictions.</p>
+<p>With the advent of Kepler's laws, the process of predicting planetary positions became not only simpler but also far more precise. Kepler's First Law clarified that planets travel in elliptical orbits, which accounted for the varying distances between planets and the Sun. His Second Law described how planets speed up and slow down in their orbits, allowing for accurate calculation of their velocities at any given point. The Third Law provided a direct relationship between a planet's orbital period and the size of its orbit, making it possible to predict how long it takes for a planet to complete one revolution around the Sun.</p>
+<p>Let’s consider the example of Mars, which was particularly puzzling to astronomers before Kepler. Using Tycho Brahe's detailed observations, Kepler determined that Mars follows an elliptical path. By applying his laws, he could predict Mars' position in the sky at any given time. This was a groundbreaking achievement that not only matched but also exceeded the accuracy of previous models.</p>
+<h4 id="Kepler%E2%80%99s-Legacy-in-Modern-Astronomy">Kepler’s Legacy in Modern Astronomy<a class="anchor-link" href="#Kepler%E2%80%99s-Legacy-in-Modern-Astronomy">¶</a></h4><p>Kepler's laws are not confined to our solar system alone. They are used to study exoplanets—planets orbiting stars other than the Sun. By observing the dimming of a star as a planet passes in front of it (a method known as the transit method), astronomers can apply Kepler's Third Law to determine the exoplanet’s orbital period and distance from its star. This has led to the discovery of thousands of exoplanets, expanding our understanding of the universe.</p>
+<h4 id="Historical-Anecdote:-Halley%E2%80%99s-Comet">Historical Anecdote: Halley’s Comet<a class="anchor-link" href="#Historical-Anecdote:-Halley%E2%80%99s-Comet">¶</a></h4><p>A fascinating historical application of Kepler’s laws involves Halley's Comet. Edmond Halley, using Kepler's laws, calculated the orbit of this famous comet and predicted its return in 1758. Although Halley did not live to see the comet's return, his prediction proved accurate, solidifying the laws' reliability in predicting celestial events. Halley's Comet continues to be a testament to the enduring power of Kepler's laws.</p>
+<hr/>
+<h3 id="Conclusion">Conclusion<a class="anchor-link" href="#Conclusion">¶</a></h3><p>Kepler’s laws revolutionized our ability to predict planetary positions with unmatched precision. From guiding early astronomers to paving the way for modern space missions and the discovery of distant worlds, these laws are a cornerstone of our understanding of the cosmos. The accuracy and elegance of Kepler's laws continue to inspire astronomers and scientists, driving humanity's quest to explore and comprehend the vast universe.</p>
+<hr/>
+<h3 id="Check-Your-Understanding">Check Your Understanding<a class="anchor-link" href="#Check-Your-Understanding">¶</a></h3><ol>
+<li>According to Kepler’s second law, where in a planet’s orbit would it be moving fastest? Where would it be
+moving slowest?
+<br/><br/></li>
+<li>Pluto’s orbit is more eccentric than any of the major planets. What does that mean?
+<br/><br/></li>
+<li>What is the average distance from the Sun (in astronomical units) of an asteroid with an orbital period of
+8 years?
+<br/><br/></li>
+<li>In 1996, astronomers discovered an icy object beyond Pluto that was given the designation 1996 TL 66. It
+has a semimajor axis of 84 AU. What is its orbital period according to Kepler’s third law?
+<br/><br/></li>
+</ol>
 <hr/>
 <h3 id="Resources">Resources<a class="anchor-link" href="#Resources">¶</a></h3><ul>
-<li>Astronomy (2016). Andrew Fraknoi, David Morrison, and Sidney C. Wolff.</li>
-<li>An Introduction to Modern Astrophysics (2017). Bradley W. Carroll and Dale A. Ostlie.</li>
+<li><strong>Astronomy (2016)</strong>. Andrew Fraknoi, David Morrison, and Sidney C. Wolff.</li>
+<li><strong>Foundations of Astrophysics (2010)</strong>. Barbara Ryden and Bradley M. Peterson.</li>
 </ul>
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=a0958c60-3f33-4d85-bd55-4c27ac369acb">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=94f9d073-6af8-4dba-9247-271ea3a1731a">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>

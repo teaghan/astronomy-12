@@ -3,7 +3,7 @@
 <html lang="en">
 <head><meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>1_4_brightness</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>2_3_circular_motion</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <style type="text/css">
     pre { line-height: 125%; }
 td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }
@@ -7295,7 +7295,6 @@ a.anchor-link {
 
 
 
-
 <!-- Load mathjax -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS_CHTML-full,Safe"> </script>
 <!-- MathJax configuration -->
@@ -7323,7 +7322,6 @@ a.anchor-link {
     MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
 </script>
 <!-- End of mathjax configuration --><script type="module">
-
 
 
 
@@ -7513,176 +7511,232 @@ a.anchor-link {
 <!-- End of mermaid configuration --></head>
 <body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
 <main>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=522ba052-44ea-492a-a03e-0a1a2d22ef1b">
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=47832148-bf5c-4c0f-974a-172348d3ffc0">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h1 id="1.4-The-Brightness-of-Stars">1.4 The Brightness of Stars<a class="anchor-link" href="#1.4-The-Brightness-of-Stars">¶</a></h1><h2 id="Introduction">Introduction<a class="anchor-link" href="#Introduction">¶</a></h2><p>Have you ever gazed up at the night sky and wondered why some stars shine brighter than others? The study of stellar brightness not only allows us to appreciate the beauty of the cosmos but also provides crucial information about the stars themselves. In this lesson, we'll explore how astronomers measure the brightness of stars, the physics behind their luminosity, and the historical context of the magnitude scale.</p>
+<h1 id="2.3-Circular-Motion">2.3 Circular Motion<a class="anchor-link" href="#2.3-Circular-Motion">¶</a></h1><h2 id="Introduction">Introduction<a class="anchor-link" href="#Introduction">¶</a></h2><p>Circular motion is a fundamental concept in astronomy, playing a crucial role in understanding the behavior of celestial bodies. When studying the orbits of planets around the Sun, moons around their planets, and artificial satellites around Earth, we observe that these objects follow curved paths. This motion is not only key to the structure of our solar system but also to the mechanics of many astronomical phenomena. In this lesson, we will delve into the principles of circular motion, examining its effects on the orbits of various celestial objects and the forces that maintain these orbits.</p>
 <div class="alert alert-block alert-success">
 <h4>Video</h4>
-<p>Watch <a href="https://youtu.be/JIXFXGiDa4Y?si=x7IidSPRQEKKfjgL" target="_blank">this video</a> for an excellent overview of the brightness of stars, including practical examples and historical context.</p>
+<p>Watch <a href="https://www.youtube.com/watch?v=5vtH1uBaoBY" target="_blank">this video</a> to get a visual introduction to the concepts of circular motion. The first half is particularly useful for our discussion; you can ignore the discussion on centrifugal force.</p>
 </div>
 <hr/>
-<h3 id="Flux-and-Luminosity">Flux and Luminosity<a class="anchor-link" href="#Flux-and-Luminosity">¶</a></h3><p>To understand stellar brightness, we first need to define a few key concepts: flux and luminosity.</p>
-<p><strong>Flux</strong> is the amount of light energy received per unit area per unit time. Imagine standing under a streetlamp at night. The light that hits you is the flux.</p>
-<p><strong>Luminosity</strong>, on the other hand, is the total amount of energy a star emits per unit time. Think of it as the star's total power output.</p>
-<h3 id="The-Inverse-Square-Law">The Inverse Square Law<a class="anchor-link" href="#The-Inverse-Square-Law">¶</a></h3><p>As light travels from a star, it spreads out over an ever-increasing area. This spreading out follows the <strong>Inverse Square Law</strong>, which states that the flux decreases with the square of the distance from the source. Mathematically, we express this as:</p>
-<blockquote>
-<p>\[ F = \frac{L}{4\pi r^2} \]</p>
-</blockquote>
-<p>where:</p>
+<h2 id="Uniform-Circular-Motion">Uniform Circular Motion<a class="anchor-link" href="#Uniform-Circular-Motion">¶</a></h2><p>Uniform circular motion occurs when an object moves along a circular path at a constant speed. Despite the constant speed, the object's velocity is continuously changing because its direction is always changing. This constant change in direction results in an acceleration towards the center of the circular path, known as centripetal acceleration.</p>
+<p><strong>Characteristics:</strong></p>
 <ul>
-<li>\(F\) is the flux (in watts per square meter, \(\text{W/m}^2\)),</li>
-<li>\(L\) is the luminosity (in watts, \(\text{W}\)),</li>
-<li>\(r\) is the distance from the star (in meters, \(\text{m}\)).</li>
+<li><strong>Constant Speed:</strong> The magnitude of the velocity remains unchanged.</li>
+<li><strong>Changing Direction:</strong> The direction of the velocity vector changes continuously.</li>
+<li><strong>Centripetal Acceleration:</strong> The acceleration is directed towards the center of the circular path.</li>
 </ul>
-<blockquote>
-<p>This law explains why stars appear dimmer the farther away they are. It's not because they're less powerful, but because their light spreads out over a larger area.</p>
-</blockquote>
-<img alt="Inverse Square Law" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit1/figures/inv_sq_law.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
-<div class="alert alert-block alert-warning">
-<b>Example:</b> Calculating the Solar Flux at Different Distances
-</div>
-<blockquote>
-<p>The luminosity of the Sun is \( 3.839 \times 10^{26} \) W and is at a distance of 1 AU (astronomical unit) away from Earth, which is \( 1.496 \times 10^{11} \) meters.</p>
-<p>Earth receives a radiant flux above its absorbing atmosphere given by:</p>
-<blockquote>
-<p>\[ F = \frac{L}{4\pi r^2} \]</p>
-<p>\[ F = \frac{3.839 \times 10^{26}}{4\pi (1.496 \times 10^{11})^2} \]</p>
-<p>\[ F \approx 1365 \, \text{W/m}^2 \]</p>
-</blockquote>
-<p>This value of the solar flux is known as the <strong>solar irradiance</strong>, sometimes also called the solar constant.</p>
-</blockquote>
+<p>For simple calculations regarding the orbits of planets, moons, satellites, and other celestial bodies, we can approximate these orbits by assuming they are in circular motion. This simplification allows us to use the principles of uniform circular motion to understand and predict their behavior.</p>
+<p><strong>Examples in Astronomy:</strong></p>
+<ul>
+<li><strong>Planets orbiting the Sun:</strong> The gravitational pull of the Sun provides the necessary centripetal force.</li>
+<li><strong>Moons orbiting planets:</strong> Moons remain in orbit due to the gravitational pull of their parent planets.</li>
+<li><strong>Satellites orbiting Earth:</strong> Artificial satellites stay in orbit due to the Earth's gravitational force.</li>
+</ul>
 <hr/>
-<h2 id="Apparent-Brightness-and-the-Magnitude-Scale">Apparent Brightness and the Magnitude Scale<a class="anchor-link" href="#Apparent-Brightness-and-the-Magnitude-Scale">¶</a></h2><h3 id="Apparent-Magnitude">Apparent Magnitude<a class="anchor-link" href="#Apparent-Magnitude">¶</a></h3><p>The <strong>apparent magnitude</strong> of a star is a measure of its brightness as seen from Earth. This concept is crucial because it takes into account both the intrinsic luminosity of the star and its distance from us.</p>
-<h3 id="Historical-Background-of-the-Magnitude-Scale">Historical Background of the Magnitude Scale<a class="anchor-link" href="#Historical-Background-of-the-Magnitude-Scale">¶</a></h3><p>The magnitude scale dates back to the ancient Greek astronomer Hipparchus, who classified stars according to their apparent brightness. This system was refined by Ptolemy and later standardized to a logarithmic scale, where a difference of 5 magnitudes corresponds to a factor of 100 in brightness.</p>
-<p>The logarithmic nature of the scale is represented by:</p>
+<h2 id="Centripetal-Force">Centripetal Force<a class="anchor-link" href="#Centripetal-Force">¶</a></h2><p>Centripetal force is the force required to keep an object moving in a circular path, directed towards the center of the circle. This force is essential because it counters the object's inertia, which would otherwise cause it to move in a straight line. The word "centripetal" comes from Latin, meaning "center-seeking," highlighting the force's direction toward the center of the circular path.</p>
 <blockquote>
-<p>\[ m_1 - m_2 = -2.5 \log_{10} \left( \frac{F_1}{F_2} \right) \]</p>
+<p>Centripetal force keeps an object moving in a circular path by constantly pulling it towards the center.</p>
 </blockquote>
-<p>where \( m_1 \) and \( m_2 \) are the magnitudes of two stars, and \( F_1 \) and \( F_2 \) are their respective fluxes.</p>
-<p>Another way to write this equation is:</p>
+<p>In the context of circular motion, any force that keeps an object on its curved path acts as a centripetal force. This could be tension in a string for a ball being swung around, friction between tires and the road for a car turning a corner, or gravity for celestial bodies in orbit.</p>
+<p><strong>Mathematical Expression:</strong></p>
 <blockquote>
-<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{m_1 - m_2} \]</p>
+<p>\[ F_c = \frac{mv^2}{r} \]
+where:</p>
 </blockquote>
-<p>which allows us to compare the flux of two objects (and the flux is what we would typically call "brightness" in every day conversation).</p>
+<ul>
+<li>\( F_c \) is the centripetal force</li>
+<li>\( m \) is the mass of the object</li>
+<li>\( v \) is the velocity of the object</li>
+<li>\( r \) is the radius of the circular path</li>
+</ul>
+<figure style="display: block; margin-left: auto; margin-right: auto; width: 600px;">
+<img alt="Circular Motion" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit2/figures/circular_motion.png" width="600"/>
+<figcaption style="text-align: center;">Figure 1: Circular motion in orbit. The centripetal force here is caused by gravity which causes the satellite to continually be "pulled" into the center, creating circular motion.</figcaption>
+</figure>
+<h3 id="Relation-to-Gravitational-Force">Relation to Gravitational Force<a class="anchor-link" href="#Relation-to-Gravitational-Force">¶</a></h3><p>In astronomy, the most common centripetal force is gravity. For planetary motion, gravity provides the necessary centripetal force to keep a planet in orbit around the Sun. Similarly, gravity keeps moons orbiting their planets and artificial satellites orbiting the Earth.</p>
 <blockquote>
-<p>The star Vega was historically used as the standard for apparent magnitude, set at 0. Modern measurements have slightly adjusted this value, but Vega remains a key reference point in the magnitude system.</p>
+<p>In orbital motion, the centripetal force is the force of gravity.</p>
 </blockquote>
-<div class="alert alert-block alert-info">
-<b>Recall:</b> A logarithm is a mathematical operator that tells us the power to which a base number must be raised to obtain a given number. When the base is not specified, it is assumed to be 10.
-</div>
+<p>When we look at the gravitational force acting as the centripetal force, the expressions can be equated:</p>
 <blockquote>
-<p>For example, \( \log_{10}(100) = 2 \) because \( 10^2 = 100 \).</p>
+<p>\[ F_g = F_c \]</p>
 </blockquote>
-<p>Logarithmic scales are used in astronomy to manage the huge differences in the brightness and distances of celestial objects.</p>
-<img alt="Apparent Magnitudes of Well-Known Objects" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit1/figures/Apparent_Magnitudes.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
+<p>This leads to the equation:</p>
+<blockquote>
+<p>\[ \frac{GMm}{r^2} = \frac{mv^2}{r} \]</p>
+</blockquote>
+<p>Here, \( G \) is the gravitational constant and \( M \) is the mass of the central body (such as the Sun or Earth). Simplifying this equation allows us to understand the relationships between the various forces and motions involved in orbital mechanics.</p>
 <div class="alert alert-block alert-warning">
-<b>Example:</b> Suppose an astronomer has discovered something special about a dim star with a magnitude of 8.5 and wants to explain how much dimmer this star is compared to Sirius. We'll use the dim star as Star 1 and Sirius as Star 2 in our equation.
+<b>Example:</b> Calculate the centripetal force acting on the Earth due to its orbit around the Sun.
 </div>
 <blockquote>
 <p>Given:</p>
 <blockquote>
-<p>Dim star magnitude, \( m_1 = 8.5 \)</p>
-<p>Sirius magnitude, \( m_2 = -1.5 \)</p>
+<p>Mass of Earth, \( m = 5.97 \times 10^{24} \, \text{kg} \)</p>
+<p>Velocity of Earth, \( v = 29.78 \, \text{km/s} = 2.978 \times 10^4 \, \text{m/s} \)</p>
+<p>Radius of Earth's orbit, \( r = 1.496 \times 10^{11} \, \text{m} \)</p>
 </blockquote>
 <p>Solution:</p>
 <blockquote>
-<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{8.5 - (-1.5)} \]</p>
-<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{10} \]</p>
-<p>\[ \frac{F_2}{F_1} = (100)^2 = 100 \times 100 = 10,000 \]</p>
-<p>Therefore, the dim star is 10,000 times dimmer than Sirius.</p>
+<p>\[ F_c = \frac{(5.97 \times 10^{24} \, \text{kg})(2.978 \times 10^4 \, \text{m/s})^2}{1.496 \times 10^{11} \, \text{m}} \]</p>
+<p>\[ F_c \approx 3.54 \times 10^{22} \, \text{N} \]</p>
 </blockquote>
 </blockquote>
+<p>In this example, the immense centripetal force required to keep Earth in its orbit is provided by the gravitational pull of the Sun. This force constantly pulls Earth towards the Sun, balancing the inertia of Earth's motion, which attempts to move it in a straight line. This delicate balance is what maintains the stable orbit of our planet.</p>
+<hr/>
+<h2 id="Centripetal-Acceleration">Centripetal Acceleration<a class="anchor-link" href="#Centripetal-Acceleration">¶</a></h2><p>Centripetal acceleration is the acceleration experienced by an object moving in a circle at a constant speed, directed towards the center of the circle. This acceleration is what causes the object to change direction continuously.</p>
+<p><strong>Formula:</strong></p>
+<blockquote>
+<p>\[ a_c = \frac{v^2}{r} \]</p>
+</blockquote>
+<h3 id="Application-to-Circular-Orbits">Application to Circular Orbits<a class="anchor-link" href="#Application-to-Circular-Orbits">¶</a></h3><p>In circular orbits, the centripetal acceleration is provided by the gravitational force acting on the orbiting body.</p>
 <div class="alert alert-block alert-warning">
-<b>Example:</b> It is a common misconception that Polaris (magnitude 2.0) is the brightest star in the sky. However, Sirius, with a magnitude of -1.5, holds that title. Let's compare the apparent brightness of Sirius to Polaris.
+<b>Example:</b> Calculate the centripetal acceleration of the Earth due to its orbit around the Sun.
 </div>
 <blockquote>
 <p>Given:</p>
 <blockquote>
-<p>Polaris magnitude, \( m_1 = 2.0 \)</p>
-<p>Sirius magnitude, \( m_2 = -1.5 \)</p>
+<p>Velocity of Earth, \( v = 29.78 \, \text{km/s} = 2.978 \times 10^4 \, \text{m/s} \)</p>
+<p>Radius of Earth's orbit, \( r = 1.496 \times 10^{11} \, \text{m} \)</p>
 </blockquote>
 <p>Solution:</p>
 <blockquote>
-<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{2.0 - (-1.5)} \]</p>
-<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{3.5} \]</p>
-<p>\[ \frac{F_2}{F_1} = 100^{0.7} = 25 \]</p>
+<p>\[ a_c = \frac{(2.978 \times 10^4 \, \text{m/s})^2}{1.496 \times 10^{11} \, \text{m}} \]</p>
+<p>\[ a_c \approx 5.93 \times 10^{-3} \, \text{m/s}^2 \]</p>
 </blockquote>
-<p>Our calculation shows that Sirius’ apparent brightness is 25 times greater than Polaris’ apparent brightness.</p>
 </blockquote>
 <hr/>
-<h2 id="Absolute-Magnitude">Absolute Magnitude<a class="anchor-link" href="#Absolute-Magnitude">¶</a></h2><p>Absolute magnitude is the apparent magnitude (brightness) a star would have if it were placed at a standard distance of 10 parsecs from Earth. This standardization allows astronomers to compare the true brightness of stars without the confounding effect of distance.</p>
-<p>The relationship between a star's absolute magnitude \( M \), apparent magnitude \( m \), and distance \( d \) in parsecs is given by:</p>
-<blockquote>
-<p>\[ M = m + 5 - 5 \log_{10}(d) \]</p>
-</blockquote>
+<h2 id="Gravity-and-Circular-Motion-Simulator">Gravity and Circular Motion Simulator<a class="anchor-link" href="#Gravity-and-Circular-Motion-Simulator">¶</a></h2><p>Feel free to play around with the simulator below to get a feel for how gravity impacts orbits of planets, moons, and satellites!</p>
+<div style="width: 100%; height: 0; padding-bottom: 75%; position: relative;">
+<iframe allowfullscreen="" src="https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits_en.html" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;">
+</iframe>
+</div>
 <hr/>
-<h2 id="Distance-Modulus">Distance Modulus<a class="anchor-link" href="#Distance-Modulus">¶</a></h2><h3 id="Explanation-of-Distance-Modulus">Explanation of Distance Modulus<a class="anchor-link" href="#Explanation-of-Distance-Modulus">¶</a></h3><p>The <strong>distance modulus</strong> provides a way to calculate the distance to a star based on its apparent and absolute magnitudes. The formula is:</p>
+<h2 id="Orbital-Speed">Orbital Speed<a class="anchor-link" href="#Orbital-Speed">¶</a></h2><p>Understanding the speed at which an object orbits a celestial body is crucial in astronomy. The orbital speed determines how long it takes for an object, such as a planet, moon, or satellite, to complete one full orbit around its primary body.</p>
+<p>By combining Newton's law of universal gravitation with the concept of centripetal force, we can derive the formula for orbital speed. This derivation provides insight into how gravitational forces and the mass of celestial bodies influence the motion of orbiting objects.</p>
+<h3 id="Derivation-of-Orbital-Speed">Derivation of Orbital Speed<a class="anchor-link" href="#Derivation-of-Orbital-Speed">¶</a></h3><p>To derive the orbital speed, we start with the fact that the gravitational force (\(F_g\)) acting on an object in orbit provides the necessary centripetal force (\(F_c\)) to keep it in circular motion.</p>
+<p><strong>Step-by-Step Derivation:</strong></p>
+<ol>
+<li><strong>Equate Gravitational Force to Centripetal Force:</strong></li>
+</ol>
 <blockquote>
-<p>\[ m - M = 5 \log_{10}(d) - 5 \]</p>
+<p>\[ F_g = F_c \]</p>
 </blockquote>
-<p>where:</p>
+<ol start="2">
+<li><strong>Express Gravitational Force:</strong></li>
+</ol>
+<blockquote>
+<p>\[ F_g = \frac{GMm}{r^2} \]</p>
+</blockquote>
 <ul>
-<li>\( m \) is the apparent magnitude,</li>
-<li>\( M \) is the absolute magnitude,</li>
-<li>\( d \) is the distance in parsecs.</li>
+<li>Where \(G\) is the gravitational constant, \(M\) is the mass of the central body, \(m\) is the mass of the orbiting object, and \(r\) is the radius of the orbit.</li>
 </ul>
-<p>This equation is incredibly useful for determining stellar distances, making it a cornerstone of astronomical measurement.</p>
+<ol start="3">
+<li><strong>Express Centripetal Force:</strong></li>
+</ol>
+<blockquote>
+<p>\[ F_c = \frac{mv^2}{r} \]</p>
+</blockquote>
+<ul>
+<li>Where \(v\) is the orbital speed.</li>
+</ul>
+<ol start="4">
+<li><strong>Set the Expressions Equal to Each Other:</strong></li>
+</ol>
+<blockquote>
+<p>\[ \frac{GMm}{r^2} = \frac{mv^2}{r} \]</p>
+</blockquote>
+<ol start="5">
+<li><strong>Simplify the Equation:</strong><ul>
+<li>Cancel \(m\) from both sides:</li>
+</ul>
+</li>
+</ol>
+<blockquote>
+<p>\[ \frac{GM}{r^2} = \frac{v^2}{r} \]</p>
+</blockquote>
+<ul>
+<li>Multiply both sides by \(r\):</li>
+</ul>
+<blockquote>
+<p>\[ \frac{GM}{r} = v^2 \]</p>
+</blockquote>
+<ol start="6">
+<li><strong>Solve for Orbital Speed (\(v\)):</strong></li>
+</ol>
+<blockquote>
+<p>\[ v = \sqrt{\frac{GM}{r}} \]</p>
+</blockquote>
+<p>This formula shows that the orbital speed of an object depends on the gravitational constant (\(G\)), the mass of the central body (\(M\)), and the radius of the orbit (\(r\)).</p>
+<figure style="display: block; margin-left: auto; margin-right: auto; width: 600px;">
+<img alt="Orbital Speed" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit2/figures/orbital_speed.png" width="600"/>
+<figcaption style="text-align: center;">Figure 2: Orbital speed. The orbital speed of a satellite, planet, moon, etc. depends on the size of its orbit. The greater the radius, the slower the orbital speed.</figcaption>
+</figure>
+<h3 id="Importance-of-Orbital-Speed-in-Astronomy">Importance of Orbital Speed in Astronomy<a class="anchor-link" href="#Importance-of-Orbital-Speed-in-Astronomy">¶</a></h3><p>Understanding orbital speed is essential for:</p>
+<ul>
+<li><strong>Predicting Orbital Periods:</strong> The time it takes for an object to complete one orbit.</li>
+<li><strong>Satellite Deployment:</strong> Ensuring satellites remain in stable orbits.</li>
+<li><strong>Planetary Motion:</strong> Studying the dynamics of planets and their moons.</li>
+<li><strong>Space Missions:</strong> Planning trajectories for space probes and missions.</li>
+</ul>
+<p>Orbital speed helps astronomers and scientists comprehend the delicate balance of forces that keep celestial bodies in motion and ensures the stability of their orbits.</p>
+<p>By mastering the concept of orbital speed, we can better appreciate the intricate dance of planets, moons, and satellites in our universe.</p>
 <div class="alert alert-block alert-warning">
-<b>Example:</b> Calculating the Absolute Magnitude of the Sun
+<b>Example:</b> Calculate the orbital speed of a satellite orbiting the Earth at a height of 300 km above the surface.
 </div>
 <blockquote>
-<p>The apparent magnitude of the Sun, \( m_{\text{Sun}} \), is \( -26.83 \), and its distance from Earth is 1 AU, which is \( 4.848 \times 10^{-6} \) parsecs. Using the formula for absolute magnitude:</p>
-<p>\[ M_{\text{Sun}} = m_{\text{Sun}} - 5 \log_{10}(d) + 5 \]</p>
-<p>we can calculate the absolute magnitude of the Sun.</p>
-<p>\[ M_{\text{Sun}} = m_{\text{Sun}} - 5 \log_{10}(d) + 5 \]</p>
-<p>\[ M_{\text{Sun}} = -26.83 - 5 \log_{10}(4.848 \times 10^{-6}) + 5 \]</p>
-<p>Since \( \log_{10}(4.848 \times 10^{-6}) \approx -5.315 \):</p>
-<p>\[ M_{\text{Sun}} = -26.83 - 5(-5.315) + 5 \]</p>
-<p>\[ M_{\text{Sun}} = -26.83 + 26.575 + 5 \]</p>
-<p>\[ M_{\text{Sun}} = 4.74 \]</p>
+<p>Given:</p>
 <blockquote>
-<p>Thus, the absolute magnitude of the Sun is \( +4.74 \).</p>
+<p>Mass of Earth, \( M = 5.97 \times 10^{24} \, \text{kg} \)</p>
+<p>Radius of Earth, \( R = 6.371 \times 10^6 \, \text{m} \)</p>
+<p>Height above the surface, \( h = 300 \times 10^3 \, \text{m} \)</p>
+<p>Gravitational constant, \( G = 6.674 \times 10^{-11} \, \text{N m}^2/\text{kg}^2 \)</p>
+</blockquote>
+<p>Solution:</p>
+<blockquote>
+<p>\[ r = R + h = 6.371 \times 10^6 \, \text{m} + 300 \times 10^3 \, \text{m} = 6.671 \times 10^6 \, \text{m} \]</p>
+<p>\[ v = \sqrt{\frac{6.674 \times 10^{-11} \, \text{N m}^2/\text{kg}^2 \times 5.97 \times 10^{24} \, \text{kg}}{6.671 \times 10^6 \, \text{m}}} \]</p>
+<p>\[ v \approx 7.73 \times 10^3 \, \text{m/s} = 7.73 \, \text{km/s} \]</p>
 </blockquote>
 </blockquote>
 <hr/>
 <h2 id="Check-Your-Understanding">Check Your Understanding<a class="anchor-link" href="#Check-Your-Understanding">¶</a></h2><ol>
-<li><strong>Brightness</strong>: Other than the distance to a star, what characteristics of a star do you think would make it more or less bright to us?
+<li>Calculate the centripetal force acting on a 1000 kg satellite orbiting the Earth at a height of 500 km above the surface.</li>
+</ol>
+<ol start="3">
+<li>Given a satellite orbiting Earth at a height where the radius of the orbit is 7,000 km, calculate the orbital speed of the satellite. Assume Earth's mass is \(5.97 \times 10^{24} \, \text{kg}\) and the gravitational constant \(G\) is \(6.674 \times 10^{-11} \, \text{N m}^2/\text{kg}^2\).
 <br/><br/></li>
-<li><strong>Flux and Luminosity</strong>: Given a star with a luminosity of \( 4 \times 10^{26} \) watts and a distance of 2 parsecs, calculate the flux received on Earth.
+<li>Describe the relationship between the radius of an orbit and the orbital speed of a satellite. What happens to the speed if the radius increases?
 <br/><br/></li>
-<li><strong>Magnitude Scale</strong> Use the Magnitude Scale equation below to explain why a magnitude 2 compared to a magnitude 5 star is about 16 times brighter.</li>
+<li>A moon orbits a planet at a radius of \(3.84 \times 10^8 \, \text{m}\) with an orbital speed of \(1.02 \times 10^3 \, \text{m/s}\). Calculate the mass of the planet.
+<br/><br/></li>
+<li>Calculate the centripetal acceleration of the Earth in its orbit around the Sun. Use the given values: velocity of Earth \(v = 29.78 \, \text{km/s}\) and radius of Earth's orbit \(r = 1.496 \times 10^{11} \, \text{m}\).
+<br/><br/></li>
+<li>Explain why satellites need to be launched at a specific speed to remain in stable orbit around the Earth. What would happen if the speed were too low or too high?
+<br/><br/></li>
+<li>A satellite completes one full orbit around Earth in 90 minutes. If the radius of the orbit is \(7.0 \times 10^6 \, \text{m}\), calculate the orbital speed of the satellite.</li>
 </ol>
 <blockquote>
-<p>\[ m_1 - m_2 = -2.5 \log_{10} \left( \frac{F_1}{F_2} \right) \]</p>
+<p><strong>Hint:</strong> Use the formula for the circumference of a circle, \(C = 2 \pi r\), to find the distance traveled in one orbit.
+<br/><br/></p>
 </blockquote>
-<ol start="4">
-<li><strong>Absolute Magnitude</strong>: If a star has an apparent magnitude of 7 and is located 50 parsecs away, what is its absolute magnitude?
-<br/><br/></li>
-<li><strong>Apparent Brightness</strong>: Two stars have apparent magnitudes of 3 and 5. Calculate the ratio of their fluxes (<em>i.e.</em> \(\frac{F_2}{F_1}\)).
-<br/><br/></li>
-<li><strong>Distance Modulus</strong>: Calculate the distance to a star with an apparent magnitude of 10 and an absolute magnitude of 2.
-<br/><br/></li>
-<li><strong>Flux</strong>: At what distance from a 100-W light bulb is the radiant flux equal to the solar irradiance?
-<br/><br/></li>
-<li><strong>Algebra Challenge</strong>: Derive the relation</li>
-</ol>
 <blockquote>
-<p>\[m = M_{Sun} − 2.5 \log_{10}(\frac{F}{F_{10,Sun}})\]</p>
+<p><strong>Hint</strong>: The height above the surface is not the <em>entire</em> radius of the orbit).
+<br/><br/></p>
 </blockquote>
-<p>where \(M_{Sun}\) is the absolute magnitude of the Sun and \(F_{10,Sun}\) is the flux received from the Sun if it were 10 parsecs away from the observer.</p>
-<hr/>
 <h3 id="Resources">Resources<a class="anchor-link" href="#Resources">¶</a></h3><ul>
-<li>Astronomy (2016). Andrew Fraknoi, David Morrison, and Sidney C. Wolff.</li>
-<li>An Introduction to Modern Astrophysics (2017). Bradley W. Carroll and Dale A. Ostlie.</li>
+<li><strong>Astronomy (2016).</strong> Andrew Fraknoi, David Morrison, and Sidney C. Wolff.</li>
+<li><strong>An Introduction to Modern Astrophysics (2017).</strong> Bradley W. Carroll and Dale A. Ostlie.</li>
 </ul>
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=a0958c60-3f33-4d85-bd55-4c27ac369acb">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=917c1b03-db67-4b0c-9771-cea8628b1e42">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>

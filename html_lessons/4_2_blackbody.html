@@ -3,7 +3,7 @@
 <html lang="en">
 <head><meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>1_4_brightness</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>4_2_blackbody</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <style type="text/css">
     pre { line-height: 125%; }
 td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }
@@ -7293,9 +7293,6 @@ a.anchor-link {
 </style>
 
 
-
-
-
 <!-- Load mathjax -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS_CHTML-full,Safe"> </script>
 <!-- MathJax configuration -->
@@ -7323,9 +7320,6 @@ a.anchor-link {
     MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
 </script>
 <!-- End of mathjax configuration --><script type="module">
-
-
-
 
 
   document.addEventListener("DOMContentLoaded", async () => {
@@ -7513,176 +7507,166 @@ a.anchor-link {
 <!-- End of mermaid configuration --></head>
 <body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
 <main>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=522ba052-44ea-492a-a03e-0a1a2d22ef1b">
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=83939ff9-2dc3-4c36-9204-319aaf17da29">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h1 id="1.4-The-Brightness-of-Stars">1.4 The Brightness of Stars<a class="anchor-link" href="#1.4-The-Brightness-of-Stars">¶</a></h1><h2 id="Introduction">Introduction<a class="anchor-link" href="#Introduction">¶</a></h2><p>Have you ever gazed up at the night sky and wondered why some stars shine brighter than others? The study of stellar brightness not only allows us to appreciate the beauty of the cosmos but also provides crucial information about the stars themselves. In this lesson, we'll explore how astronomers measure the brightness of stars, the physics behind their luminosity, and the historical context of the magnitude scale.</p>
+<h1 id="4.2-Blackbody-Radiation">4.2 Blackbody Radiation<a class="anchor-link" href="#4.2-Blackbody-Radiation">¶</a></h1><p>The color and intensity of a star’s light aren’t just beautiful to behold—they are cosmic clues, revealing the star’s temperature, energy output, and even its life cycle. This fascinating story of light is explained by <strong>blackbody radiation</strong>—a key concept in astrophysics that helps us decode the mysteries of the universe.</p>
+<p>Blackbody radiation allows astronomers to measure the temperature of distant stars, understand their energy distribution, and classify them. In this lesson, we will uncover the secrets of this phenomenon and explore how the light from stars guides us to a deeper understanding of the cosmos.</p>
 <div class="alert alert-block alert-success">
 <h4>Video</h4>
-<p>Watch <a href="https://youtu.be/JIXFXGiDa4Y?si=x7IidSPRQEKKfjgL" target="_blank">this video</a> for an excellent overview of the brightness of stars, including practical examples and historical context.</p>
+<p>Watch <a href="https://www.youtube.com/watch?v=XdXAdwb7loE" target="_blank">this video</a> for an explanation of blackbody radiation and Wien's Law.</p>
 </div>
 <hr/>
-<h3 id="Flux-and-Luminosity">Flux and Luminosity<a class="anchor-link" href="#Flux-and-Luminosity">¶</a></h3><p>To understand stellar brightness, we first need to define a few key concepts: flux and luminosity.</p>
-<p><strong>Flux</strong> is the amount of light energy received per unit area per unit time. Imagine standing under a streetlamp at night. The light that hits you is the flux.</p>
-<p><strong>Luminosity</strong>, on the other hand, is the total amount of energy a star emits per unit time. Think of it as the star's total power output.</p>
-<h3 id="The-Inverse-Square-Law">The Inverse Square Law<a class="anchor-link" href="#The-Inverse-Square-Law">¶</a></h3><p>As light travels from a star, it spreads out over an ever-increasing area. This spreading out follows the <strong>Inverse Square Law</strong>, which states that the flux decreases with the square of the distance from the source. Mathematically, we express this as:</p>
+<h2 id="The-Blackbody-Spectrum">The Blackbody Spectrum<a class="anchor-link" href="#The-Blackbody-Spectrum">¶</a></h2><p>At the heart of blackbody radiation is the concept of a <strong>blackbody</strong>—an idealized object that perfectly absorbs all the radiation that falls on it and re-emits it based purely on its temperature. This re-emitted radiation forms a characteristic curve known as the <strong>blackbody spectrum</strong>.</p>
+<img alt="Blackbody Spectrum" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit4/figures/blackbody_spectrum.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
+<p>The blackbody spectrum is a graph that shows how the intensity of radiation emitted by an object varies across different wavelengths. There are several key features of this graph that provide valuable insights into the nature of the object emitting the radiation:</p>
+<ol>
+<li><p><strong>Wavelength (x-axis):</strong> The horizontal axis represents the wavelength of the emitted radiation, typically measured in nanometers (nm) or micrometers (µm). As you move from left to right on the graph, the wavelength increases. Shorter wavelengths correspond to higher energy radiation, such as ultraviolet and visible light, while longer wavelengths correspond to lower energy radiation, such as infrared.</p>
+</li>
+<li><p><strong>Intensity (y-axis):</strong> The vertical axis represents the intensity or amount of radiation emitted at each wavelength. The height of the curve at a particular wavelength shows how much energy is being radiated at that wavelength. The higher the peak, the more radiation is emitted at that wavelength.</p>
+</li>
+<li><p><strong>The Peak of the Curve:</strong> The peak of the blackbody spectrum indicates the wavelength at which the object emits the most radiation. Hotter objects have their peaks at shorter wavelengths (bluer light), while cooler objects have their peaks at longer wavelengths (redder light). This relationship is governed by <strong>Wien's Displacement Law</strong>, which links temperature to the peak wavelength.</p>
+</li>
+<li><p><strong>The Shape of the Curve:</strong> The shape of the blackbody curve rises steeply on the shorter wavelength side (left) and falls off more gradually on the longer wavelength side (right). This shape tells us how energy is distributed across different wavelengths, with hotter objects concentrating more energy in shorter wavelengths.</p>
+</li>
+<li><p><strong>Area Under the Curve:</strong> The total area under the blackbody curve represents the <strong>total energy emitted by the object</strong> across all wavelengths. This area is directly related to the object's temperature and is described by the <strong>Stefan-Boltzmann Law</strong>. Hotter objects emit more total energy, which results in a larger area under the curve. This explains why hotter stars are more luminous than cooler ones.</p>
+</li>
+</ol>
 <blockquote>
-<p>\[ F = \frac{L}{4\pi r^2} \]</p>
+<p><strong>Interactive Exploration:</strong> Curious to see how temperature changes affect the blackbody spectrum? Use the simulator below to experiment with different temperatures and observe how the peak wavelength, total intensity, and area under the curve change. This hands-on experience will help you understand why hot objects glow blue while cooler ones appear red.</p>
+</blockquote>
+<div style="width: 100%; height: 0; padding-bottom: 75%; position: relative;">
+<iframe allowfullscreen="" src="https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_en.html" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;">
+</iframe>
+</div>
+<hr/>
+<h2 id="Wien%E2%80%99s-Displacement-Law">Wien’s Displacement Law<a class="anchor-link" href="#Wien%E2%80%99s-Displacement-Law">¶</a></h2><p>Have you ever noticed how some stars twinkle red in the night sky, while others gleam blue or white? This dazzling array of colors isn’t just for show—it’s a direct result of <strong>Wien’s Displacement Law</strong>, a powerful tool that helps astronomers determine the temperature of stars based on the color of their light.</p>
+<p><strong>Wien’s Displacement Law</strong> describes the relationship between the temperature of a blackbody and the wavelength at which it emits the most radiation. Essentially, it tells us that hotter objects radiate more at shorter wavelengths (toward the blue end of the spectrum), while cooler objects radiate more at longer wavelengths (toward the red end of the spectrum). Mathematically, this relationship is expressed as:</p>
+<blockquote>
+<p>\[ \lambda_{\text{max}} = \frac{b}{T} \]</p>
 </blockquote>
 <p>where:</p>
 <ul>
-<li>\(F\) is the flux (in watts per square meter, \(\text{W/m}^2\)),</li>
-<li>\(L\) is the luminosity (in watts, \(\text{W}\)),</li>
-<li>\(r\) is the distance from the star (in meters, \(\text{m}\)).</li>
+<li>\(\lambda_{\text{max}}\) is the wavelength of maximum emission,</li>
+<li>\(T\) is the temperature in Kelvin,</li>
+<li>\(b\) is Wien’s constant, approximately \(2.898 \times 10^{-3} \, \text{m/K}\).</li>
 </ul>
-<blockquote>
-<p>This law explains why stars appear dimmer the farther away they are. It's not because they're less powerful, but because their light spreads out over a larger area.</p>
-</blockquote>
-<img alt="Inverse Square Law" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit1/figures/inv_sq_law.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
+<p>What does this mean for stars?</p>
+<ul>
+<li><strong>Cooler stars</strong>, like red dwarfs, have their peak emission in the red part of the spectrum, which is why they glow with a reddish hue.</li>
+<li><strong>Hotter stars</strong>, like blue giants, emit more light at shorter wavelengths, making them appear blue or white.</li>
+</ul>
+<p>Wien’s Displacement Law provides a cosmic thermometer, letting us gauge the temperature of stars billions of kilometers away simply by observing their light.</p>
 <div class="alert alert-block alert-warning">
-<b>Example:</b> Calculating the Solar Flux at Different Distances
+<h4>Example</h4>
+<p>If a star has a surface temperature of 5800 K (similar to the Sun), the peak wavelength of its radiation can be calculated as:</p>
 </div>
 <blockquote>
-<p>The luminosity of the Sun is \( 3.839 \times 10^{26} \) W and is at a distance of 1 AU (astronomical unit) away from Earth, which is \( 1.496 \times 10^{11} \) meters.</p>
-<p>Earth receives a radiant flux above its absorbing atmosphere given by:</p>
-<blockquote>
-<p>\[ F = \frac{L}{4\pi r^2} \]</p>
-<p>\[ F = \frac{3.839 \times 10^{26}}{4\pi (1.496 \times 10^{11})^2} \]</p>
-<p>\[ F \approx 1365 \, \text{W/m}^2 \]</p>
-</blockquote>
-<p>This value of the solar flux is known as the <strong>solar irradiance</strong>, sometimes also called the solar constant.</p>
-</blockquote>
-<hr/>
-<h2 id="Apparent-Brightness-and-the-Magnitude-Scale">Apparent Brightness and the Magnitude Scale<a class="anchor-link" href="#Apparent-Brightness-and-the-Magnitude-Scale">¶</a></h2><h3 id="Apparent-Magnitude">Apparent Magnitude<a class="anchor-link" href="#Apparent-Magnitude">¶</a></h3><p>The <strong>apparent magnitude</strong> of a star is a measure of its brightness as seen from Earth. This concept is crucial because it takes into account both the intrinsic luminosity of the star and its distance from us.</p>
-<h3 id="Historical-Background-of-the-Magnitude-Scale">Historical Background of the Magnitude Scale<a class="anchor-link" href="#Historical-Background-of-the-Magnitude-Scale">¶</a></h3><p>The magnitude scale dates back to the ancient Greek astronomer Hipparchus, who classified stars according to their apparent brightness. This system was refined by Ptolemy and later standardized to a logarithmic scale, where a difference of 5 magnitudes corresponds to a factor of 100 in brightness.</p>
-<p>The logarithmic nature of the scale is represented by:</p>
-<blockquote>
-<p>\[ m_1 - m_2 = -2.5 \log_{10} \left( \frac{F_1}{F_2} \right) \]</p>
-</blockquote>
-<p>where \( m_1 \) and \( m_2 \) are the magnitudes of two stars, and \( F_1 \) and \( F_2 \) are their respective fluxes.</p>
-<p>Another way to write this equation is:</p>
-<blockquote>
-<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{m_1 - m_2} \]</p>
-</blockquote>
-<p>which allows us to compare the flux of two objects (and the flux is what we would typically call "brightness" in every day conversation).</p>
-<blockquote>
-<p>The star Vega was historically used as the standard for apparent magnitude, set at 0. Modern measurements have slightly adjusted this value, but Vega remains a key reference point in the magnitude system.</p>
+<p>\[ \lambda_{\text{max}} = \frac{2.898 \times 10^{-3} \, \text{m/K}}{5800 \, \text{K}} \approx 500 \, \text{nm} \]</p>
+<p>This wavelength is in the visible light range, explaining why the Sun appears white or yellowish to our eyes.</p>
 </blockquote>
 <div class="alert alert-block alert-info">
-<b>Recall:</b> A logarithm is a mathematical operator that tells us the power to which a base number must be raised to obtain a given number. When the base is not specified, it is assumed to be 10.
+<h4>Stellar Age and Color</h4>
+The color of a star can also tell us about its stage in the stellar life cycle. Hot, young stars tend to be blue or white, while older, cooler stars often appear red as they near the end of their life cycle. However, this relationship between color and age is complex and also depends on the star’s mass.
 </div>
-<blockquote>
-<p>For example, \( \log_{10}(100) = 2 \) because \( 10^2 = 100 \).</p>
-</blockquote>
-<p>Logarithmic scales are used in astronomy to manage the huge differences in the brightness and distances of celestial objects.</p>
-<img alt="Apparent Magnitudes of Well-Known Objects" src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit1/figures/Apparent_Magnitudes.png" style="display: block; margin-left: auto; margin-right: auto;" width="1000"/>
-<div class="alert alert-block alert-warning">
-<b>Example:</b> Suppose an astronomer has discovered something special about a dim star with a magnitude of 8.5 and wants to explain how much dimmer this star is compared to Sirius. We'll use the dim star as Star 1 and Sirius as Star 2 in our equation.
-</div>
-<blockquote>
-<p>Given:</p>
-<blockquote>
-<p>Dim star magnitude, \( m_1 = 8.5 \)</p>
-<p>Sirius magnitude, \( m_2 = -1.5 \)</p>
-</blockquote>
-<p>Solution:</p>
-<blockquote>
-<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{8.5 - (-1.5)} \]</p>
-<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{10} \]</p>
-<p>\[ \frac{F_2}{F_1} = (100)^2 = 100 \times 100 = 10,000 \]</p>
-<p>Therefore, the dim star is 10,000 times dimmer than Sirius.</p>
-</blockquote>
-</blockquote>
-<div class="alert alert-block alert-warning">
-<b>Example:</b> It is a common misconception that Polaris (magnitude 2.0) is the brightest star in the sky. However, Sirius, with a magnitude of -1.5, holds that title. Let's compare the apparent brightness of Sirius to Polaris.
-</div>
-<blockquote>
-<p>Given:</p>
-<blockquote>
-<p>Polaris magnitude, \( m_1 = 2.0 \)</p>
-<p>Sirius magnitude, \( m_2 = -1.5 \)</p>
-</blockquote>
-<p>Solution:</p>
-<blockquote>
-<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{2.0 - (-1.5)} \]</p>
-<p>\[ \frac{F_2}{F_1} = \left(100^{0.2}\right)^{3.5} \]</p>
-<p>\[ \frac{F_2}{F_1} = 100^{0.7} = 25 \]</p>
-</blockquote>
-<p>Our calculation shows that Sirius’ apparent brightness is 25 times greater than Polaris’ apparent brightness.</p>
-</blockquote>
 <hr/>
-<h2 id="Absolute-Magnitude">Absolute Magnitude<a class="anchor-link" href="#Absolute-Magnitude">¶</a></h2><p>Absolute magnitude is the apparent magnitude (brightness) a star would have if it were placed at a standard distance of 10 parsecs from Earth. This standardization allows astronomers to compare the true brightness of stars without the confounding effect of distance.</p>
-<p>The relationship between a star's absolute magnitude \( M \), apparent magnitude \( m \), and distance \( d \) in parsecs is given by:</p>
+<h2 id="Stefan-Boltzmann-Law">Stefan-Boltzmann Law<a class="anchor-link" href="#Stefan-Boltzmann-Law">¶</a></h2><p>Have you ever wondered why some stars shine brighter than others, even though they might be cooler? The secret lies in the <strong>Stefan-Boltzmann Law</strong>, a powerful relationship between the temperature of a star and the total energy it radiates.</p>
+<p>The Stefan-Boltzmann Law tells us that the energy radiated per unit surface area by a blackbody increases dramatically with temperature—specifically, with the <strong>fourth power</strong> of the temperature! This means that even a small increase in a star’s temperature results in a massive increase in the energy it emits. The law is expressed mathematically as:</p>
 <blockquote>
-<p>\[ M = m + 5 - 5 \log_{10}(d) \]</p>
-</blockquote>
-<hr/>
-<h2 id="Distance-Modulus">Distance Modulus<a class="anchor-link" href="#Distance-Modulus">¶</a></h2><h3 id="Explanation-of-Distance-Modulus">Explanation of Distance Modulus<a class="anchor-link" href="#Explanation-of-Distance-Modulus">¶</a></h3><p>The <strong>distance modulus</strong> provides a way to calculate the distance to a star based on its apparent and absolute magnitudes. The formula is:</p>
-<blockquote>
-<p>\[ m - M = 5 \log_{10}(d) - 5 \]</p>
+<p>\[ F = \sigma T^4 \]</p>
 </blockquote>
 <p>where:</p>
 <ul>
-<li>\( m \) is the apparent magnitude,</li>
-<li>\( M \) is the absolute magnitude,</li>
-<li>\( d \) is the distance in parsecs.</li>
+<li>\(F\) is the energy radiated per unit area,</li>
+<li>\(T\) is the temperature in Kelvin,</li>
+<li>\(\sigma\) is the Stefan-Boltzmann constant, approximately \(5.67 \times 10^{-8} \, \text{W/m}^2 \cdot \text{K}^4\).</li>
 </ul>
-<p>This equation is incredibly useful for determining stellar distances, making it a cornerstone of astronomical measurement.</p>
+<p>What does this mean for stars? Consider this: if one star is twice as hot as another, it doesn’t just emit twice the energy—it emits <strong>16 times</strong> more energy per unit area! This is because the energy output scales with \(T^4\), meaning that small differences in temperature can lead to enormous differences in brightness.</p>
+<p>But temperature isn't the only factor at play. The <strong>luminosity</strong> of a star, which is the total energy it emits, also depends on the star’s surface area. Large stars like red giants, even though they might be cooler, can shine just as brightly as smaller, hotter stars because they have much more surface area over which to radiate their energy.</p>
+<h3 id="Calculating-the-Power-of-a-Star">Calculating the Power of a Star<a class="anchor-link" href="#Calculating-the-Power-of-a-Star">¶</a></h3><p>While energy flux tells us how much power a star emits per square meter, we would often like to know how much total power is emitted by the star. We can determine that by multiplying the energy flux by the number of square meters on the surface of the star. Since stars are mostly spherical, we can use the formula \(4\pi R^2\) for the surface area, where \(R\) is the radius of the star.</p>
+<p>The total power emitted by the star (which we call the star’s “absolute luminosity”) can be found by multiplying the formula for energy flux by the formula for the surface area:</p>
+<blockquote>
+<p>\[ L = 4\pi R^2 \sigma T^4 \]</p>
+</blockquote>
 <div class="alert alert-block alert-warning">
-<b>Example:</b> Calculating the Absolute Magnitude of the Sun
+<h4>Example</h4>
+<p>Two stars have the same size and are the same distance from us. Star A has a surface temperature of 6000 K, and Star B has a surface temperature twice as high, 12,000 K. How much more luminous is Star B compared to Star A?</p>
 </div>
 <blockquote>
-<p>The apparent magnitude of the Sun, \( m_{\text{Sun}} \), is \( -26.83 \), and its distance from Earth is 1 AU, which is \( 4.848 \times 10^{-6} \) parsecs. Using the formula for absolute magnitude:</p>
-<p>\[ M_{\text{Sun}} = m_{\text{Sun}} - 5 \log_{10}(d) + 5 \]</p>
-<p>we can calculate the absolute magnitude of the Sun.</p>
-<p>\[ M_{\text{Sun}} = m_{\text{Sun}} - 5 \log_{10}(d) + 5 \]</p>
-<p>\[ M_{\text{Sun}} = -26.83 - 5 \log_{10}(4.848 \times 10^{-6}) + 5 \]</p>
-<p>Since \( \log_{10}(4.848 \times 10^{-6}) \approx -5.315 \):</p>
-<p>\[ M_{\text{Sun}} = -26.83 - 5(-5.315) + 5 \]</p>
-<p>\[ M_{\text{Sun}} = -26.83 + 26.575 + 5 \]</p>
-<p>\[ M_{\text{Sun}} = 4.74 \]</p>
+<p>Start by writing the formula for the luminosity of each</p>
+</blockquote>
+<p>star:</p>
 <blockquote>
-<p>Thus, the absolute magnitude of the Sun is \( +4.74 \).</p>
+<p>\[ L_A = 4\pi R_A^2 \sigma T_A^4 \]<br/>
+\[ L_B = 4\pi R_B^2 \sigma T_B^4 \]</p>
+<p>Now, take the ratio of the luminosity of Star B to Star A:
+\[ \frac{L_B}{L_A} = \frac{4\pi R_B^2 \sigma T_B^4}{4\pi R_A^2 \sigma T_A^4} = \frac{R_B^2 T_B^4}{R_A^2 T_A^4} \]</p>
+<p>Since the two stars are the same size, we can simplify by setting \(R_A = R_B\):</p>
+<p>\[ \frac{L_B}{L_A} = \frac{T_B^4}{T_A^4} = \left(\frac{12,000 \, \text{K}}{6,000 \, \text{K}}\right)^4 = 2^4 = 16 \]</p>
+<blockquote>
+<p>So Star B is 16 times more luminous than Star A!</p>
 </blockquote>
 </blockquote>
+<p>The Stefan-Boltzmann Law gives us a deeper understanding of how stars of different sizes and temperatures contribute to the dazzling array of brightness we see in the night sky.</p>
+<div class="alert alert-block alert-info">
+<h4>Size, Temperature, and Luminosity</h4>
+The Stefan-Boltzmann Law explains why a cool red giant can appear just as luminous as a small, blazing-hot blue star. Size and temperature both play crucial roles in determining a star’s brightness.
+</div>
+<hr/>
+<h2 id="Color-Indices-and-Stellar-Classification">Color Indices and Stellar Classification<a class="anchor-link" href="#Color-Indices-and-Stellar-Classification">¶</a></h2><p>When you look up at the night sky and see stars shining in different colors, you are witnessing more than just a beautiful display. Those colors are cosmic clues, revealing the temperature of the stars and providing a key to their classification. Astronomers use these colors, expressed as <strong>color indices</strong>, to categorize stars and unlock insights into their properties and evolution.</p>
+<p>The <strong>color index</strong> is a numerical value that compares a star’s brightness at different wavelengths of light. To do this, astronomers use filters that allow specific wavelengths to pass through, measuring the star’s brightness in those wavelengths. One commonly used set of filters measures stellar brightness in three key regions of the spectrum:</p>
+<ul>
+<li><strong>Ultraviolet (U)</strong> at 360 nm,</li>
+<li><strong>Blue (B)</strong> at 420 nm,</li>
+<li><strong>Visual (V)</strong> at 540 nm, which corresponds to yellow light.</li>
+</ul>
+<p>The difference in brightness between two of these filters is called a <strong>color index</strong>. The most commonly used index in astronomy is the <strong>B–V index</strong>, which is calculated by subtracting the star’s visual magnitude (V) from its blue magnitude (B). This index is directly related to the star’s temperature:</p>
+<ul>
+<li><strong>Hot stars</strong> (like O-type stars) emit more light in the blue part of the spectrum, resulting in a <strong>negative B–V index</strong> and giving them a blue appearance.</li>
+<li><strong>Cool stars</strong> (like M-type stars) emit more light in the red part of the spectrum, resulting in a <strong>positive B–V index</strong> and giving them a red appearance.</li>
+</ul>
+<p>Remember the <strong>Hertzsprung-Russell (HR) diagram</strong> you studied earlier? It plots stars based on their luminosity and temperature, and the color index helps pinpoint where a star belongs on this diagram. The spectral classification system (O, B, A, F, G, K, M) is based on the star’s temperature, which correlates with its color:</p>
+<ul>
+<li><strong>O-type stars</strong>: The hottest and most massive, glowing blue with surface temperatures exceeding 25,000 K. These stars sit at the upper left of the HR diagram, where high-temperature, high-luminosity stars are found (remember the temperature on the HR diagram is typically inverted).</li>
+<li><strong>M-type stars</strong>: The coolest and smallest, glowing red with temperatures around 3000 K. These stars are located at the lower right of the HR diagram, representing low-temperature, low-luminosity stars.</li>
+</ul>
+<div class="alert alert-block alert-info">
+<h4>Color Indices</h4>
+Vega, a bright star in the summer sky, has a B–V index close to 0, indicating it is a hot, blue-white star with a surface temperature around 10,000 K. In contrast, Betelgeuse, a cool red giant, has a B–V index around +2, reflecting its much lower surface temperature of about 3000 K.
+</div>
+<p>The <strong>color index</strong> is not just a tool for measuring temperature—it’s a vital part of understanding <strong>stellar evolution</strong>. By knowing a star's color and classification, astronomers can determine its life cycle stage, from the fusion-powered main sequence to its final phases as a white dwarf, neutron star, or black hole.</p>
 <hr/>
 <h2 id="Check-Your-Understanding">Check Your Understanding<a class="anchor-link" href="#Check-Your-Understanding">¶</a></h2><ol>
-<li><strong>Brightness</strong>: Other than the distance to a star, what characteristics of a star do you think would make it more or less bright to us?
+<li>Why does the peak wavelength of radiation emitted by a star shift towards shorter wavelengths as the star’s temperature increases?
 <br/><br/></li>
-<li><strong>Flux and Luminosity</strong>: Given a star with a luminosity of \( 4 \times 10^{26} \) watts and a distance of 2 parsecs, calculate the flux received on Earth.
+<li>How can two stars of the same temperature have different luminosities?
 <br/><br/></li>
-<li><strong>Magnitude Scale</strong> Use the Magnitude Scale equation below to explain why a magnitude 2 compared to a magnitude 5 star is about 16 times brighter.</li>
+<li>A star has a surface temperature of \(3000 \, \text{K}\). Calculate its peak emission wavelength using Wien’s Displacement Law.
+<br/><br/></li>
+<li>If the emitted radiation from a red dwarf star has a wavelength of maximum power at 1200 nm, what is the temperature of this star, assuming it is a blackbody?
+<br/><br/></li>
+<li>What is the temperature of a star whose maximum light is emitted at a wavelength of 290 nm?
+<br/><br/></li>
+<li>If a star emits \(1.42 \times 10^6 \, \text{W/m}^2\) of energy, what is its surface temperature?
+<br/><br/></li>
+<li>Two stars with identical diameters are the same distance away. One has a temperature of 8700 K and the other has a temperature of 2900 K. Which is brighter? How much brighter is it?
+<br/><br/></li>
+<li>If the emitted infrared radiation from Pluto has a wavelength of maximum intensity at 75,000 nm, what is the temperature of Pluto assuming it follows Wien’s law?
+<br/><br/></li>
+<li>Two stars have the same luminosity, but Star A has a temperature of 4000 K, while Star B has a temperature of 8000 K. Based on their temperatures, calculate the ratio of the radius of Star A to the radius of Star B (i.e. find \(\frac{R_A}{R_B}\)).
+<br/><br/></li>
 </ol>
-<blockquote>
-<p>\[ m_1 - m_2 = -2.5 \log_{10} \left( \frac{F_1}{F_2} \right) \]</p>
-</blockquote>
-<ol start="4">
-<li><strong>Absolute Magnitude</strong>: If a star has an apparent magnitude of 7 and is located 50 parsecs away, what is its absolute magnitude?
-<br/><br/></li>
-<li><strong>Apparent Brightness</strong>: Two stars have apparent magnitudes of 3 and 5. Calculate the ratio of their fluxes (<em>i.e.</em> \(\frac{F_2}{F_1}\)).
-<br/><br/></li>
-<li><strong>Distance Modulus</strong>: Calculate the distance to a star with an apparent magnitude of 10 and an absolute magnitude of 2.
-<br/><br/></li>
-<li><strong>Flux</strong>: At what distance from a 100-W light bulb is the radiant flux equal to the solar irradiance?
-<br/><br/></li>
-<li><strong>Algebra Challenge</strong>: Derive the relation</li>
-</ol>
-<blockquote>
-<p>\[m = M_{Sun} − 2.5 \log_{10}(\frac{F}{F_{10,Sun}})\]</p>
-</blockquote>
-<p>where \(M_{Sun}\) is the absolute magnitude of the Sun and \(F_{10,Sun}\) is the flux received from the Sun if it were 10 parsecs away from the observer.</p>
 <hr/>
-<h3 id="Resources">Resources<a class="anchor-link" href="#Resources">¶</a></h3><ul>
+<h2 id="Resources">Resources<a class="anchor-link" href="#Resources">¶</a></h2><ul>
 <li>Astronomy (2016). Andrew Fraknoi, David Morrison, and Sidney C. Wolff.</li>
-<li>An Introduction to Modern Astrophysics (2017). Bradley W. Carroll and Dale A. Ostlie.</li>
 </ul>
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=a0958c60-3f33-4d85-bd55-4c27ac369acb">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs" id="cell-id=22c72c5d-800a-4383-b4a3-1b16cd11f66c">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
