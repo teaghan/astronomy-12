@@ -1,0 +1,268 @@
+0:00
+At first glance, this single bright source,
+0:03
+this smudge,
+0:06
+this grouping doesn't look like much.
+0:11
+Images like these are translated for our eyes, and it's because our eyes
+0:15
+only can perceive a small region of all the frequencies of light.
+0:21
+Astrophysics is much
+0:22
+more than just capturing different wavelengths of light.
+0:25
+Many objects or phenomenon are simply too
+0:28
+far away to directly image.
+0:31
+A lot of data comes from pixel
+0:33
+sized point sources, and those points provide astrophysicists
+0:37
+with a powerful window into what makes up the universe.
+0:43
+Even now,
+0:44
+most of what scientists learn about the cosmos
+0:47
+comes from studying light.
+0:49
+Astronomers can work out distances,
+0:52
+speed sizes, temperatures and the composition of elements
+0:57
+because matter behaves in predictable and consistent ways.
+1:03
+They do this by literally prying these photons apart.
+1:07
+This is spectroscopy, explained
+1:12
+spectroscopy.
+1:13
+It's a study of how matter interacts with light, and all began
+1:18
+with a prism like this one
+1:22
+light entering one side of the prism bends or refracts
+1:25
+as it passes through the triangle shape and exits out the other side.
+1:31
+All of the wavelengths enter together,
+1:33
+but they exist as a rainbow like spread of colors.
+1:38
+What's happening is that the shorter,
+1:40
+more energetic wavelengths like blue and violet
+1:43
+bend a little more than the longer lower energy light like red and orange,
+1:49
+because they bend at slightly different angles.
+1:52
+The wavelengths separate, fanning out into a band of colors.
+1:58
+NASA has a whole fleet of telescopes that can split and study
+2:02
+a wide range of light on the electromagnetic spectrum,
+2:05
+not just the light that our eyes can detect.
+2:09
+So Hubble can detect through the visible spectrum,
+2:12
+but also a bit into the infrared and the ultraviolet.
+2:17
+Webb is just infrared and can look at the light
+2:20
+that is emitted from billions of years ago.
+2:23
+And of course, the images from Webb are really spectacular.
+2:27
+But this is what flutters the hearts of scientists.
+2:33
+This spectrum shows the light that penetrated the atmosphere
+2:36
+of a planet called WASP 96 B.
+2:40
+The light being measured comes from the planet's host star,
+2:43
+some of which skims through the atmosphere.
+2:48
+Humans are a long way from directly imaging exoplanets,
+2:52
+so telescopes like Webb will use spectroscopy
+2:54
+to find those chemicals that could support life in their atmospheres,
+2:58
+which is why Webb's first spectra is so amazing.
+3:04
+You're actually seeing bumps and wiggles that indicate the presence
+3:07
+of water vapor in the atmosphere of this exoplanet.
+3:10
+Incredible.
+3:12
+But it's one thing to identify single elements or simple molecules,
+3:17
+but deciphering whole foreign bodies like Dr.
+3:20
+Ogi work. How do you know?
+3:24
+Oh, it took us a very long time to figure this out.
+3:27
+It really took us many, many decades.
+3:29
+And the two cores, many, many fantastic new instruments.
+3:33
+If all of our astrophysical objects or anything they were looking at
+3:37
+were made up of one element, this would just be so easy.
+3:42
+But we don't.
+3:42
+So we have to do experiments on earth like this to prove what we're looking at.
+3:48
+Looks like what we are thinking. We're looking at.
+3:50
+So in here is argon.
+3:54
+If we turn it on here, it glows.
+3:57
+Is really pretty purple.
+3:59
+And then if we look at it with a spectroscope,
+4:03
+it shows us a very specific fingerprint to argon.
+4:08
+These are called spectral tools, my bounty of tubes.
+4:12
+They contain the gas of one element.
+4:14
+And the box runs a voltage through the tube.
+4:17
+When I turn on the switch, the charged gas turns
+4:21
+to plasma and emits a color that is unique to that one element.
+4:26
+It also makes unique lines when you look through the spectroscope.
+4:29
+And this one is helium.
+4:32
+This same process happens in a star or a hot region of gas.
+4:38
+So we use tubes like this
+4:39
+to verify what we see in space.
+4:45
+If you do a quick search for spectroscopy data,
+4:48
+there are numerous ways that the data can appear.
+4:51
+Those variations are based on the source of the cosmic light.
+4:54
+There are three types of spectra that we can use.
+4:57
+Continuous emission and absorption
+5:03
+light from a hot, dense source
+5:05
+like the sun produces a continuous spectrum.
+5:11
+When that light passes through cooler gases on its way to us,
+5:15
+the gases take away or absorb some of that energy.
+5:19
+Dark lines appear where specific
+5:21
+colors are missing,
+5:24
+and when thin gases glow themselves,
+5:28
+we see only their characteristic colors.
+5:31
+Kind of like a cosmic barcode.
+5:35
+These are the emission spectra from pure elements
+5:37
+that were given a voltage to glow just like my spectra tube, but way better.
+5:43
+Like all data.
+5:45
+There is an art to analyzing spectra.
+5:48
+Scientists like Dr.
+5:49
+Oyeleke use computers to calculate and tease out clear signals.
+5:53
+Comparing them then to models that are already known.
+5:58
+Many scientists in the labs on earth,
+6:00
+they tried to recreate the same conditions and measure basically what these
+6:06
+kind of, as you said, fingerprints of those different transitions
+6:09
+for different elements are.
+6:11
+Okay.
+6:11
+So we're always comparing to sort of the fingerprint of what we have.
+6:14
+And then if it has deviated from that,
+6:17
+that is the new information from what we're looking at, correct?
+6:21
+Farina Spectra unveil the structures of black
+6:24
+holes, the swirling winds that surround them,
+6:28
+and those big jets of particles
+6:31
+that come out of them.
+6:34
+When you look at a black hole. Yes.
+6:37
+This is what you see. Yes.
+6:39
+Where where is the accretion disk?
+6:41
+Where are the winds?
+6:43
+So all of this is mostly accretion disk at this level.
+6:46
+It's just different parts of it. We can zoom in. Right.
+6:50
+And we see all of the absorption lines.
+6:52
+Right.
+6:52
+All of these lines are also shifted a lot.
+6:55
+So they come from this wind that we saw in the in the first picture.
+7:00
+So that's how we know that there is winds blowing around
+7:03
+black holes.
+7:11
+The same
+7:12
+principles apply no matter the wavelength of light,
+7:15
+but each wavelength of light tells us a little something different
+7:19
+about each character we find in the universe.
+7:23
+It's pretty wild how different
+7:25
+the universe looks to our eyes and how it presents to our telescopes.
+7:30
+And that's precisely why we need to observe in different wavelengths of light.
+7:35
+Modern astronomy is built upon spectroscopy.
+7:39
+So with every stream of light we gather, we further
+7:43
+understand what the universe is made of.
+7:46
+All we need to do is pry open its contents.
