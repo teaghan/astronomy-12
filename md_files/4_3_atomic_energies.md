@@ -187,9 +187,6 @@ Understanding atomic energies is at the heart of these astronomical analyses, he
 
 ## Check Your Understanding
 
-
-## Check Your Understanding
-
 1. A photon has a wavelength of $500 \, \text{nm}$. Calculate the energy of this photon in electron volts (eV).
    <br><br>
 
