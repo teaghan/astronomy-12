@@ -1,0 +1,88 @@
+---
+layout: embed_default
+---
+
+## Unit 4: Light and Spectroscopy
+
+Spectroscopy is a crucial tool in astronomy, enabling us to decode the light from stars, galaxies, and distant worlds to uncover their secrets. In this unit, you'll explore the nature of light, from the electromagnetic spectrum to wave-particle duality. Discover how blackbody radiation reveals the temperatures of celestial objects, how atomic energies produce the spectral lines that serve as cosmic fingerprints, and how spectroscopy helps astronomers determine the composition, temperature, and motion of objects across the universe.
+
+![Banner Image](../Unit4/figures/unit4_banner.png)
+
+### Teacher Assessment
+- Summary Notes
+- Assignment/Project
+
+### Self-Assessment
+- Each section of this unit includes a set of "Check Your Understanding" questions that are designed to prepare you for the midterm exam.
+
+### [4.1 The Nature of Light](../md_files/4_1_nature_of_light.html)
+- **Electromagnetic Spectrum**: Overview of different types of electromagnetic radiation and their roles in astronomy.
+- **Wave Properties**: Key properties of light, such as amplitude, wavelength, and frequency, and the relationship between wavelength and frequency through the wave equation.
+- **Wave-Particle Duality**: Introduction to light’s dual nature as both a wave and particles (photons). The energy of a photon is calculated using Planck’s equation.
+- **Interaction of Light with Matter**: Exploration of reflection, refraction, and absorption of light and their importance in telescope design and astronomical observations.
+- **Applications in Astronomy**: How different wavelengths are used to observe various cosmic phenomena, from radio waves to X-rays, revealing insights into the universe.
+
+### [4.2 Blackbody Radiation](../md_files/4_2_blackbody.html)
+- **Blackbody Spectrum**: Description of the spectrum of radiation emitted by a blackbody.
+- **Wien’s Displacement Law**: Relating temperature to the peak wavelength of blackbody radiation.
+- **Stefan-Boltzmann Law**: Explaining the total energy radiated per unit surface area in relation to temperature.
+- **Color Indices and Stellar Classification**: Overview of how color indices help classify stars based on temperature and color.
+
+### [4.3 Atomic Energies](../md_files/4_3_atomic_energies.html)
+- **Quantum Nature of Light**: Recap of light’s wave-particle duality and photon energy.
+- **Electron Volts**: Introduction to eV as a unit of energy with conversion examples.
+- **Bohr Model**: Overview of quantized energy levels and electron transitions.
+- **Spectra**: How electron transitions produce emission and absorption spectra.
+- **Hydrogen Spectrum**: Discussion of Lyman, Balmer, and Paschen series in the hydrogen atom.
+- **Ionization Energy**: Importance of ionization energy in understanding stellar conditions.
+
+### [4.4 Spectroscopy I: Principles of Spectroscopy](../md_files/4_4_spectroscopy_1.html)
+- **Absorption and Emission Spectra**: Exploring how and why absorption and emission spectra are produced in different astrophysical environments.
+- **Kirchhoff's Laws of Spectroscopy**: Explanation of Kirchhoff's laws and their applications to continuous spectra, emission lines, and absorption lines.
+- **Spectral Line Broadening**: Discussing different mechanisms of line broadening (e.g., Doppler broadening) and their significance in astronomy.
+
+### [4.5 Spectroscopy II: Applications of Spectroscopy](../md_files/4_5_spectroscopy_2.html)
+- **Identifying Elements in Stars**: How spectroscopy is used to identify the chemical composition of stars.
+- **Measuring Stellar Velocities**: Discussion of the Doppler effect and how radial velocity measurements are used to study stellar motion and detect exoplanets.
+- **The Science of Spectroscopy**: Overview of line lists, catalogs of spectral lines, and how they are used in practical spectroscopic analysis.
+
+### [Assignment: Spectroscopy in Action](https://teaghan.github.io/astronomy-12/Unit4/Unit4_Assignment.pdf)
+- Print off the attached assignment.
+- Follow the steps and complete the questions.
+- Submit your document with the questions answered.
+
+### Course Resources
+- **Free Textbook**: [**Astronomy**](https://openstax.org/books/astronomy/pages/1-introduction) by OpenStax.
+- **AI Tutor**: [**Astronomy Tutor**](https://chatgpt.com/g/g-10CjMHMvk-astronomy-tutor) to support you with this class.
+
+### Science Curricular Connections
+
+**Physics 11:**
+- Properties and behaviors of waves
+- Generation and propagation of waves
+
+**Physics 12:**
+- Electromagnetic induction and its applications
+- Doppler effect
+
+**Chemistry 11:**
+- Quantum mechanical model and electron configuration
+- Analysis techniques (e.g., spectroscopy)
+
+**Chemistry 12:**
+- Energy change during a chemical reaction
+
+**Earth Sciences 11:**
+- Solar radiation interactions
+
+### Learning Standards
+- I can describe the electromagnetic spectrum and wave-particle duality.
+- I can explain the principles of blackbody radiation.
+- I can apply Wien's Displacement Law and the Stefan-Boltzmann Law to solve problems.
+- I can explain the structure of the atom and how electromagnetic radiation interacts with atoms to produce spectral lines.
+- I can distinguish between absorption and emission spectra and explain how these spectra are produced.
+- I can apply Kirchhoff's laws of spectroscopy to explain continuous, emission, and absorption spectra.
+- I can explain the mechanisms of spectral line broadening and their significance in astrophysical observations.
+- I can use spectroscopy to identify the chemical composition of stars.
+- I can explain how the Doppler effect is used to measure stellar velocities.
+- I can describe how line lists and catalogs of spectral lines are used in practical spectroscopic analysis.
