@@ -40,7 +40,7 @@ def convert_notebooks_to_markdown(notebook_paths, output_dir):
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
-        print("Usage: python convert_notebooks_to_markdown.py <notebook1.ipynb> <notebook2.ipynb> ... <output_dir>")
+        print("Usage: python nb_to_md.py <notebook1.ipynb> <notebook2.ipynb> ... <output_dir>")
         sys.exit(1)
     
     # The last argument is the output directory
