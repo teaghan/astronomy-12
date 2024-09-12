@@ -50,6 +50,8 @@ Each of these lines provides clues about the temperature, composition, and age o
 
 The **Doppler effect** is a phenomenon where the wavelength of light changes depending on the relative motion between the source of the light and the observer. In astronomy, this is used to measure the radial velocity of stars and galaxies—whether they are moving toward or away from us.
 
+<img src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit4/figures/doppler_galaxy.png" alt="doppler galaxy" width="1000" style="display: block; margin-left: auto; margin-right: auto;">
+
 When a star or galaxy moves **toward** us, the wavelengths of light are compressed, causing the spectral lines to shift toward the **blue** end of the spectrum, known as **blueshift**. Conversely, when the object is moving **away** from us, the wavelengths are stretched, shifting the lines toward the **red** end of the spectrum, known as **redshift**.
 
 <img src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit4/figures/doppler_shift.png" alt="doppler shift" width="1000" style="display: block; margin-left: auto; margin-right: auto;">

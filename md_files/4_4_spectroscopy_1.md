@@ -19,7 +19,7 @@ In previous lessons, we explored the nature of light, blackbody radiation, and a
 
 <div class="alert alert-block alert-info">
 <h4>What is a Spectrum?</h4>
-A <strong>spectrum</strong> is the range of different colors or wavelengths of light that an object emits, absorbs, or reflects. When light is passed through a prism, it spreads out into a rainbow of colors. Each part of the rainbow corresponds to a different wavelength of light, and by analyzing these wavelengths, astronomers can learn a lot about the objects that produced the light, such as stars or galaxies.
+A <strong>spectrum</strong> is the range of different colors or wavelengths of light that an object emits, absorbs, or reflects. When light is passed through a prism, it spreads out into a rainbow of colors. Each part of the rainbow corresponds to a different wavelength of light, and by analyzing how much light is present at different wavelengths, astronomers can learn a lot about the objects that produced the light, such as stars or galaxies.
 </div>
 
 <img src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit4/figures/prism.png" alt="Prism" width="1000" style="display: block; margin-left: auto; margin-right: auto;">
@@ -28,7 +28,7 @@ A <strong>spectrum</strong> is the range of different colors or wavelengths of l
 
 ### Continuous Spectrum
 
-A **continuous spectrum** is a smooth range of all possible wavelengths (or colors) of light without any gaps. This type of spectrum is produced by hot, dense objects, such as the core of a star or a filament in a light bulb. When you look at a continuous spectrum, you see a complete rainbow of colors, blending from one to the next without interruption.
+A **continuous spectrum** is when there is some amount of light present at all possible wavelengths (or colors), without any gaps. This type of spectrum is produced by hot, dense objects, such as the core of a star or a filament in a light bulb. When you look at a continuous spectrum, you see a complete rainbow of colors, blending from one to the next without interruption.
 
 For example, in **Lesson 4.2**, we learned about blackbody radiation. Any object that has a temperature emits thermal radiation. The spectrum of this radiation is continuous, meaning it contains all wavelengths of light, and the exact shape of the spectrum depends on the object’s temperature. Stars, for instance, emit continuous spectra because their hot, dense interiors act like blackbodies.
 
@@ -38,9 +38,19 @@ The **Stefan-Boltzmann Law** explains how much energy a star emits based on its 
 
 > $$ F = \sigma T^4 $$
 
+Where:
+- $F$ is the total energy emitted per unit area of the star's surface (in watts per square meter),
+- $\sigma$ is the Stefan-Boltzmann constant, which is $5.67 \times 10^{-8} \, \text{W/m}^2 \cdot \text{K}^4$,
+- $T$ is the temperature of the star in kelvins (K).
+
 The **Wien's Displacement Law** helps us understand why hotter objects look bluer and cooler objects look redder. It shows that the peak wavelength of the light emitted by an object shifts depending on its temperature. Hotter objects emit more light at shorter (bluer) wavelengths, while cooler objects emit more light at longer (redder) wavelengths:
 
 > $$ \lambda_{\text{max}} = \frac{b}{T} $$
+
+Where:
+- $\lambda_{\text{max}}$ is the peak wavelength of the emitted radiation (in meters),
+- $b$ is Wien's displacement constant, which is $2.898 \times 10^{-3} \, \text{m} \cdot \text{K}$,
+- $T$ is the temperature of the object in kelvins (K).
 
 This is why the color of a star can tell us a lot about its temperature!
 
@@ -72,6 +82,11 @@ For example, in the **hydrogen atom**, when an electron falls from the $n = 3$ t
 Emission spectra are commonly observed in **emission nebulae** like the Orion Nebula, where the hot gas emits bright lines at specific wavelengths, revealing the chemical composition of the gas.
 
 <img src="https://raw.githubusercontent.com/teaghan/astronomy-12/main/Unit4/figures/element_spectra.png" alt="element_spectra" width="1000" style="display: block; margin-left: auto; margin-right: auto;">
+
+<div class="alert alert-block alert-info">
+<h4>What is an Angstrom?</h4>
+In the image above, the wavelengths on the horizontal axis are given in Angstroms (Å). An <strong>Angstrom (Å)</strong> is a unit of length commonly used to measure the wavelengths of light and other electromagnetic radiation. One angstrom is equal to \(1 \times 10^{-10}\) meters, or 0.1 nanometers. The angstrom is particularly useful in spectroscopy because many spectral lines, such as those of hydrogen, fall within the range of hundreds to thousands of angstroms. For example, the famous H-alpha line in the hydrogen spectrum has a wavelength of 6563 Å.
+</div>
 
 ---
 
@@ -161,16 +176,13 @@ The **Doppler effect** broadens spectral lines when atoms are moving toward or a
 2. **Wavelength of Absorption**: An electron absorbs a photon with an energy difference of $1.94 \times 10^{-18}$ J to jump from the $n = 1$ to the $n = 3$ energy level in a hydrogen atom. Calculate the wavelength of the absorbed photon. Use Planck’s constant $h = 6.626 \times 10^{-34} \, \text{J}\cdot \text{s}$ and the speed of light $c = 3.00 \times 10^8 \, \text{m/s}$.
 <br><br>
 
-3. **Doppler Broadening**: A spectral line is observed to be broadened due to the motion of gas in a star’s atmosphere. Explain how Doppler broadening occurs and what information it gives astronomers about the gas in the star.
+3. **Color and Temperature**: A star is observed to emit its peak radiation at a wavelength of 450 nm. Using Wien’s Displacement Law, calculate the surface temperature of the star. ($b = 2.898 \times 10^{-3} \, \text{m}\cdot\text{K}$).
 <br><br>
 
-4. **Pressure Broadening**: Why does pressure broadening occur in the core of stars? How can measuring the extent of pressure broadening in a star's spectral lines help astronomers understand the conditions within the star?
+4. **Absorption vs. Emission Spectra**: Why do stars usually produce absorption spectra while nebulae produce emission lines?
 <br><br>
 
-5. **Color and Temperature**: A star is observed to emit its peak radiation at a wavelength of 450 nm. Using Wien’s Displacement Law, calculate the surface temperature of the star. ($b = 2.898 \times 10^{-3} \, \text{m}\cdot\text{K}$).
-<br><br>
-
-6. **Identifying Elements**: A star’s absorption spectrum shows dark lines at wavelengths of 589 nm, 656 nm, and 486 nm. Using the table below, identify which elements are present in the star’s atmosphere and explain how the spectral lines act as "fingerprints."
+5. **Identifying Elements**: A star’s absorption spectrum shows dark lines at wavelengths of 589 nm, 656 nm, and 486 nm. Using the table below, identify which elements are present in the star’s atmosphere and explain how the spectral lines act as "fingerprints."
 
 | **Wavelength (nm)** | **Element**  |
 |---------------------|--------------|
@@ -180,9 +192,6 @@ The **Doppler effect** broadens spectral lines when atoms are moving toward or a
 | 656                 | Hydrogen (H) |
 | 670                 | Lithium (Li) |
 | 706                 | Helium (He)  |
-
-7. **Continuous vs. Line Spectra**: What is the main difference between a continuous spectrum produced by a star and the emission or absorption lines produced by a gas cloud? Why do stars usually produce continuous spectra while nebulae produce emission lines?
-<br><br>
 
 ---
 
