@@ -4895,3 +4895,93 @@ Hint: Think about the units: luminosity is energy per unit time (1 watt = 1 Joul
 units of time!
 7
 
+
+# Unit 4 Assignment
+Unit 4 Assignment: Stellar Spectroscopy Analysis
+Name:
+Introduction
+In this assignment, you will act as an astronomer analyzing real stellar spectra. This two-part activity will
+guide you through determining the temperatures of stars using Wien’s Law and identifying the chemical
+composition of stars by matching their absorption lines to known elements. You will use real astronomical
+data, making your work similar to what professional astronomers do!
+• InPart1 , you will calculate the temperatures of 10 stars from their spectra.
+• InPart2 , you will compare the absorption lines of 5 stars to elemental lines to determine the stars’
+chemical composition.
+Part1:DeterminingStellarTemperaturesUsingWien’sLaw
+Stars emit light across a range of wavelengths, and the peak wavelength of their emission can help us de-
+termine their temperature. Using Wien’s Displacement Law, we can calculate a star’s temperature based
+on the wavelength at which the spectrum peaks.
+T=b
+λmax
+Where:
+•Tis the temperature in Kelvin (K)
+•b= 2.898×10−3m·K, which is Wien’s constant
+•λmaxis the peak wavelength in meters
+1ExampleCalculation
+YourTask
+You will find 10 stellar spectra labeled A–J in the Data section at the end of this document. Identify the peak
+wavelength for each spectrum and use Wien’s Law to calculate the temperature of each star.
+Hint: Pay close attention to the wavelength units!
+StarPeakWavelength(nm) PeakWavelength(m) Temperature(K)
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+2AnalysisQuestionsPart1
+1.IdentifyingTrends: After calculating the temperature of all 10 stars, what general trend do you ob-
+serve between the temperature and the shape of the spectrum? (i.e. How do cooler stars differ from
+hotter stars in terms of their emitted light?)
+2.Wien’sLawApplication: Calculate the approximate wavelength of peak emission for a star with a
+temperature of 7500 K. Which part of the spectrum (ultraviolet, visible, infrared) is the peak emission?
+3.VisibleLight: Based on what you know about blackbody radiation and stellar spectra, why do you
+think humans evolved to see light in the wavelength range of 380 to 700 nanometers?
+4.TemperatureandLuminosity: Two stars have the same temperature, but Star B has a radius that is
+four times larger than Star C. How would the luminosity (total energy emitted) of Star B compare to
+Star C? Use your understanding of temperature, luminosity, and star radius to explain your answer.
+3Part2:IdentifyingElementsinStarsUsingAbsorptionLines
+Each element produces a unique set of spectral lines, acting like a “fingerprint” that helps us identify what
+elements are present in a star. By comparing the absorption lines from stars to known element spectra, we
+can determine the chemical composition of the stars.
+ElementSpectra
+In the Data section, you will find the emission spectra of seven elements commonly found in stars: Hydro-
+gen, Helium, Neon, Sodium, Lithium, Magnesium, and Iron. These spectra will be used to identify elements
+in the stars’ absorption spectra.
+YourTask
+In the Data section, you will also find the absorption line spectra of five stars labeled Star 1–5. Compare the
+absorption lines of each star to the element spectra and identify which elements are present in each star.
+Recordtheelementspresentineachstarbycheckingtheboxesinthetablebelow.
+Element Star1Star2Star3Star4Star5
+Hydrogen
+Helium
+Neon
+Sodium
+Lithium
+Magnesium
+Iron
+AnalysisQuestionsPart2
+1.SpectroscopyImportance: Why is spectroscopy an important tool for studying stars that are light-
+years away?
+2.CommonElements: Are there any elements present in all five stars? Why might some elements be
+found in every star, while others are only found in some stars?
+43.ComparingStars: Do any of the stars contain all seven elements? If so, what can you infer about
+these stars compared to others that contain fewer elements?
+4.ElementalFingerprints: Why is it important for astronomers to study and understand the emission
+spectra of individual elements?
+5.AbsorptionLineStrength: Consider two stars with similar temperatures, but Star A has stronger
+absorption lines for sodium than Star B. What could explain the difference in the strength of these
+lines? (The image below is included to remind you what absorption lines; a stronger absorption line
+would reflect a deeper dip in the intensity.)
+56.MetallicityandStarFormation: If a star has a high abundance of heavy elements (metals), what can
+this tell you about the star’s generation? How does this information relate to the star’s formation
+history?
+6Data:StellarSpectraA–J
+7891011Data:ElementEmissionLine
+12Data:StellarAbsorptionLines
+13
+
