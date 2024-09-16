@@ -14,37 +14,36 @@ Spectroscopy is a crucial tool in astronomy, enabling us to decode the light fro
 
 ### Self-Assessment
 - Each section of this unit includes a set of "Check Your Understanding" questions that are designed to prepare you for the midterm exam.
-
+- 
 ### [4.1 The Nature of Light](../md_files/4_1_nature_of_light.html)
-- **Electromagnetic Spectrum**: Overview of different types of electromagnetic radiation and their roles in astronomy.
-- **Wave Properties**: Key properties of light, such as amplitude, wavelength, and frequency, and the relationship between wavelength and frequency through the wave equation.
-- **Wave-Particle Duality**: Introduction to light’s dual nature as both a wave and particles (photons). The energy of a photon is calculated using Planck’s equation.
-- **Interaction of Light with Matter**: Exploration of reflection, refraction, and absorption of light and their importance in telescope design and astronomical observations.
-- **Applications in Astronomy**: How different wavelengths are used to observe various cosmic phenomena, from radio waves to X-rays, revealing insights into the universe.
+- **Electromagnetic Waves**: Introduction to the electromagnetic spectrum, including types of electromagnetic radiation from radio waves to gamma rays and their significance in astronomy.
+- **Wave Properties**: Exploration of key properties of light such as amplitude, wavelength, and frequency, with a detailed explanation of the relationship between wavelength and frequency through the wave equation.
+- **Wave-Particle Duality**: Discussion of light's dual nature as both a wave and a particle (photons) and how photon energy is calculated using Planck's equation.
+- **Interaction of Light with Matter**: Detailed coverage of how light interacts with matter through reflection, refraction, and absorption, and their applications in telescope design and astronomical observations.
+- **Applications in Astronomy**: The use of different wavelengths across the electromagnetic spectrum to study celestial phenomena, including radio waves, infrared, ultraviolet, and X-rays.
 
 ### [4.2 Blackbody Radiation](../md_files/4_2_blackbody.html)
-- **Blackbody Spectrum**: Description of the spectrum of radiation emitted by a blackbody.
-- **Wien’s Displacement Law**: Relating temperature to the peak wavelength of blackbody radiation.
-- **Stefan-Boltzmann Law**: Explaining the total energy radiated per unit surface area in relation to temperature.
-- **Color Indices and Stellar Classification**: Overview of how color indices help classify stars based on temperature and color.
+- **Blackbody Spectrum**: Examination of the radiation emitted by blackbodies and how it varies with temperature.
+- **Wien’s Displacement Law**: Explanation of how temperature relates to the peak wavelength of blackbody radiation, revealing the color-temperature relationship of stars.
+- **Stefan-Boltzmann Law**: Discussion on how the total energy radiated by a blackbody per unit area depends on its temperature, helping to explain the luminosity of stars.
+- **Color Indices and Stellar Classification**: Overview of how color indices are used to classify stars by temperature and color, with references to the Hertzsprung-Russell diagram.
 
 ### [4.3 Atomic Energies](../md_files/4_3_atomic_energies.html)
-- **Quantum Nature of Light**: Recap of light’s wave-particle duality and photon energy.
-- **Electron Volts**: Introduction to eV as a unit of energy with conversion examples.
-- **Bohr Model**: Overview of quantized energy levels and electron transitions.
-- **Spectra**: How electron transitions produce emission and absorption spectra.
-- **Hydrogen Spectrum**: Discussion of Lyman, Balmer, and Paschen series in the hydrogen atom.
-- **Ionization Energy**: Importance of ionization energy in understanding stellar conditions.
+- **Quantum Nature of Light**: Review of light's wave-particle duality and the concept of photon energy using Planck’s equation.
+- **Electron Volts**: Introduction to electron volts (eV) as a unit of energy, with practical conversion examples relevant to atomic physics.
+- **Bohr Model and Atomic Energy Levels**: Explanation of the quantized energy levels in atoms and the transitions between these levels that give rise to emission and absorption spectra.
+- **Hydrogen Spectrum**: Detailed exploration of the Lyman, Balmer, and Paschen series in hydrogen and their importance in astronomical spectroscopy.
+- **Ionization Energy**: The role of ionization energy in determining the conditions within stars and other celestial bodies.
 
 ### [4.4 Spectroscopy I: Principles of Spectroscopy](../md_files/4_4_spectroscopy_1.html)
-- **Absorption and Emission Spectra**: Exploring how and why absorption and emission spectra are produced in different astrophysical environments.
-- **Kirchhoff's Laws of Spectroscopy**: Explanation of Kirchhoff's laws and their applications to continuous spectra, emission lines, and absorption lines.
-- **Spectral Line Broadening**: Discussing different mechanisms of line broadening (e.g., Doppler broadening) and their significance in astronomy.
+- **Types of Spectra**: Introduction to continuous, emission, and absorption spectra, with a focus on how they are produced under different astrophysical conditions.
+- **Kirchhoff's Laws of Spectroscopy**: An explanation of Kirchhoff’s three laws that govern the production of spectra and their applications in astronomy.
+- **Spectral Line Broadening**: Examination of broadening mechanisms such as Doppler broadening and their astrophysical significance in understanding stellar and galactic motions.
 
 ### [4.5 Spectroscopy II: Applications of Spectroscopy](../md_files/4_5_spectroscopy_2.html)
-- **Identifying Elements in Stars**: How spectroscopy is used to identify the chemical composition of stars.
-- **Measuring Stellar Velocities**: Discussion of the Doppler effect and how radial velocity measurements are used to study stellar motion and detect exoplanets.
-- **The Science of Spectroscopy**: Overview of line lists, catalogs of spectral lines, and how they are used in practical spectroscopic analysis.
+- **Identifying Elements in Stars**: How the analysis of absorption and emission lines in spectra is used to identify the chemical composition of stars and other celestial objects.
+- **Measuring Stellar Velocities**: Detailed discussion on the Doppler effect and its role in measuring the radial velocities of stars and galaxies, with applications to detecting exoplanets and studying stellar motion.
+- **Practical Spectroscopic Analysis**: Overview of spectral line catalogs, databases, and tools astronomers use to analyze stellar spectra and determine the physical properties of celestial objects.
 
 ### [Assignment: Spectroscopy in Action](https://teaghan.github.io/astronomy-12/Unit4/Unit4_Assignment.pdf)
 - Print off the attached assignment.
@@ -76,13 +75,14 @@ Spectroscopy is a crucial tool in astronomy, enabling us to decode the light fro
 - Solar radiation interactions
 
 ### Learning Standards
-- I can describe the electromagnetic spectrum and wave-particle duality.
-- I can explain the principles of blackbody radiation.
-- I can apply Wien's Displacement Law and the Stefan-Boltzmann Law to solve problems.
-- I can explain the structure of the atom and how electromagnetic radiation interacts with atoms to produce spectral lines.
-- I can distinguish between absorption and emission spectra and explain how these spectra are produced.
-- I can apply Kirchhoff's laws of spectroscopy to explain continuous, emission, and absorption spectra.
-- I can explain the mechanisms of spectral line broadening and their significance in astrophysical observations.
-- I can use spectroscopy to identify the chemical composition of stars.
-- I can explain how the Doppler effect is used to measure stellar velocities.
-- I can describe how line lists and catalogs of spectral lines are used in practical spectroscopic analysis.
+- I can describe the electromagnetic spectrum, including the types of electromagnetic radiation and their importance in astronomy.
+- I can explain wave-particle duality and calculate the energy of photons using Planck’s equation.
+- I can describe the principles of blackbody radiation and explain how it relates to the temperature and energy output of stars.
+- I can apply Wien’s Displacement Law to determine the peak wavelength of radiation and the Stefan-Boltzmann Law to calculate the total energy radiated by stars.
+- I can explain the structure of atoms and how the interaction of electromagnetic radiation with electrons produces emission and absorption spectra.
+- I can distinguish between continuous, absorption, and emission spectra, and describe the conditions under which each is produced.
+- I can apply Kirchhoff’s laws of spectroscopy to explain the formation of continuous, emission, and absorption spectra in various astrophysical environments.
+- I can explain the mechanisms of spectral line broadening, including Doppler broadening, and understand their significance in the study of stellar and galactic motions.
+- I can use spectroscopy to identify the chemical composition, temperature, and other properties of stars and celestial objects.
+- I can explain the Doppler effect and apply it to measure the radial velocities of stars and galaxies.
+- I can describe how line lists, spectral catalogs, and practical spectroscopy tools are used to analyze the composition and motion of celestial bodies.
