@@ -1,0 +1,374 @@
+0:00
+It’s Professor Dave, let’s talk about cosmology.
+0:09
+While astrophysics is the field of science that studies the universe and everything in
+0:14
+it, the subfield of astrophysics that specifically studies the origin and development of the
+0:20
+universe is called cosmology.
+0:23
+That means that if we are going to start our story from the beginning, we have to start
+0:28
+with cosmology.
+0:30
+How did the universe begin, and when?
+0:32
+Early civilizations had all kinds of mythology surrounding this question.
+0:36
+But ever since the 20th century, we have begun to answer it not with stories, but with science.
+0:43
+Actual empirical evidence that provides clues as to how it all began.
+0:48
+And what does this evidence tell us?
+0:50
+Overwhelmingly, it tells us that the universe was born around 13.8 billion years ago, from
+0:57
+a single point.
+0:59
+Scientists and laypeople alike refer to this event, the beginning of our universe, as The
+1:05
+Big Bang, a name coined by astrophysicist Fred Hoyle in an attempt to criticize the
+1:11
+model, but ironically it stuck.
+1:14
+Many people are incredulous of such a big bang, considering the whole idea to be completely absurd.
+1:20
+But the main reason for this is nothing more than a cosmic gap in understanding of principles
+1:26
+in physics and astronomy.
+1:29
+When most people imagine the Big Bang, they think of a loud kaboom, a cartoon explosion
+1:35
+graphic, and the present-day, fully-formed universe spilling out of it, with a comet,
+1:40
+and the planet Saturn, and other complex objects.
+1:43
+This would indeed be impossible to believe, and in fact, it could not be further from
+1:48
+the truth.
+1:49
+In this tutorial we will describe, in a basic way, our current model for the birth and early
+1:55
+development of the universe, as understood by modern cosmologists.
+1:59
+Unfortunately, we will not yet be ready to discuss the evidence that supports this model,
+2:05
+because understanding that evidence will require a discussion of galaxies and many other objects
+2:11
+that we will get to later in the series.
+2:14
+So for now, try to simply take this model at face value, and I promise that later on,
+2:19
+we will examine several independent threads of evidence that all corroborate this model
+2:25
+of origin and specific age for the universe to great precision.
+2:31
+So now, let’s start at the beginning.
+2:33
+To be fair, at present, we don’t know what happened at the beginning.
+2:37
+By the beginning, we mean t equals zero.
+2:39
+The first instant.
+2:42
+Our understanding begins to take shape at around 10 to the negative 36 seconds after
+2:47
+the big bang.
+2:48
+That’s a trillionth of a trillionth of a trillionth of a second.
+2:52
+From that moment forward, we start to have an increasingly solid grasp of how things
+2:57
+must have gone, which is pretty darn impressive when you think about it.
+3:01
+As for the imperceivably small increment of time before that, we must admit that our current
+3:07
+models just don’t work.
+3:08
+We will still talk about this earliest period here, but to be clear, it will be largely
+3:13
+speculative, including some of my own personal conjecture.
+3:16
+But don’t worry, we will quickly get back to the real science.
+3:54
+I’m already exhausted.
+3:57
+Let’s just start at the first moment, and picture blackness, since that’s kind of
+4:00
+the best we can do.
+4:02
+Now, the first thing, time zero.
+4:05
+Freeze the clock.
+4:07
+A single point.
+4:08
+The uncaused cause.
+4:10
+How could this have happened?
+4:11
+Let’s first recall some things about the Heisenberg Uncertainty Principle.
+4:15
+This tells us that when looking at complementary variables, like energy and time, the more
+4:20
+certainty associated with one, the less certainty that can be associated with the other.
+4:25
+This is what allows for quantum fluctuation, the very real and very measurable phenomenon
+4:31
+by which particles pop into and out of existence, all over the universe and at all times.
+4:37
+This means that the idea that something could simply appear is actually not without precedent.
+4:42
+Of course, to go from virtual particles to the entire universe is quite a leap, for a
+4:46
+number of reasons, but if you really think about it, with nothing else in existence yet
+4:52
+to be compared to, would this fluctuation have been large or small?
+4:56
+Is it a lot of energy or a little?
+4:58
+In comparison to what, precisely?
+5:01
+What if, taking into account both positive and negative energy, the net energy is very
+5:06
+close to zero?
+5:07
+Then the entire universe could be regarded as a quantum fluctuation, borrowing energy
+5:14
+it will pay back later.
+5:16
+If we take for granted that without any other frame of reference, a quantitative amount
+5:20
+of energy appearing from nothing can be of any arbitrary amount, then we are acknowledging
+5:26
+that the appearance of some energy from no energy is the only thing we must explain.
+5:32
+It is the emergence of an initial duality.
+5:35
+Plus and minus.
+5:36
+Yes and no.
+5:37
+Whatever you want to call it.
+5:39
+It is not planets and stars tumbling out of a kablooey graphic.
+5:43
+It is the emergence of the simplest possible thing that is a thing, rather than no-thing.
+5:50
+Everything else follows from there.
+5:53
+Now we get to 10 to the negative 43 seconds after the big bang.
+5:56
+What do we know about this time?
+5:59
+Still not much.
+6:00
+But if we recall some things about the standard model of particle physics, experiments in
+6:05
+particle accelerators have allowed us to begin the incredible task of unifying the four fundamental forces.
+6:12
+These are the electromagnetic force, the weak nuclear force, the strong nuclear force, and gravity.
+6:19
+In that earliest period that we know almost nothing about, also called the Planck epoch,
+6:25
+given the universe’s minuscule size, the temperature of the universe must have been
+6:30
+over 10 to the 32 Kelvin, which is nearly a billion trillion trillion degrees, far too
+6:37
+hot for familiar particles to exist, and all four forces must have been unified into one
+6:43
+single force.
+6:44
+The search for quantum gravity is the search for the quantum particle that would mediate
+6:49
+this singular force, thus it is sometimes called the search for the theory of everything.
+6:54
+Particle accelerators can’t yet achieve this incredible energy, so we must hope for
+6:58
+bigger and better technology.
+7:00
+But in the next epoch, from 10 to the negative 43 seconds until 10 to the negative 36 seconds,
+7:06
+also called the grand unification epoch, temperatures cooled down to 10 to the 29 Kelvin.
+7:14
+This allowed for gravity to decouple from the other three forces, which can be collectively
+7:19
+referred to as the electrostrong force, and which we believe could potentially be described
+7:25
+by a grand unified theory.
+7:28
+This act of forces breaking off from other forces is the result of symmetry breaking,
+7:34
+a phenomenon that can occur when extreme temperatures cool below certain transition temperatures.
+7:42
+In this way, we can understand that all the disparate fundamental particles in the universe
+7:47
+were once part of the same thing, that only manifested as different objects as a result
+7:54
+of a series of successive symmetry breakings while the universe cooled.
+8:00
+Next, we enter the earliest era for which theoretical physics has some reasonable basis,
+8:07
+taking place from 10 to the negative 36 seconds until 10 to the negative 32 seconds after
+8:13
+the Big Bang.
+8:14
+This is called the electroweak epoch.
+8:17
+It is marked by the decoupling of the strong nuclear force from the electrostrong force,
+8:23
+leaving only the electromagnetic and weak nuclear forces together, which we call the
+8:29
+electroweak force.
+8:31
+This is possible now with the universe having cooled to a frosty 10 to the 28 Kelvin.
+8:37
+Roughly concurrent with the electroweak epoch is what we call the inflationary epoch.
+8:44
+This was a brief period in which the universe expanded by an incredible factor, around 26
+8:51
+orders of magnitude, triggered by the separation of the elecrostrong force into the strong
+8:56
+nuclear force and electroweak force.
+9:00
+We don’t know the precise size of the universe before and after this phase, but the magnitude
+9:05
+of the expansion would be like inflating something the size of a small molecule up to something
+9:11
+ten light years across, or about 60 trillion miles.
+9:17
+This nearly instantaneous expansion dispersed the earliest fundamental particles around
+9:23
+this much larger volume quite evenly, after which the immense potential energy from the
+9:29
+inflation was released, producing a hot plasma of quarks, anti-quarks, and gluons.
+9:37
+Plodding along to around 10 to the negative 12 seconds, or one trillionth of a second
+9:43
+after the Big Bang, we enter a period called the quark epoch.
+9:48
+Here, things have cooled enough for the third and final symmetry to break, decoupling the
+9:53
+electromagnetic and weak nuclear forces, thus resulting in the four distinct forces we know today.
+10:01
+As a result, the Higgs field bestows existing particles with mass for the first time, but
+10:07
+things are still too hot for protons and neutrons to form.
+10:11
+This is also the highest-energy epoch that we can currently probe with particle accelerators,
+10:16
+which means we are now transitioning from theoretical cosmology to experimental.
+10:23
+At around 10 to the negative 6 seconds after the Big Bang, things finally cool down enough
+10:28
+for the quark-gluon plasma that permeates the universe to congeal into hadrons, which
+10:35
+are particles made of quarks.
+10:38
+This includes baryons like protons and neutrons, which will eventually make up all the atoms
+10:43
+in the universe.
+10:45
+This is called the hadron epoch, lasting until one full second after the Big Bang.
+10:52
+The action will slow down a bit from here, but before we move on, take a moment to imagine
+10:57
+how much has happened in just one second, the void yielding merely some energy and a
+11:04
+singular force, which sequentially breaks into four forces, in turn yielding a sea of
+11:11
+massive particles.
+11:13
+From one second to ten seconds after the big bang lasted the lepton epoch.
+11:18
+Hadrons and antihadrons largely annihilate leaving leptons and anti-leptons to dominate,
+11:25
+which in turn also largely annihilate, and thanks to a slight asymmetry in favor of matter
+11:31
+over antimatter, this leaves just a fraction of the original matter behind.
+11:37
+From here, the start of the photon epoch, things start to look a little more familiar.
+11:43
+For about seventeen minutes, the universe is cool enough for baryons to be stable, but
+11:50
+also hot enough for them to fuse, so protons and neutrons fuse together to make lots of
+11:56
+hydrogen and helium, and trace amounts of other light nuclei, an era called big bang
+12:03
+nucleosynthesis.
+12:05
+After that, it gets too cold and sparse, so fusion halts, locking the universe into a
+12:11
+three-to-one ratio of hydrogen to helium by mass.
+12:15
+At this point, the universe is about 600 light years across, so we are no longer dealing
+12:21
+with a tiny universe.
+12:24
+Over the next several hundred thousand years, as the universe continues to expand, all of
+12:29
+these hydrogen and helium nuclei begin to collect in little patches, due to the effects
+12:35
+of gravity.
+12:37
+This force, now understood through Einstein’s general relativity to be the warping of spacetime
+12:43
+by massive objects, attracts all objects with mass towards one another.
+12:50
+So by virtue of the mass of these nuclei, and more so, all the dark matter around the
+12:55
+universe, which we will discuss later, the universe takes on a sinewy, filament-like structure.
+13:02
+Denser regions become more dense, and empty regions become more empty, as the photon epoch
+13:08
+draws to a close.
+13:11
+During the next era, recombination and photon decoupling, about 377 thousand years after
+13:18
+the big bang, things are finally cool enough for electrons to combine with nuclei to form
+13:25
+neutral atoms for the first time.
+13:28
+Electrons are captured, relax down to the ground state, and emit photons in doing so.
+13:34
+This marks the first time that the universe is actually visible, in the sense that we
+13:39
+consider something to be visible to our eyes.
+13:42
+It is no longer opaque, but transparent, with electromagnetic radiation now moving freely
+13:49
+over large distances, and with a diameter for the universe of nearly 100 million light
+13:55
+years, the distances are large indeed.
+14:00
+Then for around 150 million years, not much happened.
+14:03
+We call this era the dark ages.
+14:06
+There was plenty of hydrogen and helium around, and photons were traveling everywhere, but
+14:11
+there were no stars to produce all the light we see in the night sky today.
+14:16
+Things continued to cool, from around 4,000 Kelvin, down to 300 Kelvin, which incredibly
+14:23
+would allow for liquid water, if any were to exist, all the way to around 60 Kelvin,
+14:29
+a temperature that is finally cold enough by human standards to somewhat resemble the
+14:34
+cold outer space we normally conceive of.
+14:37
+But slowly, ever so slowly, all the clouds of hydrogen and helium gas continue to collect.
+14:45
+Over millions of years the minute gravity exerted by these particles, combined with
+14:50
+the more significant gravity exerted by surrounding dark matter, pulled matter together into clumps,
+14:58
+little dense pockets of matter.
+15:01
+Closer and closer, until all the atoms are pushing right up against one another.
+15:06
+What happens when you get enough atoms all together in the same place?
+15:12
+Ignition.
+15:13
+So let’s move forward and see what happened next
